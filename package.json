@@ -1,8 +1,16 @@
 {
   "name": "algorithm-brushing",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "cli": "node cli"
+  },
   "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
   "author": "oushihao <oushihao97@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.2"
+  }
 }
