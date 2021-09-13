@@ -5,8 +5,9 @@ const {log} = require('./log')
 const update = ({cn, en, difficulty, category, url}) => {
     const projectPath = getProjectName(en);
     if(createProject(projectPath)) {
-        fs.writeFileSync(`src/${projectPath}/index.ts`, `const ${getFunctionName(en)} = () => {}`);
+        fs.writeFileSync(`src/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
         fs.writeFileSync(`src/${projectPath}/README.md`, `# ${cn}`);
+        fs.writeFileSync(`src/${projectPath}/index.test.ts`, `export default () => {}`)
         updateReadMeMarkdown({cn, difficulty, category, url, projectPath})
     }
 }
