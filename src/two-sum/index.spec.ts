@@ -1,9 +1,12 @@
-import {twoSum} from "./index";
+import {twoSum, twoSum2} from "./index";
 
 describe('两数之和', () => {
     describe('暴力解法', () => {
         testCase(twoSum);
     });
+    describe('哈希表', () => {
+        testCase(twoSum2);
+    })
 });
 
 function testCase(fn: Function) {
