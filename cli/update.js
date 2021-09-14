@@ -7,7 +7,7 @@ const update = ({cn, en, difficulty, category, url}) => {
     if(createProject(projectPath)) {
         fs.writeFileSync(`src/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
         fs.writeFileSync(`src/${projectPath}/README.md`, `# ${cn}`);
-        fs.writeFileSync(`src/${projectPath}/index.test.ts`, `export default () => {}`)
+        fs.writeFileSync(`src/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`)
         updateReadMeMarkdown({cn, difficulty, category, url, projectPath})
     }
 }
