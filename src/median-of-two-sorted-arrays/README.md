@@ -150,3 +150,55 @@ export function findMedianSortedArrays2(nums1: number[], nums2: number[]): numbe
     }
 }
 ```
+
+### 划分数组
+
+```typescript
+/**
+ * 划分数组
+ * @desc 时间复杂度 O(log min(n,m)) 空间复杂度 O(1)
+ * @param nums1 {Array<number>}
+ * @param nums2 {Array<number>}
+ * @return {number}
+ */
+export function findMedianSortedArrays3(nums1: number[], nums2: number[]): number {
+    // 确保nums1长度小于nums2
+    if (nums1.length > nums2.length) {
+        return findMedianSortedArrays3(nums2, nums1);
+    }
+
+    const len1: number = nums1.length;
+    const len2: number = nums2.length;
+
+    // 前一部分的最大值
+    let median1: number = 0;
+    // 后一部分的最小值
+    let median2: number = 0;
+
+    let left: number = 0;
+    let right: number = len1;
+
+    while (left <= right) {
+        // 前一部分包含 nums1[0 .. i-1] 和 nums2[0 .. j-1]
+        // 后一部分包含 nums1[i .. len1-1] 和 nums2[j .. len2-1]
+        let i: number = Math.floor((left + right) / 2);
+        let j: number = Math.floor((len1 + len2 + 1) / 2) - i;
+
+        // nums_im1, nums_i, nums_jm1, nums_j 分别表示 nums1[i-1], nums1[i], nums2[j-1], nums2[j]
+        let num_im1: number = i === 0 ? -Infinity : nums1[i - 1];
+        let num_i: number = i === len1 ? Infinity : nums1[i];
+        let num_jm1: number = j === 0 ? -Infinity : nums2[j - 1];
+        let num_j: number = j === len2 ? Infinity : nums2[j];
+
+        if (num_im1 <= num_j) {
+            median1 = Math.max(num_im1, num_jm1);
+            median2 = Math.min(num_i, num_j);
+            left = i + 1;
+        } else {
+            right = i - 1;
+        }
+    }
+
+    return (len1 + len2) % 2 ? median1 : (median1 + median2) / 2;
+}
+```
