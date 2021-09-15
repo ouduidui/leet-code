@@ -75,3 +75,33 @@ export function lengthOfLongestSubstring(s: string): number {
     return count;
 }
 ```
+
+### 滑动窗口
+```typescript
+/**
+ * 滑动窗口
+ * @desc 时间复杂度 O(N)  空间复杂度 O(N)
+ * @param s<string> 字符串
+ * @return number
+ */
+export function lengthOfLongestSubstring2(s: string): number {
+    if (s.length < 2) return s.length;
+
+    const set: Set<string> = new Set();
+    let count: number = 0;
+    let leftPointer: number = 0;
+    let rightPointer: number = 0;
+
+    while (leftPointer < s.length) {
+        while (rightPointer < s.length && !set.has(s[rightPointer])) {
+            set.add(s[rightPointer]);
+            rightPointer++;
+        }
+
+        count = Math.max(count, rightPointer - leftPointer);
+        set.delete(s[leftPointer]);
+        leftPointer++;
+    }
+    return count;
+}
+```

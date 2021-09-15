@@ -1,10 +1,13 @@
-import {lengthOfLongestSubstring} from "./index";
+import {lengthOfLongestSubstring, lengthOfLongestSubstring2} from "./index";
 
 describe('无重复字符的最长子串', () => {
     describe('暴力解法', () => {
         testCase(lengthOfLongestSubstring)
     });
 
+    describe('滑动窗口', () => {
+        testCase(lengthOfLongestSubstring2)
+    });
 });
 
 function testCase(fn: Function) {
