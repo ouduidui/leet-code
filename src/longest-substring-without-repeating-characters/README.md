@@ -89,16 +89,19 @@ export function lengthOfLongestSubstring2(s: string): number {
 
     const set: Set<string> = new Set();
     let count: number = 0;
-    let leftPointer: number = 0;
-    let rightPointer: number = 0;
+    let leftPointer: number = 0;  // 左游标
+    let rightPointer: number = 0;  // 右游标
 
     while (leftPointer < s.length) {
+        // 当没有重复字符串时，移动右右边，并将字符串加入set
         while (rightPointer < s.length && !set.has(s[rightPointer])) {
             set.add(s[rightPointer]);
             rightPointer++;
         }
 
+        // 更新count
         count = Math.max(count, rightPointer - leftPointer);
+        // 移动左游标
         set.delete(s[leftPointer]);
         leftPointer++;
     }
