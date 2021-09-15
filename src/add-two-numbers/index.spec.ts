@@ -1,7 +1,7 @@
 import {ListNode, addTwoNumbers} from "./index";
 
 describe('两数相加', () => {
-    describe('暴力解法', () => {
+    describe('模拟', () => {
         testCase(addTwoNumbers);
     });
 });
