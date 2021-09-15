@@ -2,13 +2,13 @@ const fs = require('fs');
 const path = require('path');
 const {log} = require('./log')
 
-const update = ({cn, en, difficulty, category, url}) => {
+const update = ({cn, en, difficulty, url}) => {
     const projectPath = getProjectName(en);
     if(createProject(projectPath)) {
         fs.writeFileSync(`src/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
         fs.writeFileSync(`src/${projectPath}/README.md`, `# ${cn}`);
         fs.writeFileSync(`src/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`)
-        updateReadMeMarkdown({cn, difficulty, category, url, projectPath})
+        updateReadMeMarkdown({cn, difficulty, url, projectPath})
     }
 }
 
@@ -22,9 +22,9 @@ const createProject = (name) => {
 
 }
 
-const updateReadMeMarkdown = ({cn, difficulty, category, url, projectPath}) => {
+const updateReadMeMarkdown = ({cn, difficulty, url, projectPath}) => {
     let md = fs.readFileSync(getPath('README.md'), {encoding: 'utf-8'});
-    md += `| [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${category} | ${url} |`;
+    md += `| [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${url} |`;
     fs.writeFileSync(getPath('README.md'), md)
 }
 

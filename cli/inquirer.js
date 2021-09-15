@@ -37,12 +37,6 @@ exports.inquirer = () => {
                         value: "困难",
                     }
                 ],
-            },
-            {
-                type: "input",
-                name: "category",
-                message: "请输入题目类型",
-                default: '无'
             }
         ]).then(res => {
             resolve(res);

@@ -6,8 +6,8 @@ const update = require('./update');
 module.exports = init = async () => {
     clear();
     await figletLog('ALGORITHM BRUSHING');
-    const {cn, en, url, difficulty, category} = await inquirer();
-    update({cn, en, url, difficulty, category});
+    const {cn, en, url, difficulty} = await inquirer();
+    update({cn, en, url, difficulty});
 }
 
 
