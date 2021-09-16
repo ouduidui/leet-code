@@ -1,17 +1,20 @@
-import {longestPalindrome} from "./index"
+import {longestPalindrome, longestPalindrome2} from "./index"
 
 describe('最长回文子串', () => {
     describe('中心扩展', () => {
         testCase(longestPalindrome);
+    })
+
+    describe('Manacher算法', () => {
+        testCase(longestPalindrome2);
     })
 });
 
 function testCase(fn: Function) {
     test('示例一', () => {
         const s:string = "babad";
-        const expected: string = "bab";
 
-        expect(fn(s)).toBe(expected);
+        expect(fn(s)).toMatch(/bad|aba/);
     })
 
     test('示例二', () => {
@@ -30,9 +33,7 @@ function testCase(fn: Function) {
 
     test('示例四', () => {
         const s:string = "ac";
-        const expected: string = "a";
-
-        expect(fn(s)).toBe(expected);
+        expect(fn(s)).toMatch(/a|c/);
     })
 
     test('示例五', () => {

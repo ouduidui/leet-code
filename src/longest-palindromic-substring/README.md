@@ -73,3 +73,58 @@ export function longestPalindrome(s: string): string {
     }
 }
 ```
+
+### Manacher算法
+> [解析](./MANACHER.md)
+
+```typescript
+export function longestPalindrome2(s: string): string {
+    if (s.length < 2) return s;
+
+    // 将s转换为加了特殊字符#的字符数组，目的是统一奇偶数的回文中心差异性问题
+    s = '#' + s.split('').join('#') + '#';
+
+    let start: number = 0;
+    let end: number = -1;
+    let armLen: Array<number> = [];  // 当前集合
+    let right: number = -1;
+    let j: number = -1;  // 中心点
+
+    for (let i: number = 0; i < s.length; i++) {
+        let curArmLen: number;  // 当前臂长
+        if (right >= i) {
+            let iSym = j * 2 - i;
+            let minArmLen = Math.min(armLen[iSym], right - i);
+            curArmLen = expand(i - minArmLen, i + minArmLen);
+        }else {
+            curArmLen = expand(i, i);
+        }
+        armLen.push(curArmLen);
+        if(i + curArmLen > right) {
+            j = i;
+            right = i + curArmLen;
+        }
+        if(2 * curArmLen + 1 > end - start) {
+            start = i - curArmLen;
+            end = i + curArmLen;
+        }
+    }
+
+    let ans: string = '';
+    for(let i :number = start; i <=end; i++) {
+        if(s[i] !== '#') {
+            ans += s[i];
+        }
+    }
+
+    return ans;
+
+    function expand(left: number, right: number): number {
+        while (left >= 0 && right < s.length && s[left] === s[right]) {
+            left--;
+            right++;
+        }
+        return Math.floor((right - left - 2) / 2)
+    }
+}
+```
