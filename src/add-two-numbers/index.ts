@@ -1,7 +1,8 @@
 /**
  * @desc 时间复杂度：O(max(m,n))  空间复杂度 O(1)
- * @param l1<ListNode>
- * @param l2<ListNode>
+ * @param l1 {ListNode}
+ * @param l2 {ListNode}
+ * @return {ListNode}
  */
 export function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
     let head: ListNode | null = null;  // 存放链头

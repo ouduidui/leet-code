@@ -1,8 +1,8 @@
 /**
  * 暴力解法
  * @desc 时间复杂度 O(N^2)  空间复杂度 O(N)
- * @param s<string> 字符串
- * @return number
+ * @param s {string} 字符串
+ * @return {number}
  */
 export function lengthOfLongestSubstring(s: string): number {
     if (s.length < 2) return s.length
@@ -34,8 +34,8 @@ export function lengthOfLongestSubstring(s: string): number {
 /**
  * 滑动窗口
  * @desc 时间复杂度 O(N)  空间复杂度 O(N)
- * @param s<string> 字符串
- * @return number
+ * @param s {string} 字符串
+ * @return {number}
  */
 export function lengthOfLongestSubstring2(s: string): number {
     if (s.length < 2) return s.length;
