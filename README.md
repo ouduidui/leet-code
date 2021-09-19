@@ -14,4 +14,4 @@ yarn cli
 | [两数相加](src/add-two-numbers/README.md) | 中等 | https://leetcode-cn.com/problems/add-two-numbers/ |
 | [无重复字符的最长子串](src/longest-substring-without-repeating-characters/README.md) | 中等 | https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/ |
 | [寻找两个正序数组的中位数](src/median-of-two-sorted-arrays/README.md) | 困难 | https://leetcode-cn.com/problems/median-of-two-sorted-arrays/ |
-| [最长回文子串](src/longest-palindromic-substring/README.md) | 中等 | https://leetcode-cn.com/problems/longest-palindromic-substring/ |
+| [最长回文子串](src/longest-palindromic-substring/README.md) | 中等 | https://leetcode-cn.com/problems/longest-palindromic-substring/ || [Z字形变换](src/zigzag-conversion/README.md) | 中等 | https://leetcode-cn.com/problems/zigzag-conversion/ |

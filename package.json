@@ -2,8 +2,7 @@
   "name": "algorithm-brushing",
   "version": "1.0.0",
   "scripts": {
-    "cli": "node cli",
-    "test:two-sum": "jest src/two-sum/index.spec.ts"
+    "cli": "node cli"
   },
   "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
   "author": "oushihao <oushihao97@163.com>",
