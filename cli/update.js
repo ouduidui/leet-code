@@ -3,6 +3,7 @@ const path = require('path');
 const {log} = require('./log')
 
 const update = ({cn, en, difficulty, url}) => {
+    en = initEn(en);
     const projectPath = getProjectName(en);
     if(createProject(projectPath)) {
         fs.writeFileSync(`src/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
@@ -26,6 +27,10 @@ const updateReadMeMarkdown = ({cn, difficulty, url, projectPath}) => {
     let md = fs.readFileSync(getPath('README.md'), {encoding: 'utf-8'});
     md += `| [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${url} |`;
     fs.writeFileSync(getPath('README.md'), md)
+}
+
+const initEn = (en) => {
+    return en.split('-').join(' ');
 }
 
 
