@@ -1,7 +1,13 @@
-import {myAtoi} from "./index";
+import {myAtoi, myAtoi2} from "./index";
 
 describe('字符串转换整数(atoi)', () => {
-    testCase(myAtoi)
+    describe('暴力解法', () => {
+        testCase(myAtoi);
+    })
+
+    describe('自动机', () => {
+        testCase(myAtoi);
+    })
 });
 
 function testCase(fn: Function) {
