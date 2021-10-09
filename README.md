@@ -19,3 +19,4 @@ yarn cli
 | [整数反转](src/reverse-integer/README.md) | 简单 | https://leetcode-cn.com/problems/reverse-integer/ |
 | [字符串转换整数(atoi)](src/string-to-integer-atoi/README.md) | 中等 | https://leetcode-cn.com/problems/string-to-integer-atoi/ |
 | [回文数](src/palindrome-number/README.md) | 简单 | https://leetcode-cn.com/problems/palindrome-number/ |
+| [ 正则表达式匹配](src/regular-expression-matching/README.md) | 困难 | https://leetcode-cn.com/problems/regular-expression-matching/ |
