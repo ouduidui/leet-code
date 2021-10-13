@@ -24,3 +24,4 @@ yarn cli
 | [整数转罗马数字](src/integer-to-roman/README.md) | 中等 | https://leetcode-cn.com/problems/integer-to-roman/ |
 | [罗马数字转整数](src/roman-to-integer/README.md) | 简单 | https://leetcode-cn.com/problems/roman-to-integer/ |
 | [最长公共前缀](src/longest-common-prefix/README.md) | 简单 | https://leetcode-cn.com/problems/longest-common-prefix/ |
+| [三数之和](src/three-sum/README.md) | 中等 | https://leetcode-cn.com/problems/3sum/ |
