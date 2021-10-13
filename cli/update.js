@@ -24,8 +24,10 @@ const createProject = (name) => {
 }
 
 const updateReadMeMarkdown = ({cn, difficulty, url, projectPath}) => {
+    const count = fs.readdirSync('src').length;
+
     let md = fs.readFileSync(getPath('README.md'), {encoding: 'utf-8'});
-    md += `| [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${url} |`;
+    md += `| ${count} | [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${url} |`;
     fs.writeFileSync(getPath('README.md'), md)
 }
 
