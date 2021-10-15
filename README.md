@@ -27,3 +27,4 @@ yarn cli
 | 15 | [三数之和](src/three-sum/README.md) | 中等 | https://leetcode-cn.com/problems/3sum/ |
 | 16 | [最接近的三数之和](src/three-sum-closest/README.md) | 中等 | https://leetcode-cn.com/problems/3sum-closest/ |
 | 17 | [电话号码的字母组合](src/letter-combinations-of-a-phone-number/README.md) | 中等 | https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/ |
+| 18 | [四数之和](src/four-sum/README.md) | 中等 | https://leetcode-cn.com/problems/4sum/ |
