@@ -29,3 +29,4 @@ yarn cli
 | 17 | [电话号码的字母组合](src/letter-combinations-of-a-phone-number/README.md) | 中等 | https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/ |
 | 18 | [四数之和](src/four-sum/README.md) | 中等 | https://leetcode-cn.com/problems/4sum/ |
 | 19 | [删除链表的倒数第N个结点](src/remove-nth-node-from-end-of-list/README.md) | 中等 | https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ |
+| 20 | [有效的括号](src/valid-parentheses/README.md) | 简单 | https://leetcode-cn.com/problems/valid-parentheses/ |
