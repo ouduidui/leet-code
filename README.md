@@ -30,3 +30,4 @@ yarn cli
 | 18 | [四数之和](src/four-sum/README.md) | 中等 | https://leetcode-cn.com/problems/4sum/ |
 | 19 | [删除链表的倒数第N个结点](src/remove-nth-node-from-end-of-list/README.md) | 中等 | https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ |
 | 20 | [有效的括号](src/valid-parentheses/README.md) | 简单 | https://leetcode-cn.com/problems/valid-parentheses/ |
+| 21 | [合并两个有序链表](src/merge-two-sorted-lists/README.md) | 简单 | https://leetcode-cn.com/problems/merge-two-sorted-lists/ |
