@@ -33,3 +33,4 @@ yarn cli
 | 21 | [合并两个有序链表](src/merge-two-sorted-lists/README.md) | 简单 | https://leetcode-cn.com/problems/merge-two-sorted-lists/ |
 | 22 | [括号生成](src/generate-parentheses/README.md) | 中等 | https://leetcode-cn.com/problems/generate-parentheses/ |
 | 23 | [合并K个升序链表](src/merge-k-sorted-lists/README.md) | 困难 | https://leetcode-cn.com/problems/merge-k-sorted-lists/ |
+| 24 | [两两交换链表中的节点](src/swap-nodes-in-pairs/README.md) | 中等 | https://leetcode-cn.com/problems/swap-nodes-in-pairs/ |
