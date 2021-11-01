@@ -36,3 +36,4 @@ yarn cli
 | 24 | [两两交换链表中的节点](src/swap-nodes-in-pairs/README.md) | 中等 | https://leetcode-cn.com/problems/swap-nodes-in-pairs/ |
 | 25 | [K个一组翻转链表](src/reverse-nodes-in-k-group/README.md) | 困难 | https://leetcode-cn.com/problems/reverse-nodes-in-k-group/ |
 | 26 | [删除有序数组中的重复项](src/remove-duplicates-from-sorted-array/README.md) | 简单 | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ |
+| 27 | [移除元素](src/remove-element/README.md) | 简单 | https://leetcode-cn.com/problems/remove-element/ |
