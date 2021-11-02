@@ -37,3 +37,4 @@ yarn cli
 | 25 | [K个一组翻转链表](src/reverse-nodes-in-k-group/README.md) | 困难 | https://leetcode-cn.com/problems/reverse-nodes-in-k-group/ |
 | 26 | [删除有序数组中的重复项](src/remove-duplicates-from-sorted-array/README.md) | 简单 | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ |
 | 27 | [移除元素](src/remove-element/README.md) | 简单 | https://leetcode-cn.com/problems/remove-element/ |
+| 28 | [实现strStr()](src/implement-strstr/README.md) | 简单 | https://leetcode-cn.com/problems/implement-strstr/ |
