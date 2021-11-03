@@ -1,6 +1,6 @@
 # Knuth-Morris-Pratt 算法
 
-> Knuth-Morris-Pratt 算法，简称 KMP 算法，由 Donald Knuth、James H. Morris 和 Vaughan Pratt 三人于 19771977 年联合发表。
+> Knuth-Morris-Pratt 算法，简称 KMP 算法，由 Donald Knuth、James H. Morris 和 Vaughan Pratt 三人于 1977 年联合发表。
 >
 
 ## 思路及算法
