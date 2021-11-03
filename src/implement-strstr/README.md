@@ -64,3 +64,44 @@ export function strStr(haystack: string, needle: string): number {
     return ans;
 }
 ```
+
+### KMP解法
+> [什么是KMP](./KMP.md)
+```typescript
+/**
+ * KMP解法
+ * @desc 时间复杂度 O(N+M)  空间复杂度 O(M)
+ * @param haystack {string}
+ * @param needle {string}
+ * @return {number}
+ */
+export function strStr2(haystack: string, needle: string): number {
+    if (!needle) return 0;
+
+    const n: number = haystack.length;
+    const m: number = needle.length;
+
+    const pi: number[] = new Array(m).fill(0);
+
+    // 算出needle的前缀函数
+    for (let i: number = 1, j: number = 0; i < m; i++) {
+        while (j > 0 && needle[i] !== needle[j]) {
+            j = pi[j - 1];
+        }
+        if(needle[i] === needle[j]) j++;
+
+        pi[i] = j;
+    }
+
+    for(let i:number = 0, j:number = 0; i < n; i++) {
+        while (j > 0 && haystack[i] !== needle[j]) {
+            j = pi[j - 1];
+        }
+        if(haystack[i] === needle[j]) j++;
+
+        if(j === m) return i - m + 1;
+    }
+
+    return -1;
+}
+```

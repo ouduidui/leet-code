@@ -1,8 +1,12 @@
-import {strStr} from "./index";
+import {strStr, strStr2} from "./index";
 
 describe('实现strStr()', () => {
     describe('暴力解法', () => {
         testCase(strStr);
+    })
+
+    describe('KMP解法', () => {
+        testCase(strStr2);
     })
 });
 
