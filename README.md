@@ -38,3 +38,4 @@ yarn cli
 | 26 | [删除有序数组中的重复项](src/remove-duplicates-from-sorted-array/README.md) | 简单 | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ |
 | 27 | [移除元素](src/remove-element/README.md) | 简单 | https://leetcode-cn.com/problems/remove-element/ |
 | 28 | [实现strStr()](src/implement-strstr/README.md) | 简单 | https://leetcode-cn.com/problems/implement-strstr/ |
+| 29 | [两数相除](src/divide-two-integers/README.md) | 中等 | https://leetcode-cn.com/problems/divide-two-integers/ |
