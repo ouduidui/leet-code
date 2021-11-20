@@ -79,11 +79,14 @@ export function divide(dividend: number, divisor: number): number {
     let ans: number = 0;
 
     while (left <= right) {
-        const mid: number = left + ((right - left) >> 1);
+        // 取中间值
+        const mid: number = left + ((right - left) >> 1 /* 除以2，向下取整 */);
+        // 判断 divisor * mid 是否大于等于dividend
         const check: boolean = quickAdd(divisor, mid, dividend);
 
         if (check) {
             ans = mid;
+            // 边缘检测
             if (mid === MAX_VALUE) {
                 break;
             }
@@ -95,15 +98,20 @@ export function divide(dividend: number, divisor: number): number {
 
     return rev ? -ans : ans;
 
-    // 快速乘
+    /**
+     * 快速乘
+     * @desc 判断 y * z 是否大于等于 x
+     * @param y {number} 负数
+     * @param z {number} 正数
+     * @param x {number} 负数
+     * @return {boolean}
+     */
     function quickAdd(y: number, z: number, x: number): boolean {
-        // x < 0; y < 0
-        // z * y >= x
         let result: number = 0;
-        let add = y;
+        let add:number = y;
         while (z !== 0) {
-            // z & 1 判断奇偶数，0 -> 偶数；1 -> 技奇数
-            if ((z & 1) !== 0) {
+            // 如果z是奇数的话，result += add
+            if ((z & 1) !== 0) {  // z & 1 判断奇偶数，0 -> 偶数；1 -> 奇数
                 // result + add >= x
                 if (result < x - add) {
                     return false
@@ -118,8 +126,8 @@ export function divide(dividend: number, divisor: number): number {
                 add += add;
             }
 
-            //  z = z / (2^1)   -> z = z / 2
-            z >>= 1;
+            // z除以2，向下取整
+            z >>= 1;  //  z = z / (2^1)   -> z = z / 2
         }
         return true;
     }
@@ -142,25 +150,25 @@ export function divide2(dividend: number, divisor: number): number {
 
     // 将除数和被除数都变成负数
     let rev: boolean = false;  // 判断是否转变过
-    if (dividend > 0) {
+    if (dividend < 0) {
         dividend = -dividend;
         rev = !rev;
     }
-    if (divisor > 0) {
+    if (divisor < 0) {
         divisor = -divisor;
         rev = !rev;
     }
 
     const candidates: number[] = [divisor];
     let idx: number = 0;
-    while (candidates[idx] >= dividend - candidates[idx]) {
+    while (candidates[idx] <= dividend - candidates[idx]) {
         candidates.push(candidates[idx] + candidates[idx]);
         idx++;
     }
     let ans: number = 0;
     for (let i = candidates.length - 1; i >= 0; i--) {
-        if (candidates[i] >= dividend) {
-            ans += 1 << i;
+        if (candidates[i] <= dividend) {
+            ans += (1 << i)/* 2^i */;
             dividend -= candidates[i];
         }
     }
