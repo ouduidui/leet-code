@@ -39,3 +39,4 @@ yarn cli
 | 27 | [移除元素](src/remove-element/README.md) | 简单 | https://leetcode-cn.com/problems/remove-element/ |
 | 28 | [实现strStr()](src/implement-strstr/README.md) | 简单 | https://leetcode-cn.com/problems/implement-strstr/ |
 | 29 | [两数相除](src/divide-two-integers/README.md) | 中等 | https://leetcode-cn.com/problems/divide-two-integers/ |
+| 30 | [串联所有单词的子串](src/substring-with-concatenation-of-all-words/README.md) | 困难 | https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/ |
