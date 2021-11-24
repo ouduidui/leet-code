@@ -19,7 +19,7 @@ yarn cli
 | 7 | [整数反转](src/reverse-integer/README.md) | 简单 | https://leetcode-cn.com/problems/reverse-integer/ |
 | 8 | [字符串转换整数(atoi)](src/string-to-integer-atoi/README.md) | 中等 | https://leetcode-cn.com/problems/string-to-integer-atoi/ |
 | 9 | [回文数](src/palindrome-number/README.md) | 简单 | https://leetcode-cn.com/problems/palindrome-number/ |
-| 10 | [ 正则表达式匹配](src/regular-expression-matching/README.md) | 困难 | https://leetcode-cn.com/problems/regular-expression-matching/ |
+| 10 | [正则表达式匹配](src/regular-expression-matching/README.md) | 困难 | https://leetcode-cn.com/problems/regular-expression-matching/ |
 | 11 | [盛最多水的容器](src/container-with-most-water/README.md) | 中等 | https://leetcode-cn.com/problems/container-with-most-water/ |
 | 12 | [整数转罗马数字](src/integer-to-roman/README.md) | 中等 | https://leetcode-cn.com/problems/integer-to-roman/ |
 | 13 | [罗马数字转整数](src/roman-to-integer/README.md) | 简单 | https://leetcode-cn.com/problems/roman-to-integer/ |
@@ -40,4 +40,4 @@ yarn cli
 | 28 | [实现strStr()](src/implement-strstr/README.md) | 简单 | https://leetcode-cn.com/problems/implement-strstr/ |
 | 29 | [两数相除](src/divide-two-integers/README.md) | 中等 | https://leetcode-cn.com/problems/divide-two-integers/ |
 | 30 | [串联所有单词的子串](src/substring-with-concatenation-of-all-words/README.md) | 困难 | https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/ |
-| 31 | [下一个排列](src/next-permutation/README.md) | 中等 | https://leetcode-cn.com/problems/next-permutation/ |
+| 31 | [下一个排列](src/next-permutation/README.md) | 中等 | https://leetcode-cn.com/problems/next-permutation/ || 32 | [最长有效括号](src/longest-valid-parentheses/README.md) | 困难 | https://leetcode-cn.com/problems/longest-valid-parentheses/ |
