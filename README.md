@@ -40,4 +40,6 @@ yarn cli
 | 28 | [实现strStr()](src/implement-strstr/README.md) | 简单 | https://leetcode-cn.com/problems/implement-strstr/ |
 | 29 | [两数相除](src/divide-two-integers/README.md) | 中等 | https://leetcode-cn.com/problems/divide-two-integers/ |
 | 30 | [串联所有单词的子串](src/substring-with-concatenation-of-all-words/README.md) | 困难 | https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/ |
-| 31 | [下一个排列](src/next-permutation/README.md) | 中等 | https://leetcode-cn.com/problems/next-permutation/ || 32 | [最长有效括号](src/longest-valid-parentheses/README.md) | 困难 | https://leetcode-cn.com/problems/longest-valid-parentheses/ |
+| 31 | [下一个排列](src/next-permutation/README.md) | 中等 | https://leetcode-cn.com/problems/next-permutation/ |
+| 32 | [最长有效括号](src/longest-valid-parentheses/README.md) | 困难 | https://leetcode-cn.com/problems/longest-valid-parentheses/ |
+| 33 | [搜索旋转排序数组](src/search-in-rotated-sorted-array/README.md) | 中等 | https://leetcode-cn.com/problems/search-in-rotated-sorted-array/ |
