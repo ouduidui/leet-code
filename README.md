@@ -46,3 +46,4 @@ yarn cli
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](src/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 | https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
 | 35 | [搜索插入位置](src/search-insert-position/README.md) | 简单 | https://leetcode-cn.com/problems/search-insert-position/ |
 | 36 | [有效的数独](src/valid-sudoku/README.md) | 中等 | https://leetcode-cn.com/problems/valid-sudoku/ |
+| 37 | [解数独](src/sudoku-solver/README.md) | 困难 | https://leetcode-cn.com/problems/sudoku-solver/ |
