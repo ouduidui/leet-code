@@ -49,3 +49,4 @@ yarn cli
 | 37 | [解数独](src/sudoku-solver/README.md) | 困难 | https://leetcode-cn.com/problems/sudoku-solver/ |
 | 38 | [外观数列](src/count-and-say/README.md) | 中等 | https://leetcode-cn.com/problems/count-and-say/ |
 | 39 | [组合总和](src/combination-sum/README.md) | 中等 | https://leetcode-cn.com/problems/combination-sum/ |
+| 40 | [组合总和 II](src/combination-sum-2/README.md) | 中等 | https://leetcode-cn.com/problems/combination-sum-ii/ |
