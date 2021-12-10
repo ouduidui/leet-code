@@ -27,4 +27,18 @@ function testCase(fn: Function) {
 
         expect(fn(nums)).toBe(expected);
     })
+
+    it('示例四', () => {
+        const nums: number[] = [3, 4, -1, 1];
+        const expected: number = 2;
+
+        expect(fn(nums)).toBe(expected);
+    })
+
+    it('示例五', () => {
+        const nums: number[] = [2, 2];
+        const expected: number = 1;
+
+        expect(fn(nums)).toBe(expected);
+    })
 }

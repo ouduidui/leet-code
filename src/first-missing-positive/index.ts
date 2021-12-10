@@ -18,12 +18,12 @@ export function firstMissingPositive(nums: number[]): number {
      *  - 当一个len长度整数数组，缺失的第一个正数一定小于等于 len + 1
      *  - 因此获取每个值的绝对值作为下标，当其大于len的时候，直接跳过
      *  - 如果小于等于len时，在 idx - 1 位置设置为-1
-     *  - 这就意味着，我们将数组的下标作为一个整数映射，然后存在时val为正数，不存在为-1
+     *  - 这就意味着，我们将数组的下标作为一个整数映射，然后存在时val为正数，不存在为负数
      */
     for (let i: number = 0; i < len; i++) {
         let idx: number = Math.abs(nums[i]);
         if (idx <= len) {
-            nums[idx - 1] = -1;
+            nums[idx - 1] = -Math.abs(nums[idx - 1]);
         }
     }
 
