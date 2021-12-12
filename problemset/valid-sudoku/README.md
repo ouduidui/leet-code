@@ -14,7 +14,7 @@
 ### 示例
 
 #### 示例1
-![valid-sudoku](../../images/valid-sudoku.png)
+![valid-sudoku](../../assets/images/problemset/valid-sudoku.png)
 
 ```
 输入：board = 

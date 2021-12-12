@@ -6,29 +6,29 @@ const update = ({cn, en, difficulty, url}) => {
     en = initEn(en);
     const projectPath = getProjectName(en);
     if(createProject(projectPath)) {
-        fs.writeFileSync(`src/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
-        fs.writeFileSync(`src/${projectPath}/README.md`, `# ${cn}`);
-        fs.writeFileSync(`src/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`)
+        fs.writeFileSync(`problemset/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
+        fs.writeFileSync(`problemset/${projectPath}/README.md`, `# ${cn}`);
+        fs.writeFileSync(`problemset/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`)
         updateReadMeMarkdown({cn, difficulty, url, projectPath})
     }
 }
 
 const createProject = (name) => {
-    if (checkHasPath(`src/${name}`)) {
+    if (checkHasPath(`problemset/${name}`)) {
         log('已存在该路径', 'red');
         return;
     }
-    fs.mkdirSync(`src/${name}`);
+    fs.mkdirSync(`problemset/${name}`);
     return true;
 
 }
 
 const updateReadMeMarkdown = ({cn, difficulty, url, projectPath}) => {
-    const count = fs.readdirSync('src').length;
+    const count = fs.readdirSync('problemset').length - 1;
 
-    let md = fs.readFileSync(getPath('README.md'), {encoding: 'utf-8'});
-    md += `| ${count} | [${cn}](src/${projectPath}/README.md) | ${difficulty} | ${url} |`;
-    fs.writeFileSync(getPath('README.md'), md)
+    let md = fs.readFileSync(getPath('problemset/README.md'), {encoding: 'utf-8'});
+    md += `| ${count} | [${cn}](problemset/${projectPath}/README.md) | ${difficulty} | ${url} |`;
+    fs.writeFileSync(getPath('problemset/README.md'), md)
 }
 
 const initEn = (en) => {
@@ -49,8 +49,8 @@ const getFunctionName = (en) => {
     }, '')
 }
 
-const getPath = (src) => {
-    return path.resolve(path.resolve(__dirname, '../'), src)
+const getPath = (problemset) => {
+    return path.resolve(path.resolve(__dirname, '../../'), problemset)
 }
 
 const checkHasPath = (path) => {

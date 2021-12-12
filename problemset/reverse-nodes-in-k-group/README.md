@@ -15,7 +15,7 @@
 ### 示例
 
 #### 示例1
-![reverse-nodes-in-k-group-1](../../images/reverse-nodes-in-k-group-1.jpg)
+![reverse-nodes-in-k-group-1](../../assets/images/problemset/reverse-nodes-in-k-group-1.jpg)
 
 ```
 输入：head = [1,2,3,4,5], k = 2
@@ -23,7 +23,7 @@
 ```
 
 #### 示例2
-![reverse-nodes-in-k-group-2](../../images/reverse-nodes-in-k-group-2.jpg)
+![reverse-nodes-in-k-group-2](../../assets/images/problemset/reverse-nodes-in-k-group-2.jpg)
 
 ```
 输入：head = [1,2,3,4,5], k = 3

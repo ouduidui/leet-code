@@ -6,7 +6,7 @@
 
 给出数字到字母的映射如下（与电话按键相同）。注意 `1` 不对应任何字母。
 
-![telephone-keypad](../../images/telephone-keypad.png)
+![telephone-keypad](../../assets/images/problemset/telephone-keypad.png)
 
 ### 示例
 

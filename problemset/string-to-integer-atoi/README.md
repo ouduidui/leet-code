@@ -166,7 +166,7 @@ export function myAtoi(s: string): number {
 
 ### 自动机
 
-![string-to-integer-atoi](../../images/string-to-integer-atoi.png)
+![string-to-integer-atoi](../../assets/images/problemset/string-to-integer-atoi.png)
 ```typescript
 /**
  * 自动机

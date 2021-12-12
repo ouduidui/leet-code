@@ -12,7 +12,7 @@
 ### 示例
 #### 示例 1：
 
-![add-two-numbers.jpeg](../../images/add-two-numbers.jpeg)
+![add-two-numbers.jpeg](../../assets/images/problemset/add-two-numbers.jpeg)
 
 ```
 输入：l1 = [2,4,3], l2 = [5,6,4]
