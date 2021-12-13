@@ -49,3 +49,4 @@ yarn cli:problemset
 39. [组合总和](./combination-sum/README.md)
 40. [组合总和 II](./combination-sum-2/README.md)
 41. [缺失的第一个正数](./first-missing-positive/README.md)
+42. [接雨水](problemset/trapping-rain-water/README.md)
