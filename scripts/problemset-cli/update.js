@@ -5,11 +5,11 @@ const {log} = require('./log')
 const update = ({cn, en, difficulty, url}) => {
     en = initEn(en);
     const projectPath = getProjectName(en);
-    if(createProject(projectPath)) {
+    if (createProject(projectPath)) {
         fs.writeFileSync(`problemset/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
-        fs.writeFileSync(`problemset/${projectPath}/README.md`, `# ${cn}`);
+        fs.writeFileSync(`problemset/${projectPath}/README.md`, generateProblemMarkdown({cn, difficulty, url}));
         fs.writeFileSync(`problemset/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`)
-        updateReadMeMarkdown({cn, difficulty, url, projectPath})
+        updateReadMeMarkdown({cn, projectPath})
     }
 }
 
@@ -23,11 +23,11 @@ const createProject = (name) => {
 
 }
 
-const updateReadMeMarkdown = ({cn, difficulty, url, projectPath}) => {
+const updateReadMeMarkdown = ({cn, projectPath}) => {
     const count = fs.readdirSync('problemset').length - 1;
 
     let md = fs.readFileSync(getPath('problemset/README.md'), {encoding: 'utf-8'});
-    md += `| ${count} | [${cn}](problemset/${projectPath}/README.md) | ${difficulty} | ${url} |`;
+    md += `\r\n${count}. [${cn}](problemset/${projectPath}/README.md)`
     fs.writeFileSync(getPath('problemset/README.md'), md)
 }
 
@@ -49,8 +49,8 @@ const getFunctionName = (en) => {
     }, '')
 }
 
-const getPath = (problemset) => {
-    return path.resolve(path.resolve(__dirname, '../../'), problemset)
+const getPath = (p) => {
+    return path.resolve(path.resolve(__dirname, '../../'), p)
 }
 
 const checkHasPath = (path) => {
@@ -60,6 +60,10 @@ const checkHasPath = (path) => {
     } catch (err) {
         return false;
     }
+}
+
+const generateProblemMarkdown = ({cn, difficulty, url}) => {
+    return `# ${cn}\r\n\r\n> 难度：${difficulty}\r\n>\r\n> ${url}\r\n>\r\n ## 题目`;
 }
 
 module.exports = update;
