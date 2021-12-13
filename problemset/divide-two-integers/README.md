@@ -1,5 +1,9 @@
 # 两数相除
 
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/divide-two-integers/
+
 ## 题目
 给定两个整数，被除数 `dividend` 和除数 `divisor`。将两数相除，要求不使用乘法、除法和 `mod` 运算符。
 

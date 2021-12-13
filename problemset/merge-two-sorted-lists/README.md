@@ -1,10 +1,17 @@
 # 合并两个有序链表
+
+> 难度：简单
+>
+> https://leetcode-cn.com/problems/merge-two-sorted-lists/
+
 ## 题目
 
-将两个升序链表合并为一个新的 **升序** 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
+将两个升序链表合并为一个新的 **升序** 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
 
 ### 示例
+
 #### 示例1
+
 ![merge-two-sorted-lists](../../assets/images/problemset/merge-two-sorted-lists.jpg)
 
 ```
@@ -27,7 +34,9 @@
 ```
 
 ## 解法
+
 ### 递归
+
 ```typescript
 /**
  * 递归
@@ -52,6 +61,7 @@ export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNod
 ```
 
 ### 迭代
+
 ```typescript
 /**
  * 迭代
@@ -65,10 +75,10 @@ export function mergeTwoLists2(l1: ListNode | null, l2: ListNode | null): ListNo
 
     let prev: ListNode | null = prevHead;
     while (l1 && l2) {
-        if(l1.val <= l2.val) {
+        if (l1.val <= l2.val) {
             prev.next = l1;
             l1 = l1.next;
-        }else {
+        } else {
             prev.next = l2;
             l2 = l2.next;
         }

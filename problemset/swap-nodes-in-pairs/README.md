@@ -1,11 +1,19 @@
 # 两两交换链表中的节点
+
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+
 ## 题目
+
 给定一个链表，两两交换其中相邻的节点，并返回交换后的链表。
 
 **你不能只是单纯的改变节点内部的值**，而是需要实际的进行节点交换。
 
 ### 示例
+
 #### 示例1
+
 ![swap-nodes-in-pairs](../../assets/images/problemset/swap-nodes-in-pairs.jpg)
 
 ```
@@ -30,6 +38,7 @@
 ## 解题
 
 ### 迭代
+
 ```typescript
 /**
  * 迭代
@@ -58,6 +67,7 @@ export function swapPairs(head: ListNode | null): ListNode | null {
 ```
 
 ### 递归
+
 ```typescript
 /**
  * 递归

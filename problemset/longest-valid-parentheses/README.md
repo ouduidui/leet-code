@@ -1,28 +1,42 @@
 # 最长有效括号
+
+> 难度：困难
+>
+> https://leetcode-cn.com/problems/longest-valid-parentheses/
+
 ## 题目
+
 给你一个只包含 `(` 和 `)` 的字符串，找出最长有效（格式正确且连续）括号子串的长度。
 
 ### 示例
+
 #### 示例 1：
+
 ```
 输入：s = "(()"
 输出：2
 解释：最长有效括号子串是 "()"
 ```
+
 #### 示例 2：
+
 ```
 输入：s = ")()())"
 输出：4
 解释：最长有效括号子串是 "()()"
 ```
+
 #### 示例 3：
+
 ```
 输入：s = ""
 输出：0
 ```
 
 ## 解法
+
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -61,6 +75,7 @@ export function longestValidParentheses(s: string): number {
 ```
 
 ### 栈
+
 ```typescript
 /**
  * 栈
@@ -97,6 +112,7 @@ export function longestValidParentheses2(s: string): number {
 ```
 
 ### 动态规划
+
 ```typescript
 /**
  * 动态规划
@@ -132,6 +148,7 @@ export function longestValidParentheses3(s: string): number {
 ```
 
 ### 计数
+
 ```typescript
 /**
  * 计数

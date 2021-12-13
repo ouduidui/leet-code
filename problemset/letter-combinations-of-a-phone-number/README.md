@@ -1,5 +1,9 @@
 # 电话号码的字母组合
 
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+
 ## 题目
 
 给定一个仅包含数字`2-9`的字符串，返回所有它能表示的字母组合。答案可以按 **任意顺序** 返回。
@@ -11,18 +15,21 @@
 ### 示例
 
 #### 示例1
+
 ```
 输入：digits = "23"
 输出：["ad","ae","af","bd","be","bf","cd","ce","cf"]
 ```
 
 #### 示例2
+
 ```
 输入：digits = ""
 输出：[]
 ```
 
 #### 示例3
+
 ```
 输入：digits = "2"
 输出：["a","b","c"]
@@ -31,6 +38,7 @@
 ## 解法
 
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -74,6 +82,7 @@ export function letterCombinations(digits: string): string[] {
 ```
 
 ### 回溯
+
 ```typescript
 /**
  * 回溯

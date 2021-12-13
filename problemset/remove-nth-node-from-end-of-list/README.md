@@ -1,9 +1,17 @@
 # 删除链表的倒数第N个结点
+
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+
 ## 题目
+
 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
 
 ### 示例
+
 #### 示例1
+
 ![remove-nth-node-from-end-of-list](../../assets/images/problemset/remove-nth-node-from-end-of-list.jpg)
 
 ```
@@ -26,7 +34,9 @@
 ```
 
 ## 解法
+
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -56,6 +66,7 @@ export function removeNthFromEnd(head: ListNode | null, n: number): ListNode | n
 ```
 
 ### 计算链表长度
+
 ```typescript
 /**
  * 计算链表长度
@@ -101,6 +112,7 @@ export function removeNthFromEnd2(head: ListNode | null, n: number): ListNode | 
 ```
 
 ### 双指针（快慢指针）
+
 ```typescript
 /**
  * 双指针（快慢指针）
@@ -118,7 +130,7 @@ export function removeNthFromEnd3(head: ListNode | null, n: number): ListNode | 
     let secondPoint: ListNode | null = dummy;
 
     // 先将firstPoint移动与secondPoint相隔n个结点
-    while(n--) {
+    while (n--) {
         firstPoint = firstPoint && firstPoint.next
     }
 

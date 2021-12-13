@@ -1,5 +1,9 @@
 # 实现strStr()
 
+> 难度：简单
+>
+> https://leetcode-cn.com/problems/implement-strstr/
+
 ## 题目
 实现`strStr()`函数。
 

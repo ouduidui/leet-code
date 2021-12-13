@@ -1,5 +1,9 @@
 # 组合总和
 
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/combination-sum/
+
 ## 题目
 
 给定一个无重复元素的正整数数组 `candidates` 和一个正整数 `target` ，找出 `candidates` 中所有可以使数字和为目标数 `target` 的唯一组合。
@@ -46,7 +50,9 @@
 ```
 
 ## 解法
+
 ### 回溯
+
 ```typescript
 /**
  * 回溯
@@ -81,6 +87,7 @@ export function combinationSum(candidates: number[], target: number): number[][]
 ```
 
 ### 回溯 + 剪枝
+
 ```typescript
 /**
  * 回溯 + 剪枝
@@ -94,16 +101,16 @@ export function combinationSum2(candidates: number[], target: number): number[][
     return ans;
 
     function backTracking(target: number, combine: number[], idx: number) {
-        if(idx === candidates.length) return;
+        if (idx === candidates.length) return;
 
-        if(target === 0) {
+        if (target === 0) {
             ans.push(combine);
             return;
         }
 
         backTracking(target, combine, idx + 1);
 
-        if(target - candidates[idx] >= 0) {
+        if (target - candidates[idx] >= 0) {
             backTracking(target - candidates[idx], [...combine, candidates[idx]], idx);
         }
     }

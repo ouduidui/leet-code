@@ -1,4 +1,9 @@
 # Z字形变换
+
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/zigzag-conversion/
+
 ## 题目
 将一个给定字符串 1 根据给定的行数 `numRows` ，以从上往下、从左到右进行`Z`字形排列。
 

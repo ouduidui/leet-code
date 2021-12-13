@@ -1,11 +1,19 @@
 # 合并K个升序链表
+
+> 难度：困难
+>
+> https://leetcode-cn.com/problems/merge-k-sorted-lists/
+
 ## 题目
+
 给你一个链表数组，每个链表都已经按升序排列。
 
 请你将所有链表合并到一个升序链表中，返回合并后的链表。
 
 ### 示例
+
 #### 示例1
+
 ```
 输入：lists = [[1,4,5],[1,3,4],[2,6]]
 输出：[1,1,2,3,4,4,5,6]
@@ -20,19 +28,23 @@
 ```
 
 #### 示例2
+
 ```
 输入：lists = []
 输出：[]
 ```
 
 #### 示例3
+
 ```
 输入：lists = [[]]
 输出：[]
 ```
 
 ## 解法
+
 ### 优先队列
+
 ```typescript
 /**
  * 优先队列
@@ -78,6 +90,7 @@ export function mergeKLists(lists: Array<ListNode | null>): ListNode | null {
 ```
 
 ### 分治合并
+
 ```typescript
 /**
  * 分支合并

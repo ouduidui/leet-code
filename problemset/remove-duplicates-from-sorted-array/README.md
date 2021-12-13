@@ -1,5 +1,9 @@
 # 删除有序数组中的重复项
 
+> 难度：简单
+>
+> https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+
 ## 题目
 给你一个有序数组 `nums` ，请你 **原地** 删除重复出现的元素，使每个元素 **只出现一次** ，返回删除后数组的新长度。
 

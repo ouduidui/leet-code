@@ -1,9 +1,12 @@
 # 最接近的三数之和
 
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/3sum-closest/
+
 ## 题目
 
 给定一个包括`n`个整数的数组`nums`和 一个目标值`target`。找出`nums`中的三个整数，使得它们的和与`target`最接近。返回这三个数的和。假定每组输入只存在唯一答案。
-
 
 ### 示例：
 
@@ -14,6 +17,7 @@
 ```
 
 ## 解法
+
 ```typescript
 /**
  * 排序+双指针
@@ -39,16 +43,16 @@ export function threeSumClosest(nums: number[], target: number): number {
         let right: number = len - 1;
 
         while (left < right) {
-            const sum:number = nums[i] + nums[right] + nums[left];
+            const sum: number = nums[i] + nums[right] + nums[left];
 
-            if(sum === target) return sum;
+            if (sum === target) return sum;
 
             if (isNaN(ans) || Math.abs(sum - target) < Math.abs(ans - target)) {
                 ans = sum;
             }
 
-            if(sum > target) right--;
-            if(sum < target) left++;
+            if (sum > target) right--;
+            if (sum < target) left++;
         }
     }
 

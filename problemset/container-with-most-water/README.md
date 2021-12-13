@@ -1,13 +1,20 @@
 # 盛最多水的容器
 
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/container-with-most-water/
+
 ## 题目
-给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐标中的一个点(i,a<sub>i</sub>) 。在坐标内画 n 条垂直线，垂直线 `i` 的两个端点分别为(i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器可以容纳最多的水。
+
+给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐标中的一个点(i,a<sub>i</sub>) 。在坐标内画 n 条垂直线，垂直线 `i` 的两个端点分别为(
+i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器可以容纳最多的水。
 
 > 说明：你不能倾斜容器。
 
 ### 示例
 
 #### 示例1
+
 ![container-with-most-water-1](../../assets/images/problemset/container-with-most-water-1.jpg)
 
 ```
@@ -24,6 +31,7 @@
 ```
 
 #### 示例3
+
 ```
 输入：height = [4,3,2,1,4]
 输出：16
@@ -37,7 +45,9 @@
 ```
 
 ## 解法
+
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -60,6 +70,7 @@ export function maxArea(height: number[]): number {
 ```
 
 ### 双指针
+
 ```typescript
 /**
  * 双指针

@@ -1,19 +1,27 @@
 # 有效的数独
+
+> 难度：中等
+>
+> https://leetcode-cn.com/problems/valid-sudoku/
+
 ## 题目
+
 请你判断一个 `9 x 9` 的数独是否有效。只需要 **根据以下规则** ，验证已经填入的数字是否有效即可。
 
-1. 数字 `1-9` 在每一行只能出现一次。 
-2. 数字 `1-9` 在每一列只能出现一次。 
+1. 数字 `1-9` 在每一行只能出现一次。
+2. 数字 `1-9` 在每一列只能出现一次。
 3. 数字 `1-9` 在每一个以粗实线分隔的 `3x3` 宫内只能出现一次。（请参考示例图）
 
 注意：
-- 一个有效的数独（部分已被填充）不一定是可解的。 
-- 只需要根据以上规则，验证已经填入的数字是否有效即可。 
+
+- 一个有效的数独（部分已被填充）不一定是可解的。
+- 只需要根据以上规则，验证已经填入的数字是否有效即可。
 - 空白格用`.`表示。
 
 ### 示例
 
 #### 示例1
+
 ![valid-sudoku](../../assets/images/problemset/valid-sudoku.png)
 
 ```
@@ -31,6 +39,7 @@
 ```
 
 #### 示例2
+
 ```
 输入：board = 
 [["8","3",".",".","7",".",".",".","."]
@@ -47,6 +56,7 @@
 ```
 
 ## 解题
+
 ```typescript
 /**
  * 一次遍历
@@ -57,17 +67,17 @@
 export function isValidSudoku(board: string[][]): boolean {
     const [rows, columns, boxes] = [new Set(), new Set(), new Set()];
 
-    for(let i:number = 0; i < 9; i++) {
-        for(let j:number = 0; j < 9; j++) {
-            const c:string = board[i][j];
-            if(c !== '.') {
+    for (let i: number = 0; i < 9; i++) {
+        for (let j: number = 0; j < 9; j++) {
+            const c: string = board[i][j];
+            if (c !== '.') {
                 const rowKey: string = `${i}-${c}`;
-                const columnKey:string = `${j}-${c}`;
+                const columnKey: string = `${j}-${c}`;
                 const boxKey: string = `${Math.floor(i / 3)}-${Math.floor(j / 3)}-${c}`
 
-                if(rows.has(rowKey) || columns.has(columnKey) || boxes.has(boxKey)){
+                if (rows.has(rowKey) || columns.has(columnKey) || boxes.has(boxKey)) {
                     return false;
-                }else {
+                } else {
                     rows.add(rowKey);
                     columns.add(columnKey);
                     boxes.add(boxKey);
