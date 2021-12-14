@@ -27,7 +27,7 @@ const updateReadMeMarkdown = ({cn, projectPath}) => {
     const count = fs.readdirSync('problemset').length - 1;
 
     let md = fs.readFileSync(getPath('problemset/README.md'), {encoding: 'utf-8'});
-    md += `\r\n${count}. [${cn}](problemset/${projectPath}/README.md)`
+    md += `\r\n${count}. [${cn}](./${projectPath}/README.md)`
     fs.writeFileSync(getPath('problemset/README.md'), md)
 }
 
