@@ -63,7 +63,7 @@ const checkHasPath = (path) => {
 }
 
 const generateProblemMarkdown = ({cn, difficulty, url}) => {
-    return `# ${cn}\r\n\r\n> 难度：${difficulty}\r\n>\r\n> ${url}\r\n>\r\n\r\n ## 题目`;
+    return `# ${cn}\r\n\r\n> 难度：${difficulty}\r\n>\r\n> ${url}\r\n\r\n ## 题目`;
 }
 
 module.exports = update;
