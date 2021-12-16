@@ -52,3 +52,4 @@ yarn cli:problemset
 42. [接雨水](./trapping-rain-water/README.md)
 43. [字符串相乘](./multiply-strings/README.md)
 44. [通配符匹配](./wildcard-matching/README.md)
+45. [跳跃游戏 II](./jump-game-2/README.md)
