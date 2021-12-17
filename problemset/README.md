@@ -53,3 +53,4 @@ yarn cli:problemset
 43. [字符串相乘](./multiply-strings/README.md)
 44. [通配符匹配](./wildcard-matching/README.md)
 45. [跳跃游戏 II](./jump-game-2/README.md)
+46. [全排列](./permutations/README.md)
