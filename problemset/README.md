@@ -54,3 +54,4 @@ yarn cli:problemset
 44. [通配符匹配](./wildcard-matching/README.md)
 45. [跳跃游戏 II](./jump-game-2/README.md)
 46. [全排列](./permutations/README.md)
+47. [全排列 II](./permutations-2/README.md)

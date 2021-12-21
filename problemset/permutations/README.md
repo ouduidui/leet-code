@@ -49,14 +49,15 @@ export function permute(nums: number[]): number[][] {
 
     function backtrack(used: boolean[]) {
         if (temp.length === len) res.push([...temp]);
-
-        for (let i = 0; i < len; i++) {
-            if (!used[i]) {
-                temp.push(nums[i]);
-                used[i] = true;
-                backtrack(used);
-                used[i] = false;
-                temp.pop();
+        else {
+            for (let i = 0; i < len; i++) {
+                if (!used[i]) {
+                    temp.push(nums[i]);
+                    used[i] = true;
+                    backtrack(used);
+                    used[i] = false;
+                    temp.pop();
+                }
             }
         }
     }
