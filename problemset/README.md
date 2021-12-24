@@ -57,3 +57,4 @@ yarn cli:problemset
 47. [全排列 II](./permutations-2/README.md)
 48. [旋转图片](./rotate-image/README.md)
 49. [字母异位词分组](./group-anagrams/README.md)
+50. [Pow(x, n)](./powx-n/README.md)
