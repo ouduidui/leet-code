@@ -12,20 +12,20 @@ function testCase(fn: Function) {
         const strs = ["eat", "tea", "tan", "ate", "nat", "bat"];
         const expected = [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]];
 
-        twoDimensionalArrayEqual(fn(strs), expected);
+        twoDimensionalArrayEqual(fn(strs), expected, true);
     })
 
     it('示例二', () => {
         const strs = [""];
         const expected = [[""]];
 
-        twoDimensionalArrayEqual(fn(strs), expected);
+        twoDimensionalArrayEqual(fn(strs), expected, true);
     })
 
     it('示例三', () => {
         const strs = ["a"];
         const expected = [["a"]];
 
-        twoDimensionalArrayEqual(fn(strs), expected);
+        twoDimensionalArrayEqual(fn(strs), expected, true);
     })
 }

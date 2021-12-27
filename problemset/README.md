@@ -58,3 +58,4 @@ yarn cli:problemset
 48. [旋转图片](./rotate-image/README.md)
 49. [字母异位词分组](./group-anagrams/README.md)
 50. [Pow(x, n)](./powx-n/README.md)
+51. [N 皇后](./n-queens/README.md)
