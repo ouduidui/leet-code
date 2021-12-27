@@ -59,3 +59,4 @@ yarn cli:problemset
 49. [字母异位词分组](./group-anagrams/README.md)
 50. [Pow(x, n)](./powx-n/README.md)
 51. [N 皇后](./n-queens/README.md)
+52. [N皇后 II](./n-queens-ii/README.md)
