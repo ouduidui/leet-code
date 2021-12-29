@@ -1,7 +1,7 @@
 import {findSubstring} from "./index"
 
 describe('串联所有单词的子串', () => {
-    test('滑动窗口', () => {
+    describe('滑动窗口', () => {
         testCase(findSubstring)
     })
 });

@@ -14,7 +14,7 @@ function testCase(fn: Function) {
     test('示例一', () => {
         const s:string = "babad";
 
-        expect(fn(s)).toMatch(/bad|aba/);
+        expect(fn(s)).toMatch(/bab|aba/);
     })
 
     test('示例二', () => {
