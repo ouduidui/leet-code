@@ -32,10 +32,6 @@
 
 ```typescript
 /**
- Do not return anything, modify board in-place instead.
- */
-
-/**
  * 回溯
  * @param board {string[][]}
  * @return {void}

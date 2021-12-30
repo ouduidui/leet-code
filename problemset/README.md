@@ -59,7 +59,7 @@ yarn cli:problemset
 49. [字母异位词分组](./group-anagrams/README.md)
 50. [Pow(x, n)](./powx-n/README.md)
 51. [N 皇后](./n-queens/README.md)
-52. [N皇后 II](./n-queens-ii/README.md)
+52. [N皇后 II](./n-queens-2/README.md)
 53. [最大子数组和](./maximum-subarray/README.md)
 54. [螺旋矩阵](./spiral-matrix/README.md)
 55. [跳跃游戏](./jump-game/README.md)

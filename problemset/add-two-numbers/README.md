@@ -1,8 +1,8 @@
 # 两数相加
 
-> 难度：困难
+> 难度：中等
 >
->https://leetcode-cn.com/problems/add-two-numbers/
+> https://leetcode-cn.com/problems/add-two-numbers/
 
 ## 题目
 
@@ -12,8 +12,8 @@
 
 你可以假设除了数字`0`之外，这两个数都不会以`0`开头。
 
-
 ### 示例
+
 #### 示例 1：
 
 ![add-two-numbers.jpeg](../../assets/images/problemset/add-two-numbers.jpeg)
@@ -37,7 +37,6 @@
 输入：l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 输出：[8,9,9,9,0,0,0,1]
 ```
-
 
 ## 解法
 

@@ -1,5 +1,5 @@
 /**
- * 暴力解法
+ * 纵向扫描
  * @desc 时间复杂度 O(MN) M为第一个字符串长度，N为strs长度   空间复杂度 O(1)
  * @param strs {string[]}
  * @return {string}

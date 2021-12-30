@@ -5,6 +5,7 @@
 > https://leetcode-cn.com/problems/zigzag-conversion/
 
 ## 题目
+
 将一个给定字符串 1 根据给定的行数 `numRows` ，以从上往下、从左到右进行`Z`字形排列。
 
 比如输入字符串为 `"PAYPALISHIRING"` 行数为 `3` 时，排列如下：
@@ -22,12 +23,16 @@ Y   I   R
 `string convert(string s, int numRows);`
 
 ### 示例
+
 #### 示例 1：
+
 ```
 输入：s = "PAYPALISHIRING", numRows = 3
 输出："PAHNAPLSIIGYIR"
 ```
+
 #### 示例 2：
+
 ```
 输入：s = "PAYPALISHIRING", numRows = 4
 输出："PINALSIGYAHRPI"
@@ -37,6 +42,7 @@ A   L S  I G
 Y A   H R
 P     I
 ```
+
 #### 示例 3：
 
 ```
@@ -45,7 +51,9 @@ P     I
 ```
 
 ## 解法
+
 ### 按行排序
+
 ```typescript
 /**
  * 按行排序

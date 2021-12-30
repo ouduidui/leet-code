@@ -5,26 +5,35 @@
 > https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 ## 题目
+
 给你一个字符串 s，找到 s 中最长的回文子串。
 
 ### 示例
+
 #### 示例 1：
+
 ```
 输入：s = "babad"
 输出："bab"
 解释："aba" 同样是符合题意的答案。
 ```
+
 #### 示例 2：
+
 ```
 输入：s = "cbbd"
 输出："bb"
 ```
+
 #### 示例 3：
+
 ```
 输入：s = "a"
 输出："a"
 ```
+
 #### 示例 4：
+
 ```
 输入：s = "ac"
 输出："a"
@@ -33,6 +42,7 @@
 ## 解法
 
 ### 中心扩展
+
 ```typescript
 /**
  * 中心扩展
@@ -44,8 +54,8 @@ export function longestPalindrome(s: string): string {
     if (s.length < 2) return s;
 
     // 初始化结果，默认为第一个字符
-    let res: string = s[0]; 
-    
+    let res: string = s[0];
+
     // 遍历，以i为中心点
     for (let i: number = 0; i < s.length; i++) {
         // 中心点为一个字符的情况
@@ -79,6 +89,7 @@ export function longestPalindrome(s: string): string {
 ```
 
 ### Manacher算法
+
 > [解析](./MANACHER.md)
 
 ```typescript
@@ -100,23 +111,23 @@ export function longestPalindrome2(s: string): string {
             let iSym = j * 2 - i;
             let minArmLen = Math.min(armLen[iSym], right - i);
             curArmLen = expand(i - minArmLen, i + minArmLen);
-        }else {
+        } else {
             curArmLen = expand(i, i);
         }
         armLen.push(curArmLen);
-        if(i + curArmLen > right) {
+        if (i + curArmLen > right) {
             j = i;
             right = i + curArmLen;
         }
-        if(2 * curArmLen + 1 > end - start) {
+        if (2 * curArmLen + 1 > end - start) {
             start = i - curArmLen;
             end = i + curArmLen;
         }
     }
 
     let ans: string = '';
-    for(let i :number = start; i <=end; i++) {
-        if(s[i] !== '#') {
+    for (let i: number = start; i <= end; i++) {
+        if (s[i] !== '#') {
             ans += s[i];
         }
     }

@@ -5,6 +5,7 @@
 > https://leetcode-cn.com/problems/implement-strstr/
 
 ## 题目
+
 实现`strStr()`函数。
 
 给你两个字符串 `haystack` 和 `needle` ，请你在 `haystack` 字符串中找出 `needle` 字符串出现的第一个位置（下标从 0 开始）。如果不存在，则返回 `-1` 。
@@ -18,23 +19,30 @@
 ### 示例
 
 #### 示例 1：
+
 ```
 输入：haystack = "hello", needle = "ll"
 输出：2
 ```
+
 #### 示例 2：
+
 ```
 输入：haystack = "aaaaa", needle = "bba"
 输出：-1
 ```
+
 #### 示例 3：
+
 ```
 输入：haystack = "", needle = ""
 输出：0
 ```
 
 ## 解法
+
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -70,7 +78,9 @@ export function strStr(haystack: string, needle: string): number {
 ```
 
 ### KMP解法
+
 > [什么是KMP](./KMP.md)
+
 ```typescript
 /**
  * KMP解法
@@ -92,18 +102,18 @@ export function strStr2(haystack: string, needle: string): number {
         while (j > 0 && needle[i] !== needle[j]) {
             j = pi[j - 1];
         }
-        if(needle[i] === needle[j]) j++;
+        if (needle[i] === needle[j]) j++;
 
         pi[i] = j;
     }
 
-    for(let i:number = 0, j:number = 0; i < n; i++) {
+    for (let i: number = 0, j: number = 0; i < n; i++) {
         while (j > 0 && haystack[i] !== needle[j]) {
             j = pi[j - 1];
         }
-        if(haystack[i] === needle[j]) j++;
+        if (haystack[i] === needle[j]) j++;
 
-        if(j === m) return i - m + 1;
+        if (j === m) return i - m + 1;
     }
 
     return -1;
