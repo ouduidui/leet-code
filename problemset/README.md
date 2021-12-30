@@ -62,3 +62,4 @@ yarn cli:problemset
 52. [N皇后 II](./n-queens-ii/README.md)
 53. [最大子数组和](./maximum-subarray/README.md)
 54. [螺旋矩阵](./spiral-matrix/README.md)
+55. [跳跃游戏](./jump-game/README.md)
