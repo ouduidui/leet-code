@@ -63,3 +63,4 @@ yarn cli:problemset
 53. [最大子数组和](./maximum-subarray/README.md)
 54. [螺旋矩阵](./spiral-matrix/README.md)
 55. [跳跃游戏](./jump-game/README.md)
+56. [合并区间](./merge-intervals/README.md)

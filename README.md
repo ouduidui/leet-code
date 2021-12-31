@@ -45,6 +45,7 @@
 | ----------------------------------------------------------- | ---- |
 | 6. [Z字形变换](./problemset/zigzag-conversion/README.md)    | 中等 |
 | 49. [字母异位词分组](./problemset/group-anagrams/README.md) | 中等 |
+| 56. [合并区间](./problemset/merge-intervals/README.md) | 中等 |
 
 ## 数学
 
