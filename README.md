@@ -106,6 +106,7 @@
 | 48. [旋转图片](./problemset/rotate-image/README.md)          | 中等 |
 | 54. [螺旋矩阵](./problemset/spiral-matrix/README.md)         | 中等 |
 | 57. [插入区间](./problemset/insert-interval/README.md)         | 中等 |
+| 58. [最后一个单词的长度](./problemset/length-of-last-word/README.md)         | 简单 |
 
 ## 回溯
 
@@ -162,4 +163,4 @@
 | 45. [跳跃游戏 II](./problemset/jump-game-2/README.md) | 中等 |
 | 55. [跳跃游戏](./problemset/jump-game/README.md)      | 中等 |
 
-## 
+##  

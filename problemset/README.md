@@ -65,3 +65,4 @@ yarn cli:problemset
 55. [跳跃游戏](./jump-game/README.md)
 56. [合并区间](./merge-intervals/README.md)
 57. [插入区间](./insert-interval/README.md)
+58. [最后一个单词的长度](./length-of-last-word/README.md)
