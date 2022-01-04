@@ -5,9 +5,9 @@ describe('排列序列', () => {
         testCase(getPermutation);
     })
 
-    // describe('数学 + 缩小问题规模', () => {
-    //     testCase(getPermutation2);
-    // })
+    describe('数学 + 缩小问题规模', () => {
+        testCase(getPermutation2);
+    })
 });
 
 function testCase(fn: (n: number, k: number) => string) {

@@ -57,6 +57,7 @@
 | 32. [最长有效括号](./problemset/longest-valid-parentheses/README.md) | 困难 |
 | 43. [字符串相乘](./problemset/multiply-strings/README.md)    | 中等 |
 | 50. [Pow(x, n)](./problemset/powx-n/README.md)               | 中等 |
+| 60. [排列序列](./problemset/permutation-sequence/README.md)            | 困难 |
 
 ## 自动机
 

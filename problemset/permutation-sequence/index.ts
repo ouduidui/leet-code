@@ -28,25 +28,45 @@ export function getPermutation(n: number, k: number): string {
 }
 
 
+/**
+ * 逆康托展开
+ * @desc 时间复杂度 O(N^2)   空间复杂度 O(N)
+ * @param n {number}
+ * @param k {number}
+ * @return {string}
+ */
 export function getPermutation2(n: number, k: number): string {
-    const factorial:number[] = [1];
+    // 阶乘数组 - [1, 1, 4, 24]
+    const factorial = [1];
     for(let i = 1; i < n; i++) {
         factorial[i] = factorial[i - 1] * i;
     }
 
+    // 记录已使用过的数字 - 下标代表数字
+    const valid: boolean[] = new Array(n + 1).fill(false);
+
     let ans = '';
-    const valid = new Array(n + 1).fill(1);
     k--;
+
     for(let i = 1; i <= n; i++) {
-        let order = k / factorial[n - i] + 1;
-        for(let j = 1; j <= n; j++) {
-            order -= valid[j];
-            if(order === 0) {
+        // a = ⌊(k - 1) / (n - 1)!⌋ + 1 算出第nth个排列
+        let a = Math.floor(k / factorial[n - i]) + 1;
+
+        // 找出该排列的数组（重点在于去重）
+        for(let j = 1; i <= n; j++) {
+            // 判断数值是否使用过
+            if(valid[j]) continue;
+            // 计数
+            a--;
+            // 找到对应数值
+            if(a === 0) {
                 ans += j;
-                valid[j] = 0;
+                valid[j] = true;
                 break;
             }
         }
+
+        // 取余更新k
         k %= factorial[n - i];
     }
 
