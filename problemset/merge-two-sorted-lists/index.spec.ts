@@ -1,4 +1,5 @@
-import {ListNode, mergeTwoLists, mergeTwoLists2} from "./index";
+import {mergeTwoLists, mergeTwoLists2} from "./index";
+import ListNode from "../../utils/listNode";
 
 describe('合并两个有序链表', () => {
     describe('递归',() => {

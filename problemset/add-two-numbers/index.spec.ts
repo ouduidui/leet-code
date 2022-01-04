@@ -1,4 +1,5 @@
-import {ListNode, addTwoNumbers} from "./index";
+import {addTwoNumbers} from "./index";
+import ListNode from "../../utils/listNode";
 
 describe('两数相加', () => {
     describe('模拟', () => {

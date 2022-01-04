@@ -1,3 +1,5 @@
+import ListNode from "../../utils/listNode";
+
 /**
  * @desc 时间复杂度：O(max(m,n))  空间复杂度 O(1)
  * @param l1 {ListNode}
@@ -37,14 +39,4 @@ export function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNod
     }
 
     return head;
-}
-
-export class ListNode {
-    val: number
-    next: ListNode | null
-
-    constructor(val?: number, next?: ListNode | null) {
-        this.val = (val === undefined ? 0 : val)
-        this.next = (next === undefined ? null : next)
-    }
 }

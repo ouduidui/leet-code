@@ -1,4 +1,5 @@
-import {ListNode, reverseKGroup} from "./index";
+import {reverseKGroup} from "./index";
+import ListNode from "../../utils/listNode";
 
 describe('K个一组翻转链表', () => {
     describe('模拟', () => {

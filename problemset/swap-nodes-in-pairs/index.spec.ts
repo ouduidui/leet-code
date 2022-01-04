@@ -1,4 +1,5 @@
-import {ListNode, swapPairs, swapPairs2} from "./index";
+import {swapPairs, swapPairs2} from "./index";
+import ListNode from "../../utils/listNode";
 
 describe('两两交换链表中的节点', () => {
     describe('迭代', () => {
