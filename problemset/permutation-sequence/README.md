@@ -105,7 +105,7 @@ export function getPermutation(n: number, k: number): string {
 
 - 如果`(n−1)⋅(n−1)!<k≤n⋅(n−1)!`，我们就可以确认排列的首个元素为`n`
 
-因此，第`k`个排列的首个元素就是：$a1​=⌊\frac{k-1}{(n-1)!}⌋+1$
+因此，第`k`个排列的首个元素就是：`a1 = ⌊(k - 1) / (n - 1)!⌋ + 1`
 
 > `⌊x⌋` 表示将 `x` 向下取整
 
