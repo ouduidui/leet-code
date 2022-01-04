@@ -85,8 +85,6 @@ export function getPermutation(n: number, k: number): string {
 
 对于给定的`n`和`k`，我们可以从左到右确定第`k`个排列中的每个位置上的元素到底是什么。
 
-
-
 我们首先确定首个元素`a1`，根据上面的结论，我们可以知道：
 
 - 以`1`为`a1`的排列一共有`(n-1)!`个
@@ -96,8 +94,6 @@ export function getPermutation(n: number, k: number): string {
 - ...
 
 - 以`n`为`a1`的排列一共有`(n-1)!`个
-
-
 
 由于我们需要求出从小到大的第`k`个排列，因此：
 
@@ -113,8 +109,6 @@ export function getPermutation(n: number, k: number): string {
 
 > `⌊x⌋` 表示将 `x` 向下取整
 
-
-
 当我们确认了`a1`后，可以使用相似的思路，确认下一个元素`a2`：
 
 - 以`[1,n]\a1`最小的元素为`a2`的排序一共有`(n - 2)!`个；
@@ -127,11 +121,7 @@ export function getPermutation(n: number, k: number): string {
 
 > `[1,n]\a1`表示`1,2,...,n`中除去`a1`以外元素的集合
 
-
-
 这些排序从编号`(a1 - 1)(n - 1)!`开始，到`a1(n - 1)`结束，总计`(n-1)!`个，因此第`k`个排序实际上对应这其中的`k'=(k-1)mod(n-1)!+1`个排序。
-
-
 
 这样一来，我们就把原问题转化成了一个完全相同但规模减少`1`的子问题：
 
