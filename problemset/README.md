@@ -68,3 +68,4 @@ yarn cli:problemset
 58. [最后一个单词的长度](./length-of-last-word/README.md)
 59. [螺旋矩阵 II](./spiral-matrix-2/README.md)
 60. [排列序列](./permutation-sequence/README.md)
+61. [旋转链表](./rotate-list/README.md)

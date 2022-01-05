@@ -21,6 +21,7 @@
 | 23. [合并K个升序链表](./problemset/merge-k-sorted-lists/README.md) | 困难 |
 | 24. [两两交换链表中的节点](./problemset/swap-nodes-in-pairs/README.md) | 中等 |
 | 25. [K个一组翻转链表](./problemset/reverse-nodes-in-k-group/README.md) | 困难 |
+| 61. [旋转链表](./problemset/rotate-list/README.md) | 中等 |
 
 ## 滑动窗口
 
