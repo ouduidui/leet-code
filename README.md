@@ -59,6 +59,7 @@
 | 43. [字符串相乘](./problemset/multiply-strings/README.md)    | 中等 |
 | 50. [Pow(x, n)](./problemset/powx-n/README.md)               | 中等 |
 | 60. [排列序列](./problemset/permutation-sequence/README.md)            | 困难 |
+| 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
 
 ## 自动机
 
@@ -75,6 +76,7 @@
 | 42. [接雨水](./problemset/trapping-rain-water/README.md)     | 困难 |
 | 44. [通配符匹配](./problemset/wildcard-matching/README.md)   | 困难 |
 | 53. [最大子数组和](./problemset/maximum-subarray/README.md)  | 简单 |
+| 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
 
 ## 双指针
 
@@ -165,5 +167,3 @@
 | ----------------------------------------------------- | ---- |
 | 45. [跳跃游戏 II](./problemset/jump-game-2/README.md) | 中等 |
 | 55. [跳跃游戏](./problemset/jump-game/README.md)      | 中等 |
-
-##  
