@@ -1,5 +1,5 @@
 import {mergeTwoLists, mergeTwoLists2} from "./index";
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 
 describe('合并两个有序链表', () => {
     describe('递归',() => {
@@ -35,14 +35,4 @@ function testCase(fn: Function) {
 
         expect(fn(l1, l2)).toEqual(expected);
     })
-}
-
-function createListNode(arr: number[]): ListNode | null {
-    let list: ListNode | null = null;
-
-    for (let i: number = arr.length - 1; i >= 0; i--) {
-        list = new ListNode(arr[i], list);
-    }
-
-    return list;
 }

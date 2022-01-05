@@ -1,5 +1,5 @@
 // Definition for singly-linked list.
-class ListNode {
+export class ListNode {
     val: number
     next: ListNode | null
 
@@ -9,4 +9,12 @@ class ListNode {
     }
 }
 
-export default ListNode;
+export function createListNode(arr: Array<number>): ListNode | null {
+    return arr.reduceRight((prev: ListNode | null, cur: number) => {
+        if (prev) {
+            return new ListNode(cur, prev);
+        } else {
+            return new ListNode(cur, null);
+        }
+    }, null);
+}

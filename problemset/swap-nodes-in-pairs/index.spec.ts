@@ -1,5 +1,5 @@
 import {swapPairs, swapPairs2} from "./index";
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 
 describe('两两交换链表中的节点', () => {
     describe('迭代', () => {
@@ -32,14 +32,4 @@ function testCase(fn: Function) {
 
         expect(fn(head)).toEqual(expected);
     })
-}
-
-function createListNode(arr: number[]): ListNode | null {
-    let list: ListNode | null = null;
-
-    for (let i: number = arr.length - 1; i >= 0; i--) {
-        list = new ListNode(arr[i], list);
-    }
-
-    return list;
 }

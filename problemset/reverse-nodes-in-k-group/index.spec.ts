@@ -1,5 +1,5 @@
 import {reverseKGroup} from "./index";
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 
 describe('K个一组翻转链表', () => {
     describe('模拟', () => {
@@ -39,14 +39,4 @@ function testCase(fn: Function) {
 
         expect(fn(head, k)).toEqual(expected);
     })
-}
-
-function createListNode(arr: number[]): ListNode | null {
-    let list: ListNode | null = null;
-
-    for (let i: number = arr.length - 1; i >= 0; i--) {
-        list = new ListNode(arr[i], list);
-    }
-
-    return list;
 }

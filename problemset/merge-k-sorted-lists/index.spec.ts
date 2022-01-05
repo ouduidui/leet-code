@@ -1,4 +1,4 @@
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 import  {mergeKLists, mergeKLists2} from "./index";
 
 describe('合并K个升序链表', () => {
@@ -36,14 +36,4 @@ function testCase(fn: Function) {
 
         expect(fn(lists)).toEqual(expected);
     })
-}
-
-function createListNode(arr: number[]): ListNode | null {
-    let list: ListNode | null = null;
-
-    for (let i: number = arr.length - 1; i >= 0; i--) {
-        list = new ListNode(arr[i], list);
-    }
-
-    return list;
 }

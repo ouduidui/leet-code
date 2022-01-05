@@ -1,5 +1,5 @@
 import {removeNthFromEnd, removeNthFromEnd2, removeNthFromEnd3} from "./index";
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 
 describe('删除链表的倒数第N个结点', () => {
     describe('暴力解法', () => {
@@ -39,14 +39,4 @@ function testCase(fn: Function) {
 
         expect(fn(head, n)).toEqual(expected);
     })
-}
-
-function createListNode(arr: number[]): ListNode | null {
-    let list: ListNode | null = null;
-
-    for (let i: number = arr.length - 1; i >= 0; i--) {
-        list = new ListNode(arr[i], list);
-    }
-
-    return list;
 }

@@ -1,5 +1,5 @@
 import {addTwoNumbers} from "./index";
-import ListNode from "../../utils/listNode";
+import {ListNode, createListNode} from "../../utils/listNode";
 
 describe('两数相加', () => {
     describe('模拟', () => {
@@ -31,14 +31,4 @@ function testCase(fn: Function) {
 
         expect(fn(l1, l2)).toEqual(expected);
     });
-}
-
-function createListNode(arr: Array<number>): ListNode | null {
-    return arr.reduceRight((prev: ListNode | null, cur: number) => {
-        if (prev) {
-            return new ListNode(cur, prev);
-        } else {
-            return new ListNode(cur, null);
-        }
-    }, null);
 }
