@@ -77,6 +77,7 @@
 | 44. [通配符匹配](./problemset/wildcard-matching/README.md)   | 困难 |
 | 53. [最大子数组和](./problemset/maximum-subarray/README.md)  | 简单 |
 | 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
+| 63. [不同路径 II](./problemset/unique-paths-2/README.md)  | 中等 |
 
 ## 双指针
 
