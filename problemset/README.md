@@ -71,3 +71,4 @@ yarn cli:problemset
 61. [旋转链表](./rotate-list/README.md)
 62. [不同路径](./unique-paths/README.md)
 63. [不同路径 II](./unique-paths-2/README.md)
+64. [最小路径和](./minimum-path-sum/README.md)
