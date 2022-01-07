@@ -115,6 +115,7 @@
 | 57. [插入区间](./problemset/insert-interval/README.md)         | 中等 |
 | 58. [最后一个单词的长度](./problemset/length-of-last-word/README.md)         | 简单 |
 | 59. [螺旋矩阵 II](./problemset/spiral-matrix-2/README.md)        | 中等 |
+| 66. [加一](./problemset/plus-one/README.md)        | 简单 |
 
 ## 回溯
 
