@@ -72,3 +72,4 @@ yarn cli:problemset
 62. [不同路径](./unique-paths/README.md)
 63. [不同路径 II](./unique-paths-2/README.md)
 64. [最小路径和](./minimum-path-sum/README.md)
+65. [有效数字](./valid-number/README.md)

@@ -66,6 +66,7 @@
 | 题目                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
 | 8. [字符串转换整数(atoi)](./problemset/string-to-integer-atoi/README.md) | 中等 |
+| 65. [有效数字](./problemset/valid-number/README.md) | 困难 |
 
 ## 动态规划
 
