@@ -116,6 +116,7 @@
 | 58. [最后一个单词的长度](./problemset/length-of-last-word/README.md)         | 简单 |
 | 59. [螺旋矩阵 II](./problemset/spiral-matrix-2/README.md)        | 中等 |
 | 66. [加一](./problemset/plus-one/README.md)        | 简单 |
+| 67. [二进制求和](./problemset/add-binary/README.md)        | 简单 |
 
 ## 回溯
 

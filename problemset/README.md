@@ -74,3 +74,4 @@ yarn cli:problemset
 64. [最小路径和](./minimum-path-sum/README.md)
 65. [有效数字](./valid-number/README.md)
 66. [加一](./plus-one/README.md)
+67. [二进制求和](./add-binary/README.md)
