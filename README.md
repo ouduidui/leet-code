@@ -94,6 +94,7 @@
 | 26. [删除有序数组中的重复项](./problemset/remove-duplicates-from-sorted-array/README.md) | 简单 |
 | 27. [移除元素](./problemset/remove-element/README.md)        | 简单 |
 | 42. [接雨水](./problemset/trapping-rain-water/README.md)     | 困难 |
+| 68. [文本左右对齐](./problemset/text-justification/README.md)        | 困难 |
 
 ## 模拟
 
@@ -117,6 +118,7 @@
 | 59. [螺旋矩阵 II](./problemset/spiral-matrix-2/README.md)        | 中等 |
 | 66. [加一](./problemset/plus-one/README.md)        | 简单 |
 | 67. [二进制求和](./problemset/add-binary/README.md)        | 简单 |
+| 68. [文本左右对齐](./problemset/text-justification/README.md)        | 困难 |
 
 ## 回溯
 
@@ -172,3 +174,4 @@
 | ----------------------------------------------------- | ---- |
 | 45. [跳跃游戏 II](./problemset/jump-game-2/README.md) | 中等 |
 | 55. [跳跃游戏](./problemset/jump-game/README.md)      | 中等 |
+| 68. [文本左右对齐](./problemset/text-justification/README.md)        | 困难 |
