@@ -39,6 +39,7 @@
 | 33. [搜索旋转排序数组](./problemset/search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](./problemset/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 35. [搜索插入位置](./problemset/search-insert-position/README.md) | 简单 |
+| 69. [Sqrt(x)](./problemset/sqrtx/README.md)  | 简单 |
 
 ## 排序
 
@@ -60,6 +61,7 @@
 | 50. [Pow(x, n)](./problemset/powx-n/README.md)               | 中等 |
 | 60. [排列序列](./problemset/permutation-sequence/README.md)            | 困难 |
 | 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
+| 69. [Sqrt(x)](./problemset/sqrtx/README.md)  | 简单 |
 
 ## 自动机
 
