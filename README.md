@@ -62,6 +62,7 @@
 | 60. [排列序列](./problemset/permutation-sequence/README.md)            | 困难 |
 | 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
 | 69. [Sqrt(x)](./problemset/sqrtx/README.md)  | 简单 |
+| 70. [爬楼梯](./problemset/climbing-stairs/README.md)  | 简单 |
 
 ## 自动机
 
@@ -82,6 +83,7 @@
 | 62. [不同路径](./problemset/unique-paths/README.md)  | 中等 |
 | 63. [不同路径 II](./problemset/unique-paths-2/README.md)  | 中等 |
 | 64. [最小路径和](./problemset/minimum-path-sum/README.md)  | 中等 |
+| 70. [爬楼梯](./problemset/climbing-stairs/README.md)  | 简单 |
 
 ## 双指针
 

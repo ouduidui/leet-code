@@ -77,3 +77,4 @@ yarn cli:problemset
 67. [二进制求和](./add-binary/README.md)
 68. [文本左右对齐](./text-justification/README.md)
 69. [Sqrt(x)](./sqrtx/README.md)
+70. [爬楼梯](./climbing-stairs/README.md)
