@@ -84,6 +84,7 @@
 | 63. [不同路径 II](./problemset/unique-paths-2/README.md)  | 中等 |
 | 64. [最小路径和](./problemset/minimum-path-sum/README.md)  | 中等 |
 | 70. [爬楼梯](./problemset/climbing-stairs/README.md)  | 简单 |
+| 72. [编辑距离](./problemset/edit-distance/README.md)  | 困难 |
 
 ## 双指针
 
