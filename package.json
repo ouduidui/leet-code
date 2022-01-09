@@ -2,7 +2,7 @@
   "name": "algorithm-brushing",
   "version": "1.0.0",
   "scripts": {
-    "cli:problemset": "node scripts/problemset-cli",
+    "create": "node scripts/problemset-cli",
     "test": "jest"
   },
   "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
