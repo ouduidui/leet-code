@@ -145,6 +145,7 @@
 | 22. [括号生成](./problemset/generate-parentheses/README.md)  | 中等 |
 | 32. [最长有效括号](./problemset/longest-valid-parentheses/README.md) | 困难 |
 | 42. [接雨水](./problemset/trapping-rain-water/README.md)     | 困难 |
+| 71. [简化路径](./problemset/simplify-path/README.md)     | 中等 |
 
 ## 递归 & 迭代
 

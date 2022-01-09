@@ -78,3 +78,4 @@ yarn cli:problemset
 68. [文本左右对齐](./text-justification/README.md)
 69. [Sqrt(x)](./sqrtx/README.md)
 70. [爬楼梯](./climbing-stairs/README.md)
+71. [简化路径](./simplify-path/README.md)
