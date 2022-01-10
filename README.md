@@ -124,6 +124,7 @@
 | 66. [加一](./problemset/plus-one/README.md)        | 简单 |
 | 67. [二进制求和](./problemset/add-binary/README.md)        | 简单 |
 | 68. [文本左右对齐](./problemset/text-justification/README.md)        | 困难 |
+| 73. [矩阵置零](./problemset/set-matrix-zeroes/README.md)        | 中等 |
 
 ## 回溯
 
