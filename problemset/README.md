@@ -81,3 +81,4 @@ yarn cli:problemset
 71. [简化路径](./simplify-path/README.md)
 72. [编辑距离](./edit-distance/README.md)
 73. [矩阵置零](./set-matrix-zeroes/README.md)
+74. [搜索二维矩阵](./search-a-2d-matrix/README.md)

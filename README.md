@@ -40,6 +40,7 @@
 | 34. [在排序数组中查找元素的第一个和最后一个位置](./problemset/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 35. [搜索插入位置](./problemset/search-insert-position/README.md) | 简单 |
 | 69. [Sqrt(x)](./problemset/sqrtx/README.md)  | 简单 |
+| 74. [搜索二维矩阵](./problemset/search-a-2d-matrix/README.md)  | 中等 |
 
 ## 排序
 
