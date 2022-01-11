@@ -101,6 +101,7 @@
 | 27. [移除元素](./problemset/remove-element/README.md)        | 简单 |
 | 42. [接雨水](./problemset/trapping-rain-water/README.md)     | 困难 |
 | 68. [文本左右对齐](./problemset/text-justification/README.md)        | 困难 |
+| 75. [颜色分类](./problemset/sort-colors/README.md)        | 中等 |
 
 ## 模拟
 
