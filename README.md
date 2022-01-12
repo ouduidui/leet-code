@@ -29,6 +29,7 @@
 | ------------------------------------------------------------ | ---- |
 | 3. [无重复字符的最长子串](./problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 | 30. [串联所有单词的子串](./problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
+| 76. [最小覆盖子串](./problemset/minimum-window-substring/README.md) | 困难 |
 
 ## 二分法
 
