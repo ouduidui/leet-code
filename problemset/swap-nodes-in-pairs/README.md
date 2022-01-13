@@ -12,7 +12,7 @@
 
 ### 示例
 
-#### 示例1
+#### 示例 1
 
 ![swap-nodes-in-pairs](../../assets/images/problemset/swap-nodes-in-pairs.jpg)
 
@@ -21,14 +21,14 @@
 输出：[2,1,4,3]
 ```
 
-#### 示例2
+#### 示例 2
 
 ```
 输入：head = []
 输出：[]
 ```
 
-#### 示例3
+#### 示例 3
 
 ```
 输入：head = [1]
@@ -47,22 +47,22 @@
  * @return {ListNode | null}
  */
 export function swapPairs(head: ListNode | null): ListNode | null {
-    if (!head || !head.next) return head;
+  if (!head || !head.next) return head;
 
-    const ans: ListNode = new ListNode(0);
-    ans.next = head;
-    let cur: ListNode | null = ans;
+  const ans: ListNode = new ListNode(0);
+  ans.next = head;
+  let cur: ListNode | null = ans;
 
-    while (cur.next && cur.next.next) {
-        const firstNode: ListNode = cur.next;
-        const secondNode: ListNode | null = cur.next.next;
-        cur.next = secondNode;
-        firstNode.next = secondNode.next;
-        secondNode.next = firstNode;
-        cur = firstNode;
-    }
+  while (cur.next && cur.next.next) {
+    const firstNode: ListNode = cur.next;
+    const secondNode: ListNode | null = cur.next.next;
+    cur.next = secondNode;
+    firstNode.next = secondNode.next;
+    secondNode.next = firstNode;
+    cur = firstNode;
+  }
 
-    return ans.next;
+  return ans.next;
 }
 ```
 
@@ -76,11 +76,11 @@ export function swapPairs(head: ListNode | null): ListNode | null {
  * @return {ListNode | null}
  */
 export function swapPairs2(head: ListNode | null): ListNode | null {
-    if (!head || !head.next) return head;
+  if (!head || !head.next) return head;
 
-    const ans: ListNode = head.next;
-    head.next = swapPairs2(ans.next);
-    ans.next = head;
-    return ans;
+  const ans: ListNode = head.next;
+  head.next = swapPairs2(ans.next);
+  ans.next = head;
+  return ans;
 }
 ```

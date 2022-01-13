@@ -5,20 +5,20 @@
  * @return {number}
  */
 export function removeDuplicates(nums: number[]): number {
-    let slowPoint: number = 1;
-    let fastPoint: number = 1;
+  let slowPoint = 1;
+  let fastPoint = 1;
 
-    while (fastPoint < nums.length) {
-        if (nums[fastPoint] !== nums[fastPoint - 1]) {
-            nums[slowPoint] = nums[fastPoint];
-            slowPoint++;
-        }
-        fastPoint++;
+  while (fastPoint < nums.length) {
+    if (nums[fastPoint] !== nums[fastPoint - 1]) {
+      nums[slowPoint] = nums[fastPoint];
+      slowPoint++;
     }
+    fastPoint++;
+  }
 
-    while (slowPoint < nums.length) {
-        nums.pop();
-    }
+  while (slowPoint < nums.length) {
+    nums.pop();
+  }
 
-    return nums.length;
+  return nums.length;
 }

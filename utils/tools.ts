@@ -5,33 +5,33 @@
  * @param sort {boolean}
  */
 export const twoDimensionalArrayEqual = (
-    ans: number[][] | string[][],
-    expected: number[][] | string[][],
-    sort = false
+  ans: number[][] | string[][],
+  expected: number[][] | string[][],
+  sort = false
 ) => {
-    expect(ans.length).toBe(expected.length);
+  expect(ans.length).toBe(expected.length);
 
-    const cache: number[] = [];
+  const cache: number[] = [];
 
-    expected.forEach(e => {
-        const idx = ans.findIndex(a => arrEqual(a, e, sort));
-        expect(!cache.includes(idx) && idx !== -1).toBe(true);
-        (idx !== -1) && cache.push(idx);
-    })
-}
+  expected.forEach((e) => {
+    const idx = ans.findIndex((a) => arrEqual(a, e, sort));
+    expect(!cache.includes(idx) && idx !== -1).toBe(true);
+    idx !== -1 && cache.push(idx);
+  });
+};
 
 const arrEqual = (a: string[] | number[], b: string[] | number[], sort = false): boolean => {
-    if (a.length !== b.length) {
-        return false;
-    } else {
-        if(sort) {
-            a.sort();
-            b.sort();
-        }
-        for (let i = 0; i < a.length; i++) {
-            if (a[i] !== b[i]) return false;
-        }
+  if (a.length !== b.length) {
+    return false;
+  } else {
+    if (sort) {
+      a.sort();
+      b.sort();
     }
+    for (let i = 0; i < a.length; i++) {
+      if (a[i] !== b[i]) return false;
+    }
+  }
 
-    return true;
-}
+  return true;
+};

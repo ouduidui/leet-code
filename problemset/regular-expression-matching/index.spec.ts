@@ -1,49 +1,49 @@
-import {isMatch} from "./index"
+import { isMatch } from './index';
 
 describe(' 正则表达式匹配', () => {
-    describe('动态规划', () => {
-        testCase(isMatch);
-    })
+  describe('动态规划', () => {
+    testCase(isMatch);
+  });
 });
 
-function testCase(fn: Function) {
-    test('示例一', () => {
-        const s: string = 'aa';
-        const p: string = 'a';
-        const expected: boolean = false;
+function testCase(fn: (s: string, p: string) => boolean) {
+  test('示例一', () => {
+    const s = 'aa';
+    const p = 'a';
+    const expected = false;
 
-        expect(fn(s, p)).toBe(expected)
-    })
+    expect(fn(s, p)).toBe(expected);
+  });
 
-    test('示例二', () => {
-        const s: string = 'aa';
-        const p: string = 'a*';
-        const expected: boolean = true;
+  test('示例二', () => {
+    const s = 'aa';
+    const p = 'a*';
+    const expected = true;
 
-        expect(fn(s, p)).toBe(expected)
-    })
+    expect(fn(s, p)).toBe(expected);
+  });
 
-    test('示例三', () => {
-        const s: string = 'ab';
-        const p: string = '.*';
-        const expected: boolean = true;
+  test('示例三', () => {
+    const s = 'ab';
+    const p = '.*';
+    const expected = true;
 
-        expect(fn(s, p)).toBe(expected)
-    })
+    expect(fn(s, p)).toBe(expected);
+  });
 
-    test('示例四', () => {
-        const s: string = 'aab';
-        const p: string = 'c*a*b';
-        const expected: boolean = true;
+  test('示例四', () => {
+    const s = 'aab';
+    const p = 'c*a*b';
+    const expected = true;
 
-        expect(fn(s, p)).toBe(expected)
-    })
+    expect(fn(s, p)).toBe(expected);
+  });
 
-    test('示例五', () => {
-        const s: string = 'mississippi';
-        const p: string = 'mis*is*p*.';
-        const expected: boolean = false;
+  test('示例五', () => {
+    const s = 'mississippi';
+    const p = 'mis*is*p*.';
+    const expected = false;
 
-        expect(fn(s, p)).toBe(expected)
-    })
+    expect(fn(s, p)).toBe(expected);
+  });
 }

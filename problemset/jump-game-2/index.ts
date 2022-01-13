@@ -4,19 +4,19 @@
  * @param nums
  */
 export function jump(nums: number[]): number {
-    let position = nums.length - 1;
-    let steps = 0;
-    while (position > 0) {
-        for (let i = 0; i < position; i++) {
-            if (i + nums[i] >= position) {
-                position = i;
-                steps++;
-                break;
-            }
-        }
+  let position = nums.length - 1;
+  let steps = 0;
+  while (position > 0) {
+    for (let i = 0; i < position; i++) {
+      if (i + nums[i] >= position) {
+        position = i;
+        steps++;
+        break;
+      }
     }
+  }
 
-    return steps;
+  return steps;
 }
 
 /**
@@ -25,18 +25,18 @@ export function jump(nums: number[]): number {
  * @param nums
  */
 export function jump2(nums: number[]): number {
-    const len = nums.length;
-    let end = 0;
-    let maxPosition = 0;
-    let steps = 0;
+  const len = nums.length;
+  let end = 0;
+  let maxPosition = 0;
+  let steps = 0;
 
-    for(let i = 0; i < len - 1; i++) {
-        maxPosition = Math.max(maxPosition, i + nums[i]);
-        if(i === end) {
-            end = maxPosition;
-            steps++;
-        }
+  for (let i = 0; i < len - 1; i++) {
+    maxPosition = Math.max(maxPosition, i + nums[i]);
+    if (i === end) {
+      end = maxPosition;
+      steps++;
     }
+  }
 
-    return steps;
+  return steps;
 }

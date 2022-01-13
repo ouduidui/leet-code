@@ -20,12 +20,12 @@
 
 ### 示例
 
-#### 示例1
+#### 示例 1
 
 ![valid-sudoku](../../assets/images/problemset/valid-sudoku.png)
 
 ```
-输入：board = 
+输入：board =
 [["5","3",".",".","7",".",".",".","."]
 ,["6",".",".","1","9","5",".",".","."]
 ,[".","9","8",".",".",".",".","6","."]
@@ -38,10 +38,10 @@
 输出：true
 ```
 
-#### 示例2
+#### 示例 2
 
 ```
-输入：board = 
+输入：board =
 [["8","3",".",".","7",".",".",".","."]
 ,["6",".",".","1","9","5",".",".","."]
 ,[".","9","8",".",".",".",".","6","."]
@@ -65,27 +65,27 @@
  * @return boolean
  */
 export function isValidSudoku(board: string[][]): boolean {
-    const [rows, columns, boxes] = [new Set(), new Set(), new Set()];
+  const [rows, columns, boxes] = [new Set(), new Set(), new Set()];
 
-    for (let i: number = 0; i < 9; i++) {
-        for (let j: number = 0; j < 9; j++) {
-            const c: string = board[i][j];
-            if (c !== '.') {
-                const rowKey: string = `${i}-${c}`;
-                const columnKey: string = `${j}-${c}`;
-                const boxKey: string = `${Math.floor(i / 3)}-${Math.floor(j / 3)}-${c}`
+  for (let i: number = 0; i < 9; i++) {
+    for (let j: number = 0; j < 9; j++) {
+      const c: string = board[i][j];
+      if (c !== '.') {
+        const rowKey: string = `${i}-${c}`;
+        const columnKey: string = `${j}-${c}`;
+        const boxKey: string = `${Math.floor(i / 3)}-${Math.floor(j / 3)}-${c}`;
 
-                if (rows.has(rowKey) || columns.has(columnKey) || boxes.has(boxKey)) {
-                    return false;
-                } else {
-                    rows.add(rowKey);
-                    columns.add(columnKey);
-                    boxes.add(boxKey);
-                }
-            }
+        if (rows.has(rowKey) || columns.has(columnKey) || boxes.has(boxKey)) {
+          return false;
+        } else {
+          rows.add(rowKey);
+          columns.add(columnKey);
+          boxes.add(boxKey);
         }
+      }
     }
+  }
 
-    return true;
+  return true;
 }
 ```

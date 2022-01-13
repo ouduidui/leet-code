@@ -31,6 +31,7 @@
 ```
 
 ## 解题
+
 ```typescript
 /**
  * 贪心算法
@@ -38,19 +39,19 @@
  * @param nums
  */
 export function canJump(nums: number[]): boolean {
-    const len = nums.length;
-    // 移动步数
-    let move = 0;
+  const len = nums.length;
+  // 移动步数
+  let move = 0;
 
-    for(let i = 0; i < len; i++) {
-        if(i <= move){
-            move = Math.max(move, i + nums[i]);
-            if(move >= len - 1){
-                return true;
-            }
-        }
+  for (let i = 0; i < len; i++) {
+    if (i <= move) {
+      move = Math.max(move, i + nums[i]);
+      if (move >= len - 1) {
+        return true;
+      }
     }
+  }
 
-    return false;
+  return false;
 }
 ```

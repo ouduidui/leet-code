@@ -8,7 +8,7 @@
 
 给你两个二进制字符串，返回它们的和（用二进制表示）。
 
-输入为 **非空** 字符串且只包含数字  `1`  和  `0`。
+输入为 **非空** 字符串且只包含数字 `1` 和 `0`。
 
 ### 示例
 
@@ -27,6 +27,7 @@
 ```
 
 ## 解法
+
 ```typescript
 /**
  * 模拟
@@ -36,34 +37,34 @@
  * @return {string}
  */
 export function addBinary(a: string, b: string): string {
-    if (a === '0') return b;
-    if (b === '0') return a;
+  if (a === '0') return b;
+  if (b === '0') return a;
 
-    let point1 = a.length - 1;
-    let point2 = b.length - 1;
-    let ans = '';
-    let carry = 0;
+  let point1 = a.length - 1;
+  let point2 = b.length - 1;
+  let ans = '';
+  let carry = 0;
 
-    while (point1 >= 0 || point2 >= 0) {
-        const aNum = a[point1] ? Number(a[point1]) : 0;
-        const bNum = b[point2] ? Number(b[point2]) : 0;
+  while (point1 >= 0 || point2 >= 0) {
+    const aNum = a[point1] ? Number(a[point1]) : 0;
+    const bNum = b[point2] ? Number(b[point2]) : 0;
 
-        const sum = carry + aNum + bNum;
+    const sum = carry + aNum + bNum;
 
-        if(sum > 1) {
-            carry = 1;
-            ans = sum % 2 + ans;
-        }else {
-            carry = 0;
-            ans = sum + ans;
-        }
-
-        point1--;
-        point2--;
+    if (sum > 1) {
+      carry = 1;
+      ans = (sum % 2) + ans;
+    } else {
+      carry = 0;
+      ans = sum + ans;
     }
 
-    if(carry) ans = '1' + ans;
+    point1--;
+    point2--;
+  }
 
-    return ans;
- }
+  if (carry) ans = '1' + ans;
+
+  return ans;
+}
 ```

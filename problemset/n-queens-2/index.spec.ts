@@ -1,21 +1,21 @@
-import {totalNQueens} from "./index"
+import { totalNQueens } from './index';
 
 describe('N皇后 II', () => {
-    testCase(totalNQueens)
+  testCase(totalNQueens);
 });
 
-function testCase(fn: Function) {
-    it('示例一', () => {
-        const n = 4;
-        const expected = 2;
+function testCase(fn: (n: number) => number) {
+  it('示例一', () => {
+    const n = 4;
+    const expected = 2;
 
-        expect(fn(n)).toBe(expected)
-    })
+    expect(fn(n)).toBe(expected);
+  });
 
-    it('示例二', () => {
-        const n = 1;
-        const expected = 1;
+  it('示例二', () => {
+    const n = 1;
+    const expected = 1;
 
-        expect(fn(n)).toBe(expected)
-    })
+    expect(fn(n)).toBe(expected);
+  });
 }

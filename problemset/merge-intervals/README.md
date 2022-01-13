@@ -6,7 +6,8 @@
 
 ## 题目
 
-以数组 `intervals` 表示若干个区间的集合，其中单个区间为 `intervals[i] = [starti, endi]` 。请你合并所有重叠的区间，并返回一个不重叠的区间数组，该数组需恰好覆盖输入中的所有区间。
+以数组 `intervals` 表示若干个区间的集合，其中单个区间为 `intervals[i] = [starti, endi]` 。请你合并所有重叠的区间，并返回
+一个不重叠的区间数组，该数组需恰好覆盖输入中的所有区间。
 
 ### 示例
 
@@ -27,6 +28,7 @@
 ```
 
 ## 解题
+
 ```typescript
 /**
  * 排序
@@ -34,23 +36,23 @@
  * @param intervals
  */
 export function merge(intervals: number[][]): number[][] {
-    if (intervals.length <= 1) return intervals;
+  if (intervals.length <= 1) return intervals;
 
-    // 排序
-    intervals.sort((a, b) => a[0] - b[0]);
+  // 排序
+  intervals.sort((a, b) => a[0] - b[0]);
 
-    const ans: number[][] = [];
+  const ans: number[][] = [];
 
-    for (let i = 0; i < intervals.length; i++) {
-        if (i === intervals.length - 1 || intervals[i + 1][0] > intervals[i][1]) {
-            // 当到了最后一个或者当下一个的左边界大于这个的右边界时
-            ans.push(intervals[i]);
-        } else {
-            // 合并
-            intervals[i + 1] = [intervals[i][0], Math.max(intervals[i][1], intervals[i + 1][1])];
-        }
+  for (let i = 0; i < intervals.length; i++) {
+    if (i === intervals.length - 1 || intervals[i + 1][0] > intervals[i][1]) {
+      // 当到了最后一个或者当下一个的左边界大于这个的右边界时
+      ans.push(intervals[i]);
+    } else {
+      // 合并
+      intervals[i + 1] = [intervals[i][0], Math.max(intervals[i][1], intervals[i + 1][1])];
     }
+  }
 
-    return ans;
+  return ans;
 }
 ```

@@ -1,4 +1,4 @@
-# K个一组翻转链表
+# K 个一组翻转链表
 
 > 难度：困难
 >
@@ -19,7 +19,7 @@
 
 ### 示例
 
-#### 示例1
+#### 示例 1
 
 ![reverse-nodes-in-k-group-1](../../assets/images/problemset/reverse-nodes-in-k-group-1.jpg)
 
@@ -28,7 +28,7 @@
 输出：[2,1,4,3,5]
 ```
 
-#### 示例2
+#### 示例 2
 
 ![reverse-nodes-in-k-group-2](../../assets/images/problemset/reverse-nodes-in-k-group-2.jpg)
 
@@ -37,14 +37,14 @@
 输出：[3,2,1,4,5]
 ```
 
-#### 示例3
+#### 示例 3
 
 ```
 输入：head = [1,2,3,4,5], k = 1
 输出：[1,2,3,4,5]
 ```
 
-#### 示例4
+#### 示例 4
 
 ```
 输入：head = [1], k = 1
@@ -62,45 +62,45 @@
  * @return {ListNode | null}
  */
 export function reverseKGroup(head: ListNode | null, k: number): ListNode | null {
-    if (k === 1 || !head || !head.next) return head;
+  if (k === 1 || !head || !head.next) return head;
 
-    const ans: ListNode = new ListNode(0);
-    ans.next = head;
-    let cur: ListNode | null = ans;
+  const ans: ListNode = new ListNode(0);
+  ans.next = head;
+  let cur: ListNode | null = ans;
 
-    while (head) {
-        let tail: ListNode | null = cur;
-        // 查看剩余部分长度是否大于等于K
-        for (let i: number = 0; i < k; ++i) {
-            tail = tail.next;
-            if (!tail) return ans.next;
-        }
-
-        // 此时tail处于第k个节点
-        const nex = tail.next;
-        // 将head到tail这段节点继续反转
-        [head, tail] = reverseList(head, tail);
-
-        // 把子链表重新接回原链表
-        cur.next = head;
-        tail.next = nex;
-        cur = tail;
-        head = tail.next;
+  while (head) {
+    let tail: ListNode | null = cur;
+    // 查看剩余部分长度是否大于等于K
+    for (let i: number = 0; i < k; ++i) {
+      tail = tail.next;
+      if (!tail) return ans.next;
     }
 
-    return ans.next;
+    // 此时tail处于第k个节点
+    const nex = tail.next;
+    // 将head到tail这段节点继续反转
+    [head, tail] = reverseList(head, tail);
 
-    function reverseList(head: ListNode, tail: ListNode): [ListNode, ListNode] {
-        let prev: ListNode | null = tail.next;
-        let p: ListNode = head;
-        while (prev !== tail) {
-            const nex: ListNode = p.next as ListNode;
-            p.next = prev;
-            prev = p;
-            p = nex;
-        }
+    // 把子链表重新接回原链表
+    cur.next = head;
+    tail.next = nex;
+    cur = tail;
+    head = tail.next;
+  }
 
-        return [tail, head]
+  return ans.next;
+
+  function reverseList(head: ListNode, tail: ListNode): [ListNode, ListNode] {
+    let prev: ListNode | null = tail.next;
+    let p: ListNode = head;
+    while (prev !== tail) {
+      const nex: ListNode = p.next as ListNode;
+      p.next = prev;
+      prev = p;
+      p = nex;
     }
+
+    return [tail, head];
+  }
 }
 ```

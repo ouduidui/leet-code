@@ -37,28 +37,28 @@
  * @return {number[][]}
  */
 export function permuteUnique(nums: number[]): number[][] {
-    const res: number[][] = [];
-    const temp: number[] = [];
-    const len = nums.length;
-    nums.sort((a, b) => a - b);
-    backTrack(new Set());
-    return res;
+  const res: number[][] = [];
+  const temp: number[] = [];
+  const len = nums.length;
+  nums.sort((a, b) => a - b);
+  backTrack(new Set());
+  return res;
 
-    function backTrack(set: Set<string>) {
-        if (temp.length === len) res.push([...temp]);
+  function backTrack(set: Set<string>) {
+    if (temp.length === len) res.push([...temp]);
 
-        let lastNums = NaN;
-        for (let i = 0; i < len; i++) {
-            const key = `${i}-${nums[i]}`;
-            if (!set.has(key) && nums[i] !== lastNums) {
-                lastNums = nums[i];
-                set.add(key);
-                temp.push(nums[i]);
-                backTrack(set);
-                set.delete(key);
-                temp.pop();
-            }
-        }
+    let lastNums = NaN;
+    for (let i = 0; i < len; i++) {
+      const key = `${i}-${nums[i]}`;
+      if (!set.has(key) && nums[i] !== lastNums) {
+        lastNums = nums[i];
+        set.add(key);
+        temp.push(nums[i]);
+        backTrack(set);
+        set.delete(key);
+        temp.pop();
+      }
     }
+  }
 }
 ```

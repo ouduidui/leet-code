@@ -4,22 +4,22 @@
  * @param s
  */
 export function isValid(s: string): boolean {
-    if (s.length % 2 === 1) return false;
+  if (s.length % 2 === 1) return false;
 
-    const stack: string[] = [];
-    const pairs: Map<string, string> = new Map([
-        ['(', ')'],
-        ['[', ']'],
-        ['{', '}']
-    ]);
+  const stack: string[] = [];
+  const pairs: Map<string, string> = new Map([
+    ['(', ')'],
+    ['[', ']'],
+    ['{', '}']
+  ]);
 
-    for (let i: number = 0; i < s.length; i++) {
-        if (pairs.get(stack[stack.length - 1]) === s[i]) {
-            stack.pop()
-        } else {
-            stack.push(s[i])
-        }
+  for (let i = 0; i < s.length; i++) {
+    if (pairs.get(stack[stack.length - 1]) === s[i]) {
+      stack.pop();
+    } else {
+      stack.push(s[i]);
     }
+  }
 
-    return !stack.length;
+  return !stack.length;
 }

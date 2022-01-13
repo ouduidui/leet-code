@@ -6,7 +6,8 @@
 
 ## 题目
 
-给定一个包括`n`个整数的数组`nums`和 一个目标值`target`。找出`nums`中的三个整数，使得它们的和与`target`最接近。返回这三个数的和。假定每组输入只存在唯一答案。
+给定一个包括`n`个整数的数组`nums`和 一个目标值`target`。找出`nums`中的三个整数，使得它们的和与`target`最接近。返回这三个
+数的和。假定每组输入只存在唯一答案。
 
 ### 示例：
 
@@ -26,36 +27,36 @@
  * @param target
  */
 export function threeSumClosest(nums: number[], target: number): number {
-    if (nums.length <= 3) {
-        return nums.reduce((acc, cur) => {
-            acc += cur;
-            return acc;
-        }, 0)
+  if (nums.length <= 3) {
+    return nums.reduce((acc, cur) => {
+      acc += cur;
+      return acc;
+    }, 0);
+  }
+
+  let ans: number = NaN;
+  const len: number = nums.length;
+  // 排序
+  nums.sort((a, b) => a - b);
+
+  for (let i: number = 0; i < len; i++) {
+    let left: number = i + 1;
+    let right: number = len - 1;
+
+    while (left < right) {
+      const sum: number = nums[i] + nums[right] + nums[left];
+
+      if (sum === target) return sum;
+
+      if (isNaN(ans) || Math.abs(sum - target) < Math.abs(ans - target)) {
+        ans = sum;
+      }
+
+      if (sum > target) right--;
+      if (sum < target) left++;
     }
+  }
 
-    let ans: number = NaN;
-    const len: number = nums.length;
-    // 排序
-    nums.sort((a, b) => a - b);
-
-    for (let i: number = 0; i < len; i++) {
-        let left: number = i + 1;
-        let right: number = len - 1;
-
-        while (left < right) {
-            const sum: number = nums[i] + nums[right] + nums[left];
-
-            if (sum === target) return sum;
-
-            if (isNaN(ans) || Math.abs(sum - target) < Math.abs(ans - target)) {
-                ans = sum;
-            }
-
-            if (sum > target) right--;
-            if (sum < target) left++;
-        }
-    }
-
-    return ans;
+  return ans;
 }
 ```

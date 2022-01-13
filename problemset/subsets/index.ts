@@ -4,17 +4,17 @@
  * @param nums
  */
 export function subsets(nums: number[]): number[][] {
-    const ans:number[][] = [];
-    backTrack();
-    return ans;
+  const ans: number[][] = [];
+  backTrack();
+  return ans;
 
-    function backTrack(temp: number[] = [], index: number = 0) {
-        ans.push([...temp]);
+  function backTrack(temp: number[] = [], index = 0) {
+    ans.push([...temp]);
 
-        for(let i = index; i < nums.length; i++) {
-            temp.push(nums[i]);
-            backTrack(temp, i + 1);
-            temp.pop();
-        }
+    for (let i = index; i < nums.length; i++) {
+      temp.push(nums[i]);
+      backTrack(temp, i + 1);
+      temp.pop();
     }
+  }
 }

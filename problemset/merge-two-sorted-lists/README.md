@@ -10,7 +10,7 @@
 
 ### 示例
 
-#### 示例1
+#### 示例 1
 
 ![merge-two-sorted-lists](../../assets/images/problemset/merge-two-sorted-lists.jpg)
 
@@ -19,14 +19,14 @@
 输出：[1,1,2,3,4,4]
 ```
 
-#### 示例2
+#### 示例 2
 
 ```
 输入：l1 = [], l2 = []
 输出：[]
 ```
 
-#### 示例3
+#### 示例 3
 
 ```
 输入：l1 = [], l2 = [0]
@@ -46,17 +46,17 @@
  * @return {ListNode | null}
  */
 export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | null {
-    if (!l1 && !l2) return null;
-    if (!l1) return l2;
-    if (!l2) return l1;
+  if (!l1 && !l2) return null;
+  if (!l1) return l2;
+  if (!l2) return l1;
 
-    if (l1.val < l2.val) {
-        l1.next = mergeTwoLists(l1.next, l2);
-        return l1;
-    } else {
-        l2.next = mergeTwoLists(l1, l2.next);
-        return l2;
-    }
+  if (l1.val < l2.val) {
+    l1.next = mergeTwoLists(l1.next, l2);
+    return l1;
+  } else {
+    l2.next = mergeTwoLists(l1, l2.next);
+    return l2;
+  }
 }
 ```
 
@@ -71,22 +71,22 @@ export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNod
  * @return {ListNode | null}
  */
 export function mergeTwoLists2(l1: ListNode | null, l2: ListNode | null): ListNode | null {
-    const prevHead: ListNode = new ListNode(-1);
+  const prevHead: ListNode = new ListNode(-1);
 
-    let prev: ListNode | null = prevHead;
-    while (l1 && l2) {
-        if (l1.val <= l2.val) {
-            prev.next = l1;
-            l1 = l1.next;
-        } else {
-            prev.next = l2;
-            l2 = l2.next;
-        }
-        prev = prev?.next;
+  let prev: ListNode | null = prevHead;
+  while (l1 && l2) {
+    if (l1.val <= l2.val) {
+      prev.next = l1;
+      l1 = l1.next;
+    } else {
+      prev.next = l2;
+      l2 = l2.next;
     }
+    prev = prev?.next;
+  }
 
-    prev.next = l1 ? l1 : l2;
+  prev.next = l1 ? l1 : l2;
 
-    return prevHead.next;
+  return prevHead.next;
 }
 ```

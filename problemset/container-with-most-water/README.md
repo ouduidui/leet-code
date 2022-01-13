@@ -6,31 +6,32 @@
 
 ## 题目
 
-给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐标中的一个点(i,a<sub>i</sub>) 。在坐标内画 n 条垂直线，垂直线 `i` 的两个端点分别为(
-i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器可以容纳最多的水。
+给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐标中的一个点(i,a<sub>i</sub>) 。在坐标内
+画 n 条垂直线，垂直线 `i` 的两个端点分别为( i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器
+可以容纳最多的水。
 
 > 说明：你不能倾斜容器。
 
 ### 示例
 
-#### 示例1
+#### 示例 1
 
 ![container-with-most-water-1](../../assets/images/problemset/container-with-most-water-1.jpg)
 
 ```
 输入：[1,8,6,2,5,4,8,3,7]
-输出：49 
+输出：49
 解释：图中垂直线代表输入数组 [1,8,6,2,5,4,8,3,7]。在此情况下，容器能够容纳水（表示为蓝色部分）的最大值为49。
 ```
 
-#### 示例2
+#### 示例 2
 
 ```
 输入：height = [1,1]
 输出：1
 ```
 
-#### 示例3
+#### 示例 3
 
 ```
 输入：height = [4,3,2,1,4]
@@ -56,16 +57,16 @@ i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴�
  * @return {number}
  */
 export function maxArea(height: number[]): number {
-    let maxArea: number = 0;
+  let maxArea: number = 0;
 
-    for (let i: number = 0; i < height.length - 1; i++) {
-        for (let j: number = i + 1; j < height.length; j++) {
-            const area: number = Math.min(height[i], height[j]) * (j - i);
-            maxArea = maxArea < area ? area : maxArea;
-        }
+  for (let i: number = 0; i < height.length - 1; i++) {
+    for (let j: number = i + 1; j < height.length; j++) {
+      const area: number = Math.min(height[i], height[j]) * (j - i);
+      maxArea = maxArea < area ? area : maxArea;
     }
+  }
 
-    return maxArea
+  return maxArea;
 }
 ```
 
@@ -79,19 +80,19 @@ export function maxArea(height: number[]): number {
  * @return {number}
  */
 export function maxArea2(height: number[]): number {
-    let maxArea: number = 0;
-    let leftIdx: number = 0;
-    let rightIdx: number = height.length - 1;
+  let maxArea: number = 0;
+  let leftIdx: number = 0;
+  let rightIdx: number = height.length - 1;
 
-    while (leftIdx < rightIdx) {
-        const leftHeight: number = height[leftIdx];
-        const rightHeight: number = height[rightIdx];
-        const area: number = Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
-        maxArea = maxArea < area ? area : maxArea;
+  while (leftIdx < rightIdx) {
+    const leftHeight: number = height[leftIdx];
+    const rightHeight: number = height[rightIdx];
+    const area: number = Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
+    maxArea = maxArea < area ? area : maxArea;
 
-        leftHeight <= rightHeight ? leftIdx++ : rightIdx--;
-    }
+    leftHeight <= rightHeight ? leftIdx++ : rightIdx--;
+  }
 
-    return maxArea;
+  return maxArea;
 }
 ```

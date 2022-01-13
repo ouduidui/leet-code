@@ -5,21 +5,21 @@
  * @return {string}
  */
 export function longestCommonPrefix(strs: string[]): string {
-    if (!strs || !strs.length) return '';
+  if (!strs || !strs.length) return '';
 
-    let ans: string = '';
-    const firstStr: string = strs[0];
-    const len: number = firstStr.length;
+  let ans = '';
+  const firstStr: string = strs[0];
+  const len: number = firstStr.length;
 
-    for (let i: number = 0; i < len; i++) {
-        let letter: string = firstStr[i];
-        for (let j: number = 1; j < strs.length; j++) {
-            if (strs[j][i] !== letter) {
-                return ans;
-            }
-        }
-        ans += letter;
+  for (let i = 0; i < len; i++) {
+    const letter: string = firstStr[i];
+    for (let j = 1; j < strs.length; j++) {
+      if (strs[j][i] !== letter) {
+        return ans;
+      }
     }
+    ans += letter;
+  }
 
-    return ans;
+  return ans;
 }

@@ -6,30 +6,29 @@
  * @return {number}
  */
 export function strStr(haystack: string, needle: string): number {
-    if (!needle) return 0;
+  if (!needle) return 0;
 
-    let ans: number = -1;
-    const len1: number = haystack.length;
-    const len2: number = needle.length;
+  let ans = -1;
+  const len1: number = haystack.length;
+  const len2: number = needle.length;
 
-    if (!haystack || len2 > len1) return ans;
+  if (!haystack || len2 > len1) return ans;
 
-    for (let i: number = 0; i + len2 <= len1; i++) {
-        ans = i;
+  for (let i = 0; i + len2 <= len1; i++) {
+    ans = i;
 
-        for (let j: number = 0; j < len2; j++) {
-            if (haystack[i + j] !== needle[j]) {
-                ans = -1;
-                break;
-            }
-        }
-
-        if (ans !== -1) return ans;
+    for (let j = 0; j < len2; j++) {
+      if (haystack[i + j] !== needle[j]) {
+        ans = -1;
+        break;
+      }
     }
 
-    return ans;
-}
+    if (ans !== -1) return ans;
+  }
 
+  return ans;
+}
 
 /**
  * KMP解法
@@ -39,31 +38,31 @@ export function strStr(haystack: string, needle: string): number {
  * @return {number}
  */
 export function strStr2(haystack: string, needle: string): number {
-    if (!needle) return 0;
+  if (!needle) return 0;
 
-    const n: number = haystack.length;
-    const m: number = needle.length;
+  const n: number = haystack.length;
+  const m: number = needle.length;
 
-    const pi: number[] = new Array(m).fill(0);
+  const pi: number[] = new Array(m).fill(0);
 
-    // 算出needle的前缀函数
-    for (let i: number = 1, j: number = 0; i < m; i++) {
-        while (j > 0 && needle[i] !== needle[j]) {
-            j = pi[j - 1];
-        }
-        if(needle[i] === needle[j]) j++;
-
-        pi[i] = j;
+  // 算出needle的前缀函数
+  for (let i = 1, j = 0; i < m; i++) {
+    while (j > 0 && needle[i] !== needle[j]) {
+      j = pi[j - 1];
     }
+    if (needle[i] === needle[j]) j++;
 
-    for(let i:number = 0, j:number = 0; i < n; i++) {
-        while (j > 0 && haystack[i] !== needle[j]) {
-            j = pi[j - 1];
-        }
-        if(haystack[i] === needle[j]) j++;
+    pi[i] = j;
+  }
 
-        if(j === m) return i - m + 1;
+  for (let i = 0, j = 0; i < n; i++) {
+    while (j > 0 && haystack[i] !== needle[j]) {
+      j = pi[j - 1];
     }
+    if (haystack[i] === needle[j]) j++;
 
-    return -1;
+    if (j === m) return i - m + 1;
+  }
+
+  return -1;
 }

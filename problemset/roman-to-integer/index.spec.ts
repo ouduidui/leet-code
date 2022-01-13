@@ -1,44 +1,44 @@
-import {romanToInt} from "./index"
+import { romanToInt } from './index';
 
 describe('罗马数字转整数', () => {
-    describe('模拟', () => {
-        testCase(romanToInt);
-    })
+  describe('模拟', () => {
+    testCase(romanToInt);
+  });
 });
 
-function testCase(fn:Function) {
-    test('实例一', () => {
-        const s:string = "III";
-        const expected:number = 3;
+function testCase(fn: (s: string) => number) {
+  test('实例一', () => {
+    const s = 'III';
+    const expected = 3;
 
-        expect(fn(s)).toEqual(expected);
-    })
+    expect(fn(s)).toEqual(expected);
+  });
 
-    test('实例二', () => {
-        const s:string = "IV";
-        const expected:number = 4;
+  test('实例二', () => {
+    const s = 'IV';
+    const expected = 4;
 
-        expect(fn(s)).toEqual(expected);
-    })
+    expect(fn(s)).toEqual(expected);
+  });
 
-    test('实例三', () => {
-        const s:string = "IX";
-        const expected:number = 9;
+  test('实例三', () => {
+    const s = 'IX';
+    const expected = 9;
 
-        expect(fn(s)).toEqual(expected);
-    })
+    expect(fn(s)).toEqual(expected);
+  });
 
-    test('实例四', () => {
-        const s:string = "LVIII";
-        const expected:number = 58;
+  test('实例四', () => {
+    const s = 'LVIII';
+    const expected = 58;
 
-        expect(fn(s)).toEqual(expected);
-    })
+    expect(fn(s)).toEqual(expected);
+  });
 
-    test('实例五', () => {
-        const s:string = "MCMXCIV";
-        const expected:number = 1994;
+  test('实例五', () => {
+    const s = 'MCMXCIV';
+    const expected = 1994;
 
-        expect(fn(s)).toEqual(expected);
-    })
+    expect(fn(s)).toEqual(expected);
+  });
 }

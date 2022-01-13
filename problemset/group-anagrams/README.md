@@ -11,23 +11,30 @@
 字母异位词 是由重新排列源单词的字母得到的一个新单词，所有源单词中的字母通常恰好只用一次。
 
 ### 示例
+
 #### 示例 1:
+
 ```
 输入: strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
 输出: [["bat"],["nat","tan"],["ate","eat","tea"]]
 ```
+
 #### 示例 2:
+
 ```
 输入: strs = [""]
 输出: [[""]]
 ```
+
 #### 示例 3:
+
 ```
 输入: strs = ["a"]
 输出: [["a"]]
 ```
 
 ## 排序
+
 ```typescript
 /**
  * 排序
@@ -36,19 +43,19 @@
  * @param strs
  */
 export function groupAnagrams(strs: string[]): string[][] {
-    if (strs.length === 1) return [strs];
+  if (strs.length === 1) return [strs];
 
-    const map = new Map<string, string[]>();
+  const map = new Map<string, string[]>();
 
-    for (let str of strs) {
-        let arr = [...str];
-        arr.sort();
-        let key = arr.join('');
-        let list: string[] = map.has(key) ? map.get(key) as string[] : [];
-        list.push(str);
-        map.set(key, list);
-    }
+  for (let str of strs) {
+    let arr = [...str];
+    arr.sort();
+    let key = arr.join('');
+    let list: string[] = map.has(key) ? (map.get(key) as string[]) : [];
+    list.push(str);
+    map.set(key, list);
+  }
 
-    return Array.from(map.values());
+  return Array.from(map.values());
 }
 ```

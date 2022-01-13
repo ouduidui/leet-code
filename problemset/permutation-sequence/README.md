@@ -1,7 +1,7 @@
 # 排列序列
 
 > 难度：困难
-> 
+>
 > https://leetcode-cn.com/problems/permutation-sequence/
 
 ## 题目
@@ -57,25 +57,25 @@
  * @return {string}
  */
 export function getPermutation(n: number, k: number): string {
-    let idx = 1;
-    return backtrack('') || '';
+  let idx = 1;
+  return backtrack('') || '';
 
-    function backtrack(str: string): string | undefined {
-        if (str.length === n && idx === k) {
-            return str;
-        } else if (str.length === n) {
-            idx++;
-        } else {
-            for (let i = 1; i <= n; i++) {
-                if (str.split('').includes(`${i}`)) continue;
+  function backtrack(str: string): string | undefined {
+    if (str.length === n && idx === k) {
+      return str;
+    } else if (str.length === n) {
+      idx++;
+    } else {
+      for (let i = 1; i <= n; i++) {
+        if (str.split('').includes(`${i}`)) continue;
 
-                const res = backtrack(str + i);
-                if (res) {
-                    return res;
-                }
-            }
+        const res = backtrack(str + i);
+        if (res) {
+          return res;
         }
+      }
     }
+  }
 }
 ```
 
@@ -121,7 +121,8 @@ export function getPermutation(n: number, k: number): string {
 
 > `[1,n]\a1`表示`1,2,...,n`中除去`a1`以外元素的集合
 
-这些排序从编号`(a1 - 1)(n - 1)!`开始，到`a1(n - 1)`结束，总计`(n-1)!`个，因此第`k`个排序实际上对应这其中的`k'=(k-1)mod(n-1)!+1`个排序。
+这些排序从编号`(a1 - 1)(n - 1)!`开始，到`a1(n - 1)`结束，总计`(n-1)!`个，因此第`k`个排序实际上对应这其中
+的`k'=(k-1)mod(n-1)!+1`个排序。
 
 这样一来，我们就把原问题转化成了一个完全相同但规模减少`1`的子问题：
 
@@ -136,40 +137,40 @@ export function getPermutation(n: number, k: number): string {
  * @return {string}
  */
 export function getPermutation2(n: number, k: number): string {
-    // 阶乘数组 - [1, 1, 4, 24]
-    const factorial = [1];
-    for(let i = 1; i < n; i++) {
-        factorial[i] = factorial[i - 1] * i;
+  // 阶乘数组 - [1, 1, 4, 24]
+  const factorial = [1];
+  for (let i = 1; i < n; i++) {
+    factorial[i] = factorial[i - 1] * i;
+  }
+
+  // 记录已使用过的数字 - 下标代表数字
+  const valid: boolean[] = new Array(n + 1).fill(false);
+
+  let ans = '';
+  k--;
+
+  for (let i = 1; i <= n; i++) {
+    // a = ⌊(k - 1) / (n - 1)!⌋ + 1 算出第nth个排列
+    let a = Math.floor(k / factorial[n - i]) + 1;
+
+    // 找出该排列的数组（重点在于去重）
+    for (let j = 1; i <= n; j++) {
+      // 判断数值是否使用过
+      if (valid[j]) continue;
+      // 计数
+      a--;
+      // 找到对应数值
+      if (a === 0) {
+        ans += j;
+        valid[j] = true;
+        break;
+      }
     }
 
-    // 记录已使用过的数字 - 下标代表数字
-    const valid: boolean[] = new Array(n + 1).fill(false);
+    // 取余更新k
+    k %= factorial[n - i];
+  }
 
-    let ans = '';
-    k--;
-
-    for(let i = 1; i <= n; i++) {
-        // a = ⌊(k - 1) / (n - 1)!⌋ + 1 算出第nth个排列
-        let a = Math.floor(k / factorial[n - i]) + 1;
-
-        // 找出该排列的数组（重点在于去重）
-        for(let j = 1; i <= n; j++) {
-            // 判断数值是否使用过
-            if(valid[j]) continue;
-            // 计数
-            a--;
-            // 找到对应数值
-            if(a === 0) {
-                ans += j;
-                valid[j] = true;
-                break;
-            }
-        }
-
-        // 取余更新k
-        k %= factorial[n - i];
-    }
-
-    return ans;
+  return ans;
 }
 ```

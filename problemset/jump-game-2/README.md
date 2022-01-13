@@ -20,7 +20,7 @@
 
 ```
 输入: nums = [2,3,1,1,4]
-输出: 2 
+输出: 2
 解释: 跳到最后一个位置的最小跳跃数是 2。 从下标为 0 跳到下标为 1 的位置，跳 1 步，然后跳 3 步到达数组的最后一个位置。
 ```
 
@@ -42,23 +42,24 @@
  * @param nums
  */
 export function jump(nums: number[]): number {
-    let position = nums.length - 1;
-    let steps = 0;
-    while (position > 0) {
-        for (let i = 0; i < position; i++) {
-            if (i + nums[i] >= position) {
-                position = i;
-                steps++;
-                break;
-            }
-        }
+  let position = nums.length - 1;
+  let steps = 0;
+  while (position > 0) {
+    for (let i = 0; i < position; i++) {
+      if (i + nums[i] >= position) {
+        position = i;
+        steps++;
+        break;
+      }
     }
+  }
 
-    return steps;
+  return steps;
 }
 ```
 
 ### 贪心算法 - 正向查找
+
 ```typescript
 /**
  * 贪心算法 - 正向查找
@@ -66,19 +67,19 @@ export function jump(nums: number[]): number {
  * @param nums
  */
 export function jump2(nums: number[]): number {
-    const len = nums.length;
-    let end = 0;
-    let maxPosition = 0;
-    let steps = 0;
+  const len = nums.length;
+  let end = 0;
+  let maxPosition = 0;
+  let steps = 0;
 
-    for (let i = 0; i < len - 1; i++) {
-        maxPosition = Math.max(maxPosition, i + nums[i]);
-        if (i === end) {
-            end = maxPosition;
-            steps++;
-        }
+  for (let i = 0; i < len - 1; i++) {
+    maxPosition = Math.max(maxPosition, i + nums[i]);
+    if (i === end) {
+      end = maxPosition;
+      steps++;
     }
+  }
 
-    return steps;
+  return steps;
 }
 ```

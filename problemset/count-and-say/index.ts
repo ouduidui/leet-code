@@ -5,22 +5,22 @@
  * @return {string}
  */
 export function countAndSay(n: number): string {
-    let ans: string = '1';
+  let ans = '1';
 
-    for (let i: number = 2; i <= n; i++) {
-        let left: number = 0;
-        let right: number = 0;
-        let ansArr: string[] = [];
+  for (let i = 2; i <= n; i++) {
+    let left = 0;
+    let right = 0;
+    const ansArr: string[] = [];
 
-        while (right < ans.length) {
-            while (right < ans.length && ans[left] === ans[right]) {
-                right++;
-            }
-            ansArr.push('' + (right - left) + ans[left]);
-            left = right;
-        }
-        ans = ansArr.join('');
+    while (right < ans.length) {
+      while (right < ans.length && ans[left] === ans[right]) {
+        right++;
+      }
+      ansArr.push('' + (right - left) + ans[left]);
+      left = right;
     }
+    ans = ansArr.join('');
+  }
 
-    return ans;
+  return ans;
 }

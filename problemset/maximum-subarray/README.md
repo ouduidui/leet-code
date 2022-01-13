@@ -35,7 +35,9 @@
 ```
 
 ## 解法
+
 ### 暴力解法
+
 ```typescript
 /**
  * 暴力解法
@@ -43,23 +45,24 @@
  * @param nums
  */
 export function maxSubArray(nums: number[]): number {
-    if(nums.length === 1) return nums[0];
+  if (nums.length === 1) return nums[0];
 
-    let ans = 0;
+  let ans = 0;
 
-    for (let i = 0; i < nums.length; i++) {
-        let sum = nums[i];
-        for (let j = i + 1; j < nums.length; j++) {
-            sum += nums[j];
-            ans = Math.max(ans, sum);
-        }
+  for (let i = 0; i < nums.length; i++) {
+    let sum = nums[i];
+    for (let j = i + 1; j < nums.length; j++) {
+      sum += nums[j];
+      ans = Math.max(ans, sum);
     }
+  }
 
-    return ans;
+  return ans;
 }
 ```
 
 ### 动态规划
+
 ```typescript
 /**
  * 动态规划
@@ -67,14 +70,14 @@ export function maxSubArray(nums: number[]): number {
  * @param nums
  */
 export function maxSubArray2(nums: number[]): number {
-    let prevSum = 0;
-    let ans = nums[0];
+  let prevSum = 0;
+  let ans = nums[0];
 
-    nums.forEach(num => {
-        prevSum = Math.max(num, prevSum + num);
-        ans = Math.max(prevSum, ans);
-    })
+  nums.forEach((num) => {
+    prevSum = Math.max(num, prevSum + num);
+    ans = Math.max(prevSum, ans);
+  });
 
-    return ans;
+  return ans;
 }
 ```
