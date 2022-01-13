@@ -142,6 +142,7 @@
 | 51. [N 皇后](./problemset/n-queens/README.md)                | 困难 |
 | 52. [N皇后 II](./problemset/n-queens-2/README.md)            | 困难 |
 | 77. [组合](./problemset/combinations/README.md)            | 中等 |
+| 78. [子集](./problemset/subsets/README.md)            | 中等 |
 
 ## 栈
 
