@@ -86,3 +86,4 @@ yarn cli:problemset
 76. [最小覆盖子串](./minimum-window-substring/README.md)
 77. [组合](./combinations/README.md)
 78. [子集](./subsets/README.md)
+79. [单词搜索](./word-search/README.md)

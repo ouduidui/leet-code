@@ -143,6 +143,7 @@
 | 52. [N 皇后 II](./problemset/n-queens-2/README.md)                                     | 困难 |
 | 77. [组合](./problemset/combinations/README.md)                                        | 中等 |
 | 78. [子集](./problemset/subsets/README.md)                                             | 中等 |
+| 79. [单词搜索](./problemset/word-search/README.md)                                            | 中等 |
 
 ## 栈
 
