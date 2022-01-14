@@ -17,7 +17,10 @@ export function merge(intervals: number[][]): number[][] {
       ans.push(intervals[i]);
     } else {
       // 合并
-      intervals[i + 1] = [intervals[i][0], Math.max(intervals[i][1], intervals[i + 1][1])];
+      intervals[i + 1] = [
+        intervals[i][0],
+        Math.max(intervals[i][1], intervals[i + 1][1])
+      ];
     }
   }
 

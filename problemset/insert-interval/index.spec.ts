@@ -5,7 +5,9 @@ describe('插入区间', () => {
   testCase(insert);
 });
 
-function testCase(fn: (intervals: number[][], newInterval: number[]) => number[][]) {
+function testCase(
+  fn: (intervals: number[][], newInterval: number[]) => number[][]
+) {
   it('示例一', () => {
     const intervals = [
       [1, 3],

@@ -1,4 +1,8 @@
-import { removeNthFromEnd, removeNthFromEnd2, removeNthFromEnd3 } from './index';
+import {
+  removeNthFromEnd,
+  removeNthFromEnd2,
+  removeNthFromEnd3
+} from './index';
 import { ListNode, createListNode } from '../../utils/listNode';
 
 describe('删除链表的倒数第N个结点', () => {

@@ -6,7 +6,8 @@
 
 ## 题目
 
-给你两个**非空**的链表，表示两个非负的整数。它们每位数字都是按照**逆序**的方式存储的，并且每个节点只能存储**一位**数字。
+给你两个**非空**的链表，表示两个非负的整数。它们每位数字都是按照**逆序**的方式存
+储的，并且每个节点只能存储**一位**数字。
 
 请你将两个数相加，并以相同形式返回一个表示和的链表。
 
@@ -47,7 +48,10 @@
  * @param l2 {ListNode}
  * @return {ListNode}
  */
-export function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function addTwoNumbers(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   let head: ListNode | null = null; // 存放链头
   let tail: ListNode | null = null; // 存放链尾
   let carry: number = 0; // 进位值

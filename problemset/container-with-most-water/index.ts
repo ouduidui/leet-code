@@ -31,7 +31,8 @@ export function maxArea2(height: number[]): number {
   while (leftIdx < rightIdx) {
     const leftHeight: number = height[leftIdx];
     const rightHeight: number = height[rightIdx];
-    const area: number = Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
+    const area: number =
+      Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
     maxArea = maxArea < area ? area : maxArea;
 
     leftHeight <= rightHeight ? leftIdx++ : rightIdx--;

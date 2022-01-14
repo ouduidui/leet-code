@@ -20,7 +20,11 @@ export const twoDimensionalArrayEqual = (
   });
 };
 
-const arrEqual = (a: string[] | number[], b: string[] | number[], sort = false): boolean => {
+const arrEqual = (
+  a: string[] | number[],
+  b: string[] | number[],
+  sort = false
+): boolean => {
   if (a.length !== b.length) {
     return false;
   } else {

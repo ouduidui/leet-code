@@ -4,7 +4,10 @@
  * @param candidates
  * @param target
  */
-export function combinationSum(candidates: number[], target: number): number[][] {
+export function combinationSum(
+  candidates: number[],
+  target: number
+): number[][] {
   const ans: number[][] = [];
   for (let i = 0; i < candidates.length; i++) {
     backTracking(i, [candidates[i]]);
@@ -35,7 +38,10 @@ export function combinationSum(candidates: number[], target: number): number[][]
  * @param candidates
  * @param target
  */
-export function combinationSum2(candidates: number[], target: number): number[][] {
+export function combinationSum2(
+  candidates: number[],
+  target: number
+): number[][] {
   const ans: number[][] = [];
   backTracking(target, [], 0);
   return ans;
@@ -51,7 +57,11 @@ export function combinationSum2(candidates: number[], target: number): number[][
     backTracking(target, combine, idx + 1);
 
     if (target - candidates[idx] >= 0) {
-      backTracking(target - candidates[idx], [...combine, candidates[idx]], idx);
+      backTracking(
+        target - candidates[idx],
+        [...combine, candidates[idx]],
+        idx
+      );
     }
   }
 }

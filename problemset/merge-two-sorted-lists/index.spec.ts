@@ -11,7 +11,9 @@ describe('合并两个有序链表', () => {
   });
 });
 
-function testCase(fn: (l1: ListNode | null, l2: ListNode | null) => ListNode | null) {
+function testCase(
+  fn: (l1: ListNode | null, l2: ListNode | null) => ListNode | null
+) {
   test('示例一', () => {
     const l1: ListNode | null = createListNode([1, 2, 4]);
     const l2: ListNode | null = createListNode([1, 3, 4]);

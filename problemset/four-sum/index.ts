@@ -21,7 +21,8 @@ export function fourSum(nums: number[], target: number): number[][] {
     if (nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3] > target) break;
 
     // 如果与最后三位相加还小于target的话，跳过本次循环
-    if (nums[i] + nums[len - 3] + nums[len - 2] + nums[len - 1] < target) continue;
+    if (nums[i] + nums[len - 3] + nums[len - 2] + nums[len - 1] < target)
+      continue;
 
     for (let j: number = i + 1; j < len - 2; j++) {
       if (j > i + 1 && nums[j] === nums[j - 1]) continue;

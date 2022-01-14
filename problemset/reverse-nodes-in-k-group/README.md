@@ -61,7 +61,10 @@
  * @param k {number}
  * @return {ListNode | null}
  */
-export function reverseKGroup(head: ListNode | null, k: number): ListNode | null {
+export function reverseKGroup(
+  head: ListNode | null,
+  k: number
+): ListNode | null {
   if (k === 1 || !head || !head.next) return head;
 
   const ans: ListNode = new ListNode(0);

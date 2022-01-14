@@ -1,4 +1,8 @@
-import { findMedianSortedArrays, findMedianSortedArrays2, findMedianSortedArrays3 } from './index';
+import {
+  findMedianSortedArrays,
+  findMedianSortedArrays2,
+  findMedianSortedArrays3
+} from './index';
 
 describe('寻找两个正序数组的中位数', () => {
   describe('暴力解法', () => {

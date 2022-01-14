@@ -13,7 +13,17 @@ describe('电话号码的字母组合', () => {
 function testCase(fn: (digits: string) => string[]) {
   test('示例一', () => {
     const digits = '23';
-    const expected: string[] = ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf'];
+    const expected: string[] = [
+      'ad',
+      'ae',
+      'af',
+      'bd',
+      'be',
+      'bf',
+      'cd',
+      'ce',
+      'cf'
+    ];
 
     checkExpected(fn(digits), expected);
   });

@@ -98,9 +98,42 @@ export function intToRoman2(num: number): string {
  */
 export function intToRoman3(num: number): string {
   const thousands: string[] = ['', 'M', 'MM', 'MMM'];
-  const hundreds: string[] = ['', 'C', 'CC', 'CCC', 'CD', 'D', 'DC', 'DCC', 'DCCC', 'CM'];
-  const tens: string[] = ['', 'X', 'XX', 'XXX', 'XL', 'L', 'LX', 'LXX', 'LXXX', 'XC'];
-  const ones: string[] = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'];
+  const hundreds: string[] = [
+    '',
+    'C',
+    'CC',
+    'CCC',
+    'CD',
+    'D',
+    'DC',
+    'DCC',
+    'DCCC',
+    'CM'
+  ];
+  const tens: string[] = [
+    '',
+    'X',
+    'XX',
+    'XXX',
+    'XL',
+    'L',
+    'LX',
+    'LXX',
+    'LXXX',
+    'XC'
+  ];
+  const ones: string[] = [
+    '',
+    'I',
+    'II',
+    'III',
+    'IV',
+    'V',
+    'VI',
+    'VII',
+    'VIII',
+    'IX'
+  ];
 
   const roman: string[] = [];
   roman.push(thousands[Math.floor(num / 1000)]);

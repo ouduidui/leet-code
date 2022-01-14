@@ -6,7 +6,10 @@
  * @param nums2 {Array<number>}
  * @return {number}
  */
-export function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
+export function findMedianSortedArrays(
+  nums1: number[],
+  nums2: number[]
+): number {
   // 合并数组
   let nums: number[] = [...nums1, ...nums2];
 
@@ -32,7 +35,10 @@ export function findMedianSortedArrays(nums1: number[], nums2: number[]): number
  * @param nums2 {Array<number>}
  * @return {number}
  */
-export function findMedianSortedArrays2(nums1: number[], nums2: number[]): number {
+export function findMedianSortedArrays2(
+  nums1: number[],
+  nums2: number[]
+): number {
   // 总长度
   const len: number = nums1.length + nums2.length;
 
@@ -52,7 +58,12 @@ export function findMedianSortedArrays2(nums1: number[], nums2: number[]): numbe
    * @param middleIdx {number}
    * @param isEven {boolean} 是否为偶数
    */
-  function getMedian(nums1: Array<number>, nums2: Array<number>, middleIdx: number, isEven = false): number {
+  function getMedian(
+    nums1: Array<number>,
+    nums2: Array<number>,
+    middleIdx: number,
+    isEven = false
+  ): number {
     let idx1 = 0;
     let idx2 = 0;
 
@@ -67,7 +78,9 @@ export function findMedianSortedArrays2(nums1: number[], nums2: number[]): numbe
 
       if (num1 === num2) {
         // 如果num1等于num2，判断idx1和idx2是否来到临界值，如果是的话，只进一位；如果不是的话进两位
-        idx1 + idx2 < middleIdx ? (prevMedian = median = num1) : setMedian(num1);
+        idx1 + idx2 < middleIdx
+          ? (prevMedian = median = num1)
+          : setMedian(num1);
         idx1++;
         idx2++;
       } else if (num1 < num2 || (!num2 && num2 !== 0)) {
@@ -105,7 +118,10 @@ export function findMedianSortedArrays2(nums1: number[], nums2: number[]): numbe
  * @param nums2 {Array<number>}
  * @return {number}
  */
-export function findMedianSortedArrays3(nums1: number[], nums2: number[]): number {
+export function findMedianSortedArrays3(
+  nums1: number[],
+  nums2: number[]
+): number {
   // 确保nums1长度小于nums2
   if (nums1.length > nums2.length) {
     return findMedianSortedArrays3(nums2, nums1);

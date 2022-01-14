@@ -69,7 +69,9 @@ export function isNumber2(s: string): boolean {
     [CharType.CHAR_NUMBER, State.STATE_FRACTION],
     [CharType.CHAR_EXP, State.STATE_EXP]
   ]);
-  const pointWithoutIntMap = new Map<CharType, State>([[CharType.CHAR_NUMBER, State.STATE_FRACTION]]);
+  const pointWithoutIntMap = new Map<CharType, State>([
+    [CharType.CHAR_NUMBER, State.STATE_FRACTION]
+  ]);
   const fractionMap = new Map<CharType, State>([
     [CharType.CHAR_NUMBER, State.STATE_FRACTION],
     [CharType.CHAR_EXP, State.STATE_EXP]
@@ -78,8 +80,12 @@ export function isNumber2(s: string): boolean {
     [CharType.CHAR_NUMBER, State.STATE_EXP_NUMBER],
     [CharType.CHAR_SIGN, State.STATE_EXP_SIGN]
   ]);
-  const expSignMap = new Map<CharType, State>([[CharType.CHAR_NUMBER, State.STATE_EXP_NUMBER]]);
-  const expNumberMap = new Map<CharType, State>([[CharType.CHAR_NUMBER, State.STATE_EXP_NUMBER]]);
+  const expSignMap = new Map<CharType, State>([
+    [CharType.CHAR_NUMBER, State.STATE_EXP_NUMBER]
+  ]);
+  const expNumberMap = new Map<CharType, State>([
+    [CharType.CHAR_NUMBER, State.STATE_EXP_NUMBER]
+  ]);
   const transfer = new Map<State, Map<CharType, State>>([
     [State.STATE_INITIAL, initialMap],
     [State.STATE_INT_SIGN, intSignMap],
@@ -105,5 +111,10 @@ export function isNumber2(s: string): boolean {
     }
   }
 
-  return [State.STATE_INTEGER, State.STATE_POINT, State.STATE_FRACTION, State.STATE_EXP_NUMBER].includes(state);
+  return [
+    State.STATE_INTEGER,
+    State.STATE_POINT,
+    State.STATE_FRACTION,
+    State.STATE_EXP_NUMBER
+  ].includes(state);
 }

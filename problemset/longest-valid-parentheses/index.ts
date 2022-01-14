@@ -87,7 +87,8 @@ export function longestValidParentheses3(s: string): number {
         dp[i] = (i >= 2 ? dp[i - 2] : 0) + 2;
       } else if (i - dp[i - 1] > 0 && s[i - dp[i - 1] - 1] === '(') {
         // 当多个')'一起时，同时前面还有一个'('与s[i]组合的话，dp[i]为dp[i - 1] + dp[i - dp[i - 1] - 2] + 2
-        dp[i] = dp[i - 1] + (i - dp[i - 1] >= 2 ? dp[i - dp[i - 1] - 2] : 0) + 2;
+        dp[i] =
+          dp[i - 1] + (i - dp[i - 1] >= 2 ? dp[i - dp[i - 1] - 2] : 0) + 2;
       }
       ans = Math.max(ans, dp[i]);
     }

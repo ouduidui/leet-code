@@ -58,14 +58,21 @@ export function mergeKLists2(lists: Array<ListNode | null>): ListNode | null {
    * @param right {number}
    * @return {ListNode | null}
    */
-  function merge(localList: Array<ListNode | null>, left: number, right: number): ListNode | null {
+  function merge(
+    localList: Array<ListNode | null>,
+    left: number,
+    right: number
+  ): ListNode | null {
     if (left === right) return localList[left];
     if (left > right) return null;
 
     // 中间值
     const mid: number = (left + right) >> 1;
 
-    return mergeTwoLists(merge(localList, left, mid), merge(localList, mid + 1, right));
+    return mergeTwoLists(
+      merge(localList, left, mid),
+      merge(localList, mid + 1, right)
+    );
   }
 
   /**
@@ -74,7 +81,10 @@ export function mergeKLists2(lists: Array<ListNode | null>): ListNode | null {
    * @param listTwo {ListNode | number}
    * @return {ListNode | null}
    */
-  function mergeTwoLists(listOne: ListNode | null, listTwo: ListNode | null): ListNode | null {
+  function mergeTwoLists(
+    listOne: ListNode | null,
+    listTwo: ListNode | null
+  ): ListNode | null {
     if (!listOne || !listTwo) return listOne ? listOne : listTwo;
 
     const head: ListNode = new ListNode(0);

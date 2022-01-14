@@ -75,8 +75,9 @@ export function climbStairs(n: number): number {
 
 <img src="http://latex.codecogs.com/gif.latex?M=\begin{bmatrix}1&1\\1&0\end{bmatrix}" />
 
-因此我们只要能快速计算出`M`的`n`次幂，就可以得到`f(n)`的值。如果直接求`M^n`的话，时间复杂度是`O(n)`，我们可以定义矩阵乘
-法，然后用快速幂算法来加速这里`M^n`的求取。
+因此我们只要能快速计算出`M`的`n`次幂，就可以得到`f(n)`的值。如果直接求`M^n`的话
+，时间复杂度是`O(n)`，我们可以定义矩阵乘法，然后用快速幂算法来加速这里`M^n`的求
+取。
 
 ```typescript
 /**

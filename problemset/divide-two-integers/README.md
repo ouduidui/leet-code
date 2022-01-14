@@ -6,11 +6,13 @@
 
 ## 题目
 
-给定两个整数，被除数 `dividend` 和除数 `divisor`。将两数相除，要求不使用乘法、除法和 `mod` 运算符。
+给定两个整数，被除数 `dividend` 和除数 `divisor`。将两数相除，要求不使用乘法、除
+法和 `mod` 运算符。
 
 返回被除数 `dividend` 除以除数 `divisor` 得到的商。
 
-整数除法的结果应当截去（`truncate`）其小数部分，例如：`truncate(8.345) = 8` 以及 `truncate(-2.7335) = -2`
+整数除法的结果应当截去（`truncate`）其小数部分，例如：`truncate(8.345) = 8` 以及
+`truncate(-2.7335) = -2`
 
 ### 示例
 
@@ -34,7 +36,10 @@
 
 ```typescript
 // 边缘检测
-function edgeCaseHandle(dividend: number, divisor: number): { isEdgeCage: boolean; value: number } {
+function edgeCaseHandle(
+  dividend: number,
+  divisor: number
+): { isEdgeCage: boolean; value: number } {
   const MAX_VALUE: number = 2 ** 31 - 1;
   const MIN_VALUE: number = -(2 ** 31);
 
@@ -45,7 +50,8 @@ function edgeCaseHandle(dividend: number, divisor: number): { isEdgeCage: boolea
   }
 
   // 考虑除数为最小值的情况
-  if (divisor === MIN_VALUE) return { isEdgeCage: true, value: dividend === MIN_VALUE ? 1 : 0 };
+  if (divisor === MIN_VALUE)
+    return { isEdgeCage: true, value: dividend === MIN_VALUE ? 1 : 0 };
 
   // 考虑被除数为 0 的情况
   if (dividend === 0) return { isEdgeCage: true, value: 0 };
@@ -87,7 +93,7 @@ export function divide(dividend: number, divisor: number): number {
 
   while (left <= right) {
     // 取中间值
-    const mid: number = left + ((right - left) >> 1) /* 除以2，向下取整 */;
+    const mid: number = left + ((right - left) >> 1); /* 除以2，向下取整 */
     // 判断 divisor * mid 是否大于等于dividend
     const check: boolean = quickAdd(divisor, mid, dividend);
 

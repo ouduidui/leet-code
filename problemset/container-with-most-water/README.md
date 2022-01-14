@@ -6,8 +6,9 @@
 
 ## 题目
 
-给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐标中的一个点(i,a<sub>i</sub>) 。在坐标内
-画 n 条垂直线，垂直线 `i` 的两个端点分别为( i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器
+给你 n 个非负整数 a<sub>1</sub>，a<sub>2</sub>，...，a<sub>n</sub>，每个数代表坐
+标中的一个点(i,a<sub>i</sub>) 。在坐标内画 n 条垂直线，垂直线 `i` 的两个端点分别
+为( i,a<sub>i</sub>) 和 (i, 0) 。找出其中的两条线，使得它们与`x`轴共同构成的容器
 可以容纳最多的水。
 
 > 说明：你不能倾斜容器。
@@ -87,7 +88,8 @@ export function maxArea2(height: number[]): number {
   while (leftIdx < rightIdx) {
     const leftHeight: number = height[leftIdx];
     const rightHeight: number = height[rightIdx];
-    const area: number = Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
+    const area: number =
+      Math.min(leftHeight, rightHeight) * (rightIdx - leftIdx);
     maxArea = maxArea < area ? area : maxArea;
 
     leftHeight <= rightHeight ? leftIdx++ : rightIdx--;

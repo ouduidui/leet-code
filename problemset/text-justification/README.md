@@ -6,12 +6,14 @@
 
 ## 题目
 
-给定一个单词数组和一个长度 `maxWidth`，重新排版单词，使其成为每行恰好有 `maxWidth` 个字符，且左右两端对齐的文本。
+给定一个单词数组和一个长度 `maxWidth`，重新排版单词，使其成为每行恰好有
+`maxWidth` 个字符，且左右两端对齐的文本。
 
-你应该使用“贪心算法”来放置给定的单词；也就是说，尽可能多地往每行中放置单词。必要时可用空格 `' '` 填充，使得每行恰好有
-`maxWidth` 个字符。
+你应该使用“贪心算法”来放置给定的单词；也就是说，尽可能多地往每行中放置单词。必要
+时可用空格 `' '` 填充，使得每行恰好有 `maxWidth` 个字符。
 
-要求尽可能均匀分配单词间的空格数量。如果某一行单词间的空格不能均匀分配，则左侧放置的空格数要多于右侧的空格数。
+要求尽可能均匀分配单词间的空格数量。如果某一行单词间的空格不能均匀分配，则左侧放
+置的空格数要多于右侧的空格数。
 
 文本的最后一行应为左对齐，且单词之间不插入 **额外的** 空格。
 
@@ -106,7 +108,10 @@ export function fullJustify(words: string[], maxWidth: number): string[] {
     // 且该行文本长度 sumLen 加上下一个单词的长度 words[right].length 再加上最小空格数 right-left
     // 小于等于最大长度 maxWidth 时
     // 移动右指标，并累加 sumLen
-    while (right < n && sumLen + words[right].length + right - left <= maxWidth) {
+    while (
+      right < n &&
+      sumLen + words[right].length + right - left <= maxWidth
+    ) {
       sumLen += words[right].length;
       right++;
     }
@@ -135,7 +140,9 @@ export function fullJustify(words: string[], maxWidth: number): string[] {
     // 多出的空格数
     const extraSpace = numSpaces % (numWords - 1);
     // 将多余的空格数填充到第一个单词后面
-    const s1 = words.slice(left, left + extraSpace + 1).join(blank(avgSpace + 1));
+    const s1 = words
+      .slice(left, left + extraSpace + 1)
+      .join(blank(avgSpace + 1));
     const s2 = words.slice(left + extraSpace + 1, right).join(blank(avgSpace));
     ans.push(s1 + blank(avgSpace) + s2);
   }

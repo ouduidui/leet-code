@@ -6,7 +6,10 @@ import { ListNode } from '../../utils/listNode';
  * @param l2 {ListNode}
  * @return {ListNode}
  */
-export function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function addTwoNumbers(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   let head: ListNode | null = null; // 存放链头
   let tail: ListNode | null = null; // 存放链尾
   let carry = 0; // 进位值

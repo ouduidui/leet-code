@@ -11,7 +11,9 @@ export function minDistance(word1: string, word2: string): number {
   // 当有一个字符为空串
   if (m * n === 0) return n + m;
 
-  const dp: number[][] = new Array(m + 1).fill([]).map(() => new Array(n + 1).fill(0));
+  const dp: number[][] = new Array(m + 1)
+    .fill([])
+    .map(() => new Array(n + 1).fill(0));
 
   for (let i = 0; i <= m; i++) dp[i][0] = i;
   for (let j = 0; j <= n; j++) dp[0][j] = j;

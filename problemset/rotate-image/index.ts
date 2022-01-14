@@ -51,7 +51,10 @@ export function rotate3(matrix: number[][]): void {
   // 水平翻转
   for (let i = 0; i < len >> 1; i++) {
     for (let j = 0; j < len; j++) {
-      [matrix[i][j], matrix[len - 1 - i][j]] = [matrix[len - 1 - i][j], matrix[i][j]];
+      [matrix[i][j], matrix[len - 1 - i][j]] = [
+        matrix[len - 1 - i][j],
+        matrix[i][j]
+      ];
     }
   }
 

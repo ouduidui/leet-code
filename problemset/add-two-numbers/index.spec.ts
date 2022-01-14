@@ -7,7 +7,9 @@ describe('两数相加', () => {
   });
 });
 
-function testCase(fn: (l1: ListNode | null, l2: ListNode | null) => ListNode | null) {
+function testCase(
+  fn: (l1: ListNode | null, l2: ListNode | null) => ListNode | null
+) {
   test('示例一', () => {
     const l1: ListNode | null = createListNode([2, 4, 3]);
     const l2: ListNode | null = createListNode([5, 6, 4]);

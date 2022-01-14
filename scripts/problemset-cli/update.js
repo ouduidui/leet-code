@@ -6,9 +6,18 @@ const update = ({ cn, en, difficulty, url }) => {
   en = initEn(en);
   const projectPath = getProjectName(en);
   if (createProject(projectPath)) {
-    fs.writeFileSync(`problemset/${projectPath}/index.ts`, `function ${getFunctionName(en)}() {}`);
-    fs.writeFileSync(`problemset/${projectPath}/README.md`, generateProblemMarkdown({ cn, difficulty, url }));
-    fs.writeFileSync(`problemset/${projectPath}/index.spec.ts`, `describe('${cn}', () => {});`);
+    fs.writeFileSync(
+      `problemset/${projectPath}/index.ts`,
+      `function ${getFunctionName(en)}() {}`
+    );
+    fs.writeFileSync(
+      `problemset/${projectPath}/README.md`,
+      generateProblemMarkdown({ cn, difficulty, url })
+    );
+    fs.writeFileSync(
+      `problemset/${projectPath}/index.spec.ts`,
+      `describe('${cn}', () => {});`
+    );
     updateReadMeMarkdown({ cn, projectPath });
   }
 };
@@ -25,7 +34,9 @@ const createProject = (name) => {
 const updateReadMeMarkdown = ({ cn, projectPath }) => {
   const count = fs.readdirSync('problemset').length - 1;
 
-  let md = fs.readFileSync(getPath('problemset/README.md'), { encoding: 'utf-8' });
+  let md = fs.readFileSync(getPath('problemset/README.md'), {
+    encoding: 'utf-8'
+  });
   md += `\r\n${count}. [${cn}](./${projectPath}/README.md)`;
   fs.writeFileSync(getPath('problemset/README.md'), md);
 };
@@ -41,7 +52,9 @@ const getProjectName = (en) => {
 const getFunctionName = (en) => {
   const arr = en.split(' ');
   return arr.reduce((acc, cur, idx) => {
-    return idx ? (acc += cur.slice(0, 1).toUpperCase() + cur.slice(1).toLowerCase()) : (acc += cur.toLowerCase());
+    return idx
+      ? (acc += cur.slice(0, 1).toUpperCase() + cur.slice(1).toLowerCase())
+      : (acc += cur.toLowerCase());
   }, '');
 };
 

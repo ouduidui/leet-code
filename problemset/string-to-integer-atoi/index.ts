@@ -119,7 +119,10 @@ export function myAtoi2(s: string): number {
 
       if (this.state === 'in_number') {
         this.ans = this.ans * 10 + Number(str);
-        this.ans = this.sign === 1 ? Math.min(this.ans, Math.pow(2, 31) - 1) : Math.min(this.ans, -Math.pow(-2, 31));
+        this.ans =
+          this.sign === 1
+            ? Math.min(this.ans, Math.pow(2, 31) - 1)
+            : Math.min(this.ans, -Math.pow(-2, 31));
       } else if (this.state === 'signed') {
         this.sign = str === '+' ? 1 : -1;
       }

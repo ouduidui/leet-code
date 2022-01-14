@@ -32,7 +32,12 @@ export function solveSudoku(board: string[][]): void {
     return true;
   }
 
-  function isValid(row: number, col: number, val: string, board: string[][]): boolean {
+  function isValid(
+    row: number,
+    col: number,
+    val: string,
+    board: string[][]
+  ): boolean {
     // 判断行有没有重复
     if (board[row].includes(val)) {
       return false;

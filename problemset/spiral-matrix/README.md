@@ -6,7 +6,8 @@
 
 ## 题目
 
-给你一个 `m` 行 `n` 列的矩阵 `matrix` ，请按照 **顺时针螺旋顺序** ，返回矩阵中的所有元素。
+给你一个 `m` 行 `n` 列的矩阵 `matrix` ，请按照 **顺时针螺旋顺序** ，返回矩阵中的
+所有元素。
 
 ### 示例
 
@@ -47,7 +48,9 @@ export function spiralOrder(matrix: number[][]): number[] {
   const total = rows * cols;
 
   // 已经走过的元素
-  const visited: boolean[][] = new Array(rows).fill([]).map(() => new Array(cols).fill(false));
+  const visited: boolean[][] = new Array(rows)
+    .fill([])
+    .map(() => new Array(cols).fill(false));
   const ans: number[] = [];
 
   // 方向走位
@@ -70,7 +73,15 @@ export function spiralOrder(matrix: number[][]): number[] {
     const nextCol = col + directions[directionIndex][1];
 
     // 判断是否走到头了
-    if (!(nextRow >= 0 && nextRow < rows && nextCol >= 0 && nextCol < cols && !visited[nextRow][nextCol])) {
+    if (
+      !(
+        nextRow >= 0 &&
+        nextRow < rows &&
+        nextCol >= 0 &&
+        nextCol < cols &&
+        !visited[nextRow][nextCol]
+      )
+    ) {
       // 当到头了，就需要调换方向
       directionIndex = (directionIndex + 1) % 4 /* 确保小于4 */;
     }

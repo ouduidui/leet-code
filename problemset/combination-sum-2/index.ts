@@ -4,7 +4,10 @@
  * @param candidates
  * @param target
  */
-export function combinationSum2(candidates: number[], target: number): number[][] {
+export function combinationSum2(
+  candidates: number[],
+  target: number
+): number[][] {
   const ans: number[][] = [];
   candidates.sort((a, b) => a - b);
   backTracking(0, [], 0);

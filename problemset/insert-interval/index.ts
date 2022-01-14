@@ -4,7 +4,10 @@
  * @param intervals
  * @param newInterval
  */
-export function insert(intervals: number[][], newInterval: number[]): number[][] {
+export function insert(
+  intervals: number[][],
+  newInterval: number[]
+): number[][] {
   if (!intervals.length) return [newInterval];
 
   const ans: number[][] = [];

@@ -7,7 +7,13 @@ describe('括号生成', () => {
 function testCase(fn: (n: number) => string[]) {
   test('示例一', () => {
     const n = 3;
-    const expected: string[] = ['((()))', '(()())', '(())()', '()(())', '()()()'];
+    const expected: string[] = [
+      '((()))',
+      '(()())',
+      '(())()',
+      '()(())',
+      '()()()'
+    ];
 
     checkExpected(fn(n), expected);
   });

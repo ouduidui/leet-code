@@ -7,7 +7,10 @@ import { ListNode } from '../../utils/listNode';
  * @param l2 {ListNode | null}
  * @return {ListNode | null}
  */
-export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function mergeTwoLists(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   if (!l1 && !l2) return null;
   if (!l1) return l2;
   if (!l2) return l1;
@@ -28,7 +31,10 @@ export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNod
  * @param l2 {ListNode | null}
  * @return {ListNode | null}
  */
-export function mergeTwoLists2(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function mergeTwoLists2(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   const prevHead: ListNode = new ListNode(-1);
 
   let prev: ListNode | null = prevHead;

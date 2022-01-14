@@ -6,10 +6,11 @@
 
 ## 题目
 
-给定一个无重复元素的正整数数组 `candidates` 和一个正整数 `target` ，找出 `candidates` 中所有可以使数字和为目标数
-`target` 的唯一组合。
+给定一个无重复元素的正整数数组 `candidates` 和一个正整数 `target` ，找出
+`candidates` 中所有可以使数字和为目标数 `target` 的唯一组合。
 
-`candidates` 中的数字可以无限制重复被选取。如果至少一个所选数字数量不同，则两种组合是唯一的。
+`candidates` 中的数字可以无限制重复被选取。如果至少一个所选数字数量不同，则两种
+组合是唯一的。
 
 对于给定的输入，保证和为 `target` 的唯一组合数少于 `150` 个。
 
@@ -61,7 +62,10 @@
  * @param candidates
  * @param target
  */
-export function combinationSum(candidates: number[], target: number): number[][] {
+export function combinationSum(
+  candidates: number[],
+  target: number
+): number[][] {
   const ans: number[][] = [];
   for (let i: number = 0; i < candidates.length; i++) {
     backTracking(i, [candidates[i]]);
@@ -96,7 +100,10 @@ export function combinationSum(candidates: number[], target: number): number[][]
  * @param candidates
  * @param target
  */
-export function combinationSum2(candidates: number[], target: number): number[][] {
+export function combinationSum2(
+  candidates: number[],
+  target: number
+): number[][] {
   const ans: number[][] = [];
   backTracking(target, [], 0);
   return ans;
@@ -112,7 +119,11 @@ export function combinationSum2(candidates: number[], target: number): number[][
     backTracking(target, combine, idx + 1);
 
     if (target - candidates[idx] >= 0) {
-      backTracking(target - candidates[idx], [...combine, candidates[idx]], idx);
+      backTracking(
+        target - candidates[idx],
+        [...combine, candidates[idx]],
+        idx
+      );
     }
   }
 }

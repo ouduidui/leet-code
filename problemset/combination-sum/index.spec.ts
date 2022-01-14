@@ -65,7 +65,10 @@ function checkTest(result: number[][], expected: number[][]) {
   expect(result.length).toBe(expected.length);
   for (let i = 0; i < expected.length; i++) {
     const idx = result.findIndex((r) => {
-      if (r.length === expected[i].length && expected[i].every((e) => r.includes(e))) {
+      if (
+        r.length === expected[i].length &&
+        expected[i].every((e) => r.includes(e))
+      ) {
         return true;
       }
     });

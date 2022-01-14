@@ -6,7 +6,8 @@
 
 ## 题目
 
-将两个升序链表合并为一个新的 **升序** 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
+将两个升序链表合并为一个新的 **升序** 链表并返回。新链表是通过拼接给定的两个链表
+的所有节点组成的。
 
 ### 示例
 
@@ -45,7 +46,10 @@
  * @param l2 {ListNode | null}
  * @return {ListNode | null}
  */
-export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function mergeTwoLists(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   if (!l1 && !l2) return null;
   if (!l1) return l2;
   if (!l2) return l1;
@@ -70,7 +74,10 @@ export function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNod
  * @param l2 {ListNode | null}
  * @return {ListNode | null}
  */
-export function mergeTwoLists2(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+export function mergeTwoLists2(
+  l1: ListNode | null,
+  l2: ListNode | null
+): ListNode | null {
   const prevHead: ListNode = new ListNode(-1);
 
   let prev: ListNode | null = prevHead;

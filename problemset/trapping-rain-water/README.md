@@ -6,7 +6,8 @@
 
 ## 题目
 
-给定 `n` 个非负整数表示每个宽度为 `1` 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。
+给定 `n` 个非负整数表示每个宽度为 `1` 的柱子的高度图，计算按此排列的柱子，下雨之
+后能接多少雨水。
 
 ### 示例
 
@@ -51,7 +52,8 @@ export function trap(height: number[]): number {
   // 记录从右到左扫描的最大值数组
   const rightMax = new Array(len).fill(0);
   for (let i = len - 1; i >= 0; i--) {
-    rightMax[i] = i === len - 1 ? height[i] : Math.max(rightMax[i + 1], height[i]);
+    rightMax[i] =
+      i === len - 1 ? height[i] : Math.max(rightMax[i + 1], height[i]);
   }
 
   let ans = 0;
@@ -77,7 +79,11 @@ export function trap2(height: number[]): number {
   let ans = 0;
   const stack: number[] = [];
   for (let i = 0; i < height.length; i++) {
-    while (stack.length /* 栈有值 */ && height[i] > height[stack[stack.length - 1]] /* 当前高度比上一个高度高的话 */) {
+    while (
+      stack.length /* 栈有值 */ &&
+      height[i] >
+        height[stack[stack.length - 1]] /* 当前高度比上一个高度高的话 */
+    ) {
       // 获取栈顶，并弹出
       const top = stack.pop() as number;
 

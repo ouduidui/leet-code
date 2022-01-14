@@ -45,7 +45,10 @@
  * @param n {number}
  * @return {ListNode | null}
  */
-export function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
+export function removeNthFromEnd(
+  head: ListNode | null,
+  n: number
+): ListNode | null {
   if (!head) return null;
 
   // 将ListNode转成数组
@@ -75,7 +78,10 @@ export function removeNthFromEnd(head: ListNode | null, n: number): ListNode | n
  * @param n {number}
  * @return {ListNode | null}
  */
-export function removeNthFromEnd2(head: ListNode | null, n: number): ListNode | null {
+export function removeNthFromEnd2(
+  head: ListNode | null,
+  n: number
+): ListNode | null {
   if (!head) return null;
 
   // 获取ListNode长度
@@ -120,7 +126,10 @@ export function removeNthFromEnd2(head: ListNode | null, n: number): ListNode | 
  * @param n {number}
  * @return {ListNode | null}
  */
-export function removeNthFromEnd3(head: ListNode | null, n: number): ListNode | null {
+export function removeNthFromEnd3(
+  head: ListNode | null,
+  n: number
+): ListNode | null {
   if (!head) return null;
 
   const dummy: ListNode = new ListNode(0, head);

@@ -6,8 +6,8 @@
 
 ## 题目
 
-给你一个由 `n` 个整数组成的数组`nums` ，和一个目标值 `target` 。请你找出并返回满足下述全部条件且不重复的四元
-组`[nums[a], nums[b], nums[c], nums[d]]` ：
+给你一个由 `n` 个整数组成的数组`nums` ，和一个目标值 `target` 。请你找出并返回满
+足下述全部条件且不重复的四元组`[nums[a], nums[b], nums[c], nums[d]]` ：
 
 - `0 <= a, b, c, d< n`
 - `a`、`b`、`c` 和 `d` 互不相同
@@ -56,7 +56,8 @@ export function fourSum(nums: number[], target: number): number[][] {
     if (nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3] > target) break;
 
     // 如果与最后三位相加还小于target的话，跳过本次循环
-    if (nums[i] + nums[len - 3] + nums[len - 2] + nums[len - 1] < target) continue;
+    if (nums[i] + nums[len - 3] + nums[len - 2] + nums[len - 1] < target)
+      continue;
 
     for (let j: number = i + 1; j < len - 2; j++) {
       if (j > i + 1 && nums[j] === nums[j - 1]) continue;

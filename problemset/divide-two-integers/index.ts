@@ -127,7 +127,10 @@ export function divide2(dividend: number, divisor: number): number {
  * @param dividend {number} 被除数
  * @param divisor {number} 除数
  */
-function edgeCaseHandle(dividend: number, divisor: number): { isEdgeCage: boolean; value: number } {
+function edgeCaseHandle(
+  dividend: number,
+  divisor: number
+): { isEdgeCage: boolean; value: number } {
   const MAX_VALUE: number = 2 ** 31 - 1;
   const MIN_VALUE: number = -(2 ** 31);
 
@@ -138,7 +141,8 @@ function edgeCaseHandle(dividend: number, divisor: number): { isEdgeCage: boolea
   }
 
   // 考虑除数为最小值的情况
-  if (divisor === MIN_VALUE) return { isEdgeCage: true, value: dividend === MIN_VALUE ? 1 : 0 };
+  if (divisor === MIN_VALUE)
+    return { isEdgeCage: true, value: dividend === MIN_VALUE ? 1 : 0 };
 
   // 考虑被除数为 0 的情况
   if (dividend === 0) return { isEdgeCage: true, value: 0 };
