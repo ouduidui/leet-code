@@ -103,6 +103,7 @@
 | 42. [接雨水](./problemset/trapping-rain-water/README.md)                                         | 困难 |
 | 68. [文本左右对齐](./problemset/text-justification/README.md)                                    | 困难 |
 | 75. [颜色分类](./problemset/sort-colors/README.md)                                               | 中等 |
+| 80. [删除有序数组中的重复项 II](./problemset/remove-duplicates-from-sorted-array-2/README.md)                                               | 中等 |
 
 ## 模拟
 
