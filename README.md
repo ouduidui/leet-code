@@ -42,6 +42,7 @@
 | 35. [搜索插入位置](./problemset/search-insert-position/README.md)                                                                | 简单 |
 | 69. [Sqrt(x)](./problemset/sqrtx/README.md)                                                                                      | 简单 |
 | 74. [搜索二维矩阵](./problemset/search-a-2d-matrix/README.md)                                                                    | 中等 |
+| 81. [搜索旋转排序数组 II](./problemset/search-in-rotated-sorted-array-2/README.md)                                                                   | 中等 |
 
 ## 排序
 

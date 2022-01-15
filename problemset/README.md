@@ -88,3 +88,4 @@ yarn cli:problemset
 78. [子集](./subsets/README.md)
 79. [单词搜索](./word-search/README.md)
 80. [删除有序数组中的重复项 II](./remove-duplicates-from-sorted-array-2/README.md)
+81. [搜索旋转排序数组 II](./search-in-rotated-sorted-array-2/README.md)
