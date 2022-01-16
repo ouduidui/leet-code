@@ -23,6 +23,7 @@
 | 25. [K 个一组翻转链表](./problemset/reverse-nodes-in-k-group/README.md)                  | 困难 |
 | 61. [旋转链表](./problemset/rotate-list/README.md)                                       | 中等 |
 | 82. [删除排序链表的重复元素 II](./problemset/remove-duplicates-from-sorted-list-2/README.md)                                    | 中等 |
+| 83. [删除排序列表中的重复元素](./problemset/remove-duplicates-from-sorted-list/README.md)                                   | 中等 |
 
 ## 滑动窗口
 

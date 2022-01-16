@@ -90,3 +90,4 @@ yarn cli:problemset
 80. [删除有序数组中的重复项 II](./remove-duplicates-from-sorted-array-2/README.md)
 81. [搜索旋转排序数组 II](./search-in-rotated-sorted-array-2/README.md)
 82. [删除排序链表的重复元素 II](./remove-duplicates-from-sorted-list-2/README.md)
+83. [删除排序列表中的重复元素](./remove-duplicates-from-sorted-list/README.md)
