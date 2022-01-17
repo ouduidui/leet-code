@@ -92,3 +92,4 @@ yarn cli:problemset
 82. [删除排序链表的重复元素 II](./remove-duplicates-from-sorted-list-2/README.md)
 83. [删除排序列表中的重复元素](./remove-duplicates-from-sorted-list/README.md)
 84. [柱状图中最大的矩形](./largest-rectangle-in-histogram/README.md)
+85. [最大矩形](./maximal-rectangle/README.md)
