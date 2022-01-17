@@ -32,13 +32,13 @@ const createProject = (name) => {
 };
 
 const updateReadMeMarkdown = ({ cn, projectPath }) => {
-  const count = fs.readdirSync('problemset').length - 1;
+  const count = fs.readdirSync('problemset').length;
 
-  let md = fs.readFileSync(getPath('problemset/README.md'), {
+  let md = fs.readFileSync(getPath('./PROBLEMS.md'), {
     encoding: 'utf-8'
   });
-  md += `\r\n${count}. [${cn}](./${projectPath}/README.md)`;
-  fs.writeFileSync(getPath('problemset/README.md'), md);
+  md += `\r\n${count}. [${cn}](./problemset/${projectPath}/README.md)`;
+  fs.writeFileSync(getPath('./PROBLEMS.md'), md);
 };
 
 const initEn = (en) => {
