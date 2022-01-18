@@ -2,7 +2,7 @@
   "name": "algorithm-brushing",
   "version": "1.0.0",
   "scripts": {
-    "create": "node scripts/problemset-cli",
+    "create": "node scripts/create",
     "test": "jest",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset",
     "fix": "eslint --ext .js,.ts --ignore-path .gitignore --fix problemset",
