@@ -24,6 +24,7 @@
 | 61. [旋转链表](../../problemset/rotate-list/README.md)                                       | 中等 |
 | 82. [删除排序链表的重复元素 II](../../problemset/remove-duplicates-from-sorted-list-2/README.md)                                    | 中等 |
 | 83. [删除排序列表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md)                                   | 中等 |
+| 86. [分隔链表](../../problemset/partition-list/README.md)                                 | 中等 |
 
 ## 滑动窗口
 
@@ -132,6 +133,7 @@
 | 67. [二进制求和](../../problemset/add-binary/README.md)                     | 简单 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md)           | 困难 |
 | 73. [矩阵置零](../../problemset/set-matrix-zeroes/README.md)                | 中等 |
+| 86. [分隔链表](../../problemset/partition-list/README.md)                                 | 中等 |
 
 ## 回溯
 
