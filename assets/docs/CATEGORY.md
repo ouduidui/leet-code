@@ -91,6 +91,7 @@
 | 64. [最小路径和](../../problemset/minimum-path-sum/README.md)                | 中等 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md)                     | 简单 |
 | 72. [编辑距离](../../problemset/edit-distance/README.md)                     | 困难 |
+| 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 
 ## 双指针
 
@@ -170,6 +171,7 @@
 | 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md)  | 简单 |
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
 | 50. [Pow(x, n)](../../problemset/powx-n/README.md)                         | 中等 |
+| 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 
 ## 堆
 
@@ -188,6 +190,7 @@
 | 题目                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
 | 28. [实现 strStr()](../../problemset/implement-strstr/README.md) | 简单 |
+| 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 
 ## 贪心算法
 

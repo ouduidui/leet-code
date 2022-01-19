@@ -86,3 +86,4 @@
 84. [柱状图中最大的矩形](../../problemset/largest-rectangle-in-histogram/README.md)
 85. [最大矩形](../../problemset/maximal-rectangle/README.md)
 86. [分隔链表](../../problemset/partition-list/README.md)
+87. [扰乱字符串](../../problemset/scramble-string/README.md)
