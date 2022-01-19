@@ -87,3 +87,4 @@
 85. [最大矩形](../../problemset/maximal-rectangle/README.md)
 86. [分隔链表](../../problemset/partition-list/README.md)
 87. [扰乱字符串](../../problemset/scramble-string/README.md)
+88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md)
