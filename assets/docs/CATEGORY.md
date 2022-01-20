@@ -69,6 +69,7 @@
 | 62. [不同路径](../../problemset/unique-paths/README.md)                  | 中等 |
 | 69. [Sqrt(x)](../../problemset/sqrtx/README.md)                          | 简单 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md)                 | 简单 |
+| 89. [格雷编码](../../problemset/gray-code/README.md)                | 中等 |
 
 ## 自动机
 
