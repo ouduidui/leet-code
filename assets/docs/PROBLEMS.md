@@ -90,3 +90,4 @@
 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md)
 89. [格雷编码](../../problemset/gray-code/README.md)
 90. [子集 II](../../problemset/subsets-2/README.md)
+91. [解码方法](../../problemset/decode-ways/README.md)

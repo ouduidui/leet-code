@@ -93,6 +93,7 @@
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md)                     | 简单 |
 | 72. [编辑距离](../../problemset/edit-distance/README.md)                     | 困难 |
 | 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
+| 91. [解码方法](../../problemset/decode-ways/README.md)                     | 中等 |
 
 ## 双指针
 
