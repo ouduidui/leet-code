@@ -25,6 +25,7 @@
 | 82. [删除排序链表的重复元素 II](../../problemset/remove-duplicates-from-sorted-list-2/README.md)                                    | 中等 |
 | 83. [删除排序列表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md)                                   | 中等 |
 | 86. [分隔链表](../../problemset/partition-list/README.md)                                 | 中等 |
+| 92. [反转链表 II](../../problemset/reverse-linked-list-2/README.md)                                 | 中等 |
 
 ## 滑动窗口
 
