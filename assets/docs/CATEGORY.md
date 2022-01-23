@@ -156,6 +156,7 @@
 | 78. [子集](../../problemset/subsets/README.md)                                             | 中等 |
 | 79. [单词搜索](../../problemset/word-search/README.md)                                            | 中等 |
 | 90. [子集 II](../../problemset/subsets-2/README.md)                                            | 中等 |
+| 93. [复原IP地址](../../problemset/restore-ip-addresses/README.md)                                            | 中等 |
 
 ## 栈
 
