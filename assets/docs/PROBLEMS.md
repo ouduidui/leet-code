@@ -93,3 +93,4 @@
 91. [解码方法](../../problemset/decode-ways/README.md)
 92. [反转链表 II](../../problemset/reverse-linked-list-2/README.md)
 93. [复原IP地址](../../problemset/restore-ip-addresses/README.md)
+94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)

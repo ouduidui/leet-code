@@ -169,6 +169,7 @@
 | 71. [简化路径](../../problemset/simplify-path/README.md)                 | 中等 |
 | 84. [柱状图中最大的矩形](../../problemset/largest-rectangle-in-histogram/README.md)                 | 困难 |
 | 85. [最大矩形](../../problemset/maximal-rectangle/README.md)                 | 困难 |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
 
 ## 递归 & 迭代
 
@@ -178,6 +179,7 @@
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
 | 50. [Pow(x, n)](../../problemset/powx-n/README.md)                         | 中等 |
 | 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
 
 ## 堆
 
@@ -205,3 +207,9 @@
 | 45. [跳跃游戏 II](../../problemset/jump-game-2/README.md)         | 中等 |
 | 55. [跳跃游戏](../../problemset/jump-game/README.md)              | 中等 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
+
+## 二叉树
+
+| 题目                                                          | 难度 |
+| ------------------------------------------------------------- | ---- |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
