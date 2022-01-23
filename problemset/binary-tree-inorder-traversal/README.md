@@ -53,6 +53,54 @@
 
 ## 解法
 
+### 递归
+
+```typescript
+/**
+ * 递归
+ * @desc 时间复杂度 O(N)  空间复杂度 O(N)
+ * @param root {TreeNode | null}
+ * @return {number[]}
+ */
+export function inorderTraversal(root: TreeNode | null): number[] {
+  return dfs(root);
+
+  function dfs(tree: TreeNode | null): number[] {
+    if (tree === null) return [];
+    return [...dfs(tree.left), tree.val, ...dfs(tree.right)];
+  }
+}
+```
+
+### 迭代 + 栈
+
+```typescript
+/**
+ * 迭代 + 栈
+ * @desc 时间复杂度 O(N)  空间复杂度 O(N)
+ * @param root {TreeNode | null}
+ * @return {number[]}
+ */
+export function inorderTraversal2(root: TreeNode | null): number[] {
+  const res: number[] = [];
+  const stack: TreeNode[] = [];
+  while (root || stack.length) {
+    while (root) {
+      stack.push(root);
+      root = root.left;
+    }
+
+    const tree = stack.pop() as TreeNode;
+    res.push(tree.val);
+    root = tree.right;
+  }
+
+  return res;
+}
+```
+
+### Morris 遍历算法
+
 **Morris 遍历算法**是另一种遍历二叉树的方法，它能将非递归的中序遍历空间复杂度降为 `O(1)`。
 
 **Morris 遍历算法**整体步骤如下（假设当前遍历到的节点为 `x`）：
