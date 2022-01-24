@@ -24,7 +24,11 @@ export function createTreeNode(array: TreeNodeArrayItem[]): TreeNode | null {
         stack.pop();
       } else {
         i++;
-        stack.push((parent.right = new TreeNode(array[i]!)));
+        if (array[i] !== null) {
+          stack.push((parent.right = new TreeNode(array[i]!)));
+        } else {
+          stack.pop();
+        }
       }
     } else if (parent.left === null) {
       stack.push((parent.left = new TreeNode(array[i]!)));

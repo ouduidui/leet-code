@@ -157,6 +157,7 @@
 | 79. [单词搜索](../../problemset/word-search/README.md)                                            | 中等 |
 | 90. [子集 II](../../problemset/subsets-2/README.md)                                            | 中等 |
 | 93. [复原IP地址](../../problemset/restore-ip-addresses/README.md)                                            | 中等 |
+| 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
 
 ## 栈
 
@@ -213,3 +214,4 @@
 | 题目                                                          | 难度 |
 | ------------------------------------------------------------- | ---- |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
+| 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
