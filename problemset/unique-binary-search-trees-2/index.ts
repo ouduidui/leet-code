@@ -4,7 +4,7 @@ import { TreeNode } from '../../utils/treeNode';
  * 回溯
  * @desc 时间复杂度 O(4^N / √N)   空间复杂度 O(4^N / √N)
  * @param n {number}
- * @desc {Array<TreeNode | null>}
+ * @return {Array<TreeNode | null>}
  */
 export function generateTrees(n: number): Array<TreeNode | null> {
   if (n === 0) return [];

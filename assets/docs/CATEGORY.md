@@ -71,6 +71,7 @@
 | 69. [Sqrt(x)](../../problemset/sqrtx/README.md)                          | 简单 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md)                 | 简单 |
 | 89. [格雷编码](../../problemset/gray-code/README.md)                | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
 
 ## 自动机
 
@@ -95,6 +96,7 @@
 | 72. [编辑距离](../../problemset/edit-distance/README.md)                     | 困难 |
 | 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 | 91. [解码方法](../../problemset/decode-ways/README.md)                     | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
 
 ## 双指针
 
@@ -158,6 +160,7 @@
 | 90. [子集 II](../../problemset/subsets-2/README.md)                                            | 中等 |
 | 93. [复原IP地址](../../problemset/restore-ip-addresses/README.md)                                            | 中等 |
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
 
 ## 栈
 
@@ -215,3 +218,4 @@
 | ------------------------------------------------------------- | ---- |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
