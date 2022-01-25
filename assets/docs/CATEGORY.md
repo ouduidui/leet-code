@@ -187,6 +187,7 @@
 | 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |
+| 100. [相同的树](../../problemset/same-tree/README.md)         | 简单 |
 
 ## 堆
 
@@ -224,3 +225,4 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |
 | 99. [恢复二叉搜索树](../../problemset/recover-binary-search-tree/README.md)         | 中等 |
+| 100. [相同的树](../../problemset/same-tree/README.md)         | 简单 |
