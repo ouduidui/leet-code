@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const { log } = require('./log');
+const { log } = require('../utils/log');
 
-const update = ({ cn, en, difficulty, url }) => {
+const update = ({ cn, en, difficulty, url, id }) => {
   en = initEn(en);
   const projectPath = getProjectName(en);
   if (createProject(projectPath)) {
@@ -18,7 +18,8 @@ const update = ({ cn, en, difficulty, url }) => {
       `problemset/${projectPath}/index.spec.ts`,
       `describe('${cn}', () => {});`
     );
-    updateReadMeMarkdown({ cn, projectPath });
+    const problems = updateDataJson({ cn, en, difficulty, url, id });
+    updateReadMeMarkdown(problems);
   }
 };
 
@@ -31,15 +32,34 @@ const createProject = (name) => {
   return true;
 };
 
-const updateReadMeMarkdown = ({ cn, projectPath }) => {
-  const count = fs.readdirSync('problemset').length;
+const updateReadMeMarkdown = (problems) => {
+  let md = `# 题库目录\r\n`;
 
-  const problemMarkdownPath = './assets/docs/PROBLEMS.md';
-  let md = fs.readFileSync(getPath(problemMarkdownPath), {
-    encoding: 'utf-8'
+  problems.forEach((problem) => {
+    md += `\r\n${problem.id}. [${problem.title.cn}](../../problemset/${problem.title.en}/README.md)`;
   });
-  md += `\r\n${count}. [${cn}](../../problemset/${projectPath}/README.md)`;
+  const problemMarkdownPath = './assets/docs/PROBLEMS.md';
   fs.writeFileSync(getPath(problemMarkdownPath), md);
+};
+
+const updateDataJson = ({ cn, en, difficulty, url, id }) => {
+  const data = fs.readFileSync('./assets/data/problems.json', 'utf-8');
+  const arr = JSON.parse(data);
+  arr.push({
+    id: Number(id),
+    title: {
+      cn,
+      en
+    },
+    difficulty,
+    url,
+    path: `../../problemset/${en}/README.md`
+  });
+  arr.sort((a, b) => a.id - b.id);
+
+  fs.writeFileSync('./assets/data/problems.json', JSON.stringify(arr, null, 2));
+
+  return arr;
 };
 
 const initEn = (en) => {

@@ -1,11 +1,11 @@
 const clear = require('clear'); // 清屏
-const { log, figletLog } = require('./log');
-const { inquirer } = require('./inquirer');
+const { figletLog } = require('../utils/log');
+const inquirer = require('./inquirer');
 const update = require('./update');
 
-module.exports = init = async () => {
+module.exports = async () => {
   clear();
-  await figletLog('ALGORITHM BRUSHING');
-  const { cn, en, url, difficulty } = await inquirer();
-  update({ cn, en, url, difficulty });
+  await figletLog('CREATE PROBLEM');
+  const { cn, en, url, difficulty, id } = await inquirer();
+  update({ cn, en, url, difficulty, id });
 };

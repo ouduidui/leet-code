@@ -1,9 +1,15 @@
 const inquirer = require('inquirer');
+const { log } = require('../utils/log');
 
-exports.inquirer = () => {
+module.exports = () => {
   return new Promise((resolve, reject) => {
     inquirer
       .prompt([
+        {
+          type: 'input',
+          name: 'id',
+          message: '请输入算法题序号'
+        },
         {
           type: 'input',
           name: 'cn',
@@ -44,7 +50,7 @@ exports.inquirer = () => {
         resolve(res);
       })
       .catch((err) => {
-        console.log(err.message);
+        log(err.message, 'red');
         reject(err);
       });
   });
