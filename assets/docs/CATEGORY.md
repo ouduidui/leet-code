@@ -223,3 +223,4 @@
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |
+| 99. [恢复二叉搜索树](../../problemset/recover-binary-search-tree/README.md)         | 中等 |
