@@ -175,6 +175,7 @@
 | 84. [柱状图中最大的矩形](../../problemset/largest-rectangle-in-histogram/README.md)                 | 困难 |
 | 85. [最大矩形](../../problemset/maximal-rectangle/README.md)                 | 困难 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
+| 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |
 
 ## 递归 & 迭代
 
@@ -185,6 +186,7 @@
 | 50. [Pow(x, n)](../../problemset/powx-n/README.md)                         | 中等 |
 | 87. [扰乱字符串](../../problemset/scramble-string/README.md)                     | 困难 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
+| 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |
 
 ## 堆
 
@@ -220,3 +222,4 @@
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)         | 简单 |
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)         | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)         | 中等 |
+| 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)         | 中等 |

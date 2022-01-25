@@ -97,3 +97,4 @@
 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md)
 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)
 97. [交错字符串](../../problemset/interleaving-string/README.md)
+98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md)
