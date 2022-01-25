@@ -11,9 +11,9 @@ function testCase(fn: (n: number) => Array<TreeNode | null>) {
     const expected = [
       createTreeNode([1, null, 2, null, 3]),
       createTreeNode([1, null, 3, 2]),
-      createTreeNode([2, 1, null, null, 3]),
-      createTreeNode([3, 1, null, 2]),
-      createTreeNode([3, 2, 1])
+      createTreeNode([2, 1, 3]),
+      createTreeNode([3, 1, null, null, 2]),
+      createTreeNode([3, 2, null, 1])
     ];
 
     expect(fn(n)).toStrictEqual(expected);

@@ -12,31 +12,28 @@ export class TreeNode {
 
 type TreeNodeArrayItem = number | null;
 
+/**
+ * 数组转树
+ * @param array
+ */
 export function createTreeNode(array: TreeNodeArrayItem[]): TreeNode | null {
   if (!array.length || array[0] === null) return null;
-  const stack: TreeNode[] = [new TreeNode(array[0])];
+  const rootTree = new TreeNode(array.shift()!);
+  const stack: TreeNode[] = [rootTree];
 
-  let i = 1;
-  while (i < array.length) {
-    const parent = stack[stack.length - 1];
-    if (array[i] === null) {
-      if (parent.left !== null) {
-        stack.pop();
-      } else {
-        i++;
-        if (array[i] !== null) {
-          stack.push((parent.right = new TreeNode(array[i]!)));
-        } else {
-          stack.pop();
-        }
-      }
-    } else if (parent.left === null) {
-      stack.push((parent.left = new TreeNode(array[i]!)));
-    } else if (parent.right === null) {
-      stack.push((parent.right = new TreeNode(array[i]!)));
+  while (array.length) {
+    const tree = stack.pop()!;
+    const num1 = array.shift();
+    if (num1) {
+      tree.left = new TreeNode(num1);
+      stack.unshift(tree.left);
     }
-    i++;
+    const num2 = array.shift();
+    if (num2) {
+      tree.right = new TreeNode(num2);
+      stack.unshift(tree.right);
+    }
   }
 
-  return stack[0];
+  return rootTree;
 }
