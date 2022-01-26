@@ -817,6 +817,12 @@
         "title": "对称二叉树",
         "path": "../../problemset/symmetric-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 102,
+        "title": "二叉树的层序遍历",
+        "path": "../../problemset/binary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
       }
     ]
   },

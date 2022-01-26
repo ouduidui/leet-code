@@ -190,6 +190,7 @@
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md) | 中等 |
 | 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
+| 102. [二叉树的层序遍历](../../problemset/binary-tree-level-order-traversal/README.md) | 中等 |
 
 ## 堆
 
