@@ -201,4 +201,6 @@
 
 [100. 相同的树](../../problemset/same-tree/README.md)
 
+[101. 对称二叉树](../../problemset/symmetric-tree/README.md)
+
 [2013. 检测正方形](../../problemset/detect-squares/README.md)

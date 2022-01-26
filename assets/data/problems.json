@@ -1000,6 +1000,16 @@
     "path": "../../problemset/same-tree/README.md"
   },
   {
+    "id": 101,
+    "title": {
+      "cn": "对称二叉树",
+      "en": "symmetric-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/symmetric-tree/",
+    "path": "../../problemset/symmetric-tree/README.md"
+  },
+  {
     "id": 2013,
     "title": {
       "cn": "检测正方形",
