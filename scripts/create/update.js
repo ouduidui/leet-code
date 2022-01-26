@@ -18,7 +18,13 @@ const update = ({ cn, en, difficulty, url, id }) => {
       `problemset/${projectPath}/index.spec.ts`,
       `describe('${cn}', () => {});`
     );
-    const problems = updateDataJson({ cn, en, difficulty, url, id });
+    const problems = updateDataJson({
+      cn,
+      en: projectPath,
+      difficulty,
+      url,
+      id
+    });
     updateReadMeMarkdown(problems);
   }
 };
