@@ -42,7 +42,7 @@ const updateReadMeMarkdown = (problems) => {
   let md = `# 题库目录\r\n`;
 
   problems.forEach((problem) => {
-    md += `\r\n${problem.id}. [${problem.title.cn}](../../problemset/${problem.title.en}/README.md)`;
+    md += `\r\n\r\n[${problem.id}. ${problem.title.cn}](../../problemset/${problem.title.en}/README.md)`;
   });
   const problemMarkdownPath = './assets/docs/PROBLEMS.md';
   fs.writeFileSync(getPath(problemMarkdownPath), md);
