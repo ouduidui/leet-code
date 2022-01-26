@@ -998,5 +998,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/same-tree/",
     "path": "../../problemset/same-tree/README.md"
+  },
+  {
+    "id": 2013,
+    "title": {
+      "cn": "检测正方形",
+      "en": "detect-squares"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/detect-squares/",
+    "path": "../../problemset/detect-squares/README.md"
   }
 ]

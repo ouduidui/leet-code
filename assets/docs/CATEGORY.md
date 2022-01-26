@@ -10,7 +10,7 @@
 | 30. [串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
 | 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
 | 41. [缺失的第一个正数](../../problemset/first-missing-positive/README.md) | 困难 |
-| 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
+| 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
 
 ## 链表
 
@@ -226,10 +226,4 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md) | 中等 |
 | 99. [恢复二叉搜索树](../../problemset/recover-binary-search-tree/README.md) | 中等 |
-| 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
-
-## 测试
-
-| 题目 | 难度 |
-| ---- | ---- |
 | 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
