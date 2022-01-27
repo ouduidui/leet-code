@@ -193,6 +193,7 @@
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 | 102. [二叉树的层序遍历](../../problemset/binary-tree-level-order-traversal/README.md) | 中等 |
 | 103. [二叉树的锯齿形层序遍历](../../problemset/binary-tree-zigzag-level-order-traversal/README.md) | 中等 |
+| 104. [二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md) | 简单 |
 
 ## 堆
 

@@ -207,6 +207,8 @@
 
 [103. 二叉树的锯齿形层序遍历](../../problemset/binary-tree-zigzag-level-order-traversal/README.md)
 
+[104. 二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md)
+
 [2013. 检测正方形](../../problemset/detect-squares/README.md)
 
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)

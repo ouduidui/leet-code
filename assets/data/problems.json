@@ -1030,6 +1030,16 @@
     "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md"
   },
   {
+    "id": 104,
+    "title": {
+      "cn": "二叉树的最大深度",
+      "en": "maximum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/",
+    "path": "../../problemset/maximum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": 2013,
     "title": {
       "cn": "检测正方形",
