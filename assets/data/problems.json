@@ -1028,5 +1028,15 @@
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/detect-squares/",
     "path": "../../problemset/detect-squares/README.md"
+  },
+  {
+    "id": 2047,
+    "title": {
+      "cn": "句子中的有效单词数",
+      "en": "number-of-valid-words-in-a-sentence"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/",
+    "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
   }
 ]

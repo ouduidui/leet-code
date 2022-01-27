@@ -206,3 +206,5 @@
 [102. 二叉树的层序遍历](../../problemset/binary-tree-level-order-traversal/README.md)
 
 [2013. 检测正方形](../../problemset/detect-squares/README.md)
+
+[2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)

@@ -143,6 +143,7 @@
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 73. [矩阵置零](../../problemset/set-matrix-zeroes/README.md) | 中等 |
 | 86. [分隔链表](../../problemset/partition-list/README.md) | 中等 |
+| 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
 
 ## 回溯
 

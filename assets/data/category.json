@@ -610,6 +610,12 @@
         "title": "分隔链表",
         "path": "../../problemset/partition-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 2047,
+        "title": "句子中的有效单词数",
+        "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md",
+        "difficulty": "简单"
       }
     ]
   },
