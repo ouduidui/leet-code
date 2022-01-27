@@ -829,6 +829,12 @@
         "title": "二叉树的层序遍历",
         "path": "../../problemset/binary-tree-level-order-traversal/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 103,
+        "title": "二叉树的锯齿形层序遍历",
+        "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md",
+        "difficulty": "中等"
       }
     ]
   },

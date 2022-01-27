@@ -1020,6 +1020,16 @@
     "path": "../../problemset/binary-tree-level-order-traversal/README.md"
   },
   {
+    "id": 103,
+    "title": {
+      "cn": "二叉树的锯齿形层序遍历",
+      "en": "binary-tree-zigzag-level-order-traversal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md"
+  },
+  {
     "id": 2013,
     "title": {
       "cn": "检测正方形",
