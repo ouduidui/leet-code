@@ -1040,6 +1040,16 @@
     "path": "../../problemset/maximum-depth-of-binary-tree/README.md"
   },
   {
+    "id": 105,
+    "title": {
+      "cn": "从前序与中序遍历序列构造二叉树",
+      "en": "construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
+  },
+  {
     "id": 1996,
     "title": {
       "cn": "游戏中弱角色的数量",

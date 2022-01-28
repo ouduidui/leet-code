@@ -209,6 +209,8 @@
 
 [104. 二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md)
 
+[105. 从前序与中序遍历序列构造二叉树](../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md)
+
 [1996. 游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md)
 
 [2013. 检测正方形](../../problemset/detect-squares/README.md)

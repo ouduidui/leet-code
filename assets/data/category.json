@@ -847,6 +847,12 @@
         "title": "二叉树的最大深度",
         "path": "../../problemset/maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 105,
+        "title": "从前序与中序遍历序列构造二叉树",
+        "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "difficulty": "中等"
       }
     ]
   },
