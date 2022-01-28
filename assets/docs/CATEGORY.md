@@ -56,6 +56,7 @@
 | 6. [Z 字形变换](../../problemset/zigzag-conversion/README.md) | 中等 |
 | 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 56. [合并区间](../../problemset/merge-intervals/README.md) | 中等 |
+| 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
 ## 数学
 

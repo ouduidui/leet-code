@@ -213,6 +213,12 @@
         "title": "合并区间",
         "path": "../../problemset/merge-intervals/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1996,
+        "title": "游戏中弱角色的数量",
+        "path": "../../problemset/the-number-of-weak-characters-in-the-game/README.md",
+        "difficulty": "中等"
       }
     ]
   },
