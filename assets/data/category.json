@@ -855,6 +855,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 106,
+        "title": "从中序与后序遍历序列构造二叉树",
+        "path": "../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
