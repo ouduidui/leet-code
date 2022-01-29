@@ -853,6 +853,12 @@
         "title": "从前序与中序遍历序列构造二叉树",
         "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1765,
+        "title": "地图中的最高点",
+        "path": "../../problemset/map-of-highest-peak/README.md",
+        "difficulty": "中等"
       }
     ]
   },

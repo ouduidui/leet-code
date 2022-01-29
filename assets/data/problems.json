@@ -1050,6 +1050,16 @@
     "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
   },
   {
+    "id": 1765,
+    "title": {
+      "cn": "地图中的最高点",
+      "en": "map-of-highest-peak"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/map-of-highest-peak/",
+    "path": "../../problemset/map-of-highest-peak/README.md"
+  },
+  {
     "id": 1996,
     "title": {
       "cn": "游戏中弱角色的数量",
