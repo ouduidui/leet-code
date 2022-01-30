@@ -867,6 +867,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 107,
+        "title": "二叉树的层序遍历 II",
+        "path": "../../problemset/binary-tree-level-order-traversal-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
@@ -974,6 +980,48 @@
         "title": "相同的树",
         "path": "../../problemset/same-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 101,
+        "title": "对称二叉树",
+        "path": "../../problemset/symmetric-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 102,
+        "title": "二叉树的层序遍历",
+        "path": "../../problemset/binary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 103,
+        "title": "二叉树的锯齿形层序遍历",
+        "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 104,
+        "title": "二叉树的最大深度",
+        "path": "../../problemset/maximum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 105,
+        "title": "从前序与中序遍历序列构造二叉树",
+        "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 106,
+        "title": "从中序与后序遍历序列构造二叉树",
+        "path": "../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 107,
+        "title": "二叉树的层序遍历 II",
+        "path": "../../problemset/binary-tree-level-order-traversal-2/README.md",
+        "difficulty": "中等"
       }
     ]
   }
