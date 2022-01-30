@@ -1022,6 +1022,12 @@
         "title": "二叉树的层序遍历 II",
         "path": "../../problemset/binary-tree-level-order-traversal-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 108,
+        "title": "将有序数组转换为二叉搜索树",
+        "path": "../../problemset/convert-sorted-array-to-binary-search-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   }

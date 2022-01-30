@@ -1070,6 +1070,16 @@
     "path": "../../problemset/binary-tree-level-order-traversal-2/README.md"
   },
   {
+    "id": 108,
+    "title": {
+      "cn": "将有序数组转换为二叉搜索树",
+      "en": "convert-sorted-array-to-binary-search-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "path": "../../problemset/convert-sorted-array-to-binary-search-tree/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",
