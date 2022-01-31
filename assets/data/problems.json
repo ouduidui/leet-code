@@ -1090,6 +1090,16 @@
     "path": "../../problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": 1342,
+    "title": {
+      "cn": "将数字变成 0 的操作次数",
+      "en": "number-of-steps-to-reduce-a-number-to-zero"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+    "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
+  },
+  {
     "id": 1765,
     "title": {
       "cn": "地图中的最高点",
