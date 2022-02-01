@@ -905,6 +905,12 @@
         "title": "合并 K 个升序链表",
         "path": "../../problemset/merge-k-sorted-lists/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 109,
+        "title": "有序链表转换二叉搜索树",
+        "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1034,6 +1040,12 @@
         "title": "将有序数组转换为二叉搜索树",
         "path": "../../problemset/convert-sorted-array-to-binary-search-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 109,
+        "title": "有序链表转换二叉搜索树",
+        "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
+        "difficulty": "中等"
       }
     ]
   }

@@ -217,6 +217,8 @@
 
 [108. 将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md)
 
+[109. 有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
