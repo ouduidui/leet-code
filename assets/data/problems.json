@@ -1110,6 +1110,16 @@
     "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
   },
   {
+    "id": 1763,
+    "title": {
+      "cn": "最长的美好子字符串",
+      "en": "longest-nice-substring"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/longest-nice-substring/",
+    "path": "../../problemset/longest-nice-substring/README.md"
+  },
+  {
     "id": 1765,
     "title": {
       "cn": "地图中的最高点",
