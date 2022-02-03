@@ -36,6 +36,7 @@
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 | 30. [串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
 | 76. [最小覆盖子串](../../problemset/minimum-window-substring/README.md) | 困难 |
+| 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 二分法
 
@@ -214,6 +215,7 @@
 | ---- | ---- |
 | 23. [合并 K 个升序链表](../../problemset/merge-k-sorted-lists/README.md) | 困难 |
 | 109. [有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md) | 中等 |
+| 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配
 

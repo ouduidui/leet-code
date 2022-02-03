@@ -33,6 +33,12 @@ export function longestNiceSubstring(s: string): string {
   return s.slice(maxPosition, maxPosition + maxLength);
 }
 
+/**
+ * 分治
+ * @desc 时间复杂度 O(N⋅∣Σ∣)  ∣Σ∣ 为字符集的大小  空间复杂度 O(∣Σ∣)
+ * @param s {string}
+ * @return {string}
+ */
 export function longestNiceSubstring2(s: string): string {
   let maxPosition = 0;
   let maxLength = 0;
@@ -74,6 +80,76 @@ export function longestNiceSubstring2(s: string): string {
       }
       dfs(start, pos - 1);
       pos++;
+    }
+  }
+}
+
+/**
+ * 滑动窗口
+ * @desc 时间复杂度 O(N⋅∣Σ∣)  ∣Σ∣ 为字符集的大小  空间复杂度 O(∣Σ∣)
+ * @param s {string}
+ * @return {string}
+ */
+export function longestNiceSubstring3(s: string): string {
+  let maxPosition = 0;
+  let maxLength = 0;
+  let types = 0;
+  for (let i = 0; i < s.length; ++i) {
+    types |= 1 << (s[i].toLowerCase().charCodeAt(0) - 'a'.charCodeAt(0));
+  }
+  types = bitCount(types);
+  for (let i = 1; i <= types; i++) {
+    check(s, i);
+  }
+  return s.slice(maxPosition, maxPosition + maxLength);
+
+  function bitCount(n: number) {
+    let ret = 0;
+    while (n) {
+      n &= n - 1;
+      ret++;
+    }
+    return ret;
+  }
+
+  function check(s: string, typeNum: number) {
+    const lowerCnt = new Array(26).fill(0);
+    const upperCnt = new Array(26).fill(0);
+    let cnt = 0;
+    for (let l = 0, r = 0, total = 0; r < s.length; r++) {
+      let idx = s[r].toLowerCase().charCodeAt(0) - 'a'.charCodeAt(0);
+      if ('a' <= s[r] && s[r] <= 'z') {
+        lowerCnt[idx]++;
+        if (lowerCnt[idx] === 1 && upperCnt[idx] > 0) {
+          cnt++;
+        }
+      } else {
+        upperCnt[idx]++;
+        if (upperCnt[idx] === 1 && lowerCnt[idx] > 0) {
+          cnt++;
+        }
+      }
+      total += lowerCnt[idx] + upperCnt[idx] === 1 ? 1 : 0;
+      while (total > typeNum) {
+        idx = s[l].toLowerCase().charCodeAt(0) - 'a'.charCodeAt(0);
+        total -= lowerCnt[idx] + upperCnt[idx] === 1 ? 1 : 0;
+        if ('a' <= s[l] && s[l] <= 'z') {
+          lowerCnt[idx]--;
+          if (lowerCnt[idx] === 0 && upperCnt[idx] > 0) {
+            cnt--;
+          }
+        } else {
+          upperCnt[idx]--;
+          if (upperCnt[idx] === 0 && lowerCnt[idx] > 0) {
+            cnt--;
+          }
+        }
+        l++;
+      }
+      if (cnt === typeNum && r - l + 1 > maxLength) {
+        maxPosition = l;
+        maxLength = r - l + 1;
+      }
     }
   }
 }

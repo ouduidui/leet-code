@@ -143,6 +143,12 @@
         "title": "最小覆盖子串",
         "path": "../../problemset/minimum-window-substring/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 1763,
+        "title": "最长的美好子字符串",
+        "path": "../../problemset/longest-nice-substring/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -911,6 +917,12 @@
         "title": "有序链表转换二叉搜索树",
         "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1763,
+        "title": "最长的美好子字符串",
+        "path": "../../problemset/longest-nice-substring/README.md",
+        "difficulty": "简单"
       }
     ]
   },

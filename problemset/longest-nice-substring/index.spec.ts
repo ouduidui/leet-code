@@ -1,4 +1,8 @@
-import { longestNiceSubstring, longestNiceSubstring2 } from './index';
+import {
+  longestNiceSubstring,
+  longestNiceSubstring2,
+  longestNiceSubstring3
+} from './index';
 
 describe('最长的美好子字符串', () => {
   describe('暴力解法', () => {
@@ -7,6 +11,10 @@ describe('最长的美好子字符串', () => {
 
   describe('分治', () => {
     testCase(longestNiceSubstring2);
+  });
+
+  describe('滑动窗口', () => {
+    testCase(longestNiceSubstring3);
   });
 });
 
