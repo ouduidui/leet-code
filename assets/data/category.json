@@ -891,6 +891,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 110,
+        "title": "平衡二叉树",
+        "path": "../../problemset/balanced-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
@@ -1064,6 +1070,12 @@
         "title": "有序链表转换二叉搜索树",
         "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 110,
+        "title": "平衡二叉树",
+        "path": "../../problemset/balanced-binary-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   }

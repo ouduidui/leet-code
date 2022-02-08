@@ -219,6 +219,8 @@
 
 [109. 有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md)
 
+[110. 平衡二叉树](../../problemset/balanced-binary-tree/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
