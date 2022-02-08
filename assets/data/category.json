@@ -45,6 +45,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1001,
+        "title": "网格照明",
+        "path": "../../problemset/grid-illumination/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 2013,
         "title": "检测正方形",
         "path": "../../problemset/detect-squares/README.md",

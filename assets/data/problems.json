@@ -1100,6 +1100,16 @@
     "path": "../../problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": 1001,
+    "title": {
+      "cn": "网格照明",
+      "en": "grid-illumination"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/grid-illumination/",
+    "path": "../../problemset/grid-illumination/README.md"
+  },
+  {
     "id": 1342,
     "title": {
       "cn": "将数字变成 0 的操作次数",

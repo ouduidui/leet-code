@@ -221,6 +221,8 @@
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
+[1001. 网格照明](../../problemset/grid-illumination/README.md)
+
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)

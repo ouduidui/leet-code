@@ -11,6 +11,7 @@
 | 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
 | 41. [缺失的第一个正数](../../problemset/first-missing-positive/README.md) | 困难 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
+| 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
 
 ## 链表
