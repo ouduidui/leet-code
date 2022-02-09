@@ -909,6 +909,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 112,
+        "title": "路径总和",
+        "path": "../../problemset/path-sum/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
@@ -1093,6 +1099,12 @@
         "id": 111,
         "title": "二叉树的最小深度",
         "path": "../../problemset/minimum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 112,
+        "title": "路径总和",
+        "path": "../../problemset/path-sum/README.md",
         "difficulty": "简单"
       }
     ]

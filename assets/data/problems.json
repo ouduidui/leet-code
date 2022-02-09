@@ -1110,6 +1110,16 @@
     "path": "../../problemset/minimum-depth-of-binary-tree/README.md"
   },
   {
+    "id": 112,
+    "title": {
+      "cn": "路径总和",
+      "en": "path-sum"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/path-sum/",
+    "path": "../../problemset/path-sum/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",
