@@ -221,6 +221,8 @@
 
 [110. 平衡二叉树](../../problemset/balanced-binary-tree/README.md)
 
+[111. 二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)

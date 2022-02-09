@@ -1100,6 +1100,16 @@
     "path": "../../problemset/balanced-binary-tree/README.md"
   },
   {
+    "id": 111,
+    "title": {
+      "cn": "二叉树的最小深度",
+      "en": "minimum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/",
+    "path": "../../problemset/minimum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

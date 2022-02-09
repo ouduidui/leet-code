@@ -204,6 +204,7 @@
 | 106. [从中序与后序遍历序列构造二叉树](../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | 中等 |
 | 107. [二叉树的层序遍历 II](../../problemset/binary-tree-level-order-traversal-2/README.md) | 中等 |
 | 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
+| 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 
 ## 堆
@@ -255,3 +256,4 @@
 | 108. [将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md) | 简单 |
 | 109. [有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md) | 中等 |
 | 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
+| 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
