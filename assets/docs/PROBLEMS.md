@@ -233,6 +233,8 @@
 
 [1996. 游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md)
 
+[2006. 差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md)
+
 [2013. 检测正方形](../../problemset/detect-squares/README.md)
 
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)

@@ -1160,6 +1160,16 @@
     "path": "../../problemset/the-number-of-weak-characters-in-the-game/README.md"
   },
   {
+    "id": 2006,
+    "title": {
+      "cn": "差的绝对值为 K 的数对数目",
+      "en": "count-number-of-pairs-with-absolute-difference-k"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+    "path": "../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md"
+  },
+  {
     "id": 2013,
     "title": {
       "cn": "检测正方形",

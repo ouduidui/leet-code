@@ -51,6 +51,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 2006,
+        "title": "差的绝对值为 K 的数对数目",
+        "path": "../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 2013,
         "title": "检测正方形",
         "path": "../../problemset/detect-squares/README.md",
