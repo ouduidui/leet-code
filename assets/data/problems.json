@@ -1120,6 +1120,16 @@
     "path": "../../problemset/path-sum/README.md"
   },
   {
+    "id": 113,
+    "title": {
+      "cn": "路径总和 II",
+      "en": "path-sum-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/path-sum-ii/",
+    "path": "../../problemset/path-sum-2/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

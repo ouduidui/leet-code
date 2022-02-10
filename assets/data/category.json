@@ -921,6 +921,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 113,
+        "title": "路径总和 II",
+        "path": "../../problemset/path-sum-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
@@ -1112,6 +1118,12 @@
         "title": "路径总和",
         "path": "../../problemset/path-sum/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 113,
+        "title": "路径总和 II",
+        "path": "../../problemset/path-sum-2/README.md",
+        "difficulty": "中等"
       }
     ]
   }
