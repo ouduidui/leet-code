@@ -231,6 +231,8 @@
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
+[1447. 最简分数](../../problemset/simplified-fractions/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)

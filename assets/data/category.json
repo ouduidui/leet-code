@@ -320,6 +320,12 @@
         "title": "不同的二叉搜索树",
         "path": "../../problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1447,
+        "title": "最简分数",
+        "path": "../../problemset/simplified-fractions/README.md",
+        "difficulty": "中等"
       }
     ]
   },

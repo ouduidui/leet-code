@@ -1150,6 +1150,16 @@
     "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
   },
   {
+    "id": 1447,
+    "title": {
+      "cn": "最简分数",
+      "en": "simplified-fractions"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/simplified-fractions/",
+    "path": "../../problemset/simplified-fractions/README.md"
+  },
+  {
     "id": 1763,
     "title": {
       "cn": "最长的美好子字符串",
