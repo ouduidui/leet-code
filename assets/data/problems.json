@@ -1190,6 +1190,16 @@
     "path": "../../problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": 1984,
+    "title": {
+      "cn": "学生分数的最小差值",
+      "en": "minimum-difference-between-highest-and-lowest-of-k-scores"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+    "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md"
+  },
+  {
     "id": 1996,
     "title": {
       "cn": "游戏中弱角色的数量",

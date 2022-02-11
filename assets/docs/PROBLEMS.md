@@ -239,6 +239,8 @@
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
+[1984. 学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md)
+
 [1996. 游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md)
 
 [2006. 差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md)
