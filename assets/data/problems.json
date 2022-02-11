@@ -1130,6 +1130,16 @@
     "path": "../../problemset/path-sum-2/README.md"
   },
   {
+    "id": 114,
+    "title": {
+      "cn": "二叉树展开为链表",
+      "en": "flatten-binary-tree-to-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/",
+    "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

@@ -1130,6 +1130,12 @@
         "title": "路径总和 II",
         "path": "../../problemset/path-sum-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 114,
+        "title": "二叉树展开为链表",
+        "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md",
+        "difficulty": "中等"
       }
     ]
   }
