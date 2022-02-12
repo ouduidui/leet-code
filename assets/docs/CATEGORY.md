@@ -209,6 +209,7 @@
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
 | 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 113. [路径总和 II](../../problemset/path-sum-2/README.md) | 中等 |
+| 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 
 ## 堆

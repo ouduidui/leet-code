@@ -1160,6 +1160,16 @@
     "path": "../../problemset/grid-illumination/README.md"
   },
   {
+    "id": 1020,
+    "title": {
+      "cn": "飞地的数量",
+      "en": "number-of-enclaves"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/number-of-enclaves/",
+    "path": "../../problemset/number-of-enclaves/README.md"
+  },
+  {
     "id": 1342,
     "title": {
       "cn": "将数字变成 0 的操作次数",

@@ -933,6 +933,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 1020,
+        "title": "飞地的数量",
+        "path": "../../problemset/number-of-enclaves/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1765,
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",

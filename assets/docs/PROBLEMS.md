@@ -233,6 +233,8 @@
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
 
+[1020. 飞地的数量](../../problemset/number-of-enclaves/README.md)
+
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
