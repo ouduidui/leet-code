@@ -106,6 +106,7 @@
 | 91. [解码方法](../../problemset/decode-ways/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 97. [交错字符串](../../problemset/interleaving-string/README.md) | 中等 |
+| 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
 
 ## 双指针
 
@@ -172,6 +173,7 @@
 | 93. [复原IP地址](../../problemset/restore-ip-addresses/README.md) | 中等 |
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
+| 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
 
 ## 栈
 

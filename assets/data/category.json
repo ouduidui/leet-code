@@ -438,6 +438,12 @@
         "title": "交错字符串",
         "path": "../../problemset/interleaving-string/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 115,
+        "title": "不同的子序列",
+        "path": "../../problemset/distinct-subsequences/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -759,6 +765,12 @@
         "title": "不同的二叉搜索树",
         "path": "../../problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 115,
+        "title": "不同的子序列",
+        "path": "../../problemset/distinct-subsequences/README.md",
+        "difficulty": "困难"
       }
     ]
   },

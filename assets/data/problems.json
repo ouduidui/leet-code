@@ -1140,6 +1140,16 @@
     "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md"
   },
   {
+    "id": 115,
+    "title": {
+      "cn": "不同的子序列",
+      "en": "distinct-subsequences"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/distinct-subsequences/",
+    "path": "../../problemset/distinct-subsequences/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

@@ -229,6 +229,8 @@
 
 [114. 二叉树展开为链表](../../problemset/flatten-binary-tree-to-linked-list/README.md)
 
+[115. 不同的子序列](../../problemset/distinct-subsequences/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
