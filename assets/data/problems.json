@@ -1180,6 +1180,16 @@
     "path": "../../problemset/number-of-enclaves/README.md"
   },
   {
+    "id": 1189,
+    "title": {
+      "cn": "“气球” 的最大数量",
+      "en": "maximum-number-of-balloons"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/maximum-number-of-balloons/",
+    "path": "../../problemset/maximum-number-of-balloons/README.md"
+  },
+  {
     "id": 1342,
     "title": {
       "cn": "将数字变成 0 的操作次数",

@@ -12,6 +12,7 @@
 | 41. [缺失的第一个正数](../../problemset/first-missing-positive/README.md) | 困难 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
+| 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
 

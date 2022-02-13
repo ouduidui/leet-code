@@ -237,6 +237,8 @@
 
 [1020. 飞地的数量](../../problemset/number-of-enclaves/README.md)
 
+[`1189`. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
+
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
