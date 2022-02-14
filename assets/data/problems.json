@@ -1150,6 +1150,16 @@
     "path": "../../problemset/distinct-subsequences/README.md"
   },
   {
+    "id": 540,
+    "title": {
+      "cn": "有序数组中的单一元素",
+      "en": "single-element-in-a-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/single-element-in-a-sorted-array/",
+    "path": "../../problemset/single-element-in-a-sorted-array/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

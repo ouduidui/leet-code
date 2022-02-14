@@ -231,13 +231,15 @@
 
 [115. 不同的子序列](../../problemset/distinct-subsequences/README.md)
 
+[540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
 
 [1020. 飞地的数量](../../problemset/number-of-enclaves/README.md)
 
-[`1189`. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
+[1189. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 

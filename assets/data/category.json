@@ -220,6 +220,12 @@
         "title": "搜索旋转排序数组 II",
         "path": "../../problemset/search-in-rotated-sorted-array-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 540,
+        "title": "有序数组中的单一元素",
+        "path": "../../problemset/single-element-in-a-sorted-array/README.md",
+        "difficulty": "中等"
       }
     ]
   },
