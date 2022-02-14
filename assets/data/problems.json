@@ -1150,6 +1150,16 @@
     "path": "../../problemset/distinct-subsequences/README.md"
   },
   {
+    "id": 300,
+    "title": {
+      "cn": "最长递增子序列",
+      "en": "longest-increasing-subsequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/longest-increasing-subsequence/",
+    "path": "../../problemset/longest-increasing-subsequence/README.md"
+  },
+  {
     "id": 540,
     "title": {
       "cn": "有序数组中的单一元素",

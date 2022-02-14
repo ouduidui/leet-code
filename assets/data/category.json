@@ -222,6 +222,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 300,
+        "title": "最长递增子序列",
+        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 540,
         "title": "有序数组中的单一元素",
         "path": "../../problemset/single-element-in-a-sorted-array/README.md",
@@ -456,6 +462,12 @@
         "title": "不同的子序列",
         "path": "../../problemset/distinct-subsequences/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 300,
+        "title": "最长递增子序列",
+        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1041,6 +1053,12 @@
         "title": "文本左右对齐",
         "path": "../../problemset/text-justification/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 300,
+        "title": "最长递增子序列",
+        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "difficulty": "中等"
       }
     ]
   },

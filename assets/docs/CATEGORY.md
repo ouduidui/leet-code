@@ -53,6 +53,7 @@
 | 69. [Sqrt(x)](../../problemset/sqrtx/README.md) | 简单 |
 | 74. [搜索二维矩阵](../../problemset/search-a-2d-matrix/README.md) | 中等 |
 | 81. [搜索旋转排序数组 II](../../problemset/search-in-rotated-sorted-array-2/README.md) | 中等 |
+| 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 
 ## 排序
@@ -109,6 +110,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 97. [交错字符串](../../problemset/interleaving-string/README.md) | 中等 |
 | 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
+| 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 
 ## 双指针
 
@@ -244,6 +246,7 @@
 | 45. [跳跃游戏 II](../../problemset/jump-game-2/README.md) | 中等 |
 | 55. [跳跃游戏](../../problemset/jump-game/README.md) | 中等 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
+| 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 
 ## 二叉树
 
