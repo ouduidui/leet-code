@@ -1220,6 +1220,16 @@
     "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
   },
   {
+    "id": 1380,
+    "title": {
+      "cn": "矩阵中的幸运数",
+      "en": "lucky-numbers-in-a-matrix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/",
+    "path": "../../problemset/lucky-numbers-in-a-matrix/README.md"
+  },
+  {
     "id": 1447,
     "title": {
       "cn": "最简分数",

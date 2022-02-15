@@ -245,6 +245,8 @@
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
+[1380. 矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
