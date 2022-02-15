@@ -39,7 +39,7 @@ const createProject = (name) => {
 };
 
 const updateReadMeMarkdown = (problems) => {
-  let md = `# 题库目录\r\n`;
+  let md = `# 题库目录`;
 
   problems.forEach((problem) => {
     md += `\r\n\r\n[${problem.id}. ${problem.title.cn}](../../problemset/${problem.title.en}/README.md)`;
