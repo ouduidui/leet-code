@@ -1190,6 +1190,12 @@
         "title": "二叉树展开为链表",
         "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 116,
+        "title": "填充每个节点的下一个右侧节点指针",
+        "path": "../../problemset/populating-next-right-pointers-in-each-node/README.md",
+        "difficulty": "中等"
       }
     ]
   }

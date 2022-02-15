@@ -19,19 +19,19 @@ type TreeNodeArrayItem = number | null;
 export function createTreeNode(array: TreeNodeArrayItem[]): TreeNode | null {
   if (!array.length || array[0] === null) return null;
   const rootTree = new TreeNode(array.shift()!);
-  const stack: TreeNode[] = [rootTree];
+  const queue: TreeNode[] = [rootTree];
 
   while (array.length) {
-    const tree = stack.pop()!;
+    const tree = queue.pop()!;
     const num1 = array.shift();
     if (num1) {
       tree.left = new TreeNode(num1);
-      stack.unshift(tree.left);
+      queue.unshift(tree.left);
     }
     const num2 = array.shift();
     if (num2) {
       tree.right = new TreeNode(num2);
-      stack.unshift(tree.right);
+      queue.unshift(tree.right);
     }
   }
 

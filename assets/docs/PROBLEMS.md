@@ -1,6 +1,5 @@
 # 题库目录
 
-
 [1. 两数之和](../../problemset/two-sum/README.md)
 
 [2. 两数相加](../../problemset/add-two-numbers/README.md)
@@ -230,6 +229,8 @@
 [114. 二叉树展开为链表](../../problemset/flatten-binary-tree-to-linked-list/README.md)
 
 [115. 不同的子序列](../../problemset/distinct-subsequences/README.md)
+
+[116. 填充每个节点的下一个右侧节点指针](../../problemset/populating-next-right-pointers-in-each-node/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
