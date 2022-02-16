@@ -1160,6 +1160,16 @@
     "path": "../../problemset/populating-next-right-pointers-in-each-node/README.md"
   },
   {
+    "id": 117,
+    "title": {
+      "cn": "填充每个节点的下一个右侧节点指针 II",
+      "en": "populating-next-right-pointers-in-each-node-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/",
+    "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

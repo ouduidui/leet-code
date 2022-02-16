@@ -1202,6 +1202,12 @@
         "title": "填充每个节点的下一个右侧节点指针",
         "path": "../../problemset/populating-next-right-pointers-in-each-node/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 117,
+        "title": "填充每个节点的下一个右侧节点指针 II",
+        "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md",
+        "difficulty": "中等"
       }
     ]
   }

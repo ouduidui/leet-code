@@ -35,7 +35,9 @@ export function createBinaryTree(array: (number | null)[]): Node | null {
   return rootTree;
 }
 
-export function createPerfectBinaryTree(array: (number | '#')[]): Node | null {
+export function createPerfectBinaryTree(
+  array: (number | '#' | null)[]
+): Node | null {
   if (!array.length || array[0] === null) return null;
   const rootTree = new Node(array.shift() as number);
   const queue: Node[] = [rootTree];
@@ -51,14 +53,18 @@ export function createPerfectBinaryTree(array: (number | '#')[]): Node | null {
       }
     } else {
       const node = queue.pop()!;
-      node.left = new Node(item);
-      queue.unshift(node.left);
-      nextQueue.unshift(node.left);
+      if (item) {
+        node.left = new Node(item);
+        queue.unshift(node.left);
+        nextQueue.unshift(node.left);
+      }
 
       const item2 = array.shift() as number;
-      node.right = new Node(item2);
-      queue.unshift(node.right);
-      nextQueue.unshift(node.right);
+      if (item2) {
+        node.right = new Node(item2);
+        queue.unshift(node.right);
+        nextQueue.unshift(node.right);
+      }
     }
   }
 
