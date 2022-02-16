@@ -1250,6 +1250,16 @@
     "path": "../../problemset/simplified-fractions/README.md"
   },
   {
+    "id": 1719,
+    "title": {
+      "cn": "重构一棵树的方案数",
+      "en": "number-of-ways-to-reconstruct-a-tree"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/",
+    "path": "../../problemset/number-of-ways-to-reconstruct-a-tree/README.md"
+  },
+  {
     "id": 1763,
     "title": {
       "cn": "最长的美好子字符串",
