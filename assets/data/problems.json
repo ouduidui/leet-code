@@ -1180,6 +1180,16 @@
     "path": "../../problemset/pascals-triangle/README.md"
   },
   {
+    "id": 119,
+    "title": {
+      "cn": "杨辉三角 II",
+      "en": "pascals-triangle-2"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/pascals-triangle-ii/",
+    "path": "../../problemset/pascals-triangle-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

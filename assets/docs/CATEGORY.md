@@ -84,6 +84,7 @@
 | 89. [格雷编码](../../problemset/gray-code/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
+| 119. [杨辉三角 II](../../problemset/pascals-triangle-2/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 
 ## 自动机

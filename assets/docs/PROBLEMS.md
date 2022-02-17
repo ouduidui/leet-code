@@ -236,6 +236,8 @@
 
 [118. 杨辉三角](../../problemset/pascals-triangle/README.md)
 
+[119. 杨辉三角 II](../../problemset/pascals-triangle-2/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
