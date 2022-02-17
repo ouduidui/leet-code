@@ -234,6 +234,8 @@
 
 [117. 填充每个节点的下一个右侧节点指针 II](../../problemset/populating-next-right-pointers-in-each-node-2/README.md)
 
+[118. 杨辉三角](../../problemset/pascals-triangle/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)

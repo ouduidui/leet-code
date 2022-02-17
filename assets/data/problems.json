@@ -1170,6 +1170,16 @@
     "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md"
   },
   {
+    "id": 118,
+    "title": {
+      "cn": "杨辉三角",
+      "en": "pascals-triangle"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/pascals-triangle/",
+    "path": "../../problemset/pascals-triangle/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

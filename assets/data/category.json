@@ -352,6 +352,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 118,
+        "title": "杨辉三角",
+        "path": "../../problemset/pascals-triangle/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1447,
         "title": "最简分数",
         "path": "../../problemset/simplified-fractions/README.md",
