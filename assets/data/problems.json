@@ -1190,6 +1190,16 @@
     "path": "../../problemset/single-element-in-a-sorted-array/README.md"
   },
   {
+    "id": 688,
+    "title": {
+      "cn": "骑士在棋盘上的概率",
+      "en": "knight-probability-in-chessboard"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/knight-probability-in-chessboard/",
+    "path": "../../problemset/knight-probability-in-chessboard/README.md"
+  },
+  {
     "id": 884,
     "title": {
       "cn": "两句话中的不常见单词",

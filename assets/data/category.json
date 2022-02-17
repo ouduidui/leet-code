@@ -474,6 +474,12 @@
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 688,
+        "title": "骑士在棋盘上的概率",
+        "path": "../../problemset/knight-probability-in-chessboard/README.md",
+        "difficulty": "中等"
       }
     ]
   },

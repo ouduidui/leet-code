@@ -112,6 +112,7 @@
 | 97. [交错字符串](../../problemset/interleaving-string/README.md) | 中等 |
 | 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
+| 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 
 ## 双指针
 

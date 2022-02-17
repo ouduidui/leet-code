@@ -238,6 +238,8 @@
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
 
+[688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
