@@ -65,15 +65,15 @@ export function climbStairs(n: number): number {
 
 在前面我们可以得知`f(x) = f(x - 1) + f(x - 2)`，因此我们可以构建一个递推关系：
 
-<img src="http://latex.codecogs.com/svg.latex?\begin{bmatrix}1&1\\1&0\end{bmatrix}\begin{bmatrix}f(n)\\f(n-1)\end{bmatrix}=\begin{bmatrix}f(n)+f(n-1)\\f(n)\end{bmatrix}=\begin{bmatrix}f(n+1)\\f(n)\end{bmatrix}" />
+ <img style="background: #fff;padding: 10px" src="http://latex.codecogs.com/svg.latex?\begin{bmatrix}1&1\\1&0\end{bmatrix}\begin{bmatrix}f(n)\\f(n-1)\end{bmatrix}=\begin{bmatrix}f(n)+f(n-1)\\f(n)\end{bmatrix}=\begin{bmatrix}f(n+1)\\f(n)\end{bmatrix}" />
 
 因此：
 
-<img src="http://latex.codecogs.com/svg.latex?\begin{bmatrix}f(n+1)\\f(n)\end{bmatrix}=\begin{bmatrix}1&1\\1&0\end{bmatrix}^n\begin{bmatrix}f(1)\\f(0)\end{bmatrix}" />
+ <img style="background: #fff;padding: 10px" src="http://latex.codecogs.com/svg.latex?\begin{bmatrix}f(n+1)\\f(n)\end{bmatrix}=\begin{bmatrix}1&1\\1&0\end{bmatrix}^n\begin{bmatrix}f(1)\\f(0)\end{bmatrix}" />
 
 令：
 
-<img src="http://latex.codecogs.com/svg.latex?M=\begin{bmatrix}1&1\\1&0\end{bmatrix}" />
+ <img style="background: #fff;padding: 10px" src="http://latex.codecogs.com/svg.latex?M=\begin{bmatrix}1&1\\1&0\end{bmatrix}" />
 
 因此我们只要能快速计算出`M`的`n`次幂，就可以得到`f(n)`的值。如果直接求`M^n`的话
 ，时间复杂度是`O(n)`，我们可以定义矩阵乘法，然后用快速幂算法来加速这里`M^n`的求

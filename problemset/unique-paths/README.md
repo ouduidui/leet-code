@@ -57,7 +57,7 @@
 从左上角到右下角的过程，我们需要往右移动 `m - 1` 步，往下移动 `n - 1` 步，共移动
 `m + n - 2`步，所以我们只需求出其排列组合即可。
 
-<img src="http://latex.codecogs.com/svg.latex?C^{m-1}_{m+n-2}=\frac{(m+n-2)(m+n-3)...n}{(m-1)!}" />
+ <img style="background: #fff;padding: 10px" src="http://latex.codecogs.com/svg.latex?C^{m-1}_{m+n-2}=\frac{(m+n-2)(m+n-3)...n}{(m-1)!}" />
 
 ```typescript
 /**

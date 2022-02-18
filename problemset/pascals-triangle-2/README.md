@@ -59,7 +59,7 @@ export function getRow(rowIndex: number): number[] {
 
 ### 线性递推
 
-由于组合数公式<img src="https://latex.codecogs.com/svg.latex?C^m_n=\frac{n!}{m!(n%20-%20m)!}" />，可以得到同一行的相邻组合数的关系：<img src="https://latex.codecogs.com/svg.latex?C^m_n=%20C^{m-1}_n\times\frac{n%20-%20m%20+%201}{m}" />
+由于组合数公式 <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?C^m_n=\frac{n!}{m!(n%20-%20m)!}" />，可以得到同一行的相邻组合数的关系： <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?C^m_n=%20C^{m-1}_n\times\frac{n%20-%20m%20+%201}{m}" />
 
 ```typescript
 /**
