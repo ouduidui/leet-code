@@ -368,6 +368,12 @@
         "title": "最简分数",
         "path": "../../problemset/simplified-fractions/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1791,
+        "title": "找出星型图的中心节点",
+        "path": "../../problemset/find-center-of-star-graph/README.md",
+        "difficulty": "简单"
       }
     ]
   },

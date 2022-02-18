@@ -1320,6 +1320,16 @@
     "path": "../../problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": 1791,
+    "title": {
+      "cn": "找出星型图的中心节点",
+      "en": "find-center-of-star-graph"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/find-center-of-star-graph/",
+    "path": "../../problemset/find-center-of-star-graph/README.md"
+  },
+  {
     "id": 1984,
     "title": {
       "cn": "学生分数的最小差值",

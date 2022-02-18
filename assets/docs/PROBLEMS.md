@@ -264,6 +264,8 @@
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
+[1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
+
 [1984. 学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md)
 
 [1996. 游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md)

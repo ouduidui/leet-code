@@ -86,6 +86,7 @@
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-2/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
+| 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 
 ## 自动机
 
