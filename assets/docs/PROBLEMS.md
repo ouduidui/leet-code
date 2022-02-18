@@ -238,6 +238,8 @@
 
 [119. 杨辉三角 II](../../problemset/pascals-triangle-2/README.md)
 
+[120. 三角形最小路径和](../../problemset/triangle/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)

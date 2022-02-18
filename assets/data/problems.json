@@ -1190,6 +1190,16 @@
     "path": "../../problemset/pascals-triangle-2/README.md"
   },
   {
+    "id": 120,
+    "title": {
+      "cn": "三角形最小路径和",
+      "en": "triangle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/triangle/",
+    "path": "../../problemset/triangle/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
