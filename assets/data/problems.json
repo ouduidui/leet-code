@@ -1270,6 +1270,16 @@
     "path": "../../problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": 969,
+    "title": {
+      "cn": "煎饼排序",
+      "en": "pancake-sorting"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/pancake-sorting/",
+    "path": "../../problemset/pancake-sorting/README.md"
+  },
+  {
     "id": 1001,
     "title": {
       "cn": "网格照明",

@@ -254,6 +254,8 @@
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
+[969. 煎饼排序](../../problemset/pancake-sorting/README.md)
+
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
 
 [1020. 飞地的数量](../../problemset/number-of-enclaves/README.md)
