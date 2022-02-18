@@ -137,6 +137,7 @@
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-2/README.md) | 中等 |
 | 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md) | 简单 |
+| 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
 
 ## 模拟
 

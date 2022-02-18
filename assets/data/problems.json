@@ -1240,6 +1240,16 @@
     "path": "../../problemset/binary-tree-maximum-path-sum/README.md"
   },
   {
+    "id": 125,
+    "title": {
+      "cn": "验证回文串",
+      "en": "valid-palindrome"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/valid-palindrome/",
+    "path": "../../problemset/valid-palindrome/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

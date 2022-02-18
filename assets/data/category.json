@@ -599,6 +599,12 @@
         "title": "合并两个有序数组",
         "path": "../../problemset/merge-sorted-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 125,
+        "title": "验证回文串",
+        "path": "../../problemset/valid-palindrome/README.md",
+        "difficulty": "简单"
       }
     ]
   },
