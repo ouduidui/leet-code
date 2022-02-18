@@ -1230,6 +1230,16 @@
     "path": "../../problemset/best-time-to-buy-and-sell-stock-3/README.md"
   },
   {
+    "id": 124,
+    "title": {
+      "cn": "二叉树中的最大路径和",
+      "en": "binary-tree-maximum-path-sum"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/",
+    "path": "../../problemset/binary-tree-maximum-path-sum/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

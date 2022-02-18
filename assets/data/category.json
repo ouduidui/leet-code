@@ -1035,6 +1035,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 124,
+        "title": "二叉树中的最大路径和",
+        "path": "../../problemset/binary-tree-maximum-path-sum/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1020,
         "title": "飞地的数量",
         "path": "../../problemset/number-of-enclaves/README.md",
