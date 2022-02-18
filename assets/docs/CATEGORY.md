@@ -161,6 +161,7 @@
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 73. [矩阵置零](../../problemset/set-matrix-zeroes/README.md) | 中等 |
 | 86. [分隔链表](../../problemset/partition-list/README.md) | 中等 |
+| 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |

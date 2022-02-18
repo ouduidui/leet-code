@@ -1200,6 +1200,16 @@
     "path": "../../problemset/triangle/README.md"
   },
   {
+    "id": 121,
+    "title": {
+      "cn": "买卖股票的最佳时机",
+      "en": "best-time-to-buy-and-sell-stock"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/",
+    "path": "../../problemset/best-time-to-buy-and-sell-stock/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
