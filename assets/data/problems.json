@@ -1250,6 +1250,16 @@
     "path": "../../problemset/valid-palindrome/README.md"
   },
   {
+    "id": 126,
+    "title": {
+      "cn": "单词接龙 II",
+      "en": "word-ladder-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/word-ladder-ii/",
+    "path": "../../problemset/word-ladder-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

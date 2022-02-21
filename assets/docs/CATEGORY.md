@@ -190,6 +190,7 @@
 | 95. [不同的二叉搜索数 II](../../problemset/unique-binary-search-trees-2/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
+| 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
 
 ## 栈
 
@@ -228,6 +229,7 @@
 | 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 113. [路径总和 II](../../problemset/path-sum-2/README.md) | 中等 |
 | 124. [二叉树中的最大路径和](../../problemset/binary-tree-maximum-path-sum/README.md) | 困难 |
+| 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 

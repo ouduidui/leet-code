@@ -867,6 +867,12 @@
         "title": "不同的子序列",
         "path": "../../problemset/distinct-subsequences/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 126,
+        "title": "单词接龙 II",
+        "path": "../../problemset/word-ladder-2/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -1044,6 +1050,12 @@
         "id": 124,
         "title": "二叉树中的最大路径和",
         "path": "../../problemset/binary-tree-maximum-path-sum/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 126,
+        "title": "单词接龙 II",
+        "path": "../../problemset/word-ladder-2/README.md",
         "difficulty": "困难"
       },
       {
