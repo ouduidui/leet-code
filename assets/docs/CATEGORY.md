@@ -165,6 +165,7 @@
 | 73. [矩阵置零](../../problemset/set-matrix-zeroes/README.md) | 中等 |
 | 86. [分隔链表](../../problemset/partition-list/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
+| 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
@@ -230,6 +231,7 @@
 | 113. [路径总和 II](../../problemset/path-sum-2/README.md) | 中等 |
 | 124. [二叉树中的最大路径和](../../problemset/binary-tree-maximum-path-sum/README.md) | 困难 |
 | 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
+| 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 

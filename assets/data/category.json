@@ -744,6 +744,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 838,
+        "title": "推多米诺",
+        "path": "../../problemset/push-dominoes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 969,
         "title": "煎饼排序",
         "path": "../../problemset/pancake-sorting/README.md",
@@ -1057,6 +1063,12 @@
         "title": "单词接龙 II",
         "path": "../../problemset/word-ladder-2/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 838,
+        "title": "推多米诺",
+        "path": "../../problemset/push-dominoes/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1020,
