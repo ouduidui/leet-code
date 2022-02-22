@@ -516,6 +516,12 @@
         "title": "骑士在棋盘上的概率",
         "path": "../../problemset/knight-probability-in-chessboard/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1994,
+        "title": "好子集的数目",
+        "path": "../../problemset/the-number-of-good-subsets/README.md",
+        "difficulty": "困难"
       }
     ]
   },
