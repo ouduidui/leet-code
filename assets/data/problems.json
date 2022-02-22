@@ -1270,6 +1270,16 @@
     "path": "../../problemset/word-ladder/README.md"
   },
   {
+    "id": 128,
+    "title": {
+      "cn": "最长连续序列",
+      "en": "longest-consecutive-sequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/longest-consecutive-sequence/",
+    "path": "../../problemset/longest-consecutive-sequence/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

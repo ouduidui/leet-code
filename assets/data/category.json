@@ -39,6 +39,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 128,
+        "title": "最长连续序列",
+        "path": "../../problemset/longest-consecutive-sequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",

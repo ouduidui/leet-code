@@ -254,6 +254,8 @@
 
 [127. 单词接龙](../../problemset/word-ladder/README.md)
 
+[128. 最长连续序列](../../problemset/longest-consecutive-sequence/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
