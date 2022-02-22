@@ -1071,6 +1071,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 127,
+        "title": "单词接龙",
+        "path": "../../problemset/word-ladder/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
