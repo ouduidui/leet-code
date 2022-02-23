@@ -256,6 +256,8 @@
 
 [128. 最长连续序列](../../problemset/longest-consecutive-sequence/README.md)
 
+[129. 求根节点到叶节点数字之和](../../problemset/sum-root-to-leaf-numbers/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)

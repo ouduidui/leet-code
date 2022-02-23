@@ -24,12 +24,12 @@ export function createTreeNode(array: TreeNodeArrayItem[]): TreeNode | null {
   while (array.length) {
     const tree = queue.pop()!;
     const num1 = array.shift();
-    if (num1) {
+    if (num1 || num1 === 0) {
       tree.left = new TreeNode(num1);
       queue.unshift(tree.left);
     }
     const num2 = array.shift();
-    if (num2) {
+    if (num2 || num2 === 0) {
       tree.right = new TreeNode(num2);
       queue.unshift(tree.right);
     }

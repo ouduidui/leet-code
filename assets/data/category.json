@@ -1089,6 +1089,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 129,
+        "title": "求根节点到叶节点数字之和",
+        "path": "../../problemset/sum-root-to-leaf-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

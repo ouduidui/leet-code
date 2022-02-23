@@ -1280,6 +1280,16 @@
     "path": "../../problemset/longest-consecutive-sequence/README.md"
   },
   {
+    "id": 129,
+    "title": {
+      "cn": "求根节点到叶节点数字之和",
+      "en": "sum-root-to-leaf-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/",
+    "path": "../../problemset/sum-root-to-leaf-numbers/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
