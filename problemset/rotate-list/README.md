@@ -12,7 +12,7 @@
 
 #### 示例 1
 
-![rotate-list-1](../../assets/images/problemset/rotate-list-1.jpg)
+![rotate-list-1](../../assets/images/rotate-list-1.jpg)
 
 ```
 输入：head = [1,2,3,4,5], k = 2
@@ -21,7 +21,7 @@
 
 #### 示例 1
 
-![rotate-list-2](../../assets/images/problemset/rotate-list-2.jpg)
+![rotate-list-2](../../assets/images/rotate-list-2.jpg)
 
 ```
 输入：head = [0,1,2], k = 4

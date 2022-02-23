@@ -14,7 +14,7 @@
 答案是肯定的。具体来说，如果位置 `j` 的臂长为 `length`，并且有
 `j + length > i`，如下图所示：
 
-![longest-palindromic-substring-manacher.png](../../assets/images/problemset/longest-palindromic-substring-manacher.png)
+![longest-palindromic-substring-manacher.png](../../assets/images/longest-palindromic-substring-manacher.png)
 
 当在位置 `i` 开始进行中心拓展时，我们可以先找到 `i` 关于 j 的对称点
 `2 * j - i`。那么如果点 `2 * j - i` 的臂长等于 `n`，我们就可以知道，点 `i` 的臂

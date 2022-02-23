@@ -15,7 +15,7 @@
 
 #### 示例 1：
 
-![construct-binary-tree-from-inorder-and-postorder-traversal.jpg](../../assets/images/problemset/construct-binary-tree-from-inorder-and-postorder-traversal.jpg)
+![construct-binary-tree-from-inorder-and-postorder-traversal.jpg](../../assets/images/construct-binary-tree-from-inorder-and-postorder-traversal.jpg)
 
 ```
 输入：inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]

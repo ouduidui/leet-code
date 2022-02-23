@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![binary-tree-maximum-path-sum-1.jpg](../../assets/images/problemset/binary-tree-maximum-path-sum-1.jpg)
+![binary-tree-maximum-path-sum-1.jpg](../../assets/images/binary-tree-maximum-path-sum-1.jpg)
 
 ```
 输入：root = [1,2,3]
@@ -26,7 +26,7 @@
 
 #### 示例 2：
 
-![binary-tree-maximum-path-sum-2.jpg](../../assets/images/problemset/binary-tree-maximum-path-sum-2.jpg)
+![binary-tree-maximum-path-sum-2.jpg](../../assets/images/binary-tree-maximum-path-sum-2.jpg)
 
 ```
 输入：root = [-10,9,20,null,null,15,7]

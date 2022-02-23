@@ -21,7 +21,7 @@
 
 #### 示例 1：
 
-![interleaving-string.jpg](../../assets/images/problemset/interleaving-string.jpg)
+![interleaving-string.jpg](../../assets/images/interleaving-string.jpg)
 
 ```
 输入：s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac"

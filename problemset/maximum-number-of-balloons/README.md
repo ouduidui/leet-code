@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![maximum-number-of-balloons-1.jpg](../../assets/images/problemset/maximum-number-of-balloons-1.jpg)
+![maximum-number-of-balloons-1.jpg](../../assets/images/maximum-number-of-balloons-1.jpg)
 
 ```
 输入：text = "nlaebolko"
@@ -23,7 +23,7 @@
 
 #### 示例 2：
 
-![maximum-number-of-balloons-2.jpg](../../assets/images/problemset/maximum-number-of-balloons-2.jpg)
+![maximum-number-of-balloons-2.jpg](../../assets/images/maximum-number-of-balloons-2.jpg)
 
 ```
 输入：text = "loonbalxballpoon"

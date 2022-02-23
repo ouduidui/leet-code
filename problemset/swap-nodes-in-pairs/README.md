@@ -14,7 +14,7 @@
 
 #### 示例 1
 
-![swap-nodes-in-pairs](../../assets/images/problemset/swap-nodes-in-pairs.jpg)
+![swap-nodes-in-pairs](../../assets/images/swap-nodes-in-pairs.jpg)
 
 ```
 输入：head = [1,2,3,4]

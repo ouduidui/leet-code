@@ -29,7 +29,7 @@ struct Node {
 
 ### 示例
 
-![populating-next-right-pointers-in-each-node-ii.png](../../assets/images/problemset/populating-next-right-pointers-in-each-node-ii.png)
+![populating-next-right-pointers-in-each-node-ii.png](../../assets/images/populating-next-right-pointers-in-each-node-ii.png)
 
 ```
 输入：root = [1,2,3,4,5,null,7]

@@ -19,7 +19,7 @@
 
 #### 示例 1：
 
-![sum-root-to-leaf-numbers-1.jpg](../../assets/images/problemset/sum-root-to-leaf-numbers-1.jpg)
+![sum-root-to-leaf-numbers-1.jpg](../../assets/images/sum-root-to-leaf-numbers-1.jpg)
 
 ```
 输入：root = [1,2,3]
@@ -33,7 +33,7 @@
 
 #### 示例 2：
 
-![sum-root-to-leaf-numbers-2.jpg](../../assets/images/problemset/sum-root-to-leaf-numbers-2.jpg)
+![sum-root-to-leaf-numbers-2.jpg](../../assets/images/sum-root-to-leaf-numbers-2.jpg)
 
 ```
 输入：root = [4,9,0,5,1]

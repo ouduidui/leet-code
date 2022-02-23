@@ -12,7 +12,7 @@
 
 #### 示例 1:
 
-![binary-tree-inorder-traversal-1](../../assets/images/problemset/binary-tree-inorder-traversal-1.jpg)
+![binary-tree-inorder-traversal-1](../../assets/images/binary-tree-inorder-traversal-1.jpg)
 
 ```
 输入：root = [1,null,2,3]
@@ -35,7 +35,7 @@
 
 #### 示例 1:
 
-![binary-tree-inorder-traversal-2](../../assets/images/problemset/binary-tree-inorder-traversal-2.jpg)
+![binary-tree-inorder-traversal-2](../../assets/images/binary-tree-inorder-traversal-2.jpg)
 
 ```
 输入：root = [1,2]
@@ -44,7 +44,7 @@
 
 #### 示例 5:
 
-![binary-tree-inorder-traversal-3](../../assets/images/problemset/binary-tree-inorder-traversal-3.jpg)
+![binary-tree-inorder-traversal-3](../../assets/images/binary-tree-inorder-traversal-3.jpg)
 
 ```
 输入：root = [1,null,2]
@@ -111,7 +111,7 @@ export function inorderTraversal2(root: TreeNode | null): number[] {
    2. 如果 `predecessor` 的右孩子不为空，则此时其右孩子指向 `x`，说明我们已经遍历完 `x` 的左子树，我们将 `predecessor` 的右孩子置空，将 `x` 的值加入答案数组，然后访问 `x` 的右孩子，即 `x = x.right`
 3. 重复上述操作，直至访问完整棵树
 
-![binary-tree-inorder-traversal-4](../../assets/images/problemset/binary-tree-inorder-traversal-4.gif)
+![binary-tree-inorder-traversal-4](../../assets/images/binary-tree-inorder-traversal-4.gif)
 
 其实整个过程我们就多做一步：假设当前遍历到的节点为 `x`，将 `x` 的左子树中最右边的节点的右孩子指向 `x`，这样在左子树遍历完成后我们通过这个指向走回了 `x`，且能通过这个指向知晓我们已经遍历完成了左子树，而不用再通过栈来维护，省去了栈的空间复杂度。
 

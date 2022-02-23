@@ -12,7 +12,7 @@
 
 ### 示例 1：
 
-![](../../assets/images/problemset/largest-rectangle-in-histogram-1.jpg)
+![](../../assets/images/largest-rectangle-in-histogram-1.jpg)
 
 ```
 输入：heights = [2,1,5,6,2,3]
@@ -22,7 +22,7 @@
 
 ### 示例 2：
 
-![](../../assets/images/problemset/largest-rectangle-in-histogram-2.jpg)
+![](../../assets/images/largest-rectangle-in-histogram-2.jpg)
 
 ```
 输入： heights = [2,4]

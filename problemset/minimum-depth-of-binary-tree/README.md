@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![minimum-depth-of-binary-tree.jpg](../../assets/images/problemset/minimum-depth-of-binary-tree.jpg)
+![minimum-depth-of-binary-tree.jpg](../../assets/images/minimum-depth-of-binary-tree.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]

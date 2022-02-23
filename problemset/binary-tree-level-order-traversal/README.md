@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/binary-tree-level-order-traversal.jpg)
+![](../../assets/images/binary-tree-level-order-traversal.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]

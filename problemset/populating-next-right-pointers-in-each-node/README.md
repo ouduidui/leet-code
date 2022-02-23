@@ -25,7 +25,7 @@ struct Node {
 
 #### 示例 1：
 
-![populating-next-right-pointers-in-each-node.png](../../assets/images/problemset/populating-next-right-pointers-in-each-node.png)
+![populating-next-right-pointers-in-each-node.png](../../assets/images/populating-next-right-pointers-in-each-node.png)
 
 ```
 输入：root = [1,2,3,4,5,6,7]

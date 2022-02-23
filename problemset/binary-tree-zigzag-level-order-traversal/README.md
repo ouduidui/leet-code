@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![binary-tree-zigzag-level-order-traversal](../../assets/images/problemset/binary-tree-zigzag-level-order-traversal.jpg)
+![binary-tree-zigzag-level-order-traversal](../../assets/images/binary-tree-zigzag-level-order-traversal.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]

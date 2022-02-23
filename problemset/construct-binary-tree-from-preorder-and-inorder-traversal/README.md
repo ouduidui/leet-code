@@ -25,7 +25,7 @@
 
 #### 示例 1：
 
-![construct-binary-tree-from-preorder-and-inorder-traversal.jpg](../../assets/images/problemset/construct-binary-tree-from-preorder-and-inorder-traversal.jpg)
+![construct-binary-tree-from-preorder-and-inorder-traversal.jpg](../../assets/images/construct-binary-tree-from-preorder-and-inorder-traversal.jpg)
 
 ```
 输入: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]

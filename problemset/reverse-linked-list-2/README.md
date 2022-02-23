@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![reverse-linked-list-ii](../../assets/images/problemset/reverse-linked-list-ii-1.jpg)
+![reverse-linked-list-ii](../../assets/images/reverse-linked-list-ii-1.jpg)
 
 ```
 输入：head = [1,2,3,4,5], left = 2, right = 4
@@ -32,7 +32,7 @@
 
 先提出`left`到`right`的链表，然后进行反转，最后再拼接起来。
 
-![reverse-linked-list-ii-2.png](../../assets/images/problemset/reverse-linked-list-ii-2.png)
+![reverse-linked-list-ii-2.png](../../assets/images/reverse-linked-list-ii-2.png)
 
 ```typescript
 /**
@@ -100,7 +100,7 @@ export function reverseBetween(
 
 在需要反转的区间里，每遍历到一个节点，让这个新节点来到反转部分的起始位置。
 
-![reverse-linked-list-ii-3.png](../../assets/images/problemset/reverse-linked-list-ii-3.png)
+![reverse-linked-list-ii-3.png](../../assets/images/reverse-linked-list-ii-3.png)
 
 调整位置的操作步骤：
 
@@ -109,7 +109,7 @@ export function reverseBetween(
 - 把`next`的下一个节点指向`pre`的下一个节点；
 - 把`pre`的下一个节点指向`next`
 
-![reverse-linked-list-ii-4.png](../../assets/images/problemset/reverse-linked-list-ii-4.png)
+![reverse-linked-list-ii-4.png](../../assets/images/reverse-linked-list-ii-4.png)
 
 ```typescript
 /**

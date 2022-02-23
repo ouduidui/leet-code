@@ -25,7 +25,7 @@
 
 #### 示例 1：
 
-![map-of-highest-peak-1.png](../../assets/images/problemset/map-of-highest-peak-1.png)
+![map-of-highest-peak-1.png](../../assets/images/map-of-highest-peak-1.png)
 
 ```
 输入：isWater = [[0,1],[0,0]]
@@ -36,7 +36,7 @@
 
 #### 示例 2：
 
-![map-of-highest-peak-2.png](../../assets/images/problemset/map-of-highest-peak-2.png)
+![map-of-highest-peak-2.png](../../assets/images/map-of-highest-peak-2.png)
 
 ```
 输入：isWater = [[0,0,1],[1,0,0],[0,0,0]]

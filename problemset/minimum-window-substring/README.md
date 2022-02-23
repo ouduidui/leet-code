@@ -43,7 +43,7 @@
 
 ### 滑动窗口
 
-![minimum-window-substring.gif](../../assets/images/problemset/minimum-window-substring.gif)
+![minimum-window-substring.gif](../../assets/images/minimum-window-substring.gif)
 
 ```typescript
 /**

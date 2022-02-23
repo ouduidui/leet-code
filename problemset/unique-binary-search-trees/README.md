@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![unique-binary-search-trees-1](../../assets/images/problemset/unique-binary-search-trees-1.jpg)
+![unique-binary-search-trees-1](../../assets/images/unique-binary-search-trees-1.jpg)
 
 ```
 输入：n = 3
@@ -97,7 +97,7 @@ G(1) = 1
 
 给定序列 `1 ... n`，我们选择数字 `i` 作为根，则根为`i`的所有二叉搜索树的集合是左子树集合和右子树集合的[笛卡尔积](https://baike.baidu.com/item/%E7%AC%9B%E5%8D%A1%E5%B0%94%E4%B9%98%E7%A7%AF/6323173) ，对于笛卡尔积中的每个元素，加上根节点之后形成完整的二叉搜索树，如下图所示：
 
-![unique-binary-search-trees-2](../../assets/images/problemset/unique-binary-search-trees-2.png)
+![unique-binary-search-trees-2](../../assets/images/unique-binary-search-trees-2.png)
 
 举例而言，创建以`3`为根，长度为`7`的不同二叉搜索树，整个序列是`[1,2,3,4,5,6,7]`，我们需要从左子序列`[1,2]`构建左子树，从右子序列`[4,5,6,7]`构建右子树，然后将它们组合（即笛卡尔积）。
 

@@ -15,7 +15,7 @@
 
 #### 示例 1
 
-![n-queens-1](../../assets/images/problemset/n-queens-1.jpg)
+![n-queens-1](../../assets/images/n-queens-1.jpg)
 
 ```
 输入：n = 4

@@ -34,7 +34,7 @@
 
 #### 示例 2：
 
-![push-dominoes.png](../../assets/images/problemset/push-dominoes.png)
+![push-dominoes.png](../../assets/images/push-dominoes.png)
 
 ```
 输入：dominoes = ".L.R...LR..L.."

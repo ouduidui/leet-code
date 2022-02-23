@@ -33,7 +33,7 @@
 
 #### 示例 1：
 
-![number-of-ways-to-reconstruct-a-tree-1.png](../../assets/images/problemset/number-of-ways-to-reconstruct-a-tree-1.png)
+![number-of-ways-to-reconstruct-a-tree-1.png](../../assets/images/number-of-ways-to-reconstruct-a-tree-1.png)
 
 ```
 输入：pairs = [[1,2],[2,3]]
@@ -43,7 +43,7 @@
 
 #### 示例 2：
 
-![number-of-ways-to-reconstruct-a-tree-2.png](../../assets/images/problemset/number-of-ways-to-reconstruct-a-tree-2.png)
+![number-of-ways-to-reconstruct-a-tree-2.png](../../assets/images/number-of-ways-to-reconstruct-a-tree-2.png)
 
 ```
 输入：pairs = [[1,2],[2,3],[1,3]]
@@ -73,18 +73,18 @@
 - 根节点为树中其余所有节点的祖先，根节点与其他所有节点都能构成数对。设根节点为`root`，由于`pairs`包含树中所有可能构成祖先的数对，因此`degree[root] = n - 1`
   。如下图所示，根节点1为其余节点的祖先，蓝色节点组成了`adj[1]`
 
-![number-of-ways-to-reconstruct-a-tree-3.png](../../assets/images/problemset/number-of-ways-to-reconstruct-a-tree-3.png)
+![number-of-ways-to-reconstruct-a-tree-3.png](../../assets/images/number-of-ways-to-reconstruct-a-tree-3.png)
 
 - 对于`pairs`中的数对`[xi, yi]`，如果`xi`为`yi`的祖先，则一定满足`degree[xi] ≥ degree[yi]`。如果节点`yj`为节点`yi`的后代节点，则节点`yj`一定也是节点`xi`
   的后代节点；如果节点`yj`为节点`yi`的祖先节点，则节点`yj`要么是节点`xi`的祖先节点，要么是节点`xi`的后代节点，所以一定满足`degree[xi] ≥ degree[yi]`。此外，如果`xi`为`yi`
   的祖先，则一定满足`adj[yi] ∈ adj[xi]`。如下图所示，含有节点2的树对数目一定大于含有节点3的树对数目。
 
-![number-of-ways-to-reconstruct-a-tree-4.png](../../assets/images/problemset/number-of-ways-to-reconstruct-a-tree-4.png)
+![number-of-ways-to-reconstruct-a-tree-4.png](../../assets/images/number-of-ways-to-reconstruct-a-tree-4.png)
 
 - 对于`pairs`中的数对`[xi, yi]`，如果`xi`为`yi`的祖先，且满足`degree[xi] = degree[yi]`和`adj[xi]=adj[yi]`，则`xi`到`yi`
   途径的所有节点均只有一个孩子节点。此时`xi`到`yi`之间的节点包含的数对关系是一样的。`xi`到`yi`之间的节点是可以进行互相交换而不影响树的结构，则此时构成树的方案数一定不是唯一的。如下图所示，节点6、7、9满足上述要求：
 
-![number-of-ways-to-reconstruct-a-tree-5.png](../../assets/images/problemset/number-of-ways-to-reconstruct-a-tree-5.png)
+![number-of-ways-to-reconstruct-a-tree-5.png](../../assets/images/number-of-ways-to-reconstruct-a-tree-5.png)
 
 综上所述，对于`pairs`中的数对`[xi, yi]`：
 

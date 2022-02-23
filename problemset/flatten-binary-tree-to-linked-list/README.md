@@ -15,7 +15,7 @@
 
 #### 示例 1：
 
-![flatten-binary-tree-to-linked-list-1.jpg](../../assets/images/problemset/flatten-binary-tree-to-linked-list-1.jpg)
+![flatten-binary-tree-to-linked-list-1.jpg](../../assets/images/flatten-binary-tree-to-linked-list-1.jpg)
 
 ```
 输入：root = [1,2,5,3,4,null,6]

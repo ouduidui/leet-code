@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![find-center-of-star-graph.png](../../assets/images/problemset/find-center-of-star-graph.png)
+![find-center-of-star-graph.png](../../assets/images/find-center-of-star-graph.png)
 
 ```
 输入：edges = [[1,2],[2,3],[4,2]]

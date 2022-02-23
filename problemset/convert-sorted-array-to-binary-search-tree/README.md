@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![convert-sorted-array-to-binary-search-tree-1.jpg](../../assets/images/problemset/convert-sorted-array-to-binary-search-tree-1.jpg)
+![convert-sorted-array-to-binary-search-tree-1.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-1.jpg)
 
 ```
 输入：nums = [-10,-3,0,5,9]
@@ -22,11 +22,11 @@
 解释：[0,-10,5,null,-3,null,9] 也将被视为正确答案：
 ```
 
-![convert-sorted-array-to-binary-search-tree-2.jpg](../../assets/images/problemset/convert-sorted-array-to-binary-search-tree-2.jpg)
+![convert-sorted-array-to-binary-search-tree-2.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-2.jpg)
 
 #### 示例 2：
 
-![convert-sorted-array-to-binary-search-tree-3.jpg](../../assets/images/problemset/convert-sorted-array-to-binary-search-tree-3.jpg)
+![convert-sorted-array-to-binary-search-tree-3.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-3.jpg)
 
 ```
 输入：nums = [1,3]

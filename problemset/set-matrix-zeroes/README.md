@@ -13,7 +13,7 @@
 
 #### 示例 1：
 
-![set-matrix-zeroes-1](../../assets/images/problemset/set-matrix-zeroes-1.jpg)
+![set-matrix-zeroes-1](../../assets/images/set-matrix-zeroes-1.jpg)
 
 ```
 输入：matrix = [[1,1,1],[1,0,1],[1,1,1]]
@@ -22,7 +22,7 @@
 
 #### 示例 2：
 
-![set-matrix-zeroes-2](../../assets/images/problemset/set-matrix-zeroes-2.jpg)
+![set-matrix-zeroes-2](../../assets/images/set-matrix-zeroes-2.jpg)
 
 ```
 输入：matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]

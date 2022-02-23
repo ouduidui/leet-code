@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![surrounded-regions.jpg](../../assets/images/problemset/surrounded-regions.jpg)
+![surrounded-regions.jpg](../../assets/images/surrounded-regions.jpg)
 
 ```
 输入：board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]

@@ -10,7 +10,7 @@
 
 在「杨辉三角」中，每个数是它左上方和右上方的数的和。
 
-![pascals-triangle.gif](../../assets/images/problemset/pascals-triangle.gif)
+![pascals-triangle.gif](../../assets/images/pascals-triangle.gif)
 
 ### 示例
 

@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/recover-binary-search-tree-1.jpg)
+![](../../assets/images/recover-binary-search-tree-1.jpg)
 
 ```
 输入：root = [1,3,null,null,2]
@@ -22,7 +22,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/recover-binary-search-tree-2.jpg)
+![](../../assets/images/recover-binary-search-tree-2.jpg)
 
 ```
 输入：root = [3,1,4,null,null,2]

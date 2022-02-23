@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/unique-binary-search-trees-ii.jpg)
+![](../../assets/images/unique-binary-search-trees-ii.jpg)
 
 ```
 输入：n = 3

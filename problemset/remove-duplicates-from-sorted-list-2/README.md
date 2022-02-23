@@ -13,7 +13,7 @@
 ### 示例
 
 #### 示例 1：
-![](../../assets/images/problemset/remove-duplicates-from-sorted-list-ii-1.jpg)
+![](../../assets/images/remove-duplicates-from-sorted-list-ii-1.jpg)
 
 ```
 输入：head = [1,2,3,3,4,4,5]
@@ -21,7 +21,7 @@
 ```
 
 #### 示例 2：
-![](../../assets/images/problemset/remove-duplicates-from-sorted-list-ii-2.jpg)
+![](../../assets/images/remove-duplicates-from-sorted-list-ii-2.jpg)
 
 ```
 输入：head = [1,1,1,2,3]

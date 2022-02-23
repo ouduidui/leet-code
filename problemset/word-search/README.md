@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![word-search-1](../../assets/images/problemset/word-search-1.jpg)
+![word-search-1](../../assets/images/word-search-1.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
@@ -25,7 +25,7 @@
 
 #### 示例 2：
 
-![word-search-2](../../assets/images/problemset/word-search-2.jpg)
+![word-search-2](../../assets/images/word-search-2.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE"
@@ -34,7 +34,7 @@
 
 #### 示例 3：
 
-![word-search-3](../../assets/images/problemset/word-search-3.jpg)
+![word-search-3](../../assets/images/word-search-3.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"

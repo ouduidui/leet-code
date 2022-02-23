@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![number-of-enclaves-1.jpg](../../assets/images/problemset/number-of-enclaves-1.jpg)
+![number-of-enclaves-1.jpg](../../assets/images/number-of-enclaves-1.jpg)
 
 ```
 输入：grid = [[0,0,0,0],[1,0,1,0],[0,1,1,0],[0,0,0,0]]
@@ -26,7 +26,7 @@
 
 #### 示例 2：
 
-![number-of-enclaves-2.jpg](../../assets/images/problemset/number-of-enclaves-2.jpg)
+![number-of-enclaves-2.jpg](../../assets/images/number-of-enclaves-2.jpg)
 
 ```
 输入：grid = [[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]

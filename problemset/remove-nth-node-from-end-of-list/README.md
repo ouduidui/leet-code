@@ -12,7 +12,7 @@
 
 #### 示例 1
 
-![remove-nth-node-from-end-of-list](../../assets/images/problemset/remove-nth-node-from-end-of-list.jpg)
+![remove-nth-node-from-end-of-list](../../assets/images/remove-nth-node-from-end-of-list.jpg)
 
 ```
 输入：head = [1,2,3,4,5], n = 2

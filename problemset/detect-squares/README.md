@@ -21,7 +21,7 @@
 
 ### 示例
 
-![](../../assets/images/problemset/detect-squares.png)
+![](../../assets/images/detect-squares.png)
 
 ```
 输入：

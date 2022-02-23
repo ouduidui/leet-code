@@ -13,7 +13,7 @@
 
 现在考虑网格中有障碍物。那么从左上角到右下角将会有多少条不同的路径？
 
-![unique-paths-II-1](../../assets/images/problemset/unique-paths-II-1.png)
+![unique-paths-II-1](../../assets/images/unique-paths-II-1.png)
 
 网格中的障碍物和空位置分别用 1 和 0 来表示。
 
@@ -21,7 +21,7 @@
 
 #### 示例 1
 
-![unique-paths-II-2](../../assets/images/problemset/unique-paths-II-2.jpg)
+![unique-paths-II-2](../../assets/images/unique-paths-II-2.jpg)
 
 ```
 输入：obstacleGrid = [[0,0,0],[0,1,0],[0,0,0]]
@@ -35,7 +35,7 @@
 
 #### 示例 2
 
-![unique-paths-II-3](../../assets/images/problemset/unique-paths-II-3.jpg)
+![unique-paths-II-3](../../assets/images/unique-paths-II-3.jpg)
 
 ```
 输入：obstacleGrid = [[0,1],[0,0]]

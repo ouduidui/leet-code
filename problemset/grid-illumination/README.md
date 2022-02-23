@@ -22,7 +22,7 @@
 
 #### 示例 1：
 
-![grid-illumination-1.jpg](../../assets/images/problemset/grid-illumination-1.jpg)
+![grid-illumination-1.jpg](../../assets/images/grid-illumination-1.jpg)
 
 ```
 输入：n = 5, lamps = [[0,0],[4,4]], queries = [[1,1],[1,0]]
@@ -30,13 +30,13 @@
 解释：最初所有灯都是关闭的。在执行查询之前，打开位于 [0, 0] 和 [4, 4] 的灯。第 0 次查询检查 grid[1][1] 是否被照亮（蓝色方框）。该单元格被照亮，所以 ans[0] = 1 。然后，关闭红色方框中的所有灯。
 ```
 
-![grid-illumination-2.jpg](../../assets/images/problemset/grid-illumination-2.jpg)
+![grid-illumination-2.jpg](../../assets/images/grid-illumination-2.jpg)
 
 ```
 第 1 次查询检查 grid[1][0] 是否被照亮（蓝色方框）。该单元格没有被照亮，所以 ans[1] = 0 。然后，关闭红色矩形中的所有灯。
 ```
 
-![grid-illumination-3.jpg](../../assets/images/problemset/grid-illumination-3.jpg)
+![grid-illumination-3.jpg](../../assets/images/grid-illumination-3.jpg)
 
 #### 示例 2：
 

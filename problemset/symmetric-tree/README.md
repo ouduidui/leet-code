@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![symmetric-tree-1](../../assets/images/problemset/symmetric-tree-1.jpg)
+![symmetric-tree-1](../../assets/images/symmetric-tree-1.jpg)
 
 ```
 输入：root = [1,2,2,3,4,4,3]
@@ -21,7 +21,7 @@
 
 #### 示例 1：
 
-![symmetric-tree-2](../../assets/images/problemset/symmetric-tree-2.jpg)
+![symmetric-tree-2](../../assets/images/symmetric-tree-2.jpg)
 
 ```
 输入：root = [1,2,2,null,3,null,3]

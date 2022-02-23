@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/maximal-rectangle.jpg)
+![](../../assets/images/maximal-rectangle.jpg)
 
 ```
 输入：matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]

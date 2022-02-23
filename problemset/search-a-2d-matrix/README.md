@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![search-a-2d-matrix-1](../../assets/images/problemset/search-a-2d-matrix-1.jpg)
+![search-a-2d-matrix-1](../../assets/images/search-a-2d-matrix-1.jpg)
 
 ```
 输入：matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
@@ -25,7 +25,7 @@
 
 #### 示例 2：
 
-![search-a-2d-matrix-2](../../assets/images/problemset/search-a-2d-matrix-2.jpg)
+![search-a-2d-matrix-2](../../assets/images/search-a-2d-matrix-2.jpg)
 
 ```
 输入：matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13

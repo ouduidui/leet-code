@@ -23,7 +23,7 @@
 
 #### 示例 1
 
-![valid-sudoku](../../assets/images/problemset/valid-sudoku.png)
+![valid-sudoku](../../assets/images/valid-sudoku.png)
 
 ```
 输入：board =

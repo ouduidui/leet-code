@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![path-sum-1.jpg](../../assets/images/problemset/path-sum-1.jpg)
+![path-sum-1.jpg](../../assets/images/path-sum-1.jpg)
 
 ```
 输入：root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
@@ -24,7 +24,7 @@
 
 #### 示例 2：
 
-![path-sum-2.jpg](../../assets/images/problemset/path-sum-2.jpg)
+![path-sum-2.jpg](../../assets/images/path-sum-2.jpg)
 
 ```
 输入：root = [1,2,3], targetSum = 5

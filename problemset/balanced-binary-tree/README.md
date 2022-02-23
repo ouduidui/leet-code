@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![balanced-binary-tree-1.jpg](../../assets/images/problemset/balanced-binary-tree-1.jpg)
+![balanced-binary-tree-1.jpg](../../assets/images/balanced-binary-tree-1.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]
@@ -25,7 +25,7 @@
 
 #### 示例 2：
 
-![balanced-binary-tree-2.jpg](../../assets/images/problemset/balanced-binary-tree-2.jpg)
+![balanced-binary-tree-2.jpg](../../assets/images/balanced-binary-tree-2.jpg)
 
 ```
 输入：root = [1,2,2,3,3,null,null,4,4]

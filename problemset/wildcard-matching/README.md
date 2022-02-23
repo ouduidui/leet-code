@@ -115,4 +115,4 @@ export function isMatch(s: string, p: string): boolean {
 
 #### debug
 
-![wildcard-matching](../../assets/images/problemset/wildcard-matching.jpg)
+![wildcard-matching](../../assets/images/wildcard-matching.jpg)

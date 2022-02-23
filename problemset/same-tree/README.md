@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/problemset/same-tree-1.jpg)
+![](../../assets/images/same-tree-1.jpg)
 
 ```
 输入：p = [1,2,3], q = [1,2,3]
@@ -23,7 +23,7 @@
 
 #### 示例 2：
 
-![](../../assets/images/problemset/same-tree-2.jpg)
+![](../../assets/images/same-tree-2.jpg)
 
 ```
 输入：p = [1,2], q = [1,null,2]
@@ -32,7 +32,7 @@
 
 #### 示例 3：
 
-![](../../assets/images/problemset/same-tree-3.jpg)
+![](../../assets/images/same-tree-3.jpg)
 
 ```
 输入：p = [1,2,1], q = [1,1,2]
