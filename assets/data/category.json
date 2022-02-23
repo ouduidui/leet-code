@@ -1095,6 +1095,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 130,
+        "title": "被围绕的区域",
+        "path": "../../problemset/surrounded-regions/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

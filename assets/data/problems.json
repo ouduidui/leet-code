@@ -1290,6 +1290,16 @@
     "path": "../../problemset/sum-root-to-leaf-numbers/README.md"
   },
   {
+    "id": 130,
+    "title": {
+      "cn": "被围绕的区域",
+      "en": "surrounded-regions"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/surrounded-regions/",
+    "path": "../../problemset/surrounded-regions/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
