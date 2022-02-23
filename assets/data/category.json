@@ -617,6 +617,12 @@
         "title": "验证回文串",
         "path": "../../problemset/valid-palindrome/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 917,
+        "title": "仅仅反转字母",
+        "path": "../../problemset/reverse-only-letters/README.md",
+        "difficulty": "简单"
       }
     ]
   },
