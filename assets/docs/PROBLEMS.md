@@ -286,6 +286,8 @@
 
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
+[1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
+
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)

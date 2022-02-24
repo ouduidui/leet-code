@@ -1430,6 +1430,16 @@
     "path": "../../problemset/simplified-fractions/README.md"
   },
   {
+    "id": 1706,
+    "title": {
+      "cn": "球会落何处",
+      "en": "where-will-the-ball-fall"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/where-will-the-ball-fall/",
+    "path": "../../problemset/where-will-the-ball-fall/README.md"
+  },
+  {
     "id": 1719,
     "title": {
       "cn": "重构一棵树的方案数",
