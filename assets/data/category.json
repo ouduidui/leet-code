@@ -512,6 +512,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 131,
+        "title": "分割回文串",
+        "path": "../../problemset/palindrome-partitioning/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
@@ -617,6 +623,12 @@
         "title": "验证回文串",
         "path": "../../problemset/valid-palindrome/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 131,
+        "title": "分割回文串",
+        "path": "../../problemset/palindrome-partitioning/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 917,
@@ -903,6 +915,12 @@
         "title": "单词接龙 II",
         "path": "../../problemset/word-ladder-2/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 131,
+        "title": "分割回文串",
+        "path": "../../problemset/palindrome-partitioning/README.md",
+        "difficulty": "中等"
       }
     ]
   },

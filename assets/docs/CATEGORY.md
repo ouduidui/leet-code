@@ -118,6 +118,7 @@
 | 120. [三角形最小路径和](../../problemset/triangle/README.md) | 中等 |
 | 122. [买卖股票的最佳时机 II](../../problemset/best-time-to-buy-and-sell-stock-2/README.md) | 中等 |
 | 123. [买卖股票的最佳时机 III](../../problemset/best-time-to-buy-and-sell-stock-3/README.md) | 困难 |
+| 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
@@ -140,6 +141,7 @@
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-2/README.md) | 中等 |
 | 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md) | 简单 |
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
+| 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
@@ -196,6 +198,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
 | 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
+| 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 
 ## 栈
 

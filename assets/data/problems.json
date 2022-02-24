@@ -1300,6 +1300,16 @@
     "path": "../../problemset/surrounded-regions/README.md"
   },
   {
+    "id": 131,
+    "title": {
+      "cn": "分割回文串",
+      "en": "palindrome-partitioning"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/palindrome-partitioning/",
+    "path": "../../problemset/palindrome-partitioning/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
