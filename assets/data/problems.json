@@ -1310,6 +1310,16 @@
     "path": "../../problemset/palindrome-partitioning/README.md"
   },
   {
+    "id": 132,
+    "title": {
+      "cn": "分割回文串 II",
+      "en": "palindrome-partitioning-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/palindrome-partitioning-ii/",
+    "path": "../../problemset/palindrome-partitioning-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

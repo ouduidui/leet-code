@@ -518,6 +518,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 132,
+        "title": "分割回文串 II",
+        "path": "../../problemset/palindrome-partitioning-2/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
