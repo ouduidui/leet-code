@@ -1380,6 +1380,16 @@
     "path": "../../problemset/copy-list-with-random-pointer/README.md"
   },
   {
+    "id": 139,
+    "title": {
+      "cn": "单词拆分",
+      "en": "word-break"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/word-break/",
+    "path": "../../problemset/word-break/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

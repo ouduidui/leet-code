@@ -276,6 +276,8 @@
 
 [138. 复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md)
 
+[139. 单词拆分](../../problemset/word-break/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
