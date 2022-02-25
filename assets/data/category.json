@@ -780,6 +780,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 134,
+        "title": "加油站",
+        "path": "../../problemset/gas-station/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 537,
         "title": "复数乘法",
         "path": "../../problemset/complex-number-multiplication/README.md",

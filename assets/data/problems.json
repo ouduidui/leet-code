@@ -1330,6 +1330,16 @@
     "path": "../../problemset/clone-graph/README.md"
   },
   {
+    "id": 134,
+    "title": {
+      "cn": "加油站",
+      "en": "gas-station"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/gas-station/",
+    "path": "../../problemset/gas-station/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
