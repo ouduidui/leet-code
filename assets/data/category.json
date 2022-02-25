@@ -780,6 +780,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 537,
+        "title": "复数乘法",
+        "path": "../../problemset/complex-number-multiplication/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

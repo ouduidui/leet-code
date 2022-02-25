@@ -1340,6 +1340,16 @@
     "path": "../../problemset/longest-increasing-subsequence/README.md"
   },
   {
+    "id": 537,
+    "title": {
+      "cn": "复数乘法",
+      "en": "complex-number-multiplication"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/complex-number-multiplication/",
+    "path": "../../problemset/complex-number-multiplication/README.md"
+  },
+  {
     "id": 540,
     "title": {
       "cn": "有序数组中的单一元素",
