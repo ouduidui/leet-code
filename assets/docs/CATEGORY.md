@@ -210,6 +210,7 @@
 | 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
+| 140. [单词拆分 II](../../problemset/word-break-2/README.md) | 困难 |
 
 ## 栈
 

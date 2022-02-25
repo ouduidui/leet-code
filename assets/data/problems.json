@@ -1390,6 +1390,16 @@
     "path": "../../problemset/word-break/README.md"
   },
   {
+    "id": 140,
+    "title": {
+      "cn": "单词拆分 II",
+      "en": "word-break-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/word-break-ii/",
+    "path": "../../problemset/word-break-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

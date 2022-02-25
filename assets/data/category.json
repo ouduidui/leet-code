@@ -987,6 +987,12 @@
         "title": "复制带随机指针的链表",
         "path": "../../problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 140,
+        "title": "单词拆分 II",
+        "path": "../../problemset/word-break-2/README.md",
+        "difficulty": "困难"
       }
     ]
   },
