@@ -1131,6 +1131,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 133,
+        "title": "克隆图",
+        "path": "../../problemset/clone-graph/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

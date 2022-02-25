@@ -242,6 +242,7 @@
 | 127. [单词接龙](../../problemset/word-ladder/README.md) | 困难 |
 | 129. [求根节点到叶节点数字之和](../../problemset/sum-root-to-leaf-numbers/README.md) | 中等 |
 | 130. [被围绕的区域](../../problemset/surrounded-regions/README.md) | 中等 |
+| 133. [克隆图](../../problemset/clone-graph/README.md) | 中等 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |

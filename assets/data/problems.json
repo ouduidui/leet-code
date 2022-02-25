@@ -1320,6 +1320,16 @@
     "path": "../../problemset/palindrome-partitioning-2/README.md"
   },
   {
+    "id": 133,
+    "title": {
+      "cn": "克隆图",
+      "en": "clone-graph"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/clone-graph/",
+    "path": "../../problemset/clone-graph/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
