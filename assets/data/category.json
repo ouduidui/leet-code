@@ -51,6 +51,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 137,
+        "title": "只出现一次的数字 II",
+        "path": "../../problemset/single-number-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
@@ -380,6 +386,12 @@
         "title": "只出现一次的数字",
         "path": "../../problemset/single-number/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 137,
+        "title": "只出现一次的数字 II",
+        "path": "../../problemset/single-number-2/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1447,

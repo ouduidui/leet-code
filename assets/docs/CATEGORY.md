@@ -12,6 +12,7 @@
 | 41. [缺失的第一个正数](../../problemset/first-missing-positive/README.md) | 困难 |
 | 128. [最长连续序列](../../problemset/longest-consecutive-sequence/README.md) | 中等 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
@@ -88,6 +89,7 @@
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-2/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 
