@@ -35,6 +35,7 @@
 | 83. [删除排序列表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md) | 中等 |
 | 86. [分隔链表](../../problemset/partition-list/README.md) | 中等 |
 | 92. [反转链表 II](../../problemset/reverse-linked-list-2/README.md) | 中等 |
+| 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 
 ## 滑动窗口
 
@@ -207,6 +208,7 @@
 | 115. [不同的子序列](../../problemset/distinct-subsequences/README.md) | 困难 |
 | 126. [单词接龙 II](../../problemset/word-ladder-2/README.md) | 困难 |
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
+| 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 
 ## 栈
 
@@ -250,6 +252,7 @@
 | 129. [求根节点到叶节点数字之和](../../problemset/sum-root-to-leaf-numbers/README.md) | 中等 |
 | 130. [被围绕的区域](../../problemset/surrounded-regions/README.md) | 中等 |
 | 133. [克隆图](../../problemset/clone-graph/README.md) | 中等 |
+| 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |

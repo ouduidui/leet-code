@@ -1370,6 +1370,16 @@
     "path": "../../problemset/single-number-2/README.md"
   },
   {
+    "id": 138,
+    "title": {
+      "cn": "复制带随机指针的链表",
+      "en": "copy-list-with-random-pointer"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/copy-list-with-random-pointer/",
+    "path": "../../problemset/copy-list-with-random-pointer/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

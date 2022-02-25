@@ -162,6 +162,12 @@
         "title": "反转链表 II",
         "path": "../../problemset/reverse-linked-list-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 138,
+        "title": "复制带随机指针的链表",
+        "path": "../../problemset/copy-list-with-random-pointer/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -969,6 +975,12 @@
         "title": "分割回文串",
         "path": "../../problemset/palindrome-partitioning/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 138,
+        "title": "复制带随机指针的链表",
+        "path": "../../problemset/copy-list-with-random-pointer/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1176,6 +1188,12 @@
         "id": 133,
         "title": "克隆图",
         "path": "../../problemset/clone-graph/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 138,
+        "title": "复制带随机指针的链表",
+        "path": "../../problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
       },
       {
