@@ -786,6 +786,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 135,
+        "title": "分发糖果",
+        "path": "../../problemset/candy/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 537,
         "title": "复数乘法",
         "path": "../../problemset/complex-number-multiplication/README.md",

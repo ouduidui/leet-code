@@ -1340,6 +1340,16 @@
     "path": "../../problemset/gas-station/README.md"
   },
   {
+    "id": 135,
+    "title": {
+      "cn": "分发糖果",
+      "en": "candy"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/candy/",
+    "path": "../../problemset/candy/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

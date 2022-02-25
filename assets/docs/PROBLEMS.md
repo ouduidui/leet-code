@@ -268,6 +268,8 @@
 
 [134. 加油站](../../problemset/gas-station/README.md)
 
+[135. 分发糖果](../../problemset/candy/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
