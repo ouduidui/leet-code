@@ -18,3 +18,27 @@ export function createListNode(arr: Array<number>): ListNode | null {
     }
   }, null);
 }
+
+export function createCycleListNode(
+  arr: Array<number>,
+  pos: number
+): ListNode | null {
+  const node = createListNode(arr);
+
+  if (node && pos !== -1) {
+    let prevNode: ListNode | null = null;
+    let cur: ListNode | null = node;
+    let i = 0;
+    while (cur?.next) {
+      if (i === pos) {
+        prevNode = cur;
+      }
+      cur = cur.next;
+      i++;
+    }
+
+    cur.next = prevNode;
+  }
+
+  return node;
+}

@@ -13,6 +13,7 @@
 | 128. [最长连续序列](../../problemset/longest-consecutive-sequence/README.md) | 中等 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
+| 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
@@ -149,6 +150,7 @@
 | 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md) | 简单 |
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
+| 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟

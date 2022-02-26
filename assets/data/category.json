@@ -57,6 +57,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 141,
+        "title": "环形链表",
+        "path": "../../problemset/linked-list-cycle/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
@@ -671,6 +677,12 @@
         "title": "分割回文串",
         "path": "../../problemset/palindrome-partitioning/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 141,
+        "title": "环形链表",
+        "path": "../../problemset/linked-list-cycle/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 917,
