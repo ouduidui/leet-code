@@ -1640,6 +1640,16 @@
     "path": "../../problemset/detect-squares/README.md"
   },
   {
+    "id": 2016,
+    "title": {
+      "cn": "增量元素之间的最大差值",
+      "en": "maximum-difference-between-increasing-elements"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/",
+    "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
+  },
+  {
     "id": 2047,
     "title": {
       "cn": "句子中的有效单词数",

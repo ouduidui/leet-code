@@ -185,6 +185,7 @@
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
+| 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
 
 ## 回溯

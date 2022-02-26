@@ -328,4 +328,6 @@
 
 [2013. 检测正方形](../../problemset/detect-squares/README.md)
 
+[2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
+
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)

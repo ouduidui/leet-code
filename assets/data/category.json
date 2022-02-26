@@ -864,6 +864,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 2016,
+        "title": "增量元素之间的最大差值",
+        "path": "../../problemset/maximum-difference-between-increasing-elements/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 2047,
         "title": "句子中的有效单词数",
         "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md",
