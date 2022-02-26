@@ -38,6 +38,7 @@
 | 86. [分隔链表](../../problemset/partition-list/README.md) | 中等 |
 | 92. [反转链表 II](../../problemset/reverse-linked-list-2/README.md) | 中等 |
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
+| 142. [环形链表 II](../../problemset/linked-list-cycle-ii/README.md) | 中等 |
 
 ## 滑动窗口
 

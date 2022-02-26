@@ -180,6 +180,12 @@
         "title": "复制带随机指针的链表",
         "path": "../../problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 142,
+        "title": "环形链表 II",
+        "path": "../../problemset/linked-list-cycle-ii/README.md",
+        "difficulty": "中等"
       }
     ]
   },
