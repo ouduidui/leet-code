@@ -1420,6 +1420,16 @@
     "path": "../../problemset/linked-list-cycle-ii/README.md"
   },
   {
+    "id": 143,
+    "title": {
+      "cn": "重排链表",
+      "en": "reorder-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/reorder-list/",
+    "path": "../../problemset/reorder-list/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

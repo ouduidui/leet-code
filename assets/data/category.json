@@ -186,6 +186,12 @@
         "title": "环形链表 II",
         "path": "../../problemset/linked-list-cycle-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 143,
+        "title": "重排链表",
+        "path": "../../problemset/reorder-list/README.md",
+        "difficulty": "中等"
       }
     ]
   },
