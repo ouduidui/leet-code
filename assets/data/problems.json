@@ -1450,6 +1450,16 @@
     "path": "../../problemset/single-element-in-a-sorted-array/README.md"
   },
   {
+    "id": 553,
+    "title": {
+      "cn": "最优除法",
+      "en": "optimal-division"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/optimal-division/",
+    "path": "../../problemset/optimal-division/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

@@ -418,6 +418,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 553,
+        "title": "最优除法",
+        "path": "../../problemset/optimal-division/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1447,
         "title": "最简分数",
         "path": "../../problemset/simplified-fractions/README.md",

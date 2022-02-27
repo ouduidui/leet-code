@@ -290,6 +290,8 @@
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
 
+[553. 最优除法](../../problemset/optimal-division/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
