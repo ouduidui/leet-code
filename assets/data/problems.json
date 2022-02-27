@@ -1430,6 +1430,16 @@
     "path": "../../problemset/reorder-list/README.md"
   },
   {
+    "id": 144,
+    "title": {
+      "cn": "二叉树的前序遍历",
+      "en": "binary-tree-preorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/binary-tree-preorder-traversal/",
+    "path": "../../problemset/binary-tree-preorder-traversal/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

@@ -1257,6 +1257,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 144,
+        "title": "二叉树的前序遍历",
+        "path": "../../problemset/binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
@@ -1496,6 +1502,12 @@
         "title": "填充每个节点的下一个右侧节点指针 II",
         "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 144,
+        "title": "二叉树的前序遍历",
+        "path": "../../problemset/binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
       }
     ]
   }

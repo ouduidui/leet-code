@@ -286,6 +286,8 @@
 
 [143. 重排链表](../../problemset/reorder-list/README.md)
 
+[144. 二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
