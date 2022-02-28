@@ -1610,6 +1610,16 @@
     "path": "../../problemset/simplified-fractions/README.md"
   },
   {
+    "id": 1601,
+    "title": {
+      "cn": "最多可达成的换楼请求数目",
+      "en": "maximum-number-of-achievable-transfer-requests"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/",
+    "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md"
+  },
+  {
     "id": 1706,
     "title": {
       "cn": "球会落何处",

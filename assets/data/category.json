@@ -1053,6 +1053,12 @@
         "title": "单词拆分 II",
         "path": "../../problemset/word-break-2/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 1601,
+        "title": "最多可达成的换楼请求数目",
+        "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -1532,6 +1538,17 @@
         "title": "二叉树的后序遍历",
         "path": "../../problemset/binary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "枚举",
+    "problems": [
+      {
+        "id": 1601,
+        "title": "最多可达成的换楼请求数目",
+        "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
+        "difficulty": "困难"
       }
     ]
   }

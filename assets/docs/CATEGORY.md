@@ -221,6 +221,7 @@
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 | 140. [单词拆分 II](../../problemset/word-break-2/README.md) | 困难 |
+| 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 
 ## 栈
 
@@ -330,3 +331,9 @@
 | 117. [填充每个节点的下一个右侧节点指针 II](../../problemset/populating-next-right-pointers-in-each-node-2/README.md) | 中等 |
 | 144. [二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md) | 简单 |
 | 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
+
+## 枚举
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
