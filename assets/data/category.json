@@ -1263,6 +1263,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 145,
+        "title": "二叉树的后序遍历",
+        "path": "../../problemset/binary-tree-postorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
@@ -1507,6 +1513,12 @@
         "id": 144,
         "title": "二叉树的前序遍历",
         "path": "../../problemset/binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 145,
+        "title": "二叉树的后序遍历",
+        "path": "../../problemset/binary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
       }
     ]
