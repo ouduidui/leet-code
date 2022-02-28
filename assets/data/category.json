@@ -69,6 +69,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 146,
+        "title": "LRU缓存",
+        "path": "../../problemset/lru-cache/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
@@ -191,6 +197,12 @@
         "id": 143,
         "title": "重排链表",
         "path": "../../problemset/reorder-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 146,
+        "title": "LRU缓存",
+        "path": "../../problemset/lru-cache/README.md",
         "difficulty": "中等"
       }
     ]

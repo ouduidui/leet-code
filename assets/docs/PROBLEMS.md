@@ -290,6 +290,8 @@
 
 [145. 二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md)
 
+[146. LRU缓存](../../problemset/lru-cache/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)

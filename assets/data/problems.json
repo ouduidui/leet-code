@@ -1450,6 +1450,16 @@
     "path": "../../problemset/binary-tree-postorder-traversal/README.md"
   },
   {
+    "id": 146,
+    "title": {
+      "cn": "LRU缓存",
+      "en": "lru-cache"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/lru-cache/",
+    "path": "../../problemset/lru-cache/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
