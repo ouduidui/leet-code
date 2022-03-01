@@ -204,6 +204,12 @@
         "title": "LRU缓存",
         "path": "../../problemset/lru-cache/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 147,
+        "title": "对链表进行插入排序",
+        "path": "../../problemset/insertion-sort-list/README.md",
+        "difficulty": "中等"
       }
     ]
   },
