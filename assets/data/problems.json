@@ -1470,6 +1470,16 @@
     "path": "../../problemset/insertion-sort-list/README.md"
   },
   {
+    "id": 148,
+    "title": {
+      "cn": "排序链表",
+      "en": "sort-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/sort-list/",
+    "path": "../../problemset/sort-list/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

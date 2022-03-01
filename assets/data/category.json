@@ -210,6 +210,12 @@
         "title": "对链表进行插入排序",
         "path": "../../problemset/insertion-sort-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../../problemset/sort-list/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -326,6 +332,18 @@
         "id": 56,
         "title": "合并区间",
         "path": "../../problemset/merge-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 147,
+        "title": "对链表进行插入排序",
+        "path": "../../problemset/insertion-sort-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../../problemset/sort-list/README.md",
         "difficulty": "中等"
       },
       {
