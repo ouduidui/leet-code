@@ -193,6 +193,7 @@
 | 134. [加油站](../../problemset/gas-station/README.md) | 中等 |
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
+| 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |

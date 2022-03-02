@@ -912,6 +912,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 564,
+        "title": "寻找最近的回文数",
+        "path": "../../problemset/find-the-closest-palindrome/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
