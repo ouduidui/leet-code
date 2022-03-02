@@ -1490,6 +1490,16 @@
     "path": "../../problemset/max-points-on-a-line/README.md"
   },
   {
+    "id": 150,
+    "title": {
+      "cn": "逆波兰表达式求值",
+      "en": "valuate-reverse-polish-notation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/",
+    "path": "../../problemset/valuate-reverse-polish-notation/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
