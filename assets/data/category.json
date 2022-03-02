@@ -75,6 +75,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 149,
+        "title": "直线上最多的点数",
+        "path": "../../problemset/max-points-on-a-line/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
