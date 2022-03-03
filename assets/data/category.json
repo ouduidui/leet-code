@@ -466,6 +466,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 258,
+        "title": "各位相加",
+        "path": "../../problemset/add-digits/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 553,
         "title": "最优除法",
         "path": "../../problemset/optimal-division/README.md",
@@ -910,6 +916,12 @@
         "title": "分发糖果",
         "path": "../../problemset/candy/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 258,
+        "title": "各位相加",
+        "path": "../../problemset/add-digits/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 537,

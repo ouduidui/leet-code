@@ -102,6 +102,7 @@
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-2/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
+| 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
@@ -193,6 +194,7 @@
 | 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 134. [加油站](../../problemset/gas-station/README.md) | 中等 |
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
+| 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |

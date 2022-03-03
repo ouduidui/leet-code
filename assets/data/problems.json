@@ -1500,6 +1500,16 @@
     "path": "../../problemset/valuate-reverse-polish-notation/README.md"
   },
   {
+    "id": 258,
+    "title": {
+      "cn": "各位相加",
+      "en": "add-digits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/add-digits/",
+    "path": "../../problemset/add-digits/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

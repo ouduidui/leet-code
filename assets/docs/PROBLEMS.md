@@ -300,6 +300,8 @@
 
 [150. 逆波兰表达式求值](../../problemset/valuate-reverse-polish-notation/README.md)
 
+[258. 各位相加](../../problemset/add-digits/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
