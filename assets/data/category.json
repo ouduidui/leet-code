@@ -763,6 +763,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 151,
+        "title": "翻转字符串中里的单词",
+        "path": "../../problemset/reverse-words-in-a-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 917,
         "title": "仅仅反转字母",
         "path": "../../problemset/reverse-only-letters/README.md",

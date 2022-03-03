@@ -164,6 +164,7 @@
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../../problemset/linked-list-cycle-ii/README.md) | 中等 |
+| 151. [翻转字符串中里的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
