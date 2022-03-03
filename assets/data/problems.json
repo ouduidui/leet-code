@@ -1510,6 +1510,16 @@
     "path": "../../problemset/reverse-words-in-a-string/README.md"
   },
   {
+    "id": 152,
+    "title": {
+      "cn": "乘积最大子数组",
+      "en": "maximum-product-subarray"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/maximum-product-subarray/",
+    "path": "../../problemset/maximum-product-subarray/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

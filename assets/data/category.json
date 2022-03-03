@@ -638,6 +638,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 152,
+        "title": "乘积最大子数组",
+        "path": "../../problemset/maximum-product-subarray/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",

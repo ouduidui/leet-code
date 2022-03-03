@@ -139,6 +139,7 @@
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 132. [分割回文串 II](../../problemset/palindrome-partitioning-2/README.md) | 困难 |
 | 139. [单词拆分](../../problemset/word-break/README.md) | 中等 |
+| 152. [乘积最大子数组](../../problemset/maximum-product-subarray/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
