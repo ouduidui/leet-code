@@ -1540,6 +1540,16 @@
     "path": "../../problemset/find-minimum-in-rotated-sorted-array-2/README.md"
   },
   {
+    "id": 155,
+    "title": {
+      "cn": "最小栈",
+      "en": "min-stack"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/min-stack/",
+    "path": "../../problemset/min-stack/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

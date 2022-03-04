@@ -308,6 +308,8 @@
 
 [154. 寻找旋转排序数组中的最小值 II](../../problemset/find-minimum-in-rotated-sorted-array-2/README.md)
 
+[155. 最小栈](../../problemset/min-stack/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
