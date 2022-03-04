@@ -1520,6 +1520,16 @@
     "path": "../../problemset/maximum-product-subarray/README.md"
   },
   {
+    "id": 153,
+    "title": {
+      "cn": "寻找旋转排序数组中的最小值",
+      "en": "find-minimum-in-rotated-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/",
+    "path": "../../problemset/find-minimum-in-rotated-sorted-array/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

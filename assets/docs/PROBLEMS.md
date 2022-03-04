@@ -304,6 +304,8 @@
 
 [152. 乘积最大子数组](../../problemset/maximum-product-subarray/README.md)
 
+[153. 寻找旋转排序数组中的最小值](../../problemset/find-minimum-in-rotated-sorted-array/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

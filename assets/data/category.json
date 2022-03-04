@@ -306,6 +306,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 153,
+        "title": "寻找旋转排序数组中的最小值",
+        "path": "../../problemset/find-minimum-in-rotated-sorted-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
