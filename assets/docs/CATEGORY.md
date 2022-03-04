@@ -68,6 +68,7 @@
 | 74. [搜索二维矩阵](../../problemset/search-a-2d-matrix/README.md) | 中等 |
 | 81. [搜索旋转排序数组 II](../../problemset/search-in-rotated-sorted-array-2/README.md) | 中等 |
 | 153. [寻找旋转排序数组中的最小值](../../problemset/find-minimum-in-rotated-sorted-array/README.md) | 中等 |
+| 154. [寻找旋转排序数组中的最小值 II](../../problemset/find-minimum-in-rotated-sorted-array-2/README.md) | 困难 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 

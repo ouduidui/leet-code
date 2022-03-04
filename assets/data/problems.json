@@ -1530,6 +1530,16 @@
     "path": "../../problemset/find-minimum-in-rotated-sorted-array/README.md"
   },
   {
+    "id": 154,
+    "title": {
+      "cn": "寻找旋转排序数组中的最小值 II",
+      "en": "find-minimum-in-rotated-sorted-array-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "path": "../../problemset/find-minimum-in-rotated-sorted-array-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
