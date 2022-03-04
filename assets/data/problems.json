@@ -1818,5 +1818,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/",
     "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
+  },
+  {
+    "id": 2104,
+    "title": {
+      "cn": "子数组范围和",
+      "en": "sum-of-subarray-ranges"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/sum-of-subarray-ranges/",
+    "path": "../../problemset/sum-of-subarray-ranges/README.md"
   }
 ]

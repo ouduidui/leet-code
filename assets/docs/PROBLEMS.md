@@ -363,3 +363,5 @@
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
 
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)
+
+[2104. 子数组范围和](../../problemset/sum-of-subarray-ranges/README.md)

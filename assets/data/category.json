@@ -1184,6 +1184,12 @@
         "title": "逆波兰表达式求值",
         "path": "../../problemset/valuate-reverse-polish-notation/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 2104,
+        "title": "子数组范围和",
+        "path": "../../problemset/sum-of-subarray-ranges/README.md",
+        "difficulty": "中等"
       }
     ]
   },
