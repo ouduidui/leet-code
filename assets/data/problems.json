@@ -1550,6 +1550,16 @@
     "path": "../../problemset/min-stack/README.md"
   },
   {
+    "id": 160,
+    "title": {
+      "cn": "相交链表",
+      "en": "intersection-of-two-linked-lists"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/intersection-of-two-linked-lists/",
+    "path": "../../problemset/intersection-of-two-linked-lists/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

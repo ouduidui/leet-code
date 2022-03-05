@@ -42,3 +42,53 @@ export function createCycleListNode(
 
   return node;
 }
+
+export function createIntersectionListNode(
+  intersectVal: number,
+  listA: number[],
+  listB: number[],
+  skipA: number,
+  skipB: number
+): [ListNode | null, ListNode | null, ListNode | null] {
+  if (
+    !listA.length ||
+    !listB.length ||
+    !listA.includes(intersectVal) ||
+    !listB.includes(intersectVal) ||
+    skipA >= listA.length ||
+    skipB >= listB.length
+  )
+    return [createListNode(listA), createListNode(listB), null];
+
+  const intersectionNode = new ListNode(listA[skipA]);
+  let cur = intersectionNode;
+
+  let i = skipA + 1;
+  while (i < listA.length) {
+    cur.next = new ListNode(listA[i]);
+    cur = cur.next;
+    i++;
+  }
+
+  const listNodeA = new ListNode(listA[0]);
+  cur = listNodeA;
+  i = 1;
+  while (i < skipA) {
+    cur.next = new ListNode(listA[i]);
+    cur = cur.next;
+    i++;
+  }
+  cur.next = intersectionNode;
+
+  const listNodeB = new ListNode(listB[0]);
+  cur = listNodeB;
+  i = 1;
+  while (i < skipB) {
+    cur.next = new ListNode(listB[i]);
+    cur = cur.next;
+    i++;
+  }
+  cur.next = intersectionNode;
+
+  return [listNodeA, listNodeB, intersectionNode];
+}

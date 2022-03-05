@@ -17,6 +17,7 @@
 | 142. [环形链表 II](../../problemset/linked-list-cycle-ii/README.md) | 中等 |
 | 146. [LRU缓存](../../problemset/lru-cache/README.md) | 中等 |
 | 149. [直线上最多的点数](../../problemset/max-points-on-a-line/README.md) | 困难 |
+| 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
@@ -168,6 +169,7 @@
 | 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../../problemset/linked-list-cycle-ii/README.md) | 中等 |
 | 151. [翻转字符串中里的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
+| 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
