@@ -312,6 +312,8 @@
 
 [160. 相交链表](../../problemset/intersection-of-two-linked-lists/README.md)
 
+[162. 寻找峰值](../../problemset/find-peak-element/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

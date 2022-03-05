@@ -1560,6 +1560,16 @@
     "path": "../../problemset/intersection-of-two-linked-lists/README.md"
   },
   {
+    "id": 162,
+    "title": {
+      "cn": "寻找峰值",
+      "en": "find-peak-element"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-peak-element/",
+    "path": "../../problemset/find-peak-element/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

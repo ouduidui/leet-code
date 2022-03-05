@@ -324,6 +324,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 162,
+        "title": "寻找峰值",
+        "path": "../../problemset/find-peak-element/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
