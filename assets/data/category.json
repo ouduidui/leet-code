@@ -823,6 +823,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 165,
+        "title": "比较版本号",
+        "path": "../../problemset/compare-version-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 917,
         "title": "仅仅反转字母",
         "path": "../../problemset/reverse-only-letters/README.md",
@@ -976,6 +982,12 @@
         "title": "分发糖果",
         "path": "../../problemset/candy/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 165,
+        "title": "比较版本号",
+        "path": "../../problemset/compare-version-numbers/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 258,

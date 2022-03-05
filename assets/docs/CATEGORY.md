@@ -174,6 +174,7 @@
 | 142. [环形链表 II](../../problemset/linked-list-cycle-ii/README.md) | 中等 |
 | 151. [翻转字符串中里的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
+| 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
@@ -204,6 +205,7 @@
 | 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 134. [加油站](../../problemset/gas-station/README.md) | 中等 |
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
+| 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |

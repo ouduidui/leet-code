@@ -1580,6 +1580,16 @@
     "path": "../../problemset/maximum-gap/README.md"
   },
   {
+    "id": 165,
+    "title": {
+      "cn": "比较版本号",
+      "en": "compare-version-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/compare-version-numbers/",
+    "path": "../../problemset/compare-version-numbers/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
