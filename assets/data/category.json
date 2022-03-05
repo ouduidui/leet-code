@@ -696,6 +696,12 @@
         "title": "好子集的数目",
         "path": "../../problemset/the-number-of-good-subsets/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 2100,
+        "title": "适合打劫银行的日子",
+        "path": "../../problemset/find-good-days-to-rob-the-bank/README.md",
+        "difficulty": "中等"
       }
     ]
   },

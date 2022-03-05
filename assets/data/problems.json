@@ -1890,6 +1890,16 @@
     "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
   },
   {
+    "id": 2100,
+    "title": {
+      "cn": "适合打劫银行的日子",
+      "en": "find-good-days-to-rob-the-bank"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/",
+    "path": "../../problemset/find-good-days-to-rob-the-bank/README.md"
+  },
+  {
     "id": 2104,
     "title": {
       "cn": "子数组范围和",
