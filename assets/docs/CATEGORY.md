@@ -199,6 +199,7 @@
 | 134. [加油站](../../problemset/gas-station/README.md) | 中等 |
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
+| 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |

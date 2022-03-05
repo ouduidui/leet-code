@@ -1570,6 +1570,16 @@
     "path": "../../problemset/longest-increasing-subsequence/README.md"
   },
   {
+    "id": 521,
+    "title": {
+      "cn": "最长特殊序列",
+      "en": "longest-uncommon-subsequence"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/",
+    "path": "../../problemset/longest-uncommon-subsequence/README.md"
+  },
+  {
     "id": 537,
     "title": {
       "cn": "复数乘法",

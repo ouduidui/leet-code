@@ -314,6 +314,8 @@
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
+[521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)
+
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)
