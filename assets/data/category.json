@@ -377,6 +377,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 164,
+        "title": "最大间距",
+        "path": "../../problemset/maximum-gap/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1984,
         "title": "学生分数的最小差值",
         "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
@@ -488,6 +494,12 @@
         "title": "只出现一次的数字 II",
         "path": "../../problemset/single-number-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 164,
+        "title": "最大间距",
+        "path": "../../problemset/maximum-gap/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 258,

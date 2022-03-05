@@ -314,6 +314,8 @@
 
 [162. 寻找峰值](../../problemset/find-peak-element/README.md)
 
+[164. 最大间距](../../problemset/maximum-gap/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

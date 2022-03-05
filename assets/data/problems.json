@@ -1570,6 +1570,16 @@
     "path": "../../problemset/find-peak-element/README.md"
   },
   {
+    "id": 164,
+    "title": {
+      "cn": "最大间距",
+      "en": "maximum-gap"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/maximum-gap/",
+    "path": "../../problemset/maximum-gap/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

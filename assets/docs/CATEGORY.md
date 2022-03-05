@@ -83,6 +83,7 @@
 | 56. [合并区间](../../problemset/merge-intervals/README.md) | 中等 |
 | 147. [对链表进行插入排序](../../problemset/insertion-sort-list/README.md) | 中等 |
 | 148. [排序链表](../../problemset/sort-list/README.md) | 中等 |
+| 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
@@ -106,6 +107,7 @@
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-2/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
+| 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
