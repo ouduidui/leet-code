@@ -108,6 +108,7 @@
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
 | 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
+| 166. [分数到小数](../../problemset/fraction-to-recurring-decimal/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |

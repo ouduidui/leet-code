@@ -502,6 +502,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 166,
+        "title": "分数到小数",
+        "path": "../../problemset/fraction-to-recurring-decimal/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

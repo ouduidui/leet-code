@@ -1590,6 +1590,16 @@
     "path": "../../problemset/compare-version-numbers/README.md"
   },
   {
+    "id": 166,
+    "title": {
+      "cn": "分数到小数",
+      "en": "fraction-to-recurring-decimal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/fraction-to-recurring-decimal/",
+    "path": "../../problemset/fraction-to-recurring-decimal/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
