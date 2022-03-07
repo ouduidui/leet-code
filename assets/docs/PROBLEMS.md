@@ -322,6 +322,8 @@
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
+[504. 七进制数](../../problemset/base-7/README.md)
+
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)

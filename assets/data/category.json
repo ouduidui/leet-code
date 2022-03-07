@@ -508,6 +508,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 504,
+        "title": "七进制数",
+        "path": "../../problemset/base-7/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 553,
         "title": "最优除法",
         "path": "../../problemset/optimal-division/README.md",
