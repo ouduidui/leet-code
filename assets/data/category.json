@@ -841,6 +841,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 167,
+        "title": "两数之和 II - 输入有序数组",
+        "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 917,
         "title": "仅仅反转字母",
         "path": "../../problemset/reverse-only-letters/README.md",

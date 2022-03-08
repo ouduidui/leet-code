@@ -177,6 +177,7 @@
 | 151. [翻转字符串中里的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
+| 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟

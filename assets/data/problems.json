@@ -1600,6 +1600,16 @@
     "path": "../../problemset/fraction-to-recurring-decimal/README.md"
   },
   {
+    "id": 167,
+    "title": {
+      "cn": "两数之和 II - 输入有序数组",
+      "en": "two-sum-ii-input-array-is-sorted"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/",
+    "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

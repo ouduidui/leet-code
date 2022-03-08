@@ -320,6 +320,8 @@
 
 [166. 分数到小数](../../problemset/fraction-to-recurring-decimal/README.md)
 
+[167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
