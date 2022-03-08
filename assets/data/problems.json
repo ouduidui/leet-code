@@ -1620,6 +1620,16 @@
     "path": "../../problemset/excel-sheet-column-title/README.md"
   },
   {
+    "id": 169,
+    "title": {
+      "cn": "多数元素",
+      "en": "majority-element"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/majority-element/",
+    "path": "../../problemset/majority-element/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

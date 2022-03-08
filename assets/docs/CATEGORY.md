@@ -18,6 +18,7 @@
 | 146. [LRU缓存](../../problemset/lru-cache/README.md) | 中等 |
 | 149. [直线上最多的点数](../../problemset/max-points-on-a-line/README.md) | 困难 |
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
@@ -84,6 +85,7 @@
 | 147. [对链表进行插入排序](../../problemset/insertion-sort-list/README.md) | 中等 |
 | 148. [排序链表](../../problemset/sort-list/README.md) | 中等 |
 | 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
@@ -110,6 +112,7 @@
 | 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
 | 166. [分数到小数](../../problemset/fraction-to-recurring-decimal/README.md) | 中等 |
 | 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
@@ -313,6 +316,7 @@
 | ---- | ---- |
 | 23. [合并 K 个升序链表](../../problemset/merge-k-sorted-lists/README.md) | 困难 |
 | 109. [有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md) | 中等 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配

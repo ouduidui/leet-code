@@ -87,6 +87,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../../problemset/majority-element/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
@@ -383,6 +389,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../../problemset/majority-element/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1984,
         "title": "学生分数的最小差值",
         "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
@@ -511,6 +523,12 @@
         "id": 168,
         "title": "Excel表列名称",
         "path": "../../problemset/excel-sheet-column-title/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../../problemset/majority-element/README.md",
         "difficulty": "简单"
       },
       {
@@ -1505,6 +1523,12 @@
         "title": "有序链表转换二叉搜索树",
         "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../../problemset/majority-element/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 1763,
