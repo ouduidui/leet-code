@@ -219,6 +219,7 @@
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
+| 2055. [蜡烛之间的盘子](../../problemset/plates-between-candles/README.md) | 中等 |
 
 ## 回溯
 

@@ -384,6 +384,8 @@
 
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)
 
+[2055. 蜡烛之间的盘子](../../problemset/plates-between-candles/README.md)
+
 [2100. 适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md)
 
 [2104. 子数组范围和](../../problemset/sum-of-subarray-ranges/README.md)

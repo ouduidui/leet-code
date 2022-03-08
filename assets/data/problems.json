@@ -1920,6 +1920,16 @@
     "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
   },
   {
+    "id": 2055,
+    "title": {
+      "cn": "蜡烛之间的盘子",
+      "en": "plates-between-candles"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/plates-between-candles/",
+    "path": "../../problemset/plates-between-candles/README.md"
+  },
+  {
     "id": 2100,
     "title": {
       "cn": "适合打劫银行的日子",

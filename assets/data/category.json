@@ -1066,6 +1066,12 @@
         "title": "句子中的有效单词数",
         "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 2055,
+        "title": "蜡烛之间的盘子",
+        "path": "../../problemset/plates-between-candles/README.md",
+        "difficulty": "中等"
       }
     ]
   },
