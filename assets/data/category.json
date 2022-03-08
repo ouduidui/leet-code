@@ -508,6 +508,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 168,
+        "title": "Excel表列名称",
+        "path": "../../problemset/excel-sheet-column-title/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

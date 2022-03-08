@@ -1610,6 +1610,16 @@
     "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md"
   },
   {
+    "id": 168,
+    "title": {
+      "cn": "Excel表列名称",
+      "en": "excel-sheet-column-title"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/excel-sheet-column-title/",
+    "path": "../../problemset/excel-sheet-column-title/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
