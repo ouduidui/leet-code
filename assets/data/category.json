@@ -1056,6 +1056,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 798,
+        "title": "得分最高的最小轮调",
+        "path": "../../problemset/smallest-rotation-with-highest-score/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

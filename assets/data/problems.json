@@ -1720,6 +1720,16 @@
     "path": "../../problemset/knight-probability-in-chessboard/README.md"
   },
   {
+    "id": 798,
+    "title": {
+      "cn": "得分最高的最小轮调",
+      "en": "smallest-rotation-with-highest-score"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/",
+    "path": "../../problemset/smallest-rotation-with-highest-score/README.md"
+  },
+  {
     "id": 838,
     "title": {
       "cn": "推多米诺",
