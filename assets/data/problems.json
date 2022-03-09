@@ -1630,6 +1630,16 @@
     "path": "../../problemset/majority-element/README.md"
   },
   {
+    "id": 171,
+    "title": {
+      "cn": "Excel 表列序号",
+      "en": "excel-sheet-column-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/excel-sheet-column-number/",
+    "path": "../../problemset/excel-sheet-column-number/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

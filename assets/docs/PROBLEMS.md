@@ -326,6 +326,8 @@
 
 [169. 多数元素](../../problemset/majority-element/README.md)
 
+[171. Excel 表列序号](../../problemset/excel-sheet-column-number/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

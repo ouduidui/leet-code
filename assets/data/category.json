@@ -532,6 +532,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 171,
+        "title": "Excel 表列序号",
+        "path": "../../problemset/excel-sheet-column-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",
