@@ -1730,6 +1730,16 @@
     "path": "../../problemset/find-the-closest-palindrome/README.md"
   },
   {
+    "id": 589,
+    "title": {
+      "cn": "N 叉树的前序遍历",
+      "en": "n-ary-tree-preorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/",
+    "path": "../../problemset/n-ary-tree-preorder-traversal/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

@@ -1497,6 +1497,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 589,
+        "title": "N 叉树的前序遍历",
+        "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
@@ -1753,6 +1759,12 @@
         "id": 145,
         "title": "二叉树的后序遍历",
         "path": "../../problemset/binary-tree-postorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 589,
+        "title": "N 叉树的前序遍历",
+        "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       }
     ]
