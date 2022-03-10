@@ -1650,6 +1650,16 @@
     "path": "../../problemset/factorial-trailing-zeroes/README.md"
   },
   {
+    "id": 173,
+    "title": {
+      "cn": "二叉搜索树迭代器",
+      "en": "binary-search-tree-iterator"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/binary-search-tree-iterator/",
+    "path": "../../problemset/binary-search-tree-iterator/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -330,6 +330,8 @@
 
 [172. 阶乘后的零](../../problemset/factorial-trailing-zeroes/README.md)
 
+[173. 二叉搜索树迭代器](../../problemset/binary-search-tree-iterator/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

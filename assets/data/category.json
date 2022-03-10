@@ -1497,6 +1497,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 173,
+        "title": "二叉搜索树迭代器",
+        "path": "../../problemset/binary-search-tree-iterator/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
@@ -1760,6 +1766,12 @@
         "title": "二叉树的后序遍历",
         "path": "../../problemset/binary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 173,
+        "title": "二叉搜索树迭代器",
+        "path": "../../problemset/binary-search-tree-iterator/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 589,
