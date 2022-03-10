@@ -538,6 +538,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 172,
+        "title": "阶乘后的零",
+        "path": "../../problemset/factorial-trailing-zeroes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

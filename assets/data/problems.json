@@ -1640,6 +1640,16 @@
     "path": "../../problemset/excel-sheet-column-number/README.md"
   },
   {
+    "id": 172,
+    "title": {
+      "cn": "阶乘后的零",
+      "en": "factorial-trailing-zeroes"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/factorial-trailing-zeroes/",
+    "path": "../../problemset/factorial-trailing-zeroes/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

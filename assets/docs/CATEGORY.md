@@ -114,6 +114,7 @@
 | 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
+| 172. [阶乘后的零](../../problemset/factorial-trailing-zeroes/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
