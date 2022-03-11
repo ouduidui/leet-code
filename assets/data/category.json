@@ -728,6 +728,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 174,
+        "title": "地下城游戏",
+        "path": "../../problemset/dungeon-game/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
