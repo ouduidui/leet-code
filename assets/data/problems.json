@@ -2000,6 +2000,16 @@
     "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
   },
   {
+    "id": 2049,
+    "title": {
+      "cn": "统计最高分的节点数目",
+      "en": "count-nodes-with-the-highest-score"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/",
+    "path": "../../problemset/count-nodes-with-the-highest-score/README.md"
+  },
+  {
     "id": 2055,
     "title": {
       "cn": "蜡烛之间的盘子",

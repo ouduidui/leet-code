@@ -1525,6 +1525,12 @@
         "title": "地图中的最高点",
         "path": "../../problemset/map-of-highest-peak/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 2049,
+        "title": "统计最高分的节点数目",
+        "path": "../../problemset/count-nodes-with-the-highest-score/README.md",
+        "difficulty": "中等"
       }
     ]
   },
