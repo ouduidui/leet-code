@@ -86,6 +86,7 @@
 | 148. [排序链表](../../problemset/sort-list/README.md) | 中等 |
 | 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
+| 179. [最大数](../../problemset/largest-number/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
