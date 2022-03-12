@@ -336,6 +336,8 @@
 
 [179. 最大数](../../problemset/largest-number/README.md)
 
+[187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

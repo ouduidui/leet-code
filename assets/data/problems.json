@@ -1680,6 +1680,16 @@
     "path": "../../problemset/largest-number/README.md"
   },
   {
+    "id": 187,
+    "title": {
+      "cn": "重复的DNA序列",
+      "en": "repeated-dna-sequences"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/repeated-dna-sequences/",
+    "path": "../../problemset/repeated-dna-sequences/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

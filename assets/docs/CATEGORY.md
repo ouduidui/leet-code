@@ -19,6 +19,7 @@
 | 149. [直线上最多的点数](../../problemset/max-points-on-a-line/README.md) | 困难 |
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
@@ -55,6 +56,7 @@
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 | 30. [串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
 | 76. [最小覆盖子串](../../problemset/minimum-window-substring/README.md) | 困难 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 二分法
