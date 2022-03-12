@@ -1780,6 +1780,16 @@
     "path": "../../problemset/n-ary-tree-preorder-traversal/README.md"
   },
   {
+    "id": 590,
+    "title": {
+      "cn": "N 叉树的后序遍历",
+      "en": "n-ary-tree-postorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/",
+    "path": "../../problemset/n-ary-tree-postorder-traversal/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

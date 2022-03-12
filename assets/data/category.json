@@ -1533,6 +1533,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 590,
+        "title": "N 叉树的后序遍历",
+        "path": "../../problemset/n-ary-tree-postorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

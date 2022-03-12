@@ -356,6 +356,8 @@
 
 [589. N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md)
 
+[590. N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
