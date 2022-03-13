@@ -1074,6 +1074,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 393,
+        "title": "UTF-8 编码验证",
+        "path": "../../problemset/utf-8-validation/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 521,
         "title": "最长特殊序列",
         "path": "../../problemset/longest-uncommon-subsequence/README.md",

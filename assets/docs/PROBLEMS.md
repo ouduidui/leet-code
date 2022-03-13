@@ -342,6 +342,8 @@
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
+[393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
+
 [504. 七进制数](../../problemset/base-7/README.md)
 
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)
