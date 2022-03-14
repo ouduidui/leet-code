@@ -1800,6 +1800,16 @@
     "path": "../../problemset/n-ary-tree-postorder-traversal/README.md"
   },
   {
+    "id": 599,
+    "title": {
+      "cn": "两个列表的最小索引总和",
+      "en": "minimum-index-sum-of-two-lists"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/",
+    "path": "../../problemset/minimum-index-sum-of-two-lists/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

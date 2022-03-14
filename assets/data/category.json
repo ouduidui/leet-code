@@ -99,6 +99,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 599,
+        "title": "两个列表的最小索引总和",
+        "path": "../../problemset/minimum-index-sum-of-two-lists/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",

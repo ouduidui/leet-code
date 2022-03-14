@@ -20,6 +20,7 @@
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |

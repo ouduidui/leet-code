@@ -360,6 +360,8 @@
 
 [590. N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md)
 
+[599. 两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
