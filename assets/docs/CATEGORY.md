@@ -159,6 +159,7 @@
 | 139. [单词拆分](../../problemset/word-break/README.md) | 中等 |
 | 152. [乘积最大子数组](../../problemset/maximum-product-subarray/README.md) | 中等 |
 | 174. [地下城游戏](../../problemset/dungeon-game/README.md) | 困难 |
+| 188. [买卖股票的最佳时机 IV](../../problemset/best-time-to-buy-and-sell-stock-4/README.md) | 困难 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |

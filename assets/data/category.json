@@ -758,6 +758,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 188,
+        "title": "买卖股票的最佳时机 IV",
+        "path": "../../problemset/best-time-to-buy-and-sell-stock-4/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
