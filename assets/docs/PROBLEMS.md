@@ -412,6 +412,8 @@
 
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
 
+[2044. 统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md)
+
 [2047. 句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md)
 
 [2049. 统计最高分的节点数目](../../problemset/count-nodes-with-the-highest-score/README.md)

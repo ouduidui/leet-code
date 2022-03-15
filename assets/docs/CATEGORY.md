@@ -261,6 +261,7 @@
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 | 140. [单词拆分 II](../../problemset/word-break-2/README.md) | 困难 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
+| 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 
 ## 栈
 
@@ -386,3 +387,9 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
+
+## 位运算
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |

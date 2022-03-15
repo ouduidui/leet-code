@@ -2060,6 +2060,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2044,
+    "title": {
+      "cn": "统计按位或能得到最大值的子集数目",
+      "en": "count-number-of-maximum-bitwise-or-subsets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+    "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md"
+  },
+  {
     "id": 2047,
     "title": {
       "cn": "句子中的有效单词数",

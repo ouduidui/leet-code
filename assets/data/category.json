@@ -1293,6 +1293,12 @@
         "title": "最多可达成的换楼请求数目",
         "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 2044,
+        "title": "统计按位或能得到最大值的子集数目",
+        "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1843,6 +1849,17 @@
         "title": "最多可达成的换楼请求数目",
         "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
         "difficulty": "困难"
+      }
+    ]
+  },
+  {
+    "label": "位运算",
+    "problems": [
+      {
+        "id": 2044,
+        "title": "统计按位或能得到最大值的子集数目",
+        "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
+        "difficulty": "中等"
       }
     ]
   }
