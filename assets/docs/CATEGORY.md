@@ -392,4 +392,11 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 67. [二进制求和](../../problemset/add-binary/README.md) | 简单 |
+| 89. [格雷编码](../../problemset/gray-code/README.md) | 中等 |
+| 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
+| 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |

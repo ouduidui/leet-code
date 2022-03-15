@@ -1856,6 +1856,48 @@
     "label": "位运算",
     "problems": [
       {
+        "id": 67,
+        "title": "二进制求和",
+        "path": "../../problemset/add-binary/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 89,
+        "title": "格雷编码",
+        "path": "../../problemset/gray-code/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 136,
+        "title": "只出现一次的数字",
+        "path": "../../problemset/single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 137,
+        "title": "只出现一次的数字 II",
+        "path": "../../problemset/single-number-2/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 187,
+        "title": "重复的DNA序列",
+        "path": "../../problemset/repeated-dna-sequences/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 393,
+        "title": "UTF-8 编码验证",
+        "path": "../../problemset/utf-8-validation/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 1763,
+        "title": "最长的美好子字符串",
+        "path": "../../problemset/longest-nice-substring/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 2044,
         "title": "统计按位或能得到最大值的子集数目",
         "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
