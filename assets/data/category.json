@@ -1080,6 +1080,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 189,
+        "title": "轮转数组",
+        "path": "../../problemset/rotate-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

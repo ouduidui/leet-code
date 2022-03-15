@@ -340,6 +340,8 @@
 
 [188. 买卖股票的最佳时机 IV](../../problemset/best-time-to-buy-and-sell-stock-4/README.md)
 
+[189. 轮转数组](../../problemset/rotate-array/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
