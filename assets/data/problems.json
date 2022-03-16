@@ -1710,6 +1710,16 @@
     "path": "../../problemset/rotate-array/README.md"
   },
   {
+    "id": 190,
+    "title": {
+      "cn": "颠倒二进制位",
+      "en": "reverse-bits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/reverse-bits/",
+    "path": "../../problemset/reverse-bits/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

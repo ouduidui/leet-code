@@ -342,6 +342,8 @@
 
 [189. 轮转数组](../../problemset/rotate-array/README.md)
 
+[190. 颠倒二进制位](../../problemset/reverse-bits/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

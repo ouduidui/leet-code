@@ -1627,6 +1627,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 190,
+        "title": "颠倒二进制位",
+        "path": "../../problemset/reverse-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1763,
         "title": "最长的美好子字符串",
         "path": "../../problemset/longest-nice-substring/README.md",
@@ -1890,6 +1896,12 @@
         "title": "重复的DNA序列",
         "path": "../../problemset/repeated-dna-sequences/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 190,
+        "title": "颠倒二进制位",
+        "path": "../../problemset/reverse-bits/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 393,
