@@ -99,6 +99,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 432,
+        "title": "全 O(1) 的数据结构",
+        "path": "../../problemset/all-oone-data-structure/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 599,
         "title": "两个列表的最小索引总和",
         "path": "../../problemset/minimum-index-sum-of-two-lists/README.md",
@@ -246,6 +252,12 @@
         "title": "排序链表",
         "path": "../../problemset/sort-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 432,
+        "title": "全 O(1) 的数据结构",
+        "path": "../../problemset/all-oone-data-structure/README.md",
+        "difficulty": "困难"
       }
     ]
   },
