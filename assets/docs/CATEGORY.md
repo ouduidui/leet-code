@@ -163,6 +163,7 @@
 | 152. [乘积最大子数组](../../problemset/maximum-product-subarray/README.md) | 中等 |
 | 174. [地下城游戏](../../problemset/dungeon-game/README.md) | 困难 |
 | 188. [买卖股票的最佳时机 IV](../../problemset/best-time-to-buy-and-sell-stock-4/README.md) | 困难 |
+| 198. [打家劫舍](../../problemset/house-robber/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
@@ -264,6 +265,7 @@
 | 131. [分割回文串](../../problemset/palindrome-partitioning/README.md) | 中等 |
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 | 140. [单词拆分 II](../../problemset/word-break-2/README.md) | 困难 |
+| 198. [打家劫舍](../../problemset/house-robber/README.md) | 中等 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 

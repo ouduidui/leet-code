@@ -1730,6 +1730,16 @@
     "path": "../../problemset/number-of-1-bits/README.md"
   },
   {
+    "id": 198,
+    "title": {
+      "cn": "打家劫舍",
+      "en": "house-robber"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/house-robber/",
+    "path": "../../problemset/house-robber/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

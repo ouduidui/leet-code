@@ -782,6 +782,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 198,
+        "title": "打家劫舍",
+        "path": "../../problemset/house-robber/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
@@ -1311,6 +1317,12 @@
         "title": "单词拆分 II",
         "path": "../../problemset/word-break-2/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 198,
+        "title": "打家劫舍",
+        "path": "../../problemset/house-robber/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1601,
