@@ -1860,6 +1860,16 @@
     "path": "../../problemset/knight-probability-in-chessboard/README.md"
   },
   {
+    "id": 720,
+    "title": {
+      "cn": "词典中最长的单词",
+      "en": "longest-word-in-dictionary"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/longest-word-in-dictionary/",
+    "path": "../../problemset/longest-word-in-dictionary/README.md"
+  },
+  {
     "id": 798,
     "title": {
       "cn": "得分最高的最小轮调",

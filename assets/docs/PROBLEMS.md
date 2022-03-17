@@ -372,6 +372,8 @@
 
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
+[720. 词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md)
+
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)

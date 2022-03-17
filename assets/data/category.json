@@ -111,6 +111,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 720,
+        "title": "词典中最长的单词",
+        "path": "../../problemset/longest-word-in-dictionary/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 884,
         "title": "两句话中的不常见单词",
         "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
