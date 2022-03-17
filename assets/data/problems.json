@@ -1720,6 +1720,16 @@
     "path": "../../problemset/reverse-bits/README.md"
   },
   {
+    "id": 191,
+    "title": {
+      "cn": "位1的个数",
+      "en": "number-of-1-bits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/number-of-1-bits/",
+    "path": "../../problemset/number-of-1-bits/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

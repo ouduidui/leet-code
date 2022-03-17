@@ -403,6 +403,25 @@
 | 137. [只出现一次的数字 II](../../problemset/single-number-2/README.md) | 中等 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 190. [颠倒二进制位](../../problemset/reverse-bits/README.md) | 简单 |
+| 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
+
+## 循环检查二进制位
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
+
+## |
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
+
+## 位运算优化
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
