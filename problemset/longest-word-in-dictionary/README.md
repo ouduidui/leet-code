@@ -11,8 +11,6 @@
 
 若其中有多个可行的答案，则返回答案中字典序最小的单词。若无答案，则返回空字符串。
 
-
-
 ### 示例
 
 #### 示例 1：
@@ -29,4 +27,38 @@
 输入：words = ["a", "banana", "app", "appl", "ap", "apply", "apple"]
 输出："apple"
 解释："apply" 和 "apple" 都能由词典中的单词组成。但是 "apple" 的字典序小于 "apply"
+```
+
+## 解题
+
+```typescript
+/**
+ * 哈希集合
+ * @param words
+ */
+export function longestWord(words: string[]): string {
+  words.sort((a, b) => {
+    if (a.length !== b.length) {
+      return a.length - b.length;
+    } else {
+      // 判断a，b在字典中的排序
+      return b.localeCompare(a);
+    }
+  });
+
+  let longest = '';
+  const set = new Set<string>();
+  set.add('');
+
+  const len = words.length;
+  for (let i = 0; i < len; i++) {
+    const word = words[i];
+    if (set.has(word.slice(0, word.length - 1))) {
+      set.add(word);
+      longest = word;
+    }
+  }
+
+  return longest;
+}
 ```
