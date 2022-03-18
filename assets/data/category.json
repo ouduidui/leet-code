@@ -1599,6 +1599,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 200,
+        "title": "岛屿数量",
+        "path": "../../problemset/number-of-islands/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
@@ -1973,6 +1979,17 @@
         "id": 2044,
         "title": "统计按位或能得到最大值的子集数目",
         "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "并查集",
+    "problems": [
+      {
+        "id": 200,
+        "title": "岛屿数量",
+        "path": "../../problemset/number-of-islands/README.md",
         "difficulty": "中等"
       }
     ]

@@ -1750,6 +1750,16 @@
     "path": "../../problemset/binary-tree-right-side-view/README.md"
   },
   {
+    "id": 200,
+    "title": {
+      "cn": "岛屿数量",
+      "en": "number-of-islands"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/number-of-islands/",
+    "path": "../../problemset/number-of-islands/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

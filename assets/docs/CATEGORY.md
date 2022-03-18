@@ -320,6 +320,7 @@
 | 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
 | 173. [二叉搜索树迭代器](../../problemset/binary-search-tree-iterator/README.md) | 中等 |
 | 199. [二叉树的右视图](../../problemset/binary-tree-right-side-view/README.md) | 中等 |
+| 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
@@ -412,3 +413,9 @@
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
+
+## 并查集
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
