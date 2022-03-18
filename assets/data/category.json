@@ -1593,6 +1593,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 199,
+        "title": "二叉树的右视图",
+        "path": "../../problemset/binary-tree-right-side-view/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
@@ -1879,6 +1885,12 @@
         "id": 173,
         "title": "二叉搜索树迭代器",
         "path": "../../problemset/binary-search-tree-iterator/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 199,
+        "title": "二叉树的右视图",
+        "path": "../../problemset/binary-tree-right-side-view/README.md",
         "difficulty": "中等"
       },
       {
