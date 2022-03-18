@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { deleteDuplicates } from './index';
 
 describe('删除排序列表中的重复元素', () => {

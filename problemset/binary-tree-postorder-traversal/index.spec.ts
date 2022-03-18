@@ -1,4 +1,4 @@
-import { createTreeNode, TreeNode } from '../../utils/treeNode';
+import { createTreeNode, TreeNode } from '~/utils/treeNode';
 import {
   postorderTraversal,
   postorderTraversal2,

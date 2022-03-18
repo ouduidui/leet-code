@@ -1,4 +1,4 @@
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 import { zigzagLevelOrder } from './index';
 
 describe('二叉树的锯齿形层序遍历', () => {

@@ -1,5 +1,5 @@
 import { flatten, flatten2, flatten3 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('二叉树展开为链表', () => {
   describe('前序遍历', () => {

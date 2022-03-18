@@ -1,4 +1,4 @@
-import { TreeNode } from '../../utils/treeNode';
+import { TreeNode } from '~/utils/treeNode';
 
 /**
  * 深度优先搜索

@@ -1,4 +1,4 @@
-import { Node, createNAryTree } from '../../utils/nAryTree';
+import { Node, createNAryTree } from '~/utils/nAryTree';
 import { postorder, postorder2 } from '.';
 import { postorder3 } from './index';
 

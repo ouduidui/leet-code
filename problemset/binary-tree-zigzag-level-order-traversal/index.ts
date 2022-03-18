@@ -1,4 +1,4 @@
-import { TreeNode } from '../../utils/treeNode';
+import { TreeNode } from '~/utils/treeNode';
 
 /**
  * 广度优先遍历

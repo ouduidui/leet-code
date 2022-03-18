@@ -1,5 +1,5 @@
 import { detectCycle, detectCycle2 } from './index';
-import { createCycleListNode, ListNode } from '../../utils/listNode';
+import { createCycleListNode, ListNode } from '~/utils/listNode';
 
 describe('环形链表 II', () => {
   describe('哈希表', () => {

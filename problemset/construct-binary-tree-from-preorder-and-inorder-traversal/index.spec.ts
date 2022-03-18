@@ -1,5 +1,5 @@
 import { buildTree, buildTree2 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('从前序与中序遍历序列构造二叉树', () => {
   describe('递归', () => {

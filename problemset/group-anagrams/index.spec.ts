@@ -1,4 +1,4 @@
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { groupAnagrams } from './index';
 
 describe('字母异位词分组', () => {

@@ -1,5 +1,5 @@
-import { TreeNode } from '../../utils/treeNode';
-import { ListNode } from '../../utils/listNode';
+import { TreeNode } from '~/utils/treeNode';
+import { ListNode } from '~/utils/listNode';
 
 /**
  * 分治

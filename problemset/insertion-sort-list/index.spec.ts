@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { insertionSortList } from './index';
 
 describe('对链表进行插入排序', () => {

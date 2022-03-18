@@ -1,4 +1,4 @@
-import { ListNode } from '../../utils/listNode';
+import { ListNode } from '~/utils/listNode';
 
 /**
  * 从前往后找插入点

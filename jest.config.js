@@ -3,5 +3,8 @@ module.exports = {
   coverageDirectory: 'coverage',
   preset: 'ts-jest',
   testEnvironment: 'node',
-  testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$'
+  testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
+  moduleNameMapper: {
+    '~/(.*?)$': '<rootDir>/$1'
+  }
 };

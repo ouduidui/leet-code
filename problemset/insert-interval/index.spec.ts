@@ -1,4 +1,4 @@
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { insert } from './index';
 
 describe('插入区间', () => {

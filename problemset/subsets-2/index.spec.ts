@@ -1,4 +1,4 @@
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { subsetsWithDup } from './index';
 
 describe('子集 II', () => {

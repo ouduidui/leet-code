@@ -1,4 +1,4 @@
-import { TreeNode } from '../../utils/treeNode';
+import { TreeNode } from '~/utils/treeNode';
 
 /**
  * 自顶向下的递归

@@ -1,5 +1,5 @@
 import { reorderList, reorderList2 } from './index';
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 
 describe('重排链表', () => {
   describe('线性表', () => {

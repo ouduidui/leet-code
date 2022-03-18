@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { mergeKLists, mergeKLists2 } from './index';
 
 describe('合并K个升序链表', () => {

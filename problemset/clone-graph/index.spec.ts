@@ -1,4 +1,4 @@
-import { Node, createGraph } from '../../utils/graph';
+import { Node, createGraph } from '~/utils/graph';
 import { cloneGraph, cloneGraph2 } from './index';
 
 describe('克隆图', () => {

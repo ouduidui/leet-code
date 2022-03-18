@@ -1,4 +1,4 @@
-import { Node } from '../../utils/listNodeWithRandomPointer';
+import { Node } from '~/utils/listNodeWithRandomPointer';
 
 /**
  * 回溯 + 哈希表

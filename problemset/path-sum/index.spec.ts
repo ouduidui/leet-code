@@ -1,5 +1,5 @@
 import { hasPathSum, hasPathSum2 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('路径总和', () => {
   testCase(hasPathSum);

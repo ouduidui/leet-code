@@ -1,5 +1,5 @@
 import { levelOrderBottom } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('二叉树的层序遍历 II', () => {
   testCase(levelOrderBottom);

@@ -1,6 +1,6 @@
 import { sortedListToBST, sortedListToBST2 } from './index';
-import { ListNode, createListNode } from '../../utils/listNode';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { ListNode, createListNode } from '~/utils/listNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('有序链表转换二叉搜索树', () => {
   describe('分治', () => {

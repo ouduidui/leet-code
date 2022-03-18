@@ -1,4 +1,4 @@
-import { Node } from '../../utils/nAryTree';
+import { Node } from '~/utils/nAryTree';
 
 /**
  * 递归

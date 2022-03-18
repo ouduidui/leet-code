@@ -1,5 +1,5 @@
 import { recoverTree, recoverTree2, recoverTree3 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('恢复二叉搜索树', () => {
   describe('显式中序遍历', () => {

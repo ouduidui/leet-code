@@ -1,4 +1,4 @@
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { combine } from './index';
 
 describe('组合', () => {

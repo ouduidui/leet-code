@@ -1,5 +1,5 @@
 import { permute } from './index';
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 
 describe('全排列', () => {
   testCase(permute);

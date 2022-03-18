@@ -1,4 +1,4 @@
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { generateMatrix } from './index';
 
 describe('螺旋矩阵 II', () => {

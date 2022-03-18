@@ -1,5 +1,5 @@
 import { isValidBST, isValidBST2 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('验证二叉搜索树', () => {
   describe('递归', () => {

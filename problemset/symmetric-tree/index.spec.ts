@@ -1,5 +1,5 @@
 import { isSymmetric, isSymmetric2 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('对称二叉树', () => {
   describe('递归', function () {

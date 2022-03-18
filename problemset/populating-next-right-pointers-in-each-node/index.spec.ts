@@ -3,7 +3,7 @@ import {
   Node,
   createBinaryTree,
   createPerfectBinaryTree
-} from '../../utils/perfectBinaryTree';
+} from '~/utils/perfectBinaryTree';
 
 describe('填充每个节点的下一个右侧节点指针', () => {
   describe('层次遍历', () => {

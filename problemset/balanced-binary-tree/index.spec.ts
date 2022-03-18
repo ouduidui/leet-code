@@ -1,5 +1,5 @@
 import { isBalanced } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('平衡二叉树', () => {
   testCase(isBalanced);

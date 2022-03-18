@@ -1,4 +1,4 @@
-import { Node } from '../../utils/perfectBinaryTree';
+import { Node } from '~/utils/perfectBinaryTree';
 
 /**
  * 层级遍历

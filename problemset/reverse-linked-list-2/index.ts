@@ -1,4 +1,4 @@
-import { ListNode } from '../../utils/listNode';
+import { ListNode } from '~/utils/listNode';
 
 /**
  * 穿针引线

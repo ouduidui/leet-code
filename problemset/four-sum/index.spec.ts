@@ -1,5 +1,5 @@
 import { fourSum } from './index';
-import { twoDimensionalArrayEqual } from '../../utils/tools';
+import { twoDimensionalArrayEqual } from '~/utils/tools';
 
 describe('四数之和', () => {
   describe('排序+双指针', () => {

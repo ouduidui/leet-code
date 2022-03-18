@@ -1,5 +1,5 @@
 import { generateTrees } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('不同的二叉搜索数 II', () => {
   testCase(generateTrees);

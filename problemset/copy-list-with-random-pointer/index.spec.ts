@@ -1,7 +1,7 @@
 import {
   Node,
   createListNodeWithRandomPointer
-} from '../../utils/listNodeWithRandomPointer';
+} from '~/utils/listNodeWithRandomPointer';
 import { copyRandomList, copyRandomList2 } from './index';
 
 describe('复制带随机指针的链表', () => {

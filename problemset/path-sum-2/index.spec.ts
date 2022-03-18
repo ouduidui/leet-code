@@ -1,5 +1,5 @@
 import { pathSum, pathSum2 } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('路径总和 II', () => {
   describe('深度优先搜索', () => {

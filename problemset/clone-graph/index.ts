@@ -1,4 +1,4 @@
-import { Node } from '../../utils/graph';
+import { Node } from '~/utils/graph';
 
 /**
  * 深度优先搜索

@@ -1,5 +1,5 @@
 import { maxPathSum } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('二叉树中的最大路径和', () => {
   testCase(maxPathSum);

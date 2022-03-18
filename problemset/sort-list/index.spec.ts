@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { sortList, sortList2 } from './index';
 
 describe('排序链表', () => {

@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { rotateRight } from './index';
 
 describe('旋转链表', () => {

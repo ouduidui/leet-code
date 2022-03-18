@@ -1,5 +1,5 @@
 import { BSTIterator } from '.';
-import { createTreeNode } from '../../utils/treeNode';
+import { createTreeNode } from '~/utils/treeNode';
 
 it('二叉搜索树迭代器', () => {
   const bst = new BSTIterator(createTreeNode([7, 3, 15, null, null, 9, 20]));

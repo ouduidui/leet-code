@@ -1,4 +1,4 @@
-import { ListNode, createListNode } from '../../utils/listNode';
+import { ListNode, createListNode } from '~/utils/listNode';
 import { reverseBetween, reverseBetween2 } from './index';
 
 describe('反转链表 II', () => {

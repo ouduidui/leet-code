@@ -1,5 +1,5 @@
 import { sortedArrayToBST } from './index';
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 
 describe('将有序数组转换为二叉搜索树', () => {
   testCase(sortedArrayToBST);

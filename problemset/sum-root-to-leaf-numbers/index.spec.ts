@@ -1,4 +1,4 @@
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 import { sumNumbers, sumNumbers2 } from './index';
 
 describe('求根节点到叶节点数字之和', () => {

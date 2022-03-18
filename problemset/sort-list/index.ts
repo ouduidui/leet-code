@@ -1,4 +1,4 @@
-import { ListNode } from '../../utils/listNode';
+import { ListNode } from '~/utils/listNode';
 
 /**
  * 自顶向下归并排序

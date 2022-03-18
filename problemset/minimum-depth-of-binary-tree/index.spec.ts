@@ -1,4 +1,4 @@
-import { TreeNode, createTreeNode } from '../../utils/treeNode';
+import { TreeNode, createTreeNode } from '~/utils/treeNode';
 import { minDepth, minDepth2 } from './index';
 
 describe('二叉树的最小深度', () => {

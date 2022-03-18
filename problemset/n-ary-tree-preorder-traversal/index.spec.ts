@@ -1,5 +1,5 @@
 import { preorder, preorder2 } from '.';
-import { Node, createNAryTree } from '../../utils/nAryTree';
+import { Node, createNAryTree } from '~/utils/nAryTree';
 
 describe('N 叉树的前序遍历', () => {
   describe('递归', () => {

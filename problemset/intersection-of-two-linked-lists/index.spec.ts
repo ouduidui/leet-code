@@ -1,4 +1,4 @@
-import { ListNode, createIntersectionListNode } from '../../utils/listNode';
+import { ListNode, createIntersectionListNode } from '~/utils/listNode';
 import { getIntersectionNode, getIntersectionNode2 } from './index';
 
 describe('相交链表', () => {
