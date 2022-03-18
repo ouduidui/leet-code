@@ -2120,6 +2120,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2043,
+    "title": {
+      "cn": "简易银行系统",
+      "en": "simple-bank-system"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/simple-bank-system/",
+    "path": "../../problemset/simple-bank-system/README.md"
+  },
+  {
     "id": 2044,
     "title": {
       "cn": "统计按位或能得到最大值的子集数目",
