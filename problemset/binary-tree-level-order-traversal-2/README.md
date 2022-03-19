@@ -6,13 +6,14 @@
 
 ## 题目
 
-给你二叉树的根节点 `root` ，返回其节点值 **自底向上的层序遍历** 。 （即按从叶子节点所在层到根节点所在的层，逐层从左向右遍历）
+给你二叉树的根节点 `root` ，返回其节点值 **自底向上的层序遍历** 。 （即按从叶子
+节点所在层到根节点所在的层，逐层从左向右遍历）
 
 ### 示例
 
 #### 示例 1：
 
-![binary-tree-level-order-traversal-ii.jpg](../../assets/images/binary-tree-level-order-traversal-ii.jpg)
+![binary-tree-level-order-traversal-ii](https://user-images.githubusercontent.com/88995580/159103234-659b11e8-30f4-4780-b162-e0cff5d35cc4.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]

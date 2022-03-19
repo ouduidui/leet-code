@@ -13,7 +13,7 @@
 
 #### 示例 1
 
-![spiral-matrix-1](../../assets/images/spiral-matrix-1.jpg)
+![spiral-matrix-1](https://user-images.githubusercontent.com/88995580/159103332-59c3e856-81fa-4e65-851f-05c9f3a21a77.jpg)
 
 ```
 输入：matrix = [[1,2,3],[4,5,6],[7,8,9]]
@@ -22,7 +22,7 @@
 
 #### 示例 2
 
-![spiral-matrix-2](../../assets/images/spiral-matrix-2.jpg)
+![spiral-matrix-2](https://user-images.githubusercontent.com/88995580/159103330-b75f8185-ba30-4ead-b688-c6280a740614.jpg)
 
 ```
 输入：matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]

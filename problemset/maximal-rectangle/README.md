@@ -6,13 +6,14 @@
 
 ## 题目
 
-给定一个仅包含 `0` 和 `1` 、大小为 `rows` x `cols` 的二维二进制矩阵，找出只包含 `1` 的最大矩形，并返回其面积。
+给定一个仅包含 `0` 和 `1` 、大小为 `rows` x `cols` 的二维二进制矩阵，找出只包含
+`1` 的最大矩形，并返回其面积。
 
 ### 示例
 
 #### 示例 1：
 
-![](../../assets/images/maximal-rectangle.jpg)
+![maximal-rectangle](https://user-images.githubusercontent.com/54696834/159102082-a3ec6997-1bfe-43b1-b759-4d0565b2ed03.jpg)
 
 ```
 输入：matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
@@ -174,5 +175,4 @@ export function maximalRectangle2(matrix: string[][]): number {
 
   return ret;
 }
-
 ```

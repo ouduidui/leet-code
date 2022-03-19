@@ -6,13 +6,14 @@
 
 ## 题目
 
-给你二叉搜索树的根节点 `root` ，该树中的 **恰好** 两个节点的值被错误地交换。请在不改变其结构的情况下，恢复这棵树 。
+给你二叉搜索树的根节点 `root` ，该树中的 **恰好** 两个节点的值被错误地交换。请在
+不改变其结构的情况下，恢复这棵树 。
 
 ### 示例
 
 #### 示例 1：
 
-![](../../assets/images/recover-binary-search-tree-1.jpg)
+![recover-binary-search-tree-1](https://user-images.githubusercontent.com/88995580/159103215-8fe62cc4-ee44-4b6c-8620-0088dbbcd49b.jpg)
 
 ```
 输入：root = [1,3,null,null,2]
@@ -22,7 +23,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/recover-binary-search-tree-2.jpg)
+![recover-binary-search-tree-2](https://user-images.githubusercontent.com/54696834/159102079-7426b656-6e75-4184-b587-2d51d410b7a5.jpg)
 
 ```
 输入：root = [3,1,4,null,null,2]
@@ -41,68 +42,68 @@
  * @param root {TreeNode | null}
  */
 export function recoverTree(root: TreeNode | null): void {
-    const nums: number[] = [];
-    // 中序遍历依次获取每个值，存入nums
-    inorder(root, nums);
-    // 超出两个非递增位置
-    const [first, second] = findTwoSwapped(nums) as [number, number];
-    // 调换位置
-    recover(root, 2, first, second);
+  const nums: number[] = [];
+  // 中序遍历依次获取每个值，存入nums
+  inorder(root, nums);
+  // 超出两个非递增位置
+  const [first, second] = findTwoSwapped(nums) as [number, number];
+  // 调换位置
+  recover(root, 2, first, second);
 
-    /**
-     * 中序遍历
-     * @param root
-     * @param nums
-     */
-    function inorder(root: TreeNode | null, nums: number[]): void {
-        if (root === null) return;
-        inorder(root.left, nums);
-        nums.push(root.val);
-        inorder(root.right, nums);
+  /**
+   * 中序遍历
+   * @param root
+   * @param nums
+   */
+  function inorder(root: TreeNode | null, nums: number[]): void {
+    if (root === null) return;
+    inorder(root.left, nums);
+    nums.push(root.val);
+    inorder(root.right, nums);
+  }
+
+  /**
+   * 找到nums数组中两个非递增的位置
+   * @param nums
+   */
+  function findTwoSwapped(nums: number[]): [number, number] {
+    const n = nums.length;
+    let index1 = -1;
+    let index2 = -1;
+    for (let i = 0; i < n - 1; i++) {
+      if (nums[i + 1] < nums[i]) {
+        index2 = i + 1;
+        if (index1 === -1) index1 = i;
+        else break;
+      }
     }
+    return [nums[index1], nums[index2]];
+  }
 
-    /**
-     * 找到nums数组中两个非递增的位置
-     * @param nums
-     */
-    function findTwoSwapped(nums: number[]): [number, number] {
-        const n = nums.length;
-        let index1 = -1;
-        let index2 = -1;
-        for (let i = 0; i < n - 1; i++) {
-            if (nums[i + 1] < nums[i]) {
-                index2 = i + 1;
-                if (index1 === -1) index1 = i;
-                else break;
-            }
-        }
-        return [nums[index1], nums[index2]];
+  /**
+   * 调换val1和val2的值
+   * @param root
+   * @param count
+   * @param val1
+   * @param val2
+   */
+  function recover(
+    root: TreeNode | null,
+    count: number,
+    val1: number,
+    val2: number
+  ) {
+    if (root === null) return;
+
+    if (root.val === val1 || root.val === val2) {
+      root.val = root.val === val1 ? val2 : val1;
+      if (--count === 0) {
+        return;
+      }
     }
-
-    /**
-     * 调换val1和val2的值
-     * @param root
-     * @param count
-     * @param val1
-     * @param val2
-     */
-    function recover(
-        root: TreeNode | null,
-        count: number,
-        val1: number,
-        val2: number
-    ) {
-        if (root === null) return;
-
-        if (root.val === val1 || root.val === val2) {
-            root.val = root.val === val1 ? val2 : val1;
-            if (--count === 0) {
-                return;
-            }
-        }
-        recover(root.left, count, val1, val2);
-        recover(root.right, count, val1, val2);
-    }
+    recover(root.left, count, val1, val2);
+    recover(root.right, count, val1, val2);
+  }
 }
 ```
 

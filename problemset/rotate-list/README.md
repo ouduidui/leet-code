@@ -12,7 +12,7 @@
 
 #### 示例 1
 
-![rotate-list-1](../../assets/images/rotate-list-1.jpg)
+![rotate-list-1](https://user-images.githubusercontent.com/54696834/159102064-caad4659-88e3-4540-bba3-da567fa88c3d.jpg)
 
 ```
 输入：head = [1,2,3,4,5], k = 2
@@ -21,7 +21,7 @@
 
 #### 示例 1
 
-![rotate-list-2](../../assets/images/rotate-list-2.jpg)
+![rotate-list-2](https://user-images.githubusercontent.com/54696834/159102062-5e74d6d7-cb29-48d7-b847-697d4c7d4e6a.jpg)
 
 ```
 输入：head = [0,1,2], k = 4

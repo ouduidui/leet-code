@@ -11,7 +11,7 @@
 
 图示两个链表在节点 `c1` 开始相交：
 
-![intersection-of-two-linked-lists-1.png](../../assets//images/intersection-of-two-linked-lists-1.png)
+![intersection-of-two-linked-lists-1](https://user-images.githubusercontent.com/54696834/159101968-33c39aeb-7a0a-41b1-af85-488b4cdc1bfc.png)
 
 题目数据 **保证** 整个链式结构中不存在环。
 
@@ -34,7 +34,7 @@
 
 #### 示例 1
 
-![intersection-of-two-linked-lists-2.png](../../assets//images/intersection-of-two-linked-lists-2.png)
+![intersection-of-two-linked-lists-2](https://user-images.githubusercontent.com/54696834/159101972-2ae4c724-77a8-41d8-8632-2c4d1009c1fc.png)
 
 ```
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
@@ -46,7 +46,7 @@
 
 #### 示例 2
 
-![intersection-of-two-linked-lists-3.png](../../assets//images/intersection-of-two-linked-lists-3.png)
+![intersection-of-two-linked-lists-3](https://user-images.githubusercontent.com/54696834/159101977-7cbf5876-b889-4750-aaa4-afa768cf89e4.png)
 
 ```
 输入：intersectVal = 2, listA = [1,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
@@ -58,7 +58,7 @@
 
 #### 示例 3
 
-![intersection-of-two-linked-lists-4.png](../../assets//images/intersection-of-two-linked-lists-4.png)
+![intersection-of-two-linked-lists-4](https://user-images.githubusercontent.com/54696834/159101995-409aed9b-257e-43cb-b120-794f6fde1341.png)
 
 ```
 输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2

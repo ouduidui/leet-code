@@ -26,7 +26,7 @@
 
 #### 示例 1
 
-![plates-between-candles-1.png](../../assets/images/plates-between-candles-1.png)
+![plates-between-candles-1](https://user-images.githubusercontent.com/54696834/159102001-f7219fe1-6466-44c5-a21d-318db3db83ef.png)
 
 ```
 输入：s = "**|**|***|", queries = [[2,5],[5,9]]
@@ -38,7 +38,7 @@
 
 #### 示例 2
 
-![plates-between-candles-2.png](../../assets/images/plates-between-candles-2.png)
+![plates-between-candles-2](https://user-images.githubusercontent.com/54696834/159101975-ae3e96de-bc91-4a0a-a095-5c6c73830615.png)
 
 ```
 输入：s = "***|**|*****|**||**|*", queries = [[1,17],[4,5],[14,17],[5,11],[15,16]]

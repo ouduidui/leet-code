@@ -6,7 +6,8 @@
 
 ## 题目
 
-给定一个 **完美二叉树** ，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：
+给定一个 **完美二叉树** ，其所有叶子节点都在同一层，每个父节点都有两个子节点。二
+叉树定义如下：
 
 ```
 struct Node {
@@ -17,7 +18,8 @@ struct Node {
 }
 ```
 
-填充它的每个 `next` 指针，让这个指针指向其下一个右侧节点。如果找不到下一个右侧节点，则将 `next` 指针设置为 `NULL`。
+填充它的每个 `next` 指针，让这个指针指向其下一个右侧节点。如果找不到下一个右侧节
+点，则将 `next` 指针设置为 `NULL`。
 
 初始状态下，所有 `next` 指针都被设置为 `NULL`。
 
@@ -25,7 +27,7 @@ struct Node {
 
 #### 示例 1：
 
-![populating-next-right-pointers-in-each-node.png](../../assets/images/populating-next-right-pointers-in-each-node.png)
+![populating-next-right-pointers-in-each-node](https://user-images.githubusercontent.com/54696834/159101951-8043f9fc-2519-4e5d-85a2-9861c17646ba.png)
 
 ```
 输入：root = [1,2,3,4,5,6,7]

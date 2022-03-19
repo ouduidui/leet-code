@@ -24,7 +24,7 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 
 #### 示例 1：
 
-![reorder-list-1.png](../../assets/images/reorder-list-1.png)
+![reorder-list-1](https://user-images.githubusercontent.com/54696834/159101961-7699492d-62a1-44f0-b1a7-29e1a0fdf649.png)
 
 ```
 输入：head = [1,2,3,4]
@@ -33,7 +33,7 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 
 #### 示例 2：
 
-![reorder-list-2.png](../../assets/images/reorder-list-2.png)
+![reorder-list-2](https://user-images.githubusercontent.com/54696834/159101955-6c2d4641-d0a3-4fa9-b06a-f281b09635b6.png)
 
 ```
 输入：head = [1,2,3,4,5]

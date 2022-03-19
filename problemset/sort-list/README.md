@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![sort-list-1.jpg](../../assets/images/sort-list-1.jpg)
+![sort-list-1](https://user-images.githubusercontent.com/54696834/159101966-49bb3a2d-2129-4950-9b2c-e7f5ba75c413.jpg)
 
 ```
 输入：head = [4,2,1,3]
@@ -21,7 +21,7 @@
 
 #### 示例 2：
 
-![sort-list-2.jpg](../../assets/images/sort-list-2.jpg)
+![sort-list-2](https://user-images.githubusercontent.com/54696834/159101962-d52884af-96c1-4ac3-92f1-9dad2ddfe3a3.jpg)
 
 ```
 输入：head = [-1,5,3,4,0]

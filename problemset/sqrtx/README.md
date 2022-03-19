@@ -73,7 +73,7 @@ export function mySqrt(x: number): number {
 。在经过多次迭代后，我们就可以得到一个距离零点非常接近的交点。下图给出了从`x0`开
 始迭代两次，得到`x1`和`x2`的过程。
 
-![sqrtx.png](../../assets/images/sqrtx.png)
+![sqrtx](https://user-images.githubusercontent.com/54696834/159102061-2d19217c-106f-4d9c-8366-76471a372988.png)
 
 接下来，我们可以来研究`xi`和`xi-1`的关系。当我们已知了`x0`的时候，此时
 的`y=f(x)=x^2-C`的坐标点为`(x0, x0^2 - C)`，然后`f'(x)=2x`，因此该点的导数

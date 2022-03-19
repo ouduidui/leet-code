@@ -6,15 +6,17 @@
 
 ## 题目
 
-给你一个字符串 `text`，你需要使用 `text` 中的字母来拼凑尽可能多的单词 `"balloon"（气球`）。
+给你一个字符串 `text`，你需要使用 `text` 中的字母来拼凑尽可能多的单词
+`"balloon"（气球`）。
 
-字符串 `text` 中的每个字母最多只能被使用一次。请你返回最多可以拼凑出多少个单词 `"balloon"`。
+字符串 `text` 中的每个字母最多只能被使用一次。请你返回最多可以拼凑出多少个单词
+`"balloon"`。
 
 ### 示例
 
 #### 示例 1：
 
-![maximum-number-of-balloons-1.jpg](../../assets/images/maximum-number-of-balloons-1.jpg)
+![maximum-number-of-balloons-1](https://user-images.githubusercontent.com/54696834/159101986-c2f5130f-78aa-42bb-820a-381c6ec6ee53.jpg)
 
 ```
 输入：text = "nlaebolko"
@@ -23,7 +25,7 @@
 
 #### 示例 2：
 
-![maximum-number-of-balloons-2.jpg](../../assets/images/maximum-number-of-balloons-2.jpg)
+![maximum-number-of-balloons-2](https://user-images.githubusercontent.com/54696834/159101978-5b3b9163-324a-4b38-bd71-40d5fc0d6a46.jpg)
 
 ```
 输入：text = "loonbalxballpoon"

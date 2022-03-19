@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![word-search-1](../../assets/images/word-search-1.jpg)
+![word-search-1](https://user-images.githubusercontent.com/88995580/159103225-b6ae53e2-156f-4dec-8495-5ec95fea47cf.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
@@ -25,7 +25,7 @@
 
 #### 示例 2：
 
-![word-search-2](../../assets/images/word-search-2.jpg)
+![word-search-2](https://user-images.githubusercontent.com/88995580/159103231-7822d579-a68c-42cb-adc5-f3dd4a069f8b.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE"
@@ -34,7 +34,7 @@
 
 #### 示例 3：
 
-![word-search-3](../../assets/images/word-search-3.jpg)
+![word-search-3](https://user-images.githubusercontent.com/88995580/159103241-4a0ad5e3-8bc4-46a5-b800-93e8b8a58390.jpg)
 
 ```
 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"
@@ -42,6 +42,7 @@
 ```
 
 ## 解法
+
 ```typescript
 export function exist(board: string[][], word: string): boolean {
   const m = board.length;

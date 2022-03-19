@@ -11,7 +11,7 @@
 
 给出数字到字母的映射如下（与电话按键相同）。注意 `1` 不对应任何字母。
 
-![telephone-keypad](../../assets/images/telephone-keypad.png)
+![telephone-keypad](https://user-images.githubusercontent.com/88995580/159103307-fb639c62-4a3c-4ed0-bc59-c1d3ddc75620.png)
 
 ### 示例
 

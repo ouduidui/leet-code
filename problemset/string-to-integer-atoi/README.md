@@ -184,7 +184,7 @@ export function myAtoi(s: string): number {
 
 ### 自动机
 
-![string-to-integer-atoi](../../assets/images/string-to-integer-atoi.png)
+![string-to-integer-atoi](https://user-images.githubusercontent.com/88995580/159103279-9f4245c5-4bdd-48f1-9fc8-87d60e648c89.png)
 
 ```typescript
 /**

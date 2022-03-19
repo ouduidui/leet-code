@@ -13,7 +13,7 @@
 
 #### 示例 1：
 
-![binary-tree-right-side-view.jpg](../../assets/images/binary-tree-right-side-view.jpg)
+![binary-tree-right-side-view](https://user-images.githubusercontent.com/54696834/159101927-153b981d-8a7e-4471-af80-0609b8c50a44.jpg)
 
 ```
 输入: [1,2,3,null,5,null,4]

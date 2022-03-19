@@ -6,9 +6,10 @@
 
 ## 题目
 
-给定两个整数数组 `preorder` 和 `inorder` ，其中 `preorder` 是二叉树的**先序遍历**， `inorder` 是同一棵树的**中序遍历**，请构造二叉树并返回其根节点。
+给定两个整数数组 `preorder` 和 `inorder` ，其中 `preorder` 是二叉树的**先序遍
+历**， `inorder` 是同一棵树的**中序遍历**，请构造二叉树并返回其根节点。
 
-> 二叉树前序遍历的顺序为： 
+> 二叉树前序遍历的顺序为：
 >
 > - 先遍历根节点；
 > - 随后递归地遍历左子树；
@@ -20,12 +21,11 @@
 > - 随后遍历根节点；
 > - 最后递归地遍历右子树。
 
-
 ### 示例
 
 #### 示例 1：
 
-![construct-binary-tree-from-preorder-and-inorder-traversal.jpg](../../assets/images/construct-binary-tree-from-preorder-and-inorder-traversal.jpg)
+![construct-binary-tree-from-preorder-and-inorder-traversal](https://user-images.githubusercontent.com/88995580/159103244-390c4a39-0f1d-4e27-b2e2-6d5b2150a203.jpg)
 
 ```
 输入: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
@@ -110,12 +110,15 @@ export function buildTree(
 }
 ```
 
-
 ### 迭代
 
-- 我们用一个栈和一个指针辅助进行二叉树的构造。初始时栈中存放了根节点（前序遍历的第一个节点），指针指向中序遍历的第一个节点；
+- 我们用一个栈和一个指针辅助进行二叉树的构造。初始时栈中存放了根节点（前序遍历的
+  第一个节点），指针指向中序遍历的第一个节点；
 
-- 我们依次枚举前序遍历中除了第一个节点以外的每个节点。如果 `index` 恰好指向栈顶节点，那么我们不断地弹出栈顶节点并向右移动 `index`，并将当前节点作为最后一个弹出的节点的右儿子；如果 `index` 和栈顶节点不同，我们将当前节点作为栈顶节点的左儿子；
+- 我们依次枚举前序遍历中除了第一个节点以外的每个节点。如果 `index` 恰好指向栈顶
+  节点，那么我们不断地弹出栈顶节点并向右移动 `index`，并将当前节点作为最后一个弹
+  出的节点的右儿子；如果 `index` 和栈顶节点不同，我们将当前节点作为栈顶节点的左
+  儿子；
 
 - 无论是哪一种情况，我们最后都将当前的节点入栈。
 

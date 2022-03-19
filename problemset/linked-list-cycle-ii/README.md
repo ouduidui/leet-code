@@ -6,9 +6,12 @@
 
 ## 题目
 
-给定一个链表的头节点  `head` ，返回链表开始入环的第一个节点。 如果链表无环，则返回 `null`。
+给定一个链表的头节点 `head` ，返回链表开始入环的第一个节点。 如果链表无环，则返
+回 `null`。
 
-如果链表中有某个节点，可以通过连续跟踪 `next` 指针再次到达，则链表中存在环。 为了表示给定链表中的环，评测系统内部使用整数 `pos` 来表示链表尾连接到链表中的位置（索引从 `0` 开始）。如果 `pos` 是 `-1`，则在该链表中没有环。
+如果链表中有某个节点，可以通过连续跟踪 `next` 指针再次到达，则链表中存在环。 为
+了表示给定链表中的环，评测系统内部使用整数 `pos` 来表示链表尾连接到链表中的位置
+（索引从 `0` 开始）。如果 `pos` 是 `-1`，则在该链表中没有环。
 
 注意：`pos` 不作为参数进行传递，仅仅是为了标识链表的实际情况。
 
@@ -18,7 +21,7 @@
 
 #### 示例 1：
 
-![linked-list-cycle-ii-1.png](../../assets/images/linked-list-cycle-ii-1.png)
+![linked-list-cycle-ii-1](https://user-images.githubusercontent.com/54696834/159101994-cfb5eb66-42ba-473c-9b03-de2da5e6104e.png)
 
 ```
 输入：head = [3,2,0,-4], pos = 1
@@ -28,7 +31,7 @@
 
 #### 示例 2：
 
-![linked-list-cycle-ii-2.png](../../assets/images/linked-list-cycle-ii-2.png)
+![linked-list-cycle-ii-2](https://user-images.githubusercontent.com/54696834/159102013-14547371-68e3-4efe-a6bc-b2e242a05d9e.png)
 
 ```
 输入：head = [1,2], pos = 0
@@ -38,7 +41,7 @@
 
 #### 示例 3：
 
-![linked-list-cycle-ii-3.png](../../assets/images/linked-list-cycle-ii-3.png)
+![linked-list-cycle-ii-3](https://user-images.githubusercontent.com/88995580/159103212-952c323d-90fb-477f-8a20-a04cc04180cb.png)
 
 ```
 输入：head = [1], pos = -1

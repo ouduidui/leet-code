@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![binary-tree-preorder-traversal.jpg](../../assets/images/binary-tree-preorder-traversal.jpg)
+![binary-tree-preorder-traversal](https://user-images.githubusercontent.com/54696834/159102003-b238b84f-d110-4f12-ba06-37070680bb83.jpg)
 
 ```
 输入：root = [1,null,2,3]

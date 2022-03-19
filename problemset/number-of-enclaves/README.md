@@ -6,9 +6,11 @@
 
 ## 题目
 
-给你一个大小为 `m x n` 的二进制矩阵 `grid` ，其中 `0` 表示一个海洋单元格、`1` 表示一个陆地单元格。
+给你一个大小为 `m x n` 的二进制矩阵 `grid` ，其中 `0` 表示一个海洋单元格、`1` 表
+示一个陆地单元格。
 
-一次 **移动** 是指从一个陆地单元格走到另一个相邻（`上、下、左、右`）的陆地单元格或跨过 `grid` 的边界。
+一次 **移动** 是指从一个陆地单元格走到另一个相邻（`上、下、左、右`）的陆地单元格
+或跨过 `grid` 的边界。
 
 返回网格中 **无法** 在任意次数的移动中离开网格边界的陆地单元格的数量。
 
@@ -16,7 +18,7 @@
 
 #### 示例 1：
 
-![number-of-enclaves-1.jpg](../../assets/images/number-of-enclaves-1.jpg)
+![number-of-enclaves-1](https://user-images.githubusercontent.com/54696834/159101985-51ffac72-b3ac-42dc-aeba-b9779610015d.jpg)
 
 ```
 输入：grid = [[0,0,0,0],[1,0,1,0],[0,1,1,0],[0,0,0,0]]
@@ -26,7 +28,7 @@
 
 #### 示例 2：
 
-![number-of-enclaves-2.jpg](../../assets/images/number-of-enclaves-2.jpg)
+![number-of-enclaves-2](https://user-images.githubusercontent.com/54696834/159101983-66e02449-236d-4bdb-9ba5-d44d8a22b9c6.jpg)
 
 ```
 输入：grid = [[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]

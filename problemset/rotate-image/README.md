@@ -15,7 +15,7 @@
 
 #### 示例 1
 
-![rotate-image-1](../../assets/images/rotate-image-1.jpg)
+![rotate-image-1](https://user-images.githubusercontent.com/88995580/159103324-bf415263-2ffe-4136-8dd7-f429e9ea811b.jpg)
 
 ```
 输入：matrix = [[1,2,3],[4,5,6],[7,8,9]]
@@ -24,7 +24,7 @@
 
 #### 示例 2
 
-![rotate-image-2](../../assets/images/rotate-image-2.jpg)
+![rotate-image-2](https://user-images.githubusercontent.com/88995580/159103309-b7bef796-4afc-46cb-a879-6c4a4f64ba22.jpg)
 
 ```
 输入：matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]

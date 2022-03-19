@@ -141,7 +141,7 @@ export function isNumber(s: string): boolean {
 最后，需要定义「转移规则」。结合数值字符串应当具备的格式，将自动机转移的过程以图
 解的方式表示出来：
 
-![valid-number.png](../../assets/images/valid-number.png)
+![valid-number](https://user-images.githubusercontent.com/54696834/159102051-f144a84f-2805-4833-849b-b4a68fa07db0.png)
 
 比较上图与「预备知识」一节中对自动机的描述，可以看出有一点不同：
 

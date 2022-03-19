@@ -19,7 +19,7 @@
 
 #### 示例 1：
 
-![sum-root-to-leaf-numbers-1.jpg](../../assets/images/sum-root-to-leaf-numbers-1.jpg)
+![sum-root-to-leaf-numbers-1](https://user-images.githubusercontent.com/54696834/159102010-7c729d6b-8365-4c9e-9d1d-845cc31345cd.jpg)
 
 ```
 输入：root = [1,2,3]
@@ -30,10 +30,9 @@
 因此，数字总和 = 12 + 13 = 25
 ```
 
-
 #### 示例 2：
 
-![sum-root-to-leaf-numbers-2.jpg](../../assets/images/sum-root-to-leaf-numbers-2.jpg)
+![sum-root-to-leaf-numbers-2](https://user-images.githubusercontent.com/54696834/159101996-5da74b7e-909a-4017-bf34-22049c5a6c24.jpg)
 
 ```
 输入：root = [4,9,0,5,1]

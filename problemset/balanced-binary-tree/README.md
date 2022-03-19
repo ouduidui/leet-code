@@ -16,7 +16,7 @@
 
 #### 示例 1：
 
-![balanced-binary-tree-1.jpg](../../assets/images/balanced-binary-tree-1.jpg)
+![balanced-binary-tree-1](https://user-images.githubusercontent.com/54696834/159102026-8edc8fdc-cfcd-440d-992d-a432c625b78f.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]
@@ -25,7 +25,7 @@
 
 #### 示例 2：
 
-![balanced-binary-tree-2.jpg](../../assets/images/balanced-binary-tree-2.jpg)
+![balanced-binary-tree-2](https://user-images.githubusercontent.com/54696834/159102024-0a60d103-9f65-4bb0-afbc-2f1f77843cf6.jpg)
 
 ```
 输入：root = [1,2,2,3,3,null,null,4,4]

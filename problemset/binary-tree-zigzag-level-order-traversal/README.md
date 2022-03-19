@@ -6,13 +6,14 @@
 
 ## 题目
 
-给你二叉树的根节点 `root` ，返回其节点值的 **锯齿形层序遍历** 。（即先从左往右，再从右往左进行下一层遍历，以此类推，层与层之间交替进行）。
+给你二叉树的根节点 `root` ，返回其节点值的 **锯齿形层序遍历** 。（即先从左往右，
+再从右往左进行下一层遍历，以此类推，层与层之间交替进行）。
 
 ### 示例
 
 #### 示例 1：
 
-![binary-tree-zigzag-level-order-traversal](../../assets/images/binary-tree-zigzag-level-order-traversal.jpg)
+![binary-tree-zigzag-level-order-traversal](https://user-images.githubusercontent.com/88995580/159103239-11673283-e4d3-4b2d-9bf3-e17a7232a9d0.jpg)
 
 ```
 输入：root = [3,9,20,null,null,15,7]

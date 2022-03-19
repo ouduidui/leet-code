@@ -17,7 +17,8 @@ struct Node {
 }
 ```
 
-填充它的每个 `next` 指针，让这个指针指向其下一个右侧节点。如果找不到下一个右侧节点，则将 `next` 指针设置为 `NULL`。
+填充它的每个 `next` 指针，让这个指针指向其下一个右侧节点。如果找不到下一个右侧节
+点，则将 `next` 指针设置为 `NULL`。
 
 初始状态下，所有 `next` 指针都被设置为 `NULL`。
 
@@ -26,10 +27,9 @@ struct Node {
 - 你只能使用常量级额外空间。
 - 使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。
 
-
 ### 示例
 
-![populating-next-right-pointers-in-each-node-ii.png](../../assets/images/populating-next-right-pointers-in-each-node-ii.png)
+![populating-next-right-pointers-in-each-node-ii](https://user-images.githubusercontent.com/88995580/159103903-bb958307-a673-4807-9e14-1bff688852bc.png)
 
 ```
 输入：root = [1,2,3,4,5,null,7]

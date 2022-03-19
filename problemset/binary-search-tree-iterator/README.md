@@ -26,7 +26,7 @@
 
 #### 示例 1
 
-![binary-search-tree-iterator.png](../../assets/images/binary-search-tree-iterator.png)
+![binary-search-tree-iterator](https://user-images.githubusercontent.com/54696834/159101990-e2c7f570-eaaf-443e-a36b-5a18bb381ca2.png)
 
 ```
 输入

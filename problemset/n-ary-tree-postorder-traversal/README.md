@@ -15,7 +15,7 @@
 
 #### 示例 1：
 
-![n-ary-tree-preorder-traversal-1.png](../../assets/images/n-ary-tree-preorder-traversal-1.png)
+![n-ary-tree-postorder-traversal-1](https://user-images.githubusercontent.com/54696834/159101931-38c839ef-2331-4c79-b79b-0619c6bdc25d.png)
 
 ```
 输入：root = [1,null,3,2,4,null,5,6]
@@ -24,7 +24,7 @@
 
 #### 示例 2：
 
-![n-ary-tree-preorder-traversal-2.png](../../assets/images/n-ary-tree-preorder-traversal-2.png)
+![n-ary-tree-postorder-traversal-2](https://user-images.githubusercontent.com/54696834/159101930-e492d194-ce34-43ed-9067-cc3780d7f5b9.png)
 
 ```
 输入：root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]

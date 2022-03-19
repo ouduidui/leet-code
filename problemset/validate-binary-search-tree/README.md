@@ -16,7 +16,7 @@
 
 ### 示例 1：
 
-![](../../assets/images/validate-binary-search-tree-1.jpg)
+![validate-binary-search-tree-1](https://user-images.githubusercontent.com/88995580/159103264-b6030c51-3108-488f-9025-eeb8b1077468.jpg)
 
 ```
 输入：root = [2,1,3]
@@ -25,7 +25,7 @@
 
 ### 示例 2：
 
-![](../../assets/images/validate-binary-search-tree-2.jpg)
+![validate-binary-search-tree-2](https://user-images.githubusercontent.com/88995580/159103232-ace4829c-5a49-4236-9231-285489dd542a.jpg)
 
 ```
 输入：root = [5,1,4,null,null,3,6]
@@ -64,7 +64,7 @@ export function isValidBST(root: TreeNode | null): boolean {
 
 ### 中序遍历
 
-![](../../assets/images/validate-binary-search-tree-3.gif)
+![validate-binary-search-tree-3](https://user-images.githubusercontent.com/54696834/159102039-9b940a1c-623d-43f1-ac1a-57eb682cd521.gif)
 
 ```typescript
 /**

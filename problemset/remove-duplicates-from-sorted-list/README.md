@@ -6,7 +6,8 @@
 
 ## 题目
 
-存在一个按升序排列的链表，给你这个链表的头节点 `head` ，请你删除所有重复的元素，**使每个元素** 只出现一次 。
+存在一个按升序排列的链表，给你这个链表的头节点 `head` ，请你删除所有重复的元素
+，**使每个元素** 只出现一次 。
 
 返回同样按升序排列的结果链表。
 
@@ -14,7 +15,7 @@
 
 #### 示例 1：
 
-![](../../assets/images/remove-duplicates-from-sorted-list-1.jpg)
+![remove-duplicates-from-sorted-list-1](https://user-images.githubusercontent.com/88995580/159103250-98d13f87-2481-45af-b1a5-d5007ebbf943.jpg)
 
 ```
 输入：head = [1,1,2]
@@ -23,7 +24,7 @@
 
 #### 示例 2：
 
-![](../../assets/images/remove-duplicates-from-sorted-list-2.jpg)
+![remove-duplicates-from-sorted-list-2](https://user-images.githubusercontent.com/88995580/159103520-eb9e7387-954f-48e3-a84b-b4d6d18c7c96.jpg)
 
 ```
 输入：head = [1,1,2,3,3]

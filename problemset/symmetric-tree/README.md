@@ -12,7 +12,7 @@
 
 #### 示例 1：
 
-![symmetric-tree-1](../../assets/images/symmetric-tree-1.jpg)
+![symmetric-tree-1](https://user-images.githubusercontent.com/54696834/159102081-9db6648f-890d-462b-8136-9c80396cbaf9.jpg)
 
 ```
 输入：root = [1,2,2,3,4,4,3]
@@ -21,7 +21,7 @@
 
 #### 示例 1：
 
-![symmetric-tree-2](../../assets/images/symmetric-tree-2.jpg)
+![symmetric-tree-2](https://user-images.githubusercontent.com/88995580/159103246-7c63ecc7-1e56-4ab9-a30c-b8ee19eb1316.jpg)
 
 ```
 输入：root = [1,2,2,null,3,null,3]
@@ -81,4 +81,3 @@ export function isSymmetric2(root: TreeNode | null): boolean {
   return true;
 }
 ```
-

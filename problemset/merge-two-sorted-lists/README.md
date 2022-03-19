@@ -13,7 +13,7 @@
 
 #### 示例 1
 
-![merge-two-sorted-lists](../../assets/images/merge-two-sorted-lists.jpg)
+![merge-two-sorted-lists](https://user-images.githubusercontent.com/88995580/159103312-41bb1593-062b-48d9-8ed9-4bd1f93be474.jpg)
 
 ```
 输入：l1 = [1,2,4], l2 = [1,3,4]

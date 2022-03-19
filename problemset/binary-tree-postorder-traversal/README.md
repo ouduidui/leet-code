@@ -14,7 +14,7 @@
 
 #### 示例 1：
 
-![binary-tree-postorder-traversal.jpg](../../assets/images/binary-tree-postorder-traversal.jpg)
+![binary-tree-postorder-traversal](https://user-images.githubusercontent.com/54696834/159102004-9843c655-ed1d-4b89-9bd6-a3b8e7f82355.jpg)
 
 ```
 输入：root = [1,null,2,3]
@@ -34,4 +34,3 @@
 输入：root = [1]
 输出：[1]
 ```
-

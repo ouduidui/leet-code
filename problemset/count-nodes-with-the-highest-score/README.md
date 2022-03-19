@@ -21,7 +21,7 @@
 
 #### 示例 1：
 
-![count-nodes-with-the-highest-score-1.png](../../assets/images/count-nodes-with-the-highest-score-1.png)
+![count-nodes-with-the-highest-score-1](https://user-images.githubusercontent.com/54696834/159101928-b176be2f-bce2-4d75-a55f-13333b36754d.png)
 
 ```
 输入：parents = [-1,2,0,2,0]
@@ -37,7 +37,7 @@
 
 #### 示例 2：
 
-![count-nodes-with-the-highest-score-2.png](../../assets/images/count-nodes-with-the-highest-score-2.png)
+![count-nodes-with-the-highest-score-2](https://user-images.githubusercontent.com/54696834/159101932-369071c2-59a8-48a7-8979-1506b9d693d6.png)
 
 ```
 输入：parents = [-1,2,0]

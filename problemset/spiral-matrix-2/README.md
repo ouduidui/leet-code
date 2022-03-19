@@ -13,7 +13,7 @@
 
 #### 示例 1：
 
-![spiral-matrix-II-1](../../assets/images/spiral-matrix-II-1.jpg)
+![spiral-matrix-II-1](https://user-images.githubusercontent.com/88995580/159103248-e7642a83-bda7-4a9a-94cd-9a349bb17925.jpg)
 
 ```
 输入：n = 3

@@ -15,7 +15,7 @@
 
 #### 示例 1
 
-![n-queens-1](../../assets/images/n-queens-1.jpg)
+![n-queens-1](https://user-images.githubusercontent.com/88995580/159103310-af7330bd-1ab1-4eba-b70d-67735cae9802.jpg)
 
 ```
 输入：n = 4

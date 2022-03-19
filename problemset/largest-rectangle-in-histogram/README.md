@@ -4,15 +4,16 @@
 >
 > https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
 
- ## 题目
+## 题目
 
-给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。
+给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1
+。
 
 求在该柱状图中，能够勾勒出来的矩形的最大面积。
 
 ### 示例 1：
 
-![](../../assets/images/largest-rectangle-in-histogram-1.jpg)
+![largest-rectangle-in-histogram-1](https://user-images.githubusercontent.com/88995580/159103228-e4e093bb-d453-471e-812b-401ae3e980cc.jpg)
 
 ```
 输入：heights = [2,1,5,6,2,3]
@@ -22,7 +23,7 @@
 
 ### 示例 2：
 
-![](../../assets/images/largest-rectangle-in-histogram-2.jpg)
+![largest-rectangle-in-histogram-2](https://user-images.githubusercontent.com/88995580/159103263-03e36c4a-d747-4ecd-964d-11477d861658.jpg)
 
 ```
 输入： heights = [2,4]
@@ -59,6 +60,7 @@ export function largestRectangleArea(heights: number[]): number {
 ```
 
 ### 暴力解法 - 固定高度
+
 ```typescript
 /**
  * 暴力解法 - 固定高度
@@ -123,5 +125,4 @@ export function largestRectangleArea2(heights: number[]): number {
 
   return maxArea;
 }
-
 ```

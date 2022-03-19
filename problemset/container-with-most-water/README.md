@@ -17,7 +17,7 @@
 
 #### 示例 1
 
-![container-with-most-water-1](../../assets/images/container-with-most-water-1.jpg)
+![container-with-most-water-1](https://user-images.githubusercontent.com/88995580/159103317-458b4cb8-df1d-4a65-8194-d55d4ed9bacd.jpg)
 
 ```
 输入：[1,8,6,2,5,4,8,3,7]

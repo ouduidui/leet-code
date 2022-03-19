@@ -6,13 +6,14 @@
 
 ## 题目
 
-给你一个数组 `points` ，其中 `points[i] = [xi, yi]` 表示 `X-Y` 平面上的一个点。求最多有多少个点在同一条直线上。
+给你一个数组 `points` ，其中 `points[i] = [xi, yi]` 表示 `X-Y` 平面上的一个点。
+求最多有多少个点在同一条直线上。
 
 ### 示例
 
 #### 示例 1：
 
-![max-points-on-a-line-1.jpg](../../assets/images/max-points-on-a-line-1.jpg)
+![max-points-on-a-line-1](https://user-images.githubusercontent.com/54696834/159101997-76c8ea9d-0069-4d7c-ba3e-69a92f9ecb50.jpg)
 
 ```
 输入：points = [[1,1],[2,2],[3,3]]
@@ -21,7 +22,7 @@
 
 #### 示例 2：
 
-![max-points-on-a-line-2.jpg](../../assets/images/max-points-on-a-line-2.jpg)
+![max-points-on-a-line-2](https://user-images.githubusercontent.com/54696834/159101992-a023a180-5ca6-46be-a461-99f9e1d94726.jpg)
 
 ```
 输入：points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]

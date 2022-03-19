@@ -13,7 +13,7 @@
 
 #### 示例 1
 
-![trapping-rain-water](../../assets/images/trapping-rain-water.png)
+![trapping-rain-water](https://user-images.githubusercontent.com/88995580/159103336-26963d30-6a2a-4f9e-a553-08628d12bd79.png)
 
 ```
 输入：height = [0,1,0,2,1,0,1,3,2,1,2,1]

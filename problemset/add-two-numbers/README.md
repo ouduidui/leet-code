@@ -17,7 +17,7 @@
 
 #### 示例 1：
 
-![add-two-numbers.jpeg](../../assets/images/add-two-numbers.jpeg)
+![add-two-numbers](https://user-images.githubusercontent.com/88995580/159103314-6d14327c-bb46-4a9f-9cd7-1a5eb5e2fdf8.jpeg)
 
 ```
 输入：l1 = [2,4,3], l2 = [5,6,4]

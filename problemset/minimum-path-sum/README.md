@@ -15,7 +15,7 @@
 
 #### 示例 1
 
-![minimum-path-sum](../../assets/images/minimum-path-sum.jpg)
+![minimum-path-sum](https://user-images.githubusercontent.com/88995580/159103260-d2ce9e33-8c9b-48af-bf03-af3db1fc13de.jpg)
 
 ```
 输入：grid = [[1,3,1],[1,5,1],[4,2,1]]

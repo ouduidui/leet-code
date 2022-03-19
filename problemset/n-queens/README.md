@@ -18,7 +18,7 @@
 
 #### 示例 1
 
-![n-queens-1](../../assets/images/n-queens-1.jpg)
+![n-queens-1](https://user-images.githubusercontent.com/88995580/159103310-af7330bd-1ab1-4eba-b70d-67735cae9802.jpg)
 
 ```
 输入：n = 4
@@ -50,13 +50,13 @@
 ，例如 `(0,0)` 和 `(3,3)` 在同一条方向一的斜线上。因此使用行下标与列下标之差即可
 明确表示每一条方向一的斜线。
 
-![n-queens-2](../../assets/images/n-queens-2.png)
+![n-queens-2](https://user-images.githubusercontent.com/88995580/159103281-26332ab1-0742-4396-b2c1-166cb4a4f0c7.png)
 
 方向二的斜线为从右上到左下方向，同一条斜线上的每个位置满足行下标与列下标之和相等
 ，例如 `(3,0)` 和 `(1,2)` 在同一条方向二的斜线上。因此使用行下标与列下标之和即可
 明确表示每一条方向二的斜线。
 
-![n-queens-3](../../assets/images/n-queens-3.png)
+![n-queens-3](https://user-images.githubusercontent.com/88995580/159103289-2a5e887e-5a17-4e90-8754-cb39464a8de2.png)
 
 每次放置皇后时，对于每个位置判断其是否在三个集合中，如果三个集合都不包含当前位置
 ，则当前位置是可以放置皇后的位置。

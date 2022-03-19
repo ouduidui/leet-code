@@ -6,15 +6,17 @@
 
 ## 题目
 
-给你一个整数数组 `nums` ，其中元素已经按 **升序** 排列，请你将其转换为一棵 **高度平衡** 二叉搜索树。
+给你一个整数数组 `nums` ，其中元素已经按 **升序** 排列，请你将其转换为一棵 **高
+度平衡** 二叉搜索树。
 
-**高度平衡** 二叉树是一棵满足「每个节点的左右两个子树的高度差的绝对值不超过 1 」的二叉树。
+**高度平衡** 二叉树是一棵满足「每个节点的左右两个子树的高度差的绝对值不超过 1 」
+的二叉树。
 
 ### 示例
 
 #### 示例 1：
 
-![convert-sorted-array-to-binary-search-tree-1.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-1.jpg)
+![convert-sorted-array-to-binary-search-tree-1](https://user-images.githubusercontent.com/88995580/159103253-9392434d-98e1-41fd-9ddf-5bd4a635606e.jpg)
 
 ```
 输入：nums = [-10,-3,0,5,9]
@@ -22,11 +24,11 @@
 解释：[0,-10,5,null,-3,null,9] 也将被视为正确答案：
 ```
 
-![convert-sorted-array-to-binary-search-tree-2.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-2.jpg)
+![convert-sorted-array-to-binary-search-tree-2](https://user-images.githubusercontent.com/88995580/159103252-ab7b987c-9ffe-4dd1-9761-e6f1d8259ebe.jpg)
 
 #### 示例 2：
 
-![convert-sorted-array-to-binary-search-tree-3.jpg](../../assets/images/convert-sorted-array-to-binary-search-tree-3.jpg)
+![convert-sorted-array-to-binary-search-tree-3](https://user-images.githubusercontent.com/88995580/159103262-f13c13de-dae0-482b-ab92-edf5073e6426.jpg)
 
 ```
 输入：nums = [1,3]

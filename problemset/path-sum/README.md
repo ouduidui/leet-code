@@ -6,7 +6,9 @@
 
 ## 题目
 
-给你二叉树的根节点 `root` 和一个表示目标和的整数 `targetSum` 。判断该树中是否存在 **根节点到叶子节点** 的路径，这条路径上所有节点值相加等于目标和 `targetSum` 。如果存在，返回 `true` ；否则，返回 `false` 。
+给你二叉树的根节点 `root` 和一个表示目标和的整数 `targetSum` 。判断该树中是否存
+在 **根节点到叶子节点** 的路径，这条路径上所有节点值相加等于目标和 `targetSum`
+。如果存在，返回 `true` ；否则，返回 `false` 。
 
 **叶子节点** 是指没有子节点的节点。
 
@@ -14,7 +16,7 @@
 
 #### 示例 1：
 
-![path-sum-1.jpg](../../assets/images/path-sum-1.jpg)
+![path-sum-1](https://user-images.githubusercontent.com/54696834/159101965-1fbf6ae9-bd84-489d-9b16-a1a39ed11f7c.jpg)
 
 ```
 输入：root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
@@ -24,7 +26,7 @@
 
 #### 示例 2：
 
-![path-sum-2.jpg](../../assets/images/path-sum-2.jpg)
+![path-sum-2](https://user-images.githubusercontent.com/54696834/159102007-3c7dc5aa-6558-4a65-8412-cbe2c853002b.jpg)
 
 ```
 输入：root = [1,2,3], targetSum = 5

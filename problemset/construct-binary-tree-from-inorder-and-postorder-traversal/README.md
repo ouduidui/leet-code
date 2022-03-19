@@ -6,7 +6,8 @@
 
 ## 题目
 
-给定两个整数数组 `inorder` 和 `postorder` ，其中 `inorder` 是二叉树的中序遍历， `postorder` 是同一棵树的后序遍历，请你构造并返回这颗 **二叉树** 。
+给定两个整数数组 `inorder` 和 `postorder` ，其中 `inorder` 是二叉树的中序遍历，
+`postorder` 是同一棵树的后序遍历，请你构造并返回这颗 **二叉树** 。
 
 > - 中序遍历的顺序是每次遍历左孩子，再遍历根节点，最后遍历右孩子。
 > - 后序遍历的顺序是每次遍历左孩子，再遍历右孩子，最后遍历根节点。
@@ -15,7 +16,7 @@
 
 #### 示例 1：
 
-![construct-binary-tree-from-inorder-and-postorder-traversal.jpg](../../assets/images/construct-binary-tree-from-inorder-and-postorder-traversal.jpg)
+![construct-binary-tree-from-inorder-and-postorder-traversal](https://user-images.githubusercontent.com/88995580/159103243-9e50bf37-1627-42cc-a8ed-82ead1fdb0f9.jpg)
 
 ```
 输入：inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
@@ -53,7 +54,7 @@ export function buildTree(
 
   return helper(0, inorder.length - 1);
 
-  function helper(leftIndex: number, rightIndex: number): TreeNode | null  {
+  function helper(leftIndex: number, rightIndex: number): TreeNode | null {
     // 如果这里没有节点构造二叉树了，就结束
     if (leftIndex > rightIndex) return null;
 
@@ -116,4 +117,3 @@ export function buildTree2(
   return root;
 }
 ```
-

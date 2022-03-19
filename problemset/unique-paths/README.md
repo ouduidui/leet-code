@@ -17,7 +17,7 @@
 
 #### 示例 1
 
-![unique-paths.png](../../assets/images/unique-paths.png)
+![unique-paths](https://user-images.githubusercontent.com/88995580/159103257-b0e2a5a5-68a2-4ac8-8d6d-59778acb848a.png)
 
 ```
 输入：m = 3, n = 7
