@@ -1890,6 +1890,16 @@
     "path": "../../problemset/minimum-index-sum-of-two-lists/README.md"
   },
   {
+    "id": 606,
+    "title": {
+      "cn": "根据二叉树创建字符串",
+      "en": "construct-string-from-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/construct-string-from-binary-tree/",
+    "path": "../../problemset/construct-string-from-binary-tree/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

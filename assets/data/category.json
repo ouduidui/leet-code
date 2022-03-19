@@ -1617,6 +1617,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 606,
+        "title": "根据二叉树创建字符串",
+        "path": "../../problemset/construct-string-from-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
@@ -1903,6 +1909,12 @@
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 606,
+        "title": "根据二叉树创建字符串",
+        "path": "../../problemset/construct-string-from-binary-tree/README.md",
         "difficulty": "简单"
       }
     ]

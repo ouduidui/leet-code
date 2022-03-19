@@ -378,6 +378,8 @@
 
 [599. 两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md)
 
+[606. 根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [720. 词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md)
