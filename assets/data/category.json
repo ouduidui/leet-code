@@ -1976,6 +1976,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 201,
+        "title": "数字范围按位与",
+        "path": "../../problemset/bitwise-and-of-numbers-range/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 393,
         "title": "UTF-8 编码验证",
         "path": "../../problemset/utf-8-validation/README.md",
