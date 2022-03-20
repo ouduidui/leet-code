@@ -99,6 +99,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 202,
+        "title": "快乐数",
+        "path": "../../problemset/happy-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-oone-data-structure/README.md",
@@ -941,6 +947,12 @@
         "title": "两数之和 II - 输入有序数组",
         "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 202,
+        "title": "快乐数",
+        "path": "../../problemset/happy-number/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 917,

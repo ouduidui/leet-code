@@ -1770,6 +1770,16 @@
     "path": "../../problemset/bitwise-and-of-numbers-range/README.md"
   },
   {
+    "id": 202,
+    "title": {
+      "cn": "快乐数",
+      "en": "happy-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/happy-number/",
+    "path": "../../problemset/happy-number/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

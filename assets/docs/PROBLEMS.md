@@ -354,6 +354,8 @@
 
 [201. 数字范围按位与](../../problemset/bitwise-and-of-numbers-range/README.md)
 
+[202. 快乐数](../../problemset/happy-number/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

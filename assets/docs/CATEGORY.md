@@ -20,6 +20,7 @@
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 202. [快乐数](../../problemset/happy-number/README.md) | 简单 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-oone-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
@@ -194,6 +195,7 @@
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
+| 202. [快乐数](../../problemset/happy-number/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
