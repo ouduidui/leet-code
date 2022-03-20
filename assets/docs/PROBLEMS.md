@@ -432,6 +432,8 @@
 
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
 
+[2039. 网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md)
+
 [2043. 简易银行系统](../../problemset/simple-bank-system/README.md)
 
 [2044. 统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md)

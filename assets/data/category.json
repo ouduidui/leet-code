@@ -1641,6 +1641,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 2039,
+        "title": "网络空闲的时刻",
+        "path": "../../problemset/the-time-when-the-network-becomes-idle/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 2049,
         "title": "统计最高分的节点数目",
         "path": "../../problemset/count-nodes-with-the-highest-score/README.md",

@@ -2160,6 +2160,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2039,
+    "title": {
+      "cn": "网络空闲的时刻",
+      "en": "the-time-when-the-network-becomes-idle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/",
+    "path": "../../problemset/the-time-when-the-network-becomes-idle/README.md"
+  },
+  {
     "id": 2043,
     "title": {
       "cn": "简易银行系统",
