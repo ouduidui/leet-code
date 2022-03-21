@@ -53,6 +53,7 @@
 | 146. [LRU缓存](../../problemset/lru-cache/README.md) | 中等 |
 | 147. [对链表进行插入排序](../../problemset/insertion-sort-list/README.md) | 中等 |
 | 148. [排序链表](../../problemset/sort-list/README.md) | 中等 |
+| 203. [移除链表元素](../../problemset/remove-linked-list-elements/README.md) | 简单 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-oone-data-structure/README.md) | 困难 |
 
 ## 滑动窗口
@@ -325,6 +326,7 @@
 | 173. [二叉搜索树迭代器](../../problemset/binary-search-tree-iterator/README.md) | 中等 |
 | 199. [二叉树的右视图](../../problemset/binary-tree-right-side-view/README.md) | 中等 |
 | 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
+| 203. [移除链表元素](../../problemset/remove-linked-list-elements/README.md) | 简单 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |

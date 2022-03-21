@@ -272,6 +272,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 203,
+        "title": "移除链表元素",
+        "path": "../../problemset/remove-linked-list-elements/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-oone-data-structure/README.md",
@@ -1627,6 +1633,12 @@
         "title": "岛屿数量",
         "path": "../../problemset/number-of-islands/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 203,
+        "title": "移除链表元素",
+        "path": "../../problemset/remove-linked-list-elements/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 589,
