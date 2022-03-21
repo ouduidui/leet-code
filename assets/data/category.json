@@ -117,6 +117,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 653,
+        "title": "两数之和 IV - 输入 BST",
+        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 720,
         "title": "词典中最长的单词",
         "path": "../../problemset/longest-word-in-dictionary/README.md",
@@ -955,6 +961,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 653,
+        "title": "两数之和 IV - 输入 BST",
+        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 917,
         "title": "仅仅反转字母",
         "path": "../../problemset/reverse-only-letters/README.md",
@@ -1635,6 +1647,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 653,
+        "title": "两数之和 IV - 输入 BST",
+        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",
@@ -1933,6 +1951,12 @@
         "id": 606,
         "title": "根据二叉树创建字符串",
         "path": "../../problemset/construct-string-from-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 653,
+        "title": "两数之和 IV - 输入 BST",
+        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
       }
     ]
