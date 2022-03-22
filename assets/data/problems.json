@@ -2190,6 +2190,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2038,
+    "title": {
+      "cn": "如果相邻两个颜色均相同则删除当前颜色",
+      "en": "remove-colored-pieces-if-both-neighbors-are-the-same-color"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+    "path": "../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md"
+  },
+  {
     "id": 2039,
     "title": {
       "cn": "网络空闲的时刻",

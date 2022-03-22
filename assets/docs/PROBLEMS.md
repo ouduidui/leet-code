@@ -438,6 +438,8 @@
 
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
 
+[2038. 如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md)
+
 [2039. 网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md)
 
 [2043. 简易银行系统](../../problemset/simple-bank-system/README.md)
