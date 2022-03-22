@@ -125,6 +125,7 @@
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 172. [阶乘后的零](../../problemset/factorial-trailing-zeroes/README.md) | 中等 |
+| 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
@@ -409,6 +410,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 
 ## 位运算

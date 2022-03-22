@@ -604,6 +604,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 204,
+        "title": "计数质数",
+        "path": "../../problemset/count-primes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",
@@ -1982,6 +1988,12 @@
   {
     "label": "枚举",
     "problems": [
+      {
+        "id": 204,
+        "title": "计数质数",
+        "path": "../../problemset/count-primes/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 1601,
         "title": "最多可达成的换楼请求数目",

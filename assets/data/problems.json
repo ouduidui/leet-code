@@ -1790,6 +1790,16 @@
     "path": "../../problemset/remove-linked-list-elements/README.md"
   },
   {
+    "id": 204,
+    "title": {
+      "cn": "计数质数",
+      "en": "count-primes"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/count-primes/",
+    "path": "../../problemset/count-primes/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
