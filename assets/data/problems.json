@@ -1833,11 +1833,11 @@
     "id": 432,
     "title": {
       "cn": "全 O(1) 的数据结构",
-      "en": "all-oone-data-structure"
+      "en": "all-one-data-structure"
     },
     "difficulty": "困难",
-    "url": "https://leetcode-cn.com/problems/all-oone-data-structure/",
-    "path": "../../problemset/all-oone-data-structure/README.md"
+    "url": "https://leetcode-cn.com/problems/all-one-data-structure/",
+    "path": "../../problemset/all-one-data-structure/README.md"
   },
   {
     "id": 504,

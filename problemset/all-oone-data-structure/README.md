@@ -2,7 +2,7 @@
 
 > 难度：困难
 >
-> https://leetcode-cn.com/problems/all-oone-data-structure/
+> https://leetcode-cn.com/problems/all-one-data-structure/
 
 ## 题目
 
