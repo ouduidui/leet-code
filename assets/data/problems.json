@@ -1810,6 +1810,16 @@
     "path": "../../problemset/isomorphic-strings/README.md"
   },
   {
+    "id": 206,
+    "title": {
+      "cn": "反转链表",
+      "en": "reverse-linked-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/reverse-linked-list/",
+    "path": "../../problemset/reverse-linked-list/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -284,6 +284,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 206,
+        "title": "反转链表",
+        "path": "../../problemset/reverse-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -1656,6 +1662,12 @@
         "id": 203,
         "title": "移除链表元素",
         "path": "../../problemset/remove-linked-list-elements/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 206,
+        "title": "反转链表",
+        "path": "../../problemset/reverse-linked-list/README.md",
         "difficulty": "简单"
       },
       {
