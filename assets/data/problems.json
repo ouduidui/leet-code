@@ -1840,6 +1840,16 @@
     "path": "../../problemset/all-one-data-structure/README.md"
   },
   {
+    "id": 440,
+    "title": {
+      "cn": "字典序的第K小数字",
+      "en": "k-th-smallest-in-lexicographical-order"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/",
+    "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md"
+  },
+  {
     "id": 504,
     "title": {
       "cn": "七进制数",

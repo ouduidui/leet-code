@@ -1158,6 +1158,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 440,
+        "title": "字典序的第K小数字",
+        "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 521,
         "title": "最长特殊序列",
         "path": "../../problemset/longest-uncommon-subsequence/README.md",
