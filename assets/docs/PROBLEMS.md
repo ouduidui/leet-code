@@ -360,6 +360,8 @@
 
 [204. 计数质数](../../problemset/count-primes/README.md)
 
+[205. 同构字符串](../../problemset/isomorphic-strings/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

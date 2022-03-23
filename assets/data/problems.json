@@ -1800,6 +1800,16 @@
     "path": "../../problemset/count-primes/README.md"
   },
   {
+    "id": 205,
+    "title": {
+      "cn": "同构字符串",
+      "en": "isomorphic-strings"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/isomorphic-strings/",
+    "path": "../../problemset/isomorphic-strings/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
