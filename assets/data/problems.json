@@ -1980,6 +1980,16 @@
     "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md"
   },
   {
+    "id": 661,
+    "title": {
+      "cn": "图片平滑器",
+      "en": "image-smoother"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/image-smoother/",
+    "path": "../../problemset/image-smoother/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

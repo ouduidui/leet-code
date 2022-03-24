@@ -240,6 +240,7 @@
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
+| 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |

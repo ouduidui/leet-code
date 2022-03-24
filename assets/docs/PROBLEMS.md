@@ -396,6 +396,8 @@
 
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)
 
+[661. 图片平滑器](../../problemset/image-smoother/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [720. 词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md)

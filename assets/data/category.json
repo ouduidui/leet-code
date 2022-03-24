@@ -1194,6 +1194,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 661,
+        "title": "图片平滑器",
+        "path": "../../problemset/image-smoother/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 798,
         "title": "得分最高的最小轮调",
         "path": "../../problemset/smallest-rotation-with-highest-score/README.md",
