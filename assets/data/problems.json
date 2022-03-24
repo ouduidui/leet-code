@@ -1820,6 +1820,16 @@
     "path": "../../problemset/reverse-linked-list/README.md"
   },
   {
+    "id": 207,
+    "title": {
+      "cn": "课程表",
+      "en": "course-schedule"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/course-schedule/",
+    "path": "../../problemset/course-schedule/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
