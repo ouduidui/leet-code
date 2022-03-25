@@ -234,6 +234,7 @@
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 189. [轮转数组](../../problemset/rotate-array/README.md) | 中等 |
+| 208. [实现 Trie (前缀树)](../../problemset/implement-trie-prefix-tree/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |

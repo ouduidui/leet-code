@@ -1830,6 +1830,16 @@
     "path": "../../problemset/course-schedule/README.md"
   },
   {
+    "id": 208,
+    "title": {
+      "cn": "实现 Trie (前缀树)",
+      "en": "implement-trie-prefix-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/implement-trie-prefix-tree/",
+    "path": "../../problemset/implement-trie-prefix-tree/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
