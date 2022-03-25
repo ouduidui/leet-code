@@ -325,6 +325,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 209,
+        "title": "长度最小的子数组",
+        "path": "../../problemset/minimum-size-subarray-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1763,
         "title": "最长的美好子字符串",
         "path": "../../problemset/longest-nice-substring/README.md",

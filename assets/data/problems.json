@@ -1840,6 +1840,16 @@
     "path": "../../problemset/implement-trie-prefix-tree/README.md"
   },
   {
+    "id": 209,
+    "title": {
+      "cn": "长度最小的子数组",
+      "en": "minimum-size-subarray-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/minimum-size-subarray-sum/",
+    "path": "../../problemset/minimum-size-subarray-sum/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

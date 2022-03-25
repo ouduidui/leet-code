@@ -66,6 +66,7 @@
 | 30. [串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
 | 76. [最小覆盖子串](../../problemset/minimum-window-substring/README.md) | 困难 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 二分法
