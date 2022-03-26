@@ -2020,6 +2020,16 @@
     "path": "../../problemset/image-smoother/README.md"
   },
   {
+    "id": 682,
+    "title": {
+      "cn": "棒球比赛",
+      "en": "baseball-game"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/baseball-game/",
+    "path": "../../problemset/baseball-game/README.md"
+  },
+  {
     "id": 688,
     "title": {
       "cn": "骑士在棋盘上的概率",

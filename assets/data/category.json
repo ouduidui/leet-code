@@ -1212,6 +1212,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 682,
+        "title": "棒球比赛",
+        "path": "../../problemset/baseball-game/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 798,
         "title": "得分最高的最小轮调",
         "path": "../../problemset/smallest-rotation-with-highest-score/README.md",
