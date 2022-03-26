@@ -4,14 +4,13 @@
  * @param rowIndex
  */
 export function getRow(rowIndex: number): number[] {
-  const row = new Array(rowIndex + 1).fill(0);
-  row[0] = 1;
+  const row = new Array(rowIndex + 1).fill(0)
+  row[0] = 1
   for (let i = 1; i <= rowIndex; ++i) {
-    for (let j = i; j > 0; --j) {
-      row[j] += row[j - 1];
-    }
+    for (let j = i; j > 0; --j)
+      row[j] += row[j - 1]
   }
-  return row;
+  return row
 }
 
 /**
@@ -20,11 +19,10 @@ export function getRow(rowIndex: number): number[] {
  * @param rowIndex
  */
 export function getRow2(rowIndex: number): number[] {
-  const row = new Array(rowIndex + 1).fill(0);
-  row[0] = 1;
-  for (let i = 1; i <= rowIndex; i++) {
-    row[i] = (row[i - 1] * (rowIndex - i + 1)) / i;
-  }
+  const row = new Array(rowIndex + 1).fill(0)
+  row[0] = 1
+  for (let i = 1; i <= rowIndex; i++)
+    row[i] = (row[i - 1] * (rowIndex - i + 1)) / i
 
-  return row;
+  return row
 }

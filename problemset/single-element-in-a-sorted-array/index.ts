@@ -4,18 +4,18 @@
  * @param nums
  */
 export function singleNonDuplicate(nums: number[]): number {
-  let i = 0;
-  const len = nums.length;
+  let i = 0
+  const len = nums.length
 
   while (i < len) {
     if (nums[i] === nums[i + 1]) {
-      i = i + 2;
-      continue;
+      i = i + 2
+      continue
     }
-    return nums[i];
+    return nums[i]
   }
 
-  return NaN;
+  return NaN
 }
 
 /**
@@ -24,20 +24,19 @@ export function singleNonDuplicate(nums: number[]): number {
  * @param nums
  */
 export function singleNonDuplicate2(nums: number[]): number {
-  let low = 0;
-  let high = nums.length - 1;
+  let low = 0
+  let high = nums.length - 1
   while (low < high) {
-    const mid = (high + low) >> 1;
+    const mid = (high + low) >> 1
     // 当 mid 是偶数时，mid + 1 = mid ⊕ 1
     // 当 mid 是奇数时，mid - 1 = mid ⊕ 1
-    if (nums[mid] === nums[mid ^ 1]) {
-      low = mid + 1;
-    } else {
-      high = mid;
-    }
+    if (nums[mid] === nums[mid ^ 1])
+      low = mid + 1
+    else
+      high = mid
   }
 
-  return nums[low];
+  return nums[low]
 }
 
 /**
@@ -46,20 +45,19 @@ export function singleNonDuplicate2(nums: number[]): number {
  * @param nums
  */
 export function singleNonDuplicate3(nums: number[]): number {
-  let low = 0;
-  let high = nums.length - 1;
+  let low = 0
+  let high = nums.length - 1
   while (low < high) {
-    let mid = (high + low) >> 1;
+    let mid = (high + low) >> 1
     // 确保 mid 为偶数
     // 当 mid 是偶数时，mid & 1 = 0
     // 当 mid 是奇数时，mid & 1 = 1
-    mid -= mid & 1;
-    if (nums[mid] === nums[mid + 1]) {
-      low = mid + 2;
-    } else {
-      high = mid;
-    }
+    mid -= mid & 1
+    if (nums[mid] === nums[mid + 1])
+      low = mid + 2
+    else
+      high = mid
   }
 
-  return nums[low];
+  return nums[low]
 }

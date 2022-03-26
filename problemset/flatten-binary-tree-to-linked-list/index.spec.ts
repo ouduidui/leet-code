@@ -1,24 +1,25 @@
-import { flatten, flatten2, flatten3 } from '.';
-import { TreeNode, createTreeNode } from '~/utils/treeNode';
+import { describe, expect, it } from 'vitest'
+import { flatten, flatten2, flatten3 } from '.'
+import type { TreeNode } from '~/utils/treeNode'
+import { createTreeNode } from '~/utils/treeNode'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('二叉树展开为链表', () => {
   describe('前序遍历', () => {
-    testCase(flatten);
-  });
+    testCase(flatten)
+  })
 
   describe('前序遍历和展开同步进行', () => {
-    testCase(flatten2);
-  });
+    testCase(flatten2)
+  })
 
   describe('寻找前驱节点', () => {
-    testCase(flatten3);
-  });
-});
+    testCase(flatten3)
+  })
+})
 
 function testCase(fn: (root: TreeNode | null) => void) {
   it('示例一', () => {
-    const root = createTreeNode([1, 2, 5, 3, 4, null, 6]);
+    const root = createTreeNode([1, 2, 5, 3, 4, null, 6])
     const expected = createTreeNode([
       1,
       null,
@@ -30,26 +31,26 @@ function testCase(fn: (root: TreeNode | null) => void) {
       null,
       5,
       null,
-      6
-    ]);
+      6,
+    ])
 
-    fn(root);
-    expect(root).toStrictEqual(expected);
-  });
+    fn(root)
+    expect(root).toStrictEqual(expected)
+  })
 
   it('示例二', () => {
-    const root = createTreeNode([]);
-    const expected = createTreeNode([]);
+    const root = createTreeNode([])
+    const expected = createTreeNode([])
 
-    fn(root);
-    expect(root).toStrictEqual(expected);
-  });
+    fn(root)
+    expect(root).toStrictEqual(expected)
+  })
 
   it('示例三', () => {
-    const root = createTreeNode([0]);
-    const expected = createTreeNode([0]);
+    const root = createTreeNode([0])
+    const expected = createTreeNode([0])
 
-    fn(root);
-    expect(root).toStrictEqual(expected);
-  });
+    fn(root)
+    expect(root).toStrictEqual(expected)
+  })
 }

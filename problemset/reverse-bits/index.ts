@@ -4,13 +4,13 @@
  * @param n
  */
 export function reverseBits(n: number): number {
-  let rev = 0;
+  let rev = 0
   for (let i = 0; i < 32 && n > 0; i++) {
-    rev |= (n & 1) << (31 - i);
-    n >>>= 1;
+    rev |= (n & 1) << (31 - i)
+    n >>>= 1
   }
 
-  return rev >>> 0;
+  return rev >>> 0
 }
 
 /**
@@ -19,10 +19,10 @@ export function reverseBits(n: number): number {
  * @param n
  */
 export function reverseBits2(n: number): number {
-  const M1 = 0b01010101010101010101010101010101;
-  const M2 = 0b00110011001100110011001100110011;
-  const M4 = 0b00001111000011110000111100001111;
-  const M8 = 0b00000000111111110000000011111111;
+  const M1 = 0b01010101010101010101010101010101
+  const M2 = 0b00110011001100110011001100110011
+  const M4 = 0b00001111000011110000111100001111
+  const M8 = 0b00000000111111110000000011111111
 
   /**
    * e.g:   00000010 10010100 00011110 10011100
@@ -33,9 +33,9 @@ export function reverseBits2(n: number): number {
    * step5: 00111001 01111000 00101001 01000000
    */
 
-  n = ((n >>> 1) & M1) | ((n & M1) << 1);
-  n = ((n >>> 2) & M2) | ((n & M2) << 2);
-  n = ((n >>> 4) & M4) | ((n & M4) << 4);
-  n = ((n >>> 8) & M8) | ((n & M8) << 8);
-  return ((n >>> 16) | (n << 16)) >>> 0;
+  n = ((n >>> 1) & M1) | ((n & M1) << 1)
+  n = ((n >>> 2) & M2) | ((n & M2) << 2)
+  n = ((n >>> 4) & M4) | ((n & M4) << 4)
+  n = ((n >>> 8) & M8) | ((n & M8) << 8)
+  return ((n >>> 16) | (n << 16)) >>> 0
 }

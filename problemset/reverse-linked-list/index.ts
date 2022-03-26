@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import { ListNode } from '~/utils/listNode'
 
 /**
  * 迭代
@@ -7,14 +7,14 @@ import { ListNode } from '~/utils/listNode';
  * @returns
  */
 export function reverseList(head: ListNode | null): ListNode | null {
-  if (!head || !head.next) return null;
+  if (!head || !head.next) return null
 
-  const dummy = new ListNode(0);
+  const dummy = new ListNode(0)
 
   while (head) {
-    dummy.next = new ListNode(head.val, dummy.next);
-    head = head.next;
+    dummy.next = new ListNode(head.val, dummy.next)
+    head = head.next
   }
 
-  return dummy.next;
+  return dummy.next
 }

@@ -5,7 +5,7 @@
  * @return {string[]}
  */
 export function letterCombinations(digits: string): string[] {
-  if (digits === '') return [];
+  if (digits === '') return []
 
   const keyMap: Map<string, string[]> = new Map([
     ['2', ['a', 'b', 'c']],
@@ -15,27 +15,28 @@ export function letterCombinations(digits: string): string[] {
     ['6', ['m', 'n', 'o']],
     ['7', ['p', 'q', 'r', 's']],
     ['8', ['t', 'u', 'v']],
-    ['9', ['w', 'x', 'y', 'z']]
-  ]);
+    ['9', ['w', 'x', 'y', 'z']],
+  ])
 
-  let ans: string[] = [];
+  let ans: string[] = []
 
   for (let i = 0; i < digits.length; i++) {
-    const map: string[] = keyMap.get(digits[i]) || [];
+    const map: string[] = keyMap.get(digits[i]) || []
     if (!ans.length) {
-      ans.push(...map);
-    } else {
-      const newAns: string[] = [];
+      ans.push(...map)
+    }
+    else {
+      const newAns: string[] = []
       ans.forEach((str) => {
         map.forEach((letter) => {
-          newAns.push(str + letter);
-        });
-      });
-      ans = newAns;
+          newAns.push(str + letter)
+        })
+      })
+      ans = newAns
     }
   }
 
-  return ans;
+  return ans
 }
 
 /**
@@ -45,7 +46,7 @@ export function letterCombinations(digits: string): string[] {
  * @return {string[]}
  */
 export function letterCombinations2(digits: string): string[] {
-  if (!digits) return [];
+  if (!digits) return []
 
   const keyMap: Map<string, string> = new Map([
     ['2', 'abc'],
@@ -55,27 +56,28 @@ export function letterCombinations2(digits: string): string[] {
     ['6', 'mno'],
     ['7', 'pqrs'],
     ['8', 'tuv'],
-    ['9', 'wxyz']
-  ]);
+    ['9', 'wxyz'],
+  ])
 
-  const ans: string[] = [];
-  backtrack('', digits);
+  const ans: string[] = []
+  backtrack('', digits)
 
-  return ans;
+  return ans
 
   function backtrack(str: string, digits: string) {
     if (!digits.length) {
-      ans.push(str); // 如果字符串为空了，将拼接好的字符加入数组
-    } else {
+      ans.push(str) // 如果字符串为空了，将拼接好的字符加入数组
+    }
+    else {
       // 拿到字符串第一个字符其对应的数字
-      const letters: string = keyMap.get(digits[0]) || '';
+      const letters: string = keyMap.get(digits[0]) || ''
       // 对可能性进行组合
       for (let i = 0; i < letters.length; i++) {
-        str += letters[i];
+        str += letters[i]
         // 递归组好的 str和下一段字符串
-        backtrack(str, digits.slice(1));
+        backtrack(str, digits.slice(1))
         // 回溯
-        str = str.slice(0, -1);
+        str = str.slice(0, -1)
       }
     }
   }

@@ -1,11 +1,11 @@
-import { isMatch } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { isMatch } from '.'
 
 describe('通配符匹配', () => {
   describe('动态规划', () => {
-    testCase(isMatch);
-  });
-});
+    testCase(isMatch)
+  })
+})
 
 function testCase(fn: (s: string, p: string) => boolean) {
   it.each([
@@ -13,8 +13,8 @@ function testCase(fn: (s: string, p: string) => boolean) {
     ['aa', '*', true],
     ['cb', '?a', false],
     ['adceb', '*a*b', true],
-    ['acdcb', 'a*c?b', false]
+    ['acdcb', 'a*c?b', false],
   ])('示例%#', (s, p, expected) => {
-    expect(fn(s, p)).toBe(expected);
-  });
+    expect(fn(s, p)).toBe(expected)
+  })
 }

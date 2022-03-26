@@ -5,29 +5,29 @@
  * @param list2
  */
 export function findRestaurant(list1: string[], list2: string[]): string[] {
-  const map = new Map<string, number>();
+  const map = new Map<string, number>()
 
-  let i = 0;
+  let i = 0
   while (i < list1.length) {
-    map.set(list1[i], i);
-    i++;
+    map.set(list1[i], i)
+    i++
   }
 
-  const result: string[] = [];
+  const result: string[] = []
 
-  i = 0;
-  let minSum = Number.MAX_SAFE_INTEGER;
+  i = 0
+  let minSum = Number.MAX_SAFE_INTEGER
   while (i < list2.length) {
-    const item = list2[i];
+    const item = list2[i]
     if (map.has(item)) {
-      const sum = map.get(item)! + i;
+      const sum = map.get(item)! + i
       if (sum < minSum) {
-        minSum = sum;
-        result.length = 0;
+        minSum = sum
+        result.length = 0
       }
-      if (sum === minSum) result.push(item);
+      if (sum === minSum) result.push(item)
     }
-    i++;
+    i++
   }
-  return result;
+  return result
 }

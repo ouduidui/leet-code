@@ -1,16 +1,16 @@
-import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { combinationSum, combinationSum2 } from '.';
-import { describe, it } from 'vitest';
+import { describe, it } from 'vitest'
+import { combinationSum, combinationSum2 } from '.'
+import { twoDimensionalArrayEqual } from '~/utils/tools'
 
 describe('组合总和', () => {
   describe('回溯', () => {
-    testCase(combinationSum);
-  });
+    testCase(combinationSum)
+  })
 
   describe('回溯 + 剪枝', () => {
-    testCase(combinationSum2);
-  });
-});
+    testCase(combinationSum2)
+  })
+})
 
 function testCase(fn: (candidates: number[], target: number) => number[][]) {
   it.each([
@@ -21,13 +21,13 @@ function testCase(fn: (candidates: number[], target: number) => number[][]) {
       [
         [2, 2, 2, 2],
         [2, 3, 3],
-        [3, 5]
-      ]
+        [3, 5],
+      ],
     ],
     [[2], 1, []],
     [[1], 1, [[1]]],
-    [[1], 2, [[1, 1]]]
+    [[1], 2, [[1, 1]]],
   ])('示例%#', (candidates, target, expected) => {
-    twoDimensionalArrayEqual(fn(candidates, target), expected);
-  });
+    twoDimensionalArrayEqual(fn(candidates, target), expected)
+  })
 }

@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import { ListNode } from '~/utils/listNode'
 
 /**
  * 一次遍历
@@ -6,22 +6,22 @@ import { ListNode } from '~/utils/listNode';
  * @param head
  */
 export function deleteDuplicates(head: ListNode | null): ListNode | null {
-  if (!head) return head;
+  if (!head) return head
 
-  const dummy = new ListNode(0, head);
+  const dummy = new ListNode(0, head)
 
-  let cur = dummy;
+  let cur = dummy
   while (cur && cur.next && cur.next.next) {
     if (cur.next.val === cur.next.next.val) {
-      const x = cur.next.val;
+      const x = cur.next.val
       // 去重
-      while (cur.next && cur.next.val === x) {
-        cur.next = cur.next.next;
-      }
-    } else {
-      cur = cur.next;
+      while (cur.next && cur.next.val === x)
+        cur.next = cur.next.next
+    }
+    else {
+      cur = cur.next
     }
   }
 
-  return dummy.next;
+  return dummy.next
 }

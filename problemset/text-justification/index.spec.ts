@@ -1,23 +1,23 @@
-import { fullJustify } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { fullJustify } from '.'
 
 describe('文本左右对齐', () => {
   describe('模拟', () => {
-    testCase(fullJustify);
-  });
-});
+    testCase(fullJustify)
+  })
+})
 
 function testCase(fn: (words: string[], maxWidth: number) => string[]) {
   it.each([
     [
       ['This', 'is', 'an', 'example', 'of', 'text', 'justification.'],
       16,
-      ['This    is    an', 'example  of text', 'justification.  ']
+      ['This    is    an', 'example  of text', 'justification.  '],
     ],
     [
       ['What', 'must', 'be', 'acknowledgment', 'shall', 'be'],
       16,
-      ['What   must   be', 'acknowledgment  ', 'shall be        ']
+      ['What   must   be', 'acknowledgment  ', 'shall be        '],
     ],
     [
       [
@@ -38,7 +38,7 @@ function testCase(fn: (words: string[], maxWidth: number) => string[]) {
         'everything',
         'else',
         'we',
-        'do'
+        'do',
       ],
       20,
       [
@@ -47,10 +47,10 @@ function testCase(fn: (words: string[], maxWidth: number) => string[]) {
         'enough to explain to',
         'a  computer.  Art is',
         'everything  else  we',
-        'do                  '
-      ]
-    ]
+        'do                  ',
+      ],
+    ],
   ])('示例%#', (words, maxWidth, expected) => {
-    expect(fn(words, maxWidth)).toStrictEqual(expected);
-  });
+    expect(fn(words, maxWidth)).toStrictEqual(expected)
+  })
 }

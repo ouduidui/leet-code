@@ -5,11 +5,11 @@
  * @returns
  */
 export function imageSmoother(img: number[][]): number[][] {
-  const m = img.length;
-  const n = img[0].length;
+  const m = img.length
+  const n = img[0].length
   const result: number[][] = new Array(m)
     .fill([])
-    .map(() => new Array(n).fill(0));
+    .map(() => new Array(n).fill(0))
 
   const dist = [
     [-1, -1],
@@ -20,24 +20,24 @@ export function imageSmoother(img: number[][]): number[][] {
     [0, 1],
     [1, -1],
     [1, 0],
-    [1, 1]
-  ];
+    [1, 1],
+  ]
 
   for (let i = 0; i < m; i++) {
     for (let j = 0; j < n; j++) {
-      let num = 0;
-      let sum = 0;
+      let num = 0
+      let sum = 0
       for (const d of dist) {
-        const x = i + d[0];
-        const y = j + d[1];
+        const x = i + d[0]
+        const y = j + d[1]
         if (x >= 0 && x < m && y >= 0 && y < n) {
-          num++;
-          sum += img[x][y];
+          num++
+          sum += img[x][y]
         }
       }
-      result[i][j] = (sum / num) >> 0;
+      result[i][j] = (sum / num) >> 0
     }
   }
 
-  return result;
+  return result
 }

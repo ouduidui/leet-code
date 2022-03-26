@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import type { ListNode } from '~/utils/listNode'
 
 /**
  * 哈希表
@@ -8,28 +8,28 @@ import { ListNode } from '~/utils/listNode';
  */
 export function getIntersectionNode(
   headA: ListNode | null,
-  headB: ListNode | null
+  headB: ListNode | null,
 ): ListNode | null {
-  if (!headA || !headB) return null;
+  if (!headA || !headB) return null
 
-  const visited = new WeakSet<ListNode>();
+  const visited = new WeakSet<ListNode>()
 
-  let cur: ListNode | null = headA;
+  let cur: ListNode | null = headA
 
   while (cur) {
-    visited.add(cur);
-    cur = cur.next;
+    visited.add(cur)
+    cur = cur.next
   }
 
-  cur = headB;
+  cur = headB
   while (cur) {
-    if (visited.has(cur)) {
-      return cur;
-    }
-    cur = cur.next;
+    if (visited.has(cur))
+      return cur
+
+    cur = cur.next
   }
 
-  return null;
+  return null
 }
 
 /**
@@ -41,18 +41,18 @@ export function getIntersectionNode(
  */
 export function getIntersectionNode2(
   headA: ListNode | null,
-  headB: ListNode | null
+  headB: ListNode | null,
 ): ListNode | null {
-  if (!headA || !headB) return null;
-  let pointA: ListNode | null = headA;
-  let pointB: ListNode | null = headB;
+  if (!headA || !headB) return null
+  let pointA: ListNode | null = headA
+  let pointB: ListNode | null = headB
 
   while (pointA || pointB) {
-    if (pointA === pointB) return pointA;
+    if (pointA === pointB) return pointA
 
-    pointA = pointA ? pointA.next : headB;
-    pointB = pointB ? pointB.next : headA;
+    pointA = pointA ? pointA.next : headB
+    pointB = pointB ? pointB.next : headA
   }
 
-  return null;
+  return null
 }

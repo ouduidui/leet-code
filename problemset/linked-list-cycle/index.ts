@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import type { ListNode } from '~/utils/listNode'
 
 /**
  * 哈希表
@@ -6,19 +6,19 @@ import { ListNode } from '~/utils/listNode';
  * @param head
  */
 export function hasCycle(head: ListNode | null): boolean {
-  if (!head || !head.next) return false;
+  if (!head || !head.next) return false
 
-  const nodeSet = new Set<ListNode>();
+  const nodeSet = new Set<ListNode>()
 
   while (head !== null) {
-    if (nodeSet.has(head)) {
-      return true;
-    }
-    nodeSet.add(head);
-    head = head.next;
+    if (nodeSet.has(head))
+      return true
+
+    nodeSet.add(head)
+    head = head.next
   }
 
-  return false;
+  return false
 }
 
 /**
@@ -27,17 +27,17 @@ export function hasCycle(head: ListNode | null): boolean {
  * @param head
  */
 export function hasCycle2(head: ListNode | null): boolean {
-  if (!head || !head.next) return false;
+  if (!head || !head.next) return false
 
-  let slow: ListNode | null = head;
-  let fast: ListNode | null = head.next;
+  let slow: ListNode | null = head
+  let fast: ListNode | null = head.next
 
   while (slow !== fast) {
-    if (slow === null || fast === null) return false;
+    if (slow === null || fast === null) return false
 
-    slow = slow.next;
-    fast = fast.next?.next || null;
+    slow = slow.next
+    fast = fast.next?.next || null
   }
 
-  return true;
+  return true
 }

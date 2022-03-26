@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import type { TreeNode } from '~/utils/treeNode'
 
 /**
  * 广度优先遍历
@@ -6,23 +6,23 @@ import { TreeNode } from '~/utils/treeNode';
  * @param root
  */
 export function rightSideView(root: TreeNode | null): number[] {
-  const result: number[] = [];
+  const result: number[] = []
 
-  if (!root) return result;
+  if (!root) return result
 
-  const queue: TreeNode[] = [root];
-  let row = 0;
+  const queue: TreeNode[] = [root]
+  let row = 0
 
   while (queue.length) {
-    const len = queue.length;
-    let node: TreeNode;
+    const len = queue.length
+    let node: TreeNode
     for (let i = 0; i < len; i++) {
-      node = queue.pop()!;
-      node.left && queue.unshift(node.left);
-      node.right && queue.unshift(node.right);
+      node = queue.pop()!
+      node.left && queue.unshift(node.left)
+      node.right && queue.unshift(node.right)
     }
-    result[row++] = node!.val;
+    result[row++] = node!.val
   }
 
-  return result;
+  return result
 }

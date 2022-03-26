@@ -1,23 +1,24 @@
-import { preorder, preorder2 } from '.';
-import { Node, createNAryTree } from '~/utils/nAryTree';
+import { describe, expect, it } from 'vitest'
+import { preorder, preorder2 } from '.'
+import type { Node } from '~/utils/nAryTree'
+import { createNAryTree } from '~/utils/nAryTree'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('N 叉树的前序遍历', () => {
   describe('递归', () => {
-    testCase(preorder);
-  });
+    testCase(preorder)
+  })
 
   describe('迭代', () => {
-    testCase(preorder2);
-  });
-});
+    testCase(preorder2)
+  })
+})
 
 function testCase(fn: (root: Node | null) => number[]) {
   it('示例一', () => {
-    const root = createNAryTree([1, null, 3, 2, 4, null, 5, 6]);
-    const expected = [1, 3, 5, 6, 2, 4];
-    expect(fn(root)).toStrictEqual(expected);
-  });
+    const root = createNAryTree([1, null, 3, 2, 4, null, 5, 6])
+    const expected = [1, 3, 5, 6, 2, 4]
+    expect(fn(root)).toStrictEqual(expected)
+  })
 
   it('示例二', () => {
     const root = createNAryTree([
@@ -45,9 +46,9 @@ function testCase(fn: (root: Node | null) => number[]) {
       13,
       null,
       null,
-      14
-    ]);
-    const expected = [1, 2, 3, 6, 7, 11, 14, 4, 8, 12, 5, 9, 13, 10];
-    expect(fn(root)).toStrictEqual(expected);
-  });
+      14,
+    ])
+    const expected = [1, 2, 3, 6, 7, 11, 14, 4, 8, 12, 5, 9, 13, 10]
+    expect(fn(root)).toStrictEqual(expected)
+  })
 }

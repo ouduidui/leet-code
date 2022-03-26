@@ -4,15 +4,15 @@
  * @param n
  */
 export function countPrimes(n: number): number {
-  let ans = 0;
-  for (let i = 2; i < n; i++) isPrimes(i) && ans++;
-  return ans;
+  let ans = 0
+  for (let i = 2; i < n; i++) isPrimes(i) && ans++
+  return ans
 
   function isPrimes(x: number): boolean {
-    for (let i = 2; i * i <= x; i++) {
-      if (x % i === 0) return false;
-    }
-    return true;
+    for (let i = 2; i * i <= x; i++)
+      if (x % i === 0) return false
+
+    return true
   }
 }
 
@@ -22,17 +22,16 @@ export function countPrimes(n: number): number {
  * @param n
  */
 export function countPrimes2(n: number): number {
-  const isPrime = new Array(n).fill(true);
+  const isPrime = new Array(n).fill(true)
 
-  let ans = 0;
+  let ans = 0
   for (let i = 2; i < n; i++) {
     if (isPrime[i]) {
-      ans += 1;
-      for (let j = i * i; j < n; j += i) {
-        isPrime[j] = false;
-      }
+      ans += 1
+      for (let j = i * i; j < n; j += i)
+        isPrime[j] = false
     }
   }
 
-  return ans;
+  return ans
 }

@@ -6,23 +6,22 @@
  * @return {number}
  */
 export function removeElement(nums: number[], val: number): number {
-  const len: number = nums.length;
-  if (!len) return len;
+  const len: number = nums.length
+  if (!len) return len
 
-  let slowPoint = 0;
-  let fastPoint = 0;
+  let slowPoint = 0
+  let fastPoint = 0
 
   while (fastPoint < len) {
     if (nums[fastPoint] !== val) {
-      nums[slowPoint] = nums[fastPoint];
-      slowPoint++;
+      nums[slowPoint] = nums[fastPoint]
+      slowPoint++
     }
-    fastPoint++;
+    fastPoint++
   }
 
-  while (nums.length > slowPoint) {
-    nums.pop();
-  }
+  while (nums.length > slowPoint)
+    nums.pop()
 
-  return nums.length;
+  return nums.length
 }

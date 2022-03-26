@@ -1,12 +1,12 @@
-import { solveSudoku } from '.';
+import { describe, expect, it } from 'vitest'
+import { solveSudoku } from '.'
 // need refactor
-import { describe, it, expect } from 'vitest';
 
 describe('解数独', () => {
   describe('回溯', () => {
-    testCase(solveSudoku);
-  });
-});
+    testCase(solveSudoku)
+  })
+})
 
 function testCase(fn: (board: string[][]) => void) {
   it('示例一', () => {
@@ -19,8 +19,8 @@ function testCase(fn: (board: string[][]) => void) {
       ['7', '.', '.', '.', '2', '.', '.', '.', '6'],
       ['.', '6', '.', '.', '.', '.', '2', '8', '.'],
       ['.', '.', '.', '4', '1', '9', '.', '.', '5'],
-      ['.', '.', '.', '.', '8', '.', '.', '7', '9']
-    ];
+      ['.', '.', '.', '.', '8', '.', '.', '7', '9'],
+    ]
     const expected: string[][] = [
       ['5', '3', '4', '6', '7', '8', '9', '1', '2'],
       ['6', '7', '2', '1', '9', '5', '3', '4', '8'],
@@ -30,11 +30,11 @@ function testCase(fn: (board: string[][]) => void) {
       ['7', '1', '3', '9', '2', '4', '8', '5', '6'],
       ['9', '6', '1', '5', '3', '7', '2', '8', '4'],
       ['2', '8', '7', '4', '1', '9', '6', '3', '5'],
-      ['3', '4', '5', '2', '8', '6', '1', '7', '9']
-    ];
+      ['3', '4', '5', '2', '8', '6', '1', '7', '9'],
+    ]
 
-    fn(board);
+    fn(board)
 
-    expect(board).toEqual(expected);
-  });
+    expect(board).toEqual(expected)
+  })
 }

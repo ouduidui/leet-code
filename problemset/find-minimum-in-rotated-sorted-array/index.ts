@@ -4,16 +4,15 @@
  * @param nums
  */
 export function findMin(nums: number[]): number {
-  let low = 0;
-  let high = nums.length - 1;
+  let low = 0
+  let high = nums.length - 1
   while (low < high) {
-    const mid = (low + high) >> 1;
-    if (nums[mid] < nums[high]) {
-      high = mid;
-    } else {
-      low = mid + 1;
-    }
+    const mid = (low + high) >> 1
+    if (nums[mid] < nums[high])
+      high = mid
+    else
+      low = mid + 1
   }
 
-  return nums[low];
+  return nums[low]
 }

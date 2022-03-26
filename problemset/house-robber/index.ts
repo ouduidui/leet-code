@@ -4,17 +4,17 @@
  * @param nums
  */
 export function rob(nums: number[]): number {
-  let result = 0;
-  dfs(nums, 0, 0);
+  let result = 0
+  dfs(nums, 0, 0)
 
-  return result;
+  return result
 
   function dfs(nums: number[], index: number, sum: number): void {
-    if (index >= nums.length) return;
-    dfs(nums, index + 1, sum);
-    sum += nums[index];
-    result = Math.max(sum, result);
-    dfs(nums, index + 2, sum);
+    if (index >= nums.length) return
+    dfs(nums, index + 1, sum)
+    sum += nums[index]
+    result = Math.max(sum, result)
+    dfs(nums, index + 2, sum)
   }
 }
 
@@ -24,15 +24,14 @@ export function rob(nums: number[]): number {
  * @param nums
  */
 export function rob2(nums: number[]): number {
-  const len = nums.length;
-  if (len === 0) return 0;
-  if (len === 1) return nums[0];
+  const len = nums.length
+  if (len === 0) return 0
+  if (len === 1) return nums[0]
 
-  let [first, second] = [nums[0], Math.max(nums[0], nums[1])];
+  let [first, second] = [nums[0], Math.max(nums[0], nums[1])]
 
-  for (let i = 2; i < len; i++) {
-    [first, second] = [second, Math.max(first + nums[i], second)];
-  }
+  for (let i = 2; i < len; i++)
+    [first, second] = [second, Math.max(first + nums[i], second)]
 
-  return second;
+  return second
 }

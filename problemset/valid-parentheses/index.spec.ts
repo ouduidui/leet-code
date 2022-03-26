@@ -1,9 +1,9 @@
-import { isValid } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { isValid } from '.'
 
 describe('有效的括号', () => {
-  testCase(isValid);
-});
+  testCase(isValid)
+})
 
 function testCase(fn: (s: string) => boolean) {
   it.each([
@@ -11,8 +11,8 @@ function testCase(fn: (s: string) => boolean) {
     ['()[]{}', true],
     ['(]', false],
     ['([)]', false],
-    ['{[]}', true]
+    ['{[]}', true],
   ])('示例%#', (s, expected) => {
-    expect(fn(s)).toBe(expected);
-  });
+    expect(fn(s)).toBe(expected)
+  })
 }

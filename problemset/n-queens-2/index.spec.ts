@@ -1,22 +1,22 @@
-import { totalNQueens } from '.';
+import { describe, expect, it } from 'vitest'
+import { totalNQueens } from '.'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('N皇后 II', () => {
-  testCase(totalNQueens);
-});
+  testCase(totalNQueens)
+})
 
 function testCase(fn: (n: number) => number) {
   it('示例一', () => {
-    const n = 4;
-    const expected = 2;
+    const n = 4
+    const expected = 2
 
-    expect(fn(n)).toBe(expected);
-  });
+    expect(fn(n)).toBe(expected)
+  })
 
   it('示例二', () => {
-    const n = 1;
-    const expected = 1;
+    const n = 1
+    const expected = 1
 
-    expect(fn(n)).toBe(expected);
-  });
+    expect(fn(n)).toBe(expected)
+  })
 }

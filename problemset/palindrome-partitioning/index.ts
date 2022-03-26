@@ -4,12 +4,12 @@
  * @param s
  */
 export function partition(s: string): string[][] {
-  const len = s.length;
-  const res: string[][] = [];
+  const len = s.length
+  const res: string[][] = []
   // 存储已经识别过的子串，用于记忆化搜索
-  const palindromeMap = new Map<string, boolean>();
-  backtrack(0, []);
-  return res;
+  const palindromeMap = new Map<string, boolean>()
+  backtrack(0, [])
+  return res
 
   /**
    * 回溯
@@ -19,18 +19,17 @@ export function partition(s: string): string[][] {
   function backtrack(idx: number, temp: string[]) {
     // 如果遍历完全部字符串，更新res
     if (idx === len) {
-      res.push(temp);
-      return;
+      res.push(temp)
+      return
     }
 
     // 遍历剩余字符
     for (let i = idx; i < len; i++) {
       // 截取出对应子串
-      const str = s.slice(idx, i + 1);
+      const str = s.slice(idx, i + 1)
       // 判断是否为回文子串
-      if (isPalindrome(str)) {
-        backtrack(i + 1, [...temp, str]);
-      }
+      if (isPalindrome(str))
+        backtrack(i + 1, [...temp, str])
     }
   }
 
@@ -40,25 +39,24 @@ export function partition(s: string): string[][] {
    */
   function isPalindrome(str: string): boolean {
     // 看看之前是否识别过相同子串，是的话直接返回之前识别的结果
-    if (palindromeMap.has(str)) {
-      return palindromeMap.get(str)!;
-    }
+    if (palindromeMap.has(str))
+      return palindromeMap.get(str)!
 
     // 通过双指针方式识别子串
-    let left = 0;
-    let right = str.length - 1;
+    let left = 0
+    let right = str.length - 1
 
     while (left < right) {
       if (str[left] !== str[right]) {
-        palindromeMap.set(str, false);
-        return false;
+        palindromeMap.set(str, false)
+        return false
       }
-      left++;
-      right--;
+      left++
+      right--
     }
 
-    palindromeMap.set(str, true);
-    return true;
+    palindromeMap.set(str, true)
+    return true
   }
 }
 
@@ -68,32 +66,30 @@ export function partition(s: string): string[][] {
  * @param s
  */
 export function partition2(s: string): string[][] {
-  const len = s.length;
+  const len = s.length
   const dp: boolean[][] = new Array(len)
     .fill([])
-    .map(() => new Array(len).fill(true));
+    .map(() => new Array(len).fill(true))
 
   // 使用动态规划初始化子串是否为回文子串
   for (let i = len - 1; i >= 0; i--) {
-    for (let j = i + 1; j < len; j++) {
-      dp[i][j] = s[i] === s[j] && dp[i + 1][j - 1];
-    }
+    for (let j = i + 1; j < len; j++)
+      dp[i][j] = s[i] === s[j] && dp[i + 1][j - 1]
   }
 
-  const res: string[][] = [];
-  backtrack(0, []);
-  return res;
+  const res: string[][] = []
+  backtrack(0, [])
+  return res
 
   function backtrack(idx: number, temp: string[]) {
     if (idx === len) {
-      res.push(temp);
-      return;
+      res.push(temp)
+      return
     }
 
     for (let i = idx; i < len; i++) {
-      if (dp[idx][i]) {
-        backtrack(i + 1, [...temp, s.slice(idx, i + 1)]);
-      }
+      if (dp[idx][i])
+        backtrack(i + 1, [...temp, s.slice(idx, i + 1)])
     }
   }
 }

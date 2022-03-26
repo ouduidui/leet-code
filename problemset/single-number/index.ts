@@ -4,11 +4,11 @@
  * @param nums
  */
 export function singleNumber(nums: number[]): number {
-  const set = new Set<number>();
-  for (const num of nums) {
-    set.has(num) ? set.delete(num) : set.add(num);
-  }
-  return [...set][0];
+  const set = new Set<number>()
+  for (const num of nums)
+    set.has(num) ? set.delete(num) : set.add(num)
+
+  return [...set][0]
 }
 
 /**
@@ -17,11 +17,11 @@ export function singleNumber(nums: number[]): number {
  * @param nums
  */
 export function singleNumber2(nums: number[]): number {
-  let single = 0;
+  let single = 0
   for (const num of nums) {
     // 异或处理
     // a⊕b⊕a = b⊕a⊕a = b⊕(a⊕a) = b⊕0 = b
-    single ^= num;
+    single ^= num
   }
-  return single;
+  return single
 }

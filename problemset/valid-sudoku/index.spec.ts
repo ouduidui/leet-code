@@ -1,11 +1,11 @@
-import { isValidSudoku } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { isValidSudoku } from '.'
 
 describe('有效的数独', () => {
   describe('', () => {
-    testCase(isValidSudoku);
-  });
-});
+    testCase(isValidSudoku)
+  })
+})
 
 function testCase(fn: (board: string[][]) => boolean) {
   it.each([
@@ -19,9 +19,9 @@ function testCase(fn: (board: string[][]) => boolean) {
         ['7', '.', '.', '.', '2', '.', '.', '.', '6'],
         ['.', '6', '.', '.', '.', '.', '2', '8', '.'],
         ['.', '.', '.', '4', '1', '9', '.', '.', '5'],
-        ['.', '.', '.', '.', '8', '.', '.', '7', '9']
+        ['.', '.', '.', '.', '8', '.', '.', '7', '9'],
       ],
-      true
+      true,
     ],
     [
       [
@@ -33,11 +33,11 @@ function testCase(fn: (board: string[][]) => boolean) {
         ['7', '.', '.', '.', '2', '.', '.', '.', '6'],
         ['.', '6', '.', '.', '.', '.', '2', '8', '.'],
         ['.', '.', '.', '4', '1', '9', '.', '.', '5'],
-        ['.', '.', '.', '.', '8', '.', '.', '7', '9']
+        ['.', '.', '.', '.', '8', '.', '.', '7', '9'],
       ],
-      false
-    ]
+      false,
+    ],
   ])('示例%#', (board, expected) => {
-    expect(fn(board)).toBe(expected);
-  });
+    expect(fn(board)).toBe(expected)
+  })
 }

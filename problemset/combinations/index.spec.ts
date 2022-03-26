@@ -1,10 +1,10 @@
-import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { combine } from '.';
-import { describe, it } from 'vitest';
+import { describe, it } from 'vitest'
+import { combine } from '.'
+import { twoDimensionalArrayEqual } from '~/utils/tools'
 
 describe('组合', () => {
-  testCase(combine);
-});
+  testCase(combine)
+})
 
 function testCase(fn: (n: number, k: number) => number[][]) {
   it.each([
@@ -17,11 +17,11 @@ function testCase(fn: (n: number, k: number) => number[][]) {
         [2, 3],
         [1, 2],
         [1, 3],
-        [1, 4]
-      ]
+        [1, 4],
+      ],
     ],
-    [1, 1, [[1]]]
+    [1, 1, [[1]]],
   ])('示例%#', (n, k, expected) => {
-    twoDimensionalArrayEqual(fn(n, k), expected);
-  });
+    twoDimensionalArrayEqual(fn(n, k), expected)
+  })
 }

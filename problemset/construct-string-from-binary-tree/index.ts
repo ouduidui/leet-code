@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import type { TreeNode } from '~/utils/treeNode'
 
 /**
  * 递归
@@ -7,10 +7,10 @@ import { TreeNode } from '~/utils/treeNode';
  * @returns
  */
 export function tree2str(root: TreeNode | null): string {
-  if (!root) return '';
-  if (!root.left && !root.right) return '' + root.val;
-  if (!root.right) return `${root.val}(${tree2str(root.left)})`;
-  return `${root.val}(${tree2str(root.left)})(${tree2str(root.right)})`;
+  if (!root) return ''
+  if (!root.left && !root.right) return `${root.val}`
+  if (!root.right) return `${root.val}(${tree2str(root.left)})`
+  return `${root.val}(${tree2str(root.left)})(${tree2str(root.right)})`
 }
 
 /**
@@ -20,26 +20,27 @@ export function tree2str(root: TreeNode | null): string {
  * @returns
  */
 export function tree2str2(root: TreeNode | null): string {
-  if (!root) return '';
+  if (!root) return ''
 
-  let result = '';
-  const stack = [root];
-  const visited = new Set<TreeNode>();
+  let result = ''
+  const stack = [root]
+  const visited = new Set<TreeNode>()
   while (stack.length) {
-    const node = stack[stack.length - 1];
+    const node = stack[stack.length - 1]
     if (visited.has(node)) {
-      if (node !== root) result += ')';
-      stack.pop();
-    } else {
-      visited.add(node);
-      if (node !== root) result += '(';
+      if (node !== root) result += ')'
+      stack.pop()
+    }
+    else {
+      visited.add(node)
+      if (node !== root) result += '('
 
-      result += '' + node.val;
-      if (!node.left && node.right) result += '()';
-      node.right && stack.push(node.right);
-      node.left && stack.push(node.left);
+      result += `${node.val}`
+      if (!node.left && node.right) result += '()'
+      node.right && stack.push(node.right)
+      node.left && stack.push(node.left)
     }
   }
 
-  return result;
+  return result
 }

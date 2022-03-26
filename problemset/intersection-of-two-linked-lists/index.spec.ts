@@ -1,14 +1,15 @@
-import { ListNode, createIntersectionListNode } from '~/utils/listNode';
-import { getIntersectionNode, getIntersectionNode2 } from '.';
+import { describe, expect, it } from 'vitest'
+import { getIntersectionNode, getIntersectionNode2 } from '.'
+import type { ListNode } from '~/utils/listNode'
+import { createIntersectionListNode } from '~/utils/listNode'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('相交链表', () => {
-  testCase(getIntersectionNode);
-  testCase(getIntersectionNode2);
-});
+  testCase(getIntersectionNode)
+  testCase(getIntersectionNode2)
+})
 
 function testCase(
-  fn: (headA: ListNode | null, headB: ListNode | null) => ListNode | null
+  fn: (headA: ListNode | null, headB: ListNode | null) => ListNode | null,
 ) {
   it('示例一', () => {
     const [headA, headB, intersectionNode] = createIntersectionListNode(
@@ -16,10 +17,10 @@ function testCase(
       [4, 1, 8, 4, 5],
       [5, 6, 1, 8, 4, 5],
       2,
-      3
-    );
-    expect(fn(headA, headB)).toBe(intersectionNode);
-  });
+      3,
+    )
+    expect(fn(headA, headB)).toBe(intersectionNode)
+  })
 
   it('示例二', () => {
     const [headA, headB, intersectionNode] = createIntersectionListNode(
@@ -27,10 +28,10 @@ function testCase(
       [1, 9, 1, 2, 4],
       [3, 2, 4],
       3,
-      1
-    );
-    expect(fn(headA, headB)).toBe(intersectionNode);
-  });
+      1,
+    )
+    expect(fn(headA, headB)).toBe(intersectionNode)
+  })
 
   it('示例三', () => {
     const [headA, headB, intersectionNode] = createIntersectionListNode(
@@ -38,8 +39,8 @@ function testCase(
       [2, 6, 4],
       [1, 5],
       3,
-      2
-    );
-    expect(fn(headA, headB)).toBe(intersectionNode);
-  });
+      2,
+    )
+    expect(fn(headA, headB)).toBe(intersectionNode)
+  })
 }

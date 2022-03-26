@@ -1,14 +1,14 @@
-import { solve, solve2 } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { solve, solve2 } from '.'
 
 describe('被围绕的区域', () => {
   describe('深度优先搜索', () => {
-    testCase(solve);
-  });
+    testCase(solve)
+  })
   describe('广度优先搜索', () => {
-    testCase(solve2);
-  });
-});
+    testCase(solve2)
+  })
+})
 
 function testCase(fn: (board: string[][]) => void) {
   it.each([
@@ -17,14 +17,14 @@ function testCase(fn: (board: string[][]) => void) {
         ['X', 'X', 'X', 'X'],
         ['X', 'O', 'O', 'X'],
         ['X', 'X', 'O', 'X'],
-        ['X', 'O', 'X', 'X']
+        ['X', 'O', 'X', 'X'],
       ],
       [
         ['X', 'X', 'X', 'X'],
         ['X', 'X', 'X', 'X'],
         ['X', 'X', 'X', 'X'],
-        ['X', 'O', 'X', 'X']
-      ]
+        ['X', 'O', 'X', 'X'],
+      ],
     ],
     [[['X']], [['X']]],
     [
@@ -32,14 +32,14 @@ function testCase(fn: (board: string[][]) => void) {
         ['X', 'O', 'X', 'O', 'X', 'O'],
         ['O', 'X', 'O', 'X', 'O', 'X'],
         ['X', 'O', 'X', 'O', 'X', 'O'],
-        ['O', 'X', 'O', 'X', 'O', 'X']
+        ['O', 'X', 'O', 'X', 'O', 'X'],
       ],
       [
         ['X', 'O', 'X', 'O', 'X', 'O'],
         ['O', 'X', 'X', 'X', 'X', 'X'],
         ['X', 'X', 'X', 'X', 'X', 'O'],
-        ['O', 'X', 'O', 'X', 'O', 'X']
-      ]
+        ['O', 'X', 'O', 'X', 'O', 'X'],
+      ],
     ],
     [
       [
@@ -47,15 +47,15 @@ function testCase(fn: (board: string[][]) => void) {
         ['X', 'O', 'O', 'X', 'O'],
         ['X', 'O', 'X', 'O', 'X'],
         ['O', 'X', 'O', 'O', 'O'],
-        ['X', 'X', 'O', 'X', 'O']
+        ['X', 'X', 'O', 'X', 'O'],
       ],
       [
         ['O', 'X', 'X', 'O', 'X'],
         ['X', 'X', 'X', 'X', 'O'],
         ['X', 'X', 'X', 'O', 'X'],
         ['O', 'X', 'O', 'O', 'O'],
-        ['X', 'X', 'O', 'X', 'O']
-      ]
+        ['X', 'X', 'O', 'X', 'O'],
+      ],
     ],
     [
       [
@@ -65,7 +65,7 @@ function testCase(fn: (board: string[][]) => void) {
         ['O', 'O', 'O', 'O', 'X', 'O', 'X'],
         ['O', 'X', 'O', 'O', 'O', 'O', 'O'],
         ['O', 'O', 'O', 'O', 'O', 'O', 'O'],
-        ['O', 'X', 'O', 'O', 'O', 'O', 'O']
+        ['O', 'X', 'O', 'O', 'O', 'O', 'O'],
       ],
       [
         ['X', 'O', 'X', 'O', 'O', 'O', 'O'],
@@ -74,11 +74,11 @@ function testCase(fn: (board: string[][]) => void) {
         ['O', 'O', 'O', 'O', 'X', 'O', 'X'],
         ['O', 'X', 'O', 'O', 'O', 'O', 'O'],
         ['O', 'O', 'O', 'O', 'O', 'O', 'O'],
-        ['O', 'X', 'O', 'O', 'O', 'O', 'O']
-      ]
-    ]
+        ['O', 'X', 'O', 'O', 'O', 'O', 'O'],
+      ],
+    ],
   ])('示例%#', (board, expected) => {
-    fn(board);
-    expect(board).toStrictEqual(expected);
-  });
+    fn(board)
+    expect(board).toStrictEqual(expected)
+  })
 }

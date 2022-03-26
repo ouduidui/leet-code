@@ -6,20 +6,20 @@
  */
 export function myPow(x: number, n: number): number {
   if (n < 0) {
-    x = 1 / x;
-    n = -n;
+    x = 1 / x
+    n = -n
   }
-  let ans = 1;
-  let xContribute = x;
-  const isOdd = n % 2 === 1;
+  let ans = 1
+  let xContribute = x
+  const isOdd = n % 2 === 1
 
   while (n > 0) {
-    if (n % 2 === 1) {
-      ans *= xContribute;
-    }
-    xContribute *= xContribute;
-    n = n >> 1;
+    if (n % 2 === 1)
+      ans *= xContribute
+
+    xContribute *= xContribute
+    n = n >> 1
   }
 
-  return isOdd ? ans - 0.000000000000001 : ans;
+  return isOdd ? ans - 0.000000000000001 : ans
 }

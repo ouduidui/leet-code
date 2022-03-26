@@ -1,26 +1,26 @@
-import { multiply } from '.';
+import { describe, expect, it } from 'vitest'
+import { multiply } from '.'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('字符串相乘', () => {
   describe('做乘法', () => {
-    testCase(multiply);
-  });
-});
+    testCase(multiply)
+  })
+})
 
 function testCase(fn: (num1: string, num2: string) => string) {
   it('示例一', () => {
-    const num1 = '2';
-    const num2 = '3';
-    const expected = '6';
+    const num1 = '2'
+    const num2 = '3'
+    const expected = '6'
 
-    expect(fn(num1, num2)).toBe(expected);
-  });
+    expect(fn(num1, num2)).toBe(expected)
+  })
 
   it('示例二', () => {
-    const num1 = '123';
-    const num2 = '456';
-    const expected = '56088';
+    const num1 = '123'
+    const num2 = '456'
+    const expected = '56088'
 
-    expect(fn(num1, num2)).toBe(expected);
-  });
+    expect(fn(num1, num2)).toBe(expected)
+  })
 }

@@ -4,20 +4,20 @@
  * @param nums
  */
 export function subsetsWithDup(nums: number[]): number[][] {
-  const ans: number[][] = [];
-  nums.sort((a, b) => a - b);
-  const len = nums.length;
-  backTrack();
-  return ans;
+  const ans: number[][] = []
+  nums.sort((a, b) => a - b)
+  const len = nums.length
+  backTrack()
+  return ans
 
   function backTrack(temp: number[] = [], index = 0) {
-    ans.push([...temp]);
+    ans.push([...temp])
 
     for (let i = index; i < len; i++) {
       if (i === index || nums[i] !== nums[i - 1]) {
-        temp.push(nums[i]);
-        backTrack(temp, i + 1);
-        temp.pop();
+        temp.push(nums[i])
+        backTrack(temp, i + 1)
+        temp.pop()
       }
     }
   }

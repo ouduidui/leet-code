@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import type { TreeNode } from '~/utils/treeNode'
 
 /**
  * 递归
@@ -6,15 +6,15 @@ import { TreeNode } from '~/utils/treeNode';
  * @param root
  */
 export function isSymmetric(root: TreeNode | null): boolean {
-  if (root === null) return true;
+  if (root === null) return true
 
-  return helper(root.left, root.right);
+  return helper(root.left, root.right)
 
   function helper(left: TreeNode | null, right: TreeNode | null): boolean {
-    if (!left && !right) return true;
-    if (!left || !right) return false;
-    if (left.val !== right.val) return false;
-    return helper(left.left, right.right) && helper(left.right, right.left);
+    if (!left && !right) return true
+    if (!left || !right) return false
+    if (left.val !== right.val) return false
+    return helper(left.left, right.right) && helper(left.right, right.left)
   }
 }
 
@@ -24,22 +24,22 @@ export function isSymmetric(root: TreeNode | null): boolean {
  * @param root
  */
 export function isSymmetric2(root: TreeNode | null): boolean {
-  const queue: (TreeNode | null)[] = [root, root];
+  const queue: (TreeNode | null)[] = [root, root]
 
   while (queue.length > 0) {
-    const u = queue.shift()!;
-    const v = queue.shift()!;
+    const u = queue.shift()!
+    const v = queue.shift()!
 
-    if (!u && !v) return true;
-    if (!u || !v) return false;
-    if (u.val !== v.val) return false;
+    if (!u && !v) return true
+    if (!u || !v) return false
+    if (u.val !== v.val) return false
 
-    queue.push(u.left);
-    queue.push(v.right);
+    queue.push(u.left)
+    queue.push(v.right)
 
-    queue.push(u.right);
-    queue.push(v.left);
+    queue.push(u.right)
+    queue.push(v.left)
   }
 
-  return true;
+  return true
 }

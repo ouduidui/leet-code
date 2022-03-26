@@ -5,16 +5,16 @@
  * @returns
  */
 export function convertToBase7(num: number): string {
-  if (num === 0) return '0';
+  if (num === 0) return '0'
 
-  const isNeg = num < 0;
-  num = Math.abs(num);
-  let res = '';
+  const isNeg = num < 0
+  num = Math.abs(num)
+  let res = ''
 
   while (num > 0) {
-    res = (num % 7) + res;
-    num = Math.floor(num / 7);
+    res = (num % 7) + res
+    num = Math.floor(num / 7)
   }
 
-  return `${isNeg ? '-' : ''}${res}`;
+  return `${isNeg ? '-' : ''}${res}`
 }

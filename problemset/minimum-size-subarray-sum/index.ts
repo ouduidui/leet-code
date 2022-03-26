@@ -6,21 +6,21 @@
  * @returns
  */
 export function minSubArrayLen(target: number, nums: number[]): number {
-  let left = 0;
-  let right = 0;
-  let sum = 0;
-  let minLen = Infinity;
+  let left = 0
+  let right = 0
+  let sum = 0
+  let minLen = Infinity
 
   while (right < nums.length) {
-    sum += nums[right];
-    right++;
+    sum += nums[right]
+    right++
 
     while (sum >= target) {
-      minLen = Math.min(minLen, right - left);
-      sum -= nums[left];
-      left++;
+      minLen = Math.min(minLen, right - left)
+      sum -= nums[left]
+      left++
     }
   }
 
-  return minLen === Infinity ? 0 : minLen;
+  return minLen === Infinity ? 0 : minLen
 }

@@ -1,4 +1,4 @@
-import { Node } from '~/utils/nAryTree';
+import type { Node } from '~/utils/nAryTree'
 
 /**
  * 递归
@@ -6,18 +6,17 @@ import { Node } from '~/utils/nAryTree';
  * @param root
  */
 export function preorder(root: Node | null): number[] {
-  const result: number[] = [];
-  dfs(root, result);
-  return result;
+  const result: number[] = []
+  dfs(root, result)
+  return result
 
   function dfs(node: Node | null, result: number[]): void {
-    if (node === null) return;
+    if (node === null) return
 
-    result.push(node.val);
+    result.push(node.val)
 
-    for (const child of node.children) {
-      dfs(child, result);
-    }
+    for (const child of node.children)
+      dfs(child, result)
   }
 }
 
@@ -27,22 +26,21 @@ export function preorder(root: Node | null): number[] {
  * @param root
  */
 export function preorder2(root: Node | null): number[] {
-  if (root === null) return [];
+  if (root === null) return []
 
-  const result: number[] = [];
-  const stack: Node[] = [root];
+  const result: number[] = []
+  const stack: Node[] = [root]
 
   while (stack.length) {
-    const node = stack.pop()!;
-    result.push(node.val);
+    const node = stack.pop()!
+    result.push(node.val)
 
-    const len = node.children.length;
+    const len = node.children.length
 
     // 倒序入栈
-    for (let i = len - 1; i >= 0; i--) {
-      stack.push(node.children[i]);
-    }
+    for (let i = len - 1; i >= 0; i--)
+      stack.push(node.children[i])
   }
 
-  return result;
+  return result
 }

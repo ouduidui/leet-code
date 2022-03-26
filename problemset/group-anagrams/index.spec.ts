@@ -1,32 +1,32 @@
-import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { groupAnagrams } from '.';
+import { describe, it } from 'vitest'
+import { groupAnagrams } from '.'
+import { twoDimensionalArrayEqual } from '~/utils/tools'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('字母异位词分组', () => {
   describe('排序', () => {
-    testCase(groupAnagrams);
-  });
-});
+    testCase(groupAnagrams)
+  })
+})
 
 function testCase(fn: (strs: string[]) => string[][]) {
   it('示例一', () => {
-    const strs = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat'];
-    const expected = [['bat'], ['nat', 'tan'], ['ate', 'eat', 'tea']];
+    const strs = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat']
+    const expected = [['bat'], ['nat', 'tan'], ['ate', 'eat', 'tea']]
 
-    twoDimensionalArrayEqual(fn(strs), expected, true);
-  });
+    twoDimensionalArrayEqual(fn(strs), expected, true)
+  })
 
   it('示例二', () => {
-    const strs = [''];
-    const expected = [['']];
+    const strs = ['']
+    const expected = [['']]
 
-    twoDimensionalArrayEqual(fn(strs), expected, true);
-  });
+    twoDimensionalArrayEqual(fn(strs), expected, true)
+  })
 
   it('示例三', () => {
-    const strs = ['a'];
-    const expected = [['a']];
+    const strs = ['a']
+    const expected = [['a']]
 
-    twoDimensionalArrayEqual(fn(strs), expected, true);
-  });
+    twoDimensionalArrayEqual(fn(strs), expected, true)
+  })
 }

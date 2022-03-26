@@ -1,15 +1,15 @@
-import { isPalindrome } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { isPalindrome } from '.'
 
 describe('验证回文串', () => {
-  testCase(isPalindrome);
-});
+  testCase(isPalindrome)
+})
 
 function testCase(fn: (s: string) => boolean) {
   it.each([
     ['A man, a plan, a canal: Panama', true],
-    ['race a car', false]
+    ['race a car', false],
   ])('示例%#', (s, expected) => {
-    expect(fn(s)).toBe(expected);
-  });
+    expect(fn(s)).toBe(expected)
+  })
 }

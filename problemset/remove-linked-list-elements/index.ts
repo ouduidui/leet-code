@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import { ListNode } from '~/utils/listNode'
 
 /**
  * 递归
@@ -9,11 +9,11 @@ import { ListNode } from '~/utils/listNode';
  */
 export function removeElements(
   head: ListNode | null,
-  val: number
+  val: number,
 ): ListNode | null {
-  if (head === null) return head;
-  head.next = removeElements(head.next, val);
-  return head.val === val ? head.next : head;
+  if (head === null) return head
+  head.next = removeElements(head.next, val)
+  return head.val === val ? head.next : head
 }
 
 /**
@@ -25,16 +25,15 @@ export function removeElements(
  */
 export function removeElements2(
   head: ListNode | null,
-  val: number
+  val: number,
 ): ListNode | null {
-  const dummyHead = new ListNode(0, head);
-  let temp = dummyHead;
+  const dummyHead = new ListNode(0, head)
+  let temp = dummyHead
   while (temp.next !== null) {
-    if (temp.next.val == val) {
-      temp.next = temp.next.next;
-    } else {
-      temp = temp.next;
-    }
+    if (temp.next.val === val)
+      temp.next = temp.next.next
+    else
+      temp = temp.next
   }
-  return dummyHead.next;
+  return dummyHead.next
 }

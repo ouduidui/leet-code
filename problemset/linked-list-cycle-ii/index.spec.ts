@@ -1,31 +1,32 @@
-import { detectCycle, detectCycle2 } from '.';
-import { createCycleListNode, ListNode } from '~/utils/listNode';
+import { describe, expect, it } from 'vitest'
+import { detectCycle, detectCycle2 } from '.'
+import type { ListNode } from '~/utils/listNode'
+import { createCycleListNode } from '~/utils/listNode'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('环形链表 II', () => {
   describe('哈希表', () => {
-    testCase(detectCycle);
-  });
+    testCase(detectCycle)
+  })
 
   describe('快慢指针', () => {
-    testCase(detectCycle2);
-  });
-});
+    testCase(detectCycle2)
+  })
+})
 
 function testCase(fn: (head: ListNode | null) => ListNode | null) {
   it('示例一', () => {
-    const head = createCycleListNode([3, 2, 0, -4], 1);
-    const expected = head!.next;
-    expect(fn(head)).toBe(expected);
-  });
+    const head = createCycleListNode([3, 2, 0, -4], 1)
+    const expected = head!.next
+    expect(fn(head)).toBe(expected)
+  })
 
   it('示例二', () => {
-    const head = createCycleListNode([1, 2], 0);
-    expect(fn(head)).toBe(head);
-  });
+    const head = createCycleListNode([1, 2], 0)
+    expect(fn(head)).toBe(head)
+  })
 
   it('示例三', () => {
-    const head = createCycleListNode([1], -1);
-    expect(fn(head)).toBe(null);
-  });
+    const head = createCycleListNode([1], -1)
+    expect(fn(head)).toBe(null)
+  })
 }

@@ -4,23 +4,23 @@
  * @param n
  */
 export function trailingZeroes(n: number): number {
-  if (n === 0) return 0;
+  if (n === 0) return 0
 
-  let factorial = BigInt(1);
+  let factorial = BigInt(1)
   while (n > 0) {
-    factorial = factorial * BigInt(n);
-    n--;
+    factorial = factorial * BigInt(n)
+    n--
   }
 
-  let result = 0;
-  const b10 = BigInt(10);
-  const b0 = BigInt(0);
+  let result = 0
+  const b10 = BigInt(10)
+  const b0 = BigInt(0)
   while (factorial % b10 === b0) {
-    result++;
-    factorial /= b10;
+    result++
+    factorial /= b10
   }
 
-  return result;
+  return result
 }
 
 /**
@@ -29,19 +29,19 @@ export function trailingZeroes(n: number): number {
  * @param n
  */
 export function trailingZeroes2(n: number): number {
-  if (n === 0) return 0;
+  if (n === 0) return 0
 
-  let result = 0;
+  let result = 0
   // 找出是5的倍数的个数
   for (let i = 5; i <= n; i += 5) {
-    let currentFactor = i;
+    let currentFactor = i
     while (currentFactor % 5 === 0) {
-      result++;
-      currentFactor /= 5;
+      result++
+      currentFactor /= 5
     }
   }
 
-  return result;
+  return result
 }
 
 /**
@@ -50,15 +50,15 @@ export function trailingZeroes2(n: number): number {
  * @param n
  */
 export function trailingZeroes3(n: number): number {
-  if (n === 0) return 0;
+  if (n === 0) return 0
 
-  const n1 = BigInt(n);
-  let result = BigInt(0);
-  let currentMultiple = BigInt(5);
+  const n1 = BigInt(n)
+  let result = BigInt(0)
+  let currentMultiple = BigInt(5)
   while (n1 >= currentMultiple) {
     // n / 5 + n / 25 + n / 125 + n / 625 ...
-    result += n1 / currentMultiple;
-    currentMultiple *= BigInt(5);
+    result += n1 / currentMultiple
+    currentMultiple *= BigInt(5)
   }
-  return Number(result);
+  return Number(result)
 }

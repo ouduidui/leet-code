@@ -5,15 +5,15 @@
  * @param right
  */
 export function rangeBitwiseAnd(left: number, right: number): number {
-  let shift = 0;
+  let shift = 0
   // 找到公共前缀
   while (left < right) {
-    left >>= 1;
-    right >>= 1;
-    shift++;
+    left >>= 1
+    right >>= 1
+    shift++
   }
 
-  return left << shift;
+  return left << shift
 }
 
 /**
@@ -25,8 +25,8 @@ export function rangeBitwiseAnd(left: number, right: number): number {
 export function rangeBitwiseAnd2(left: number, right: number): number {
   while (left < right) {
     // 抹去最右边的 1
-    right = right & (right - 1);
+    right = right & (right - 1)
   }
 
-  return right;
+  return right
 }

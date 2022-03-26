@@ -1,6 +1,9 @@
 {
   "name": "algorithm-brushing",
   "version": "1.0.0",
+  "license": "MIT",
+  "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
+  "author": "oushihao <oushihao97@163.com>",
   "scripts": {
     "create": "node scripts/create",
     "update": "node scripts/category",
@@ -9,10 +12,8 @@
     "fix": "eslint --ext .js,.ts --ignore-path .gitignore --fix problemset",
     "format": "prettier .  --write"
   },
-  "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
-  "author": "oushihao <oushihao97@163.com>",
-  "license": "MIT",
   "devDependencies": {
+    "@ouduidui/eslint-config-ts": "^0.0.2",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.9.1",
     "@typescript-eslint/eslint-plugin": "^5.9.1",

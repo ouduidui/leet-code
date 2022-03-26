@@ -4,7 +4,7 @@
  * @param s
  */
 export function reverseWords(s: string): string {
-  return s.trim().split(/\s+/).reverse().join(' ');
+  return s.trim().split(/\s+/).reverse().join(' ')
 }
 
 /**
@@ -13,27 +13,26 @@ export function reverseWords(s: string): string {
  * @param s
  */
 export function reverseWords2(s: string): string {
-  const len = s.length;
-  let slow = len - 1;
-  let fast = len - 1;
-  let result = '';
+  const len = s.length
+  let slow = len - 1
+  let fast = len - 1
+  let result = ''
 
   while (fast >= 0) {
     while (!s.charAt(fast).trim() && fast >= 0) {
-      fast--;
-      slow--;
+      fast--
+      slow--
     }
 
-    while (s.charAt(fast).trim() && fast >= 0) {
-      fast--;
-    }
+    while (s.charAt(fast).trim() && fast >= 0)
+      fast--
 
     if (fast !== slow) {
-      const word = s.substring(fast + 1, slow + 1);
-      result = result ? `${result} ${word}` : word;
-      slow = fast;
+      const word = s.substring(fast + 1, slow + 1)
+      result = result ? `${result} ${word}` : word
+      slow = fast
     }
   }
 
-  return result;
+  return result
 }

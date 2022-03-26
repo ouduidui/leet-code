@@ -4,10 +4,10 @@
  * @param s
  */
 export function minCut(s: string): number {
-  const len = s.length;
+  const len = s.length
   const dp: boolean[][] = new Array(len)
     .fill([])
-    .map(() => new Array(len).fill(true));
+    .map(() => new Array(len).fill(true))
 
   /**
    * s = 'aab'
@@ -18,9 +18,8 @@ export function minCut(s: string): number {
    *  ]
    */
   for (let i = len - 1; i >= 0; i--) {
-    for (let j = i + 1; j < len; j++) {
-      dp[i][j] = s[i] === s[j] && dp[i + 1][j - 1];
-    }
+    for (let j = i + 1; j < len; j++)
+      dp[i][j] = s[i] === s[j] && dp[i + 1][j - 1]
   }
 
   /**
@@ -31,18 +30,18 @@ export function minCut(s: string): number {
    *    [ -  ,  -  , dp[0][1]+1]
    *  ]
    */
-  const f = new Array(len).fill(Number.MAX_SAFE_INTEGER);
+  const f = new Array(len).fill(Number.MAX_SAFE_INTEGER)
   for (let i = 0; i < len; i++) {
     if (dp[0][i]) {
-      f[i] = 0;
-    } else {
+      f[i] = 0
+    }
+    else {
       for (let j = 0; j < i; j++) {
-        if (dp[j + 1][i]) {
-          f[i] = Math.min(f[i], f[j] + 1);
-        }
+        if (dp[j + 1][i])
+          f[i] = Math.min(f[i], f[j] + 1)
       }
     }
   }
 
-  return f[len - 1];
+  return f[len - 1]
 }

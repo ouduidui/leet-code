@@ -1,38 +1,38 @@
-import { searchMatrix, searchMatrix2 } from '.';
+import { describe, expect, it } from 'vitest'
+import { searchMatrix, searchMatrix2 } from '.'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('搜索二维矩阵', () => {
   describe('两次二分查找', () => {
-    testCase(searchMatrix);
-  });
+    testCase(searchMatrix)
+  })
 
   describe('一次二分查找', () => {
-    testCase(searchMatrix2);
-  });
-});
+    testCase(searchMatrix2)
+  })
+})
 
 function testCase(fn: (matrix: number[][], target: number) => boolean) {
   it('示例一', () => {
     const matrix = [
       [1, 3, 5, 7],
       [10, 11, 16, 20],
-      [23, 30, 34, 60]
-    ];
-    const target = 3;
-    const expected = true;
+      [23, 30, 34, 60],
+    ]
+    const target = 3
+    const expected = true
 
-    expect(fn(matrix, target)).toBe(expected);
-  });
+    expect(fn(matrix, target)).toBe(expected)
+  })
 
   it('示例二', () => {
     const matrix = [
       [1, 3, 5, 7],
       [10, 11, 16, 20],
-      [23, 30, 34, 60]
-    ];
-    const target = 13;
-    const expected = false;
+      [23, 30, 34, 60],
+    ]
+    const target = 13
+    const expected = false
 
-    expect(fn(matrix, target)).toBe(expected);
-  });
+    expect(fn(matrix, target)).toBe(expected)
+  })
 }

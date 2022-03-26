@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import type { ListNode } from '~/utils/listNode'
 
 /**
  * 哈希表
@@ -6,19 +6,19 @@ import { ListNode } from '~/utils/listNode';
  * @param head
  */
 export function detectCycle(head: ListNode | null): ListNode | null {
-  if (!head || !head.next) return null;
+  if (!head || !head.next) return null
 
-  const nodeSet = new Set<ListNode>();
+  const nodeSet = new Set<ListNode>()
 
   while (head) {
-    if (nodeSet.has(head)) {
-      return head;
-    }
-    nodeSet.add(head);
-    head = head.next;
+    if (nodeSet.has(head))
+      return head
+
+    nodeSet.add(head)
+    head = head.next
   }
 
-  return null;
+  return null
 }
 
 /**
@@ -27,18 +27,17 @@ export function detectCycle(head: ListNode | null): ListNode | null {
  * @param head
  */
 export function detectCycle2(head: ListNode | null): ListNode | null {
-  if (!head || !head.next) return null;
+  if (!head || !head.next) return null
 
-  let slow: ListNode | null = head;
-  let fast: ListNode | null = head;
+  let slow: ListNode | null = head
+  let fast: ListNode | null = head
 
   while (fast !== null) {
-    slow = slow!.next;
-    if (fast.next) {
-      fast = fast.next.next;
-    } else {
-      return null;
-    }
+    slow = slow!.next
+    if (fast.next)
+      fast = fast.next.next
+    else
+      return null
 
     // 如果 fast === slow，证明是一个环形链表
     if (fast === slow) {
@@ -57,14 +56,14 @@ export function detectCycle2(head: ListNode | null): ListNode | null {
        * 化简可得 a = n * b - c
        * 因此我们可以新建一个 ptr 指针从启动出发，而 slow 从与 fast 相遇处触发，最终他们会在入环点相遇
        */
-      let ptr = head;
+      let ptr = head
       while (ptr !== slow) {
-        ptr = ptr.next!;
-        slow = slow!.next;
+        ptr = ptr.next!
+        slow = slow!.next
       }
-      return ptr;
+      return ptr
     }
   }
 
-  return null;
+  return null
 }

@@ -12,46 +12,50 @@ export function intToRoman(num: number): string {
     [50, 'L'],
     [100, 'C'],
     [500, 'D'],
-    [1000, 'M']
-  ]);
+    [1000, 'M'],
+  ])
 
-  let carry = 0; // 进位
-  let roman = ''; // 罗马值结果
+  let carry = 0 // 进位
+  let roman = '' // 罗马值结果
 
   while (num > 0) {
-    const n: number = num % 10;
-    num = Math.floor(num / 10);
+    const n: number = num % 10
+    num = Math.floor(num / 10)
 
-    let r = ''; // 当前数值对应的罗马值
+    let r = '' // 当前数值对应的罗马值
 
     if (n === 1 || n === 5) {
-      r += romanMap.get(n * Math.pow(10, carry));
-    } else if (n < 5) {
+      r += romanMap.get(n * Math.pow(10, carry))
+    }
+    else if (n < 5) {
       if (n === 4) {
-        r += romanMap.get(Math.pow(10, carry));
-        r += romanMap.get(5 * Math.pow(10, carry));
-      } else {
+        r += romanMap.get(Math.pow(10, carry))
+        r += romanMap.get(5 * Math.pow(10, carry))
+      }
+      else {
         r += Array(n)
           .fill(romanMap.get(Math.pow(10, carry)))
-          .join('');
+          .join('')
       }
-    } else if (n < 10) {
+    }
+    else if (n < 10) {
       if (n === 9) {
-        r += romanMap.get(Math.pow(10, carry));
-        r += romanMap.get(10 * Math.pow(10, carry));
-      } else {
-        r += romanMap.get(5 * Math.pow(10, carry));
+        r += romanMap.get(Math.pow(10, carry))
+        r += romanMap.get(10 * Math.pow(10, carry))
+      }
+      else {
+        r += romanMap.get(5 * Math.pow(10, carry))
         r += Array(n - 5)
           .fill(romanMap.get(Math.pow(10, carry)))
-          .join('');
+          .join('')
       }
     }
 
-    carry++;
-    roman = r + roman; // 将新的罗马值插在前面
+    carry++
+    roman = r + roman // 将新的罗马值插在前面
   }
 
-  return roman;
+  return roman
 }
 
 /**
@@ -74,20 +78,19 @@ export function intToRoman2(num: number): string {
     [9, 'IX'],
     [5, 'V'],
     [4, 'IV'],
-    [1, 'I']
-  ]);
-  const roman: string[] = [];
+    [1, 'I'],
+  ])
+  const roman: string[] = []
   for (const [value, symbol] of romanMap) {
     while (num >= value) {
-      num -= value;
-      roman.push(symbol);
+      num -= value
+      roman.push(symbol)
     }
-    if (num == 0) {
-      break;
-    }
+    if (num === 0)
+      break
   }
 
-  return roman.join('');
+  return roman.join('')
 }
 
 /**
@@ -97,7 +100,7 @@ export function intToRoman2(num: number): string {
  * @return {string}
  */
 export function intToRoman3(num: number): string {
-  const thousands: string[] = ['', 'M', 'MM', 'MMM'];
+  const thousands: string[] = ['', 'M', 'MM', 'MMM']
   const hundreds: string[] = [
     '',
     'C',
@@ -108,8 +111,8 @@ export function intToRoman3(num: number): string {
     'DC',
     'DCC',
     'DCCC',
-    'CM'
-  ];
+    'CM',
+  ]
   const tens: string[] = [
     '',
     'X',
@@ -120,8 +123,8 @@ export function intToRoman3(num: number): string {
     'LX',
     'LXX',
     'LXXX',
-    'XC'
-  ];
+    'XC',
+  ]
   const ones: string[] = [
     '',
     'I',
@@ -132,13 +135,13 @@ export function intToRoman3(num: number): string {
     'VI',
     'VII',
     'VIII',
-    'IX'
-  ];
+    'IX',
+  ]
 
-  const roman: string[] = [];
-  roman.push(thousands[Math.floor(num / 1000)]);
-  roman.push(hundreds[Math.floor((num % 1000) / 100)]);
-  roman.push(tens[Math.floor((num % 100) / 10)]);
-  roman.push(ones[num % 10]);
-  return roman.join('');
+  const roman: string[] = []
+  roman.push(thousands[Math.floor(num / 1000)])
+  roman.push(hundreds[Math.floor((num % 1000) / 100)])
+  roman.push(tens[Math.floor((num % 100) / 10)])
+  roman.push(ones[num % 10])
+  return roman.join('')
 }

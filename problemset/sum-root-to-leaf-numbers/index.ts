@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import type { TreeNode } from '~/utils/treeNode'
 
 /**
  * 深度优先搜索
@@ -6,16 +6,17 @@ import { TreeNode } from '~/utils/treeNode';
  * @param root
  */
 export function sumNumbers(root: TreeNode | null): number {
-  let res = 0;
-  root && dfs(root, root.val);
-  return res;
+  let res = 0
+  root && dfs(root, root.val)
+  return res
 
   function dfs(node: TreeNode, sum: number) {
     if (!node.left && !node.right) {
-      res += sum;
-    } else {
-      node.left && dfs(node.left, sum * 10 + node.left.val);
-      node.right && dfs(node.right, sum * 10 + node.right.val);
+      res += sum
+    }
+    else {
+      node.left && dfs(node.left, sum * 10 + node.left.val)
+      node.right && dfs(node.right, sum * 10 + node.right.val)
     }
   }
 }
@@ -25,29 +26,30 @@ export function sumNumbers(root: TreeNode | null): number {
  * @param root
  */
 export function sumNumbers2(root: TreeNode | null): number {
-  if (!root) return 0;
+  if (!root) return 0
 
-  let sum = 0;
-  const nodeQueue: TreeNode[] = [root];
-  const numQueue: number[] = [root.val];
+  let sum = 0
+  const nodeQueue: TreeNode[] = [root]
+  const numQueue: number[] = [root.val]
 
   while (nodeQueue.length) {
-    const node = nodeQueue.shift()!;
-    const num = numQueue.shift()!;
+    const node = nodeQueue.shift()!
+    const num = numQueue.shift()!
 
     if (!node.left && !node.right) {
-      sum += num;
-    } else {
+      sum += num
+    }
+    else {
       if (node.left) {
-        nodeQueue.push(node.left);
-        numQueue.push(num * 10 + node.left.val);
+        nodeQueue.push(node.left)
+        numQueue.push(num * 10 + node.left.val)
       }
       if (node.right) {
-        nodeQueue.push(node.right);
-        numQueue.push(num * 10 + node.right.val);
+        nodeQueue.push(node.right)
+        numQueue.push(num * 10 + node.right.val)
       }
     }
   }
 
-  return sum;
+  return sum
 }

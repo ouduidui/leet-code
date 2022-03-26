@@ -5,12 +5,11 @@
  * @return {number}
  */
 export function firstMissingPositive(nums: number[]): number {
-  const len: number = nums.length;
+  const len: number = nums.length
   // 先将小于0的设置为 len + 1
   for (let i = 0; i < len; i++) {
-    if (nums[i] <= 0) {
-      nums[i] = len + 1;
-    }
+    if (nums[i] <= 0)
+      nums[i] = len + 1
   }
 
   /**
@@ -21,18 +20,16 @@ export function firstMissingPositive(nums: number[]): number {
    *  - 这就意味着，我们将数组的下标作为一个整数映射，然后存在时val为正数，不存在为负数
    */
   for (let i = 0; i < len; i++) {
-    const idx: number = Math.abs(nums[i]);
-    if (idx <= len) {
-      nums[idx - 1] = -Math.abs(nums[idx - 1]);
-    }
+    const idx: number = Math.abs(nums[i])
+    if (idx <= len)
+      nums[idx - 1] = -Math.abs(nums[idx - 1])
   }
 
   // 最后遍历，找出为整数的下标i，则 i+1 就为缺失的正数
   for (let i = 0; i < len; i++) {
-    if (nums[i] > 0) {
-      return i + 1;
-    }
+    if (nums[i] > 0)
+      return i + 1
   }
 
-  return len + 1;
+  return len + 1
 }

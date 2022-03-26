@@ -12,19 +12,18 @@ export function romanToInt(s: string): number {
     ['L', 50],
     ['X', 10],
     ['V', 5],
-    ['I', 1]
-  ]);
-  let ans = 0;
-  const n: number = s.length;
+    ['I', 1],
+  ])
+  let ans = 0
+  const n: number = s.length
   for (let i = 0; i < n; ++i) {
-    const value: number = romanMap.get(s[i]) || NaN;
-    const nextValue: number = romanMap.get(s[i + 1]) || NaN;
+    const value: number = romanMap.get(s[i]) || NaN
+    const nextValue: number = romanMap.get(s[i + 1]) || NaN
 
-    if (i < n - 1 && value < nextValue) {
-      ans -= value;
-    } else {
-      ans += value;
-    }
+    if (i < n - 1 && value < nextValue)
+      ans -= value
+    else
+      ans += value
   }
-  return ans;
+  return ans
 }

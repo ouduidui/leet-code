@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import { TreeNode } from '~/utils/treeNode'
 
 /**
  * 中序遍历
@@ -7,23 +7,22 @@ import { TreeNode } from '~/utils/treeNode';
  * @return {TreeNode | null}
  */
 export function sortedArrayToBST(nums: number[]): TreeNode | null {
-  return helper(nums, 0, nums.length - 1);
+  return helper(nums, 0, nums.length - 1)
 
   function helper(
     nums: number[],
     left: number,
-    right: number
+    right: number,
   ): TreeNode | null {
-    if (left > right) {
-      return null;
-    }
+    if (left > right)
+      return null
 
     // 总是选择中间位置左边的数字作为根节点
-    const mid = (left + right) >> 1;
+    const mid = (left + right) >> 1
 
-    const root = new TreeNode(nums[mid]);
-    root.left = helper(nums, left, mid - 1);
-    root.right = helper(nums, mid + 1, right);
-    return root;
+    const root = new TreeNode(nums[mid])
+    root.left = helper(nums, left, mid - 1)
+    root.right = helper(nums, mid + 1, right)
+    return root
   }
 }

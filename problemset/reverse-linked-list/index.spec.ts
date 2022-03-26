@@ -1,27 +1,28 @@
-import { reverseList } from '.';
-import { ListNode, createListNode } from '~/utils/listNode';
+import { describe, expect, it } from 'vitest'
+import { reverseList } from '.'
+import type { ListNode } from '~/utils/listNode'
+import { createListNode } from '~/utils/listNode'
 // need refactor
-import { describe, it, expect } from 'vitest';
 describe('反转链表', () => {
-  testCase(reverseList);
-});
+  testCase(reverseList)
+})
 
 function testCase(fn: (head: ListNode | null) => ListNode | null) {
   it('示例一', () => {
-    const head = createListNode([1, 2, 3, 4, 5]);
-    const expected = createListNode([5, 4, 3, 2, 1]);
-    expect(fn(head)).toStrictEqual(expected);
-  });
+    const head = createListNode([1, 2, 3, 4, 5])
+    const expected = createListNode([5, 4, 3, 2, 1])
+    expect(fn(head)).toStrictEqual(expected)
+  })
 
   it('示例二', () => {
-    const head = createListNode([1, 2]);
-    const expected = createListNode([2, 1]);
-    expect(fn(head)).toStrictEqual(expected);
-  });
+    const head = createListNode([1, 2])
+    const expected = createListNode([2, 1])
+    expect(fn(head)).toStrictEqual(expected)
+  })
 
   it('示例三', () => {
-    const head = createListNode([]);
-    const expected = createListNode([]);
-    expect(fn(head)).toStrictEqual(expected);
-  });
+    const head = createListNode([])
+    const expected = createListNode([])
+    expect(fn(head)).toStrictEqual(expected)
+  })
 }

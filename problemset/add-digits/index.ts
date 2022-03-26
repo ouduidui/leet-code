@@ -5,15 +5,15 @@
  */
 export function addDigits(num: number): number {
   while (num >= 10) {
-    let sum = 0;
+    let sum = 0
     while (num) {
-      sum += num % 10 >> 0;
-      num /= 10;
+      sum += num % 10 >> 0
+      num /= 10
     }
-    num = sum;
+    num = sum
   }
 
-  return num;
+  return num
 }
 
 /**
@@ -22,5 +22,5 @@ export function addDigits(num: number): number {
  * @param num
  */
 export function addDigits2(num: number): number {
-  return ((num - 1) % 9) + 1;
+  return ((num - 1) % 9) + 1
 }

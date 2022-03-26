@@ -4,16 +4,15 @@
  * @param path
  */
 export function simplifyPath(path: string): string {
-  const stack: string[] = [];
-  const pathNames = path.split('/');
+  const stack: string[] = []
+  const pathNames = path.split('/')
 
   for (const name of pathNames) {
-    if (name === '..') {
-      stack.length && stack.pop();
-    } else if (name.length && name !== '.') {
-      stack.push(name);
-    }
+    if (name === '..')
+      stack.length && stack.pop()
+    else if (name.length && name !== '.')
+      stack.push(name)
   }
 
-  return '/' + stack.join('/');
+  return `/${stack.join('/')}`
 }

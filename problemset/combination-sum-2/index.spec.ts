@@ -1,10 +1,10 @@
-import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { combinationSum2 } from '.';
-import { describe, it } from 'vitest';
+import { describe, it } from 'vitest'
+import { combinationSum2 } from '.'
+import { twoDimensionalArrayEqual } from '~/utils/tools'
 
 describe(' 组合总和 II', () => {
-  testCase(combinationSum2);
-});
+  testCase(combinationSum2)
+})
 
 function testCase(fn: (candidates: number[], target: number) => number[][]) {
   it.each([
@@ -15,8 +15,8 @@ function testCase(fn: (candidates: number[], target: number) => number[][]) {
         [1, 1, 6],
         [1, 2, 5],
         [1, 7],
-        [2, 6]
-      ]
+        [2, 6],
+      ],
     ],
     [[2, 5, 2, 1, 2], 5, [[1, 2, 2], [5]]],
     [
@@ -25,10 +25,10 @@ function testCase(fn: (candidates: number[], target: number) => number[][]) {
       [
         [1, 1, 1, 5],
         [1, 1, 3, 3],
-        [3, 5]
-      ]
-    ]
+        [3, 5],
+      ],
+    ],
   ])('示例%#', (candidates, target, expected) => {
-    twoDimensionalArrayEqual(fn(candidates, target), expected);
-  });
+    twoDimensionalArrayEqual(fn(candidates, target), expected)
+  })
 }

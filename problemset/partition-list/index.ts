@@ -1,4 +1,4 @@
-import { ListNode } from '~/utils/listNode';
+import { ListNode } from '~/utils/listNode'
 
 /**
  * 模拟
@@ -7,24 +7,25 @@ import { ListNode } from '~/utils/listNode';
  * @param x
  */
 export function partition(head: ListNode | null, x: number): ListNode | null {
-  let small = new ListNode(0);
-  const smallHead = small;
-  let large = new ListNode(0);
-  const largeHead = large;
+  let small = new ListNode(0)
+  const smallHead = small
+  let large = new ListNode(0)
+  const largeHead = large
 
   while (head !== null) {
     if (head.val < x) {
-      small.next = head;
-      small = small.next;
-    } else {
-      large.next = head;
-      large = large.next;
+      small.next = head
+      small = small.next
     }
-    head = head.next;
+    else {
+      large.next = head
+      large = large.next
+    }
+    head = head.next
   }
 
   // 合并
-  large.next = null;
-  small.next = largeHead.next;
-  return smallHead.next;
+  large.next = null
+  small.next = largeHead.next
+  return smallHead.next
 }

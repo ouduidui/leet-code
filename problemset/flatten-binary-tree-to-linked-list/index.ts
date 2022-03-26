@@ -1,4 +1,4 @@
-import { TreeNode } from '~/utils/treeNode';
+import type { TreeNode } from '~/utils/treeNode'
 
 /**
  * 前序遍历
@@ -6,25 +6,25 @@ import { TreeNode } from '~/utils/treeNode';
  * @param root
  */
 export function flatten(root: TreeNode | null): void {
-  const list: TreeNode[] = [];
-  const stack: TreeNode[] = [];
-  let node = root;
+  const list: TreeNode[] = []
+  const stack: TreeNode[] = []
+  let node = root
   // 前序遍历，存入list
   while (node !== null || stack.length) {
     while (node !== null) {
-      list.push(node);
-      stack.push(node);
-      node = node.left;
+      list.push(node)
+      stack.push(node)
+      node = node.left
     }
-    node = stack.pop()!;
-    node = node.right;
+    node = stack.pop()!
+    node = node.right
   }
 
   for (let i = 1; i < list.length; i++) {
-    const prev = list[i - 1];
-    const curr = list[i];
-    prev.left = null;
-    prev.right = curr;
+    const prev = list[i - 1]
+    const curr = list[i]
+    prev.left = null
+    prev.right = curr
   }
 }
 
@@ -34,21 +34,21 @@ export function flatten(root: TreeNode | null): void {
  * @param root
  */
 export function flatten2(root: TreeNode | null): void {
-  if (root === null) return;
+  if (root === null) return
 
-  const stack: TreeNode[] = [root];
-  let prev: TreeNode | null = null;
+  const stack: TreeNode[] = [root]
+  let prev: TreeNode | null = null
   while (stack.length) {
-    const curr = stack.pop()!;
+    const curr = stack.pop()!
     if (prev) {
-      prev.left = null;
-      prev.right = curr;
+      prev.left = null
+      prev.right = curr
     }
 
     // 先进right，后进left
-    curr.right && stack.push(curr.right);
-    curr.left && stack.push(curr.left);
-    prev = curr;
+    curr.right && stack.push(curr.right)
+    curr.left && stack.push(curr.left)
+    prev = curr
   }
 }
 
@@ -58,22 +58,22 @@ export function flatten2(root: TreeNode | null): void {
  * @param root
  */
 export function flatten3(root: TreeNode | null): void {
-  let curr = root;
+  let curr = root
   while (curr !== null) {
     if (curr.left !== null) {
-      const next = curr.left;
+      const next = curr.left
 
       // 将predecessor定位到next最右边的节点
-      let predecessor = next;
-      while (predecessor.right !== null) {
-        predecessor = predecessor.right;
-      }
-      // 将curr的所有右子树接在predecessor的右边
-      predecessor.right = curr.right;
+      let predecessor = next
+      while (predecessor.right !== null)
+        predecessor = predecessor.right
 
-      curr.left = null;
-      curr.right = next;
+      // 将curr的所有右子树接在predecessor的右边
+      predecessor.right = curr.right
+
+      curr.left = null
+      curr.right = next
     }
-    curr = curr.right;
+    curr = curr.right
   }
 }

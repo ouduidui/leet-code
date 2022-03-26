@@ -4,20 +4,20 @@
  * @param s
  */
 export function isPalindrome(s: string): boolean {
-  let left = 0;
-  let right = s.length - 1;
+  let left = 0
+  let right = s.length - 1
   const isValid = (s: string): boolean =>
-    (s >= 'a' && s <= 'z') || (s >= 'A' && s <= 'Z') || (s >= '0' && s <= '9');
+    (s >= 'a' && s <= 'z') || (s >= 'A' && s <= 'Z') || (s >= '0' && s <= '9')
 
   while (left < right) {
-    while (!isValid(s[left]) && left < right) left++;
-    while (!isValid(s[right]) && left < right) right--;
+    while (!isValid(s[left]) && left < right) left++
+    while (!isValid(s[right]) && left < right) right--
 
-    if (s[left].toLowerCase() !== s[right].toLowerCase()) return false;
+    if (s[left].toLowerCase() !== s[right].toLowerCase()) return false
 
-    left++;
-    right--;
+    left++
+    right--
   }
 
-  return true;
+  return true
 }

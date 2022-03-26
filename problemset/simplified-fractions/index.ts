@@ -4,19 +4,18 @@
  * @param n
  */
 export function simplifiedFractions(n: number): string[] {
-  const ans: string[] = [];
+  const ans: string[] = []
   // 分母
   for (let i = 2; i <= n; i++) {
     // 分子
     for (let j = 1; j < i; j++) {
       // 如果最大公约数为1的话
-      if (greatestCommonDivisor(j, i) === 1) {
-        ans.push(j + '/' + i);
-      }
+      if (greatestCommonDivisor(j, i) === 1)
+        ans.push(`${j}/${i}`)
     }
   }
 
-  return ans;
+  return ans
 
   /**
    * 求最大公约数
@@ -26,11 +25,11 @@ export function simplifiedFractions(n: number): string[] {
    */
   function greatestCommonDivisor(
     numerator: number,
-    denominator: number
+    denominator: number,
   ): number {
-    if (denominator === 0) {
-      return numerator;
-    }
-    return greatestCommonDivisor(denominator, numerator % denominator);
+    if (denominator === 0)
+      return numerator
+
+    return greatestCommonDivisor(denominator, numerator % denominator)
   }
 }

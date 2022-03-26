@@ -1,11 +1,11 @@
-import { exist } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest'
+import { exist } from '.'
 
 describe('单词搜索', () => {
-  describe('回溯', function () {
-    testCase(exist);
-  });
-});
+  describe('回溯', () => {
+    testCase(exist)
+  })
+})
 
 function testCase(fn: (board: string[][], word: string) => boolean) {
   it.each([
@@ -13,30 +13,30 @@ function testCase(fn: (board: string[][], word: string) => boolean) {
       [
         ['A', 'B', 'C', 'E'],
         ['S', 'F', 'C', 'S'],
-        ['A', 'D', 'E', 'E']
+        ['A', 'D', 'E', 'E'],
       ],
       'ABCCED',
-      true
+      true,
     ],
     [
       [
         ['A', 'B', 'C', 'E'],
         ['S', 'F', 'C', 'S'],
-        ['A', 'D', 'E', 'E']
+        ['A', 'D', 'E', 'E'],
       ],
       'SEE',
-      true
+      true,
     ],
     [
       [
         ['A', 'B', 'C', 'E'],
         ['S', 'F', 'C', 'S'],
-        ['A', 'D', 'E', 'E']
+        ['A', 'D', 'E', 'E'],
       ],
       'ABCB',
-      false
-    ]
+      false,
+    ],
   ])('示例%#', (board, word, expected) => {
-    expect(fn(board, word)).toBe(expected);
-  });
+    expect(fn(board, word)).toBe(expected)
+  })
 }
