@@ -4,7 +4,7 @@
   "scripts": {
     "create": "node scripts/create",
     "update": "node scripts/category",
-    "test": "vitest",
+    "test": "vitest --run",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset",
     "fix": "eslint --ext .js,.ts --ignore-path .gitignore --fix problemset",
     "format": "prettier .  --write"

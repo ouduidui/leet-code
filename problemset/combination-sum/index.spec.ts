@@ -1,6 +1,6 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
 import { combinationSum, combinationSum2 } from '.';
-import { describe, it, expect } from 'vitest';
+import { describe, it } from 'vitest';
 
 describe('组合总和', () => {
   describe('回溯', () => {

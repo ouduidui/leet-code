@@ -67,7 +67,6 @@ export function numIslands2(grid: string[][]): number {
         const key = queue.pop()!;
         const row = (key / n) >> 0;
         const col = key % n;
-        console.log(row, col);
         if (row - 1 >= 0 && grid[row - 1][col] === '1') {
           queue.unshift(generateKey(row - 1, col));
           grid[row - 1][col] = '0';

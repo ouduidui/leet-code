@@ -8,7 +8,8 @@
 
 给定一个数组 `prices` ，其中 `prices[i]` 表示股票第 `i` 天的价格。
 
-在每一天，你可能会决定购买和/或出售股票。你在任何时候 **最多** 只能持有 **一股** 股票。你也可以购买它，然后在 **同一天** 出售。 返回你能获得的 **最大** 利润 。
+在每一天，你可能会决定购买和/或出售股票。你在任何时候 **最多** 只能持有 **一股**
+股票。你也可以购买它，然后在 **同一天** 出售。 返回你能获得的 **最大** 利润 。
 
 ### 示例
 
@@ -96,19 +97,24 @@ export function maxProfit2(prices: number[]): number {
 
 ### 贪心算法
 
-由于股票的购买没有限制，因此整个问题等价于寻找`x`个**不相交**的区间`(li,rj]`，使得如下的等式最大化
+由于股票的购买没有限制，因此整个问题等价于寻找`x`个**不相交**的区间`(li,rj]`，使
+得如下的等式最大化
 
- <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?\sum_x^{i=1}=a[r_i]-a[l_i]" /> 
+ <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?\sum_x^{i=1}=a[r_i]-a[l_i]" />
 
 其中`li`表示在`li`天买入，`ri`表示在`ri`天卖出。
 
-同时我们注意到对于`(li,rj]`这一个区间贡献的价值`a[ri]-a[li]`，其实等价于`(li,li + 1],(li + 1, li + 2], ... , (ri - 1, ri]`这些若干区间长度为1的区间的价值和，即
+同时我们注意到对于`(li,rj]`这一个区间贡献的价值`a[ri]-a[li]`，其实等价
+于`(li,li + 1],(li + 1, li + 2], ... , (ri - 1, ri]`这些若干区间长度为 1 的区间
+的价值和，即
 
- <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?a[r_i]-a[l_i]=(a[r_i]-a[r_i-1])+(a[r_i-1]-a[r_i-2])+...+(a[l_i+1]-a[l_i])" /> 
+ <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?a[r_i]-a[l_i]=(a[r_i]-a[r_i-1])+(a[r_i-1]-a[r_i-2])+...+(a[l_i+1]-a[l_i])" />
 
-因此问题可以简化为找`x`个长度为`1`的区间`(li, li+1)`使得  <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?\sum_x^{i=1}=a[l_i+1]-a[l_i]" /> 价值最大化。
+因此问题可以简化为找`x`个长度为`1`的区间`(li, li+1)`使得
+<img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?\sum_x^{i=1}=a[l_i+1]-a[l_i]" />
+价值最大化。
 
-贪心的角度考虑我们每次选择贡献大于0的区间既能使得答案最大化，因此最后答案为
+贪心的角度考虑我们每次选择贡献大于 0 的区间既能使得答案最大化，因此最后答案为
 
  <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?ans=\sum_{n-1}^{i=1}=max\{0,a[i]-a[i-1]\}" />
 
@@ -116,11 +122,12 @@ export function maxProfit2(prices: number[]): number {
 
 需要说明的是，贪心算法只能用于计算最大利润，**计算的过程并不是实际的交易过程**。
 
-考虑题目中的例子`[1,2,3,4,5]`，数组长度`n=5`，由于对于所有的`1 ≤ i ≤ n`都有`a[i] > a[i - 1]`，因此答案为
+考虑题目中的例子`[1,2,3,4,5]`，数组长度`n=5`，由于对于所有的`1 ≤ i ≤ n`都
+有`a[i] > a[i - 1]`，因此答案为
 
  <img style="background: #fff;padding: 10px" src="https://latex.codecogs.com/svg.latex?ans=\sum_{n-1}^{i=1}=a[i]-a[i-1]=4" />
 
-但是实际的交易过程并不是4次买入和4次卖出，而是在第1天买入，第5天卖出。
+但是实际的交易过程并不是 4 次买入和 4 次卖出，而是在第 1 天买入，第 5 天卖出。
 
 ```typescript
 /**

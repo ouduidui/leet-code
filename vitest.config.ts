@@ -7,8 +7,5 @@ export default defineConfig({
     alias: {
       '~/': `${path.resolve(__dirname, '.')}/`
     }
-  },
-  test: {
-    watch: false
   }
 });

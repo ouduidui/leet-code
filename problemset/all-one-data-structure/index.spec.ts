@@ -1,5 +1,5 @@
 import { AllOne } from '.';
-import { describe, it, expect } from 'vitest';
+import { it, expect } from 'vitest';
 
 it('全 O(1) 的数据结构', () => {
   const allOne = new AllOne();
