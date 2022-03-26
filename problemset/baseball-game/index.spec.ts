@@ -1,4 +1,5 @@
 import { calPoints } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('棒球比赛', () => {
   testCase(calPoints);

@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { deleteDuplicates } from './index';
-
+import { deleteDuplicates } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('删除排序列表中的重复元素', () => {
   testCase(deleteDuplicates);
 });

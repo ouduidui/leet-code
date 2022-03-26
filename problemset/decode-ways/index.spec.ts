@@ -1,5 +1,6 @@
-import { numDecodings } from './index';
-
+import { numDecodings } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('解码方法', () => {
   testCase(numDecodings);
 });

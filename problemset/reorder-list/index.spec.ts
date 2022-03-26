@@ -1,6 +1,7 @@
-import { reorderList, reorderList2 } from './index';
+import { reorderList, reorderList2 } from '.';
 import { ListNode, createListNode } from '~/utils/listNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('重排链表', () => {
   describe('线性表', () => {
     testCase(reorderList);

@@ -1,6 +1,7 @@
 import { ListNode, createIntersectionListNode } from '~/utils/listNode';
-import { getIntersectionNode, getIntersectionNode2 } from './index';
-
+import { getIntersectionNode, getIntersectionNode2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('相交链表', () => {
   testCase(getIntersectionNode);
   testCase(getIntersectionNode2);

@@ -1,5 +1,6 @@
-import { isValidBST, isValidBST2 } from './index';
+import { isValidBST, isValidBST2 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
+import { describe, it, expect } from 'vitest';
 
 describe('验证二叉搜索树', () => {
   describe('递归', () => {
@@ -12,27 +13,12 @@ describe('验证二叉搜索树', () => {
 });
 
 function testCase(fn: (root: TreeNode | null) => boolean) {
-  it('示例一', () => {
-    const root = createTreeNode([2, 1, 3]);
-    const expected = true;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const root = createTreeNode([5, 1, 4, null, null, 3, 6]);
-    const expected = false;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const root = createTreeNode([2, 2, 2]);
-    const expected = false;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例四', () => {
-    const root = createTreeNode([5, 4, 6, null, null, 3, 7]);
-    const expected = false;
-    expect(fn(root)).toBe(expected);
+  it.each([
+    [[2, 1, 3], true],
+    [[5, 1, 4, null, null, 3, 6], false],
+    [[2, 2, 2], false],
+    [[5, 4, 6, null, null, 3, 7], false]
+  ])('示例%#', (root, expected) => {
+    expect(fn(createTreeNode(root))).toBe(expected);
   });
 }

@@ -1,5 +1,6 @@
-import { canCompleteCircuit, canCompleteCircuit2 } from './index';
-
+import { canCompleteCircuit, canCompleteCircuit2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('加油站', () => {
   describe('暴力解法', () => {
     testCase(canCompleteCircuit);

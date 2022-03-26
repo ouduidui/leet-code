@@ -1,5 +1,6 @@
 import { isHappy, isHappy2 } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('快乐数', () => {
   describe('用哈希集合检测循环', () => {
     testCase(isHappy);

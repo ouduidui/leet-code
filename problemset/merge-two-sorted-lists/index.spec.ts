@@ -1,5 +1,6 @@
-import { mergeTwoLists, mergeTwoLists2 } from './index';
+import { mergeTwoLists, mergeTwoLists2 } from '.';
 import { ListNode, createListNode } from '~/utils/listNode';
+import { describe, it, expect } from 'vitest';
 
 describe('合并两个有序链表', () => {
   describe('递归', () => {
@@ -14,27 +15,17 @@ describe('合并两个有序链表', () => {
 function testCase(
   fn: (l1: ListNode | null, l2: ListNode | null) => ListNode | null
 ) {
-  test('示例一', () => {
-    const l1: ListNode | null = createListNode([1, 2, 4]);
-    const l2: ListNode | null = createListNode([1, 3, 4]);
-    const expected: ListNode | null = createListNode([1, 1, 2, 3, 4, 4]);
-
-    expect(fn(l1, l2)).toEqual(expected);
-  });
-
-  test('示例二', () => {
-    const l1: ListNode | null = createListNode([]);
-    const l2: ListNode | null = createListNode([]);
-    const expected: ListNode | null = createListNode([]);
-
-    expect(fn(l1, l2)).toEqual(expected);
-  });
-
-  test('示例三', () => {
-    const l1: ListNode | null = createListNode([]);
-    const l2: ListNode | null = createListNode([0]);
-    const expected: ListNode | null = createListNode([0]);
-
-    expect(fn(l1, l2)).toEqual(expected);
+  it.each([
+    [
+      [1, 2, 4],
+      [1, 3, 4],
+      [1, 1, 2, 3, 4, 4]
+    ],
+    [[], [], []],
+    [[], [0], [0]]
+  ])('示例%#', (l1, l2, expected) => {
+    expect(fn(createListNode(l1), createListNode(l2))).toEqual(
+      createListNode(expected)
+    );
   });
 }

@@ -1,5 +1,6 @@
-import { isSymmetric, isSymmetric2 } from './index';
+import { isSymmetric, isSymmetric2 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
+import { describe, it, expect } from 'vitest';
 
 describe('对称二叉树', () => {
   describe('递归', function () {
@@ -12,15 +13,10 @@ describe('对称二叉树', () => {
 });
 
 function testCase(fn: (root: TreeNode | null) => boolean) {
-  it('示例一', () => {
-    const root = createTreeNode([1, 2, 2, 3, 4, 4, 3]);
-    const expected = true;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const root = createTreeNode([1, 2, 2, null, 3, null, 3]);
-    const expected = false;
-    expect(fn(root)).toBe(expected);
+  it.each([
+    [[1, 2, 2, 3, 4, 4, 3], true],
+    [[1, 2, 2, null, 3, null, 3], false]
+  ])('示例%#', (root, expected) => {
+    expect(fn(createTreeNode(root))).toBe(expected);
   });
 }

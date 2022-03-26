@@ -1,4 +1,6 @@
-import { subArrayRanges, subArrayRanges2 } from './index';
+import { subArrayRanges, subArrayRanges2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 
 describe('子数组范围和', () => {
   describe('遍历', () => {

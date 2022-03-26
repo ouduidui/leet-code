@@ -1,5 +1,6 @@
-import { trailingZeroes, trailingZeroes2, trailingZeroes3 } from './index';
-
+import { trailingZeroes, trailingZeroes2, trailingZeroes3 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('阶乘后的零', () => {
   describe('计算阶乘', () => {
     testCase(trailingZeroes);

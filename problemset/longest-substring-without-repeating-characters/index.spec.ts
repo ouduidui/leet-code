@@ -1,5 +1,6 @@
-import { lengthOfLongestSubstring, lengthOfLongestSubstring2 } from './index';
-
+import { lengthOfLongestSubstring, lengthOfLongestSubstring2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('无重复字符的最长子串', () => {
   describe('暴力解法', () => {
     testCase(lengthOfLongestSubstring);
@@ -11,35 +12,35 @@ describe('无重复字符的最长子串', () => {
 });
 
 function testCase(fn: (s: string) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const s = 'abcabcbb';
     const expected = 3;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const s = 'bbbbb';
     const expected = 1;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const s = 'pwwkew';
     const expected = 3;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例四', () => {
+  it('示例四', () => {
     const s = '';
     const expected = 0;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例五', () => {
+  it('示例五', () => {
     const s = 'dvdf';
     const expected = 3;
 

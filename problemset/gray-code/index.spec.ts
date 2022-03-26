@@ -1,5 +1,6 @@
-import { grayCode, grayCode2 } from './index';
-
+import { grayCode, grayCode2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('格雷编码', () => {
   describe('对称生成', () => {
     testCase(grayCode);

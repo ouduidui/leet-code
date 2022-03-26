@@ -1,5 +1,6 @@
-import { isScramble } from './index';
-
+import { isScramble } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('扰乱字符串', () => {
   testCase(isScramble);
 });

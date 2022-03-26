@@ -1,6 +1,7 @@
-import { maxDepth, maxDepth2 } from './index';
+import { maxDepth, maxDepth2 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('二叉树的最大深度', () => {
   describe('深度优先遍历', function () {
     testCase(maxDepth);

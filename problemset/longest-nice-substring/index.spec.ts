@@ -2,8 +2,9 @@ import {
   longestNiceSubstring,
   longestNiceSubstring2,
   longestNiceSubstring3
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长的美好子字符串', () => {
   describe('暴力解法', () => {
     testCase(longestNiceSubstring);

@@ -1,6 +1,7 @@
 import { preorder, preorder2 } from '.';
 import { Node, createNAryTree } from '~/utils/nAryTree';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('N 叉树的前序遍历', () => {
   describe('递归', () => {
     testCase(preorder);

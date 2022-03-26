@@ -2,8 +2,9 @@ import {
   findRepeatedDnaSequences,
   findRepeatedDnaSequences2,
   findRepeatedDnaSequences3
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('重复的DNA序列', () => {
   describe('哈希表', () => {
     testCase(findRepeatedDnaSequences);

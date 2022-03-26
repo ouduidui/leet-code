@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { reverseBetween, reverseBetween2 } from './index';
-
+import { reverseBetween, reverseBetween2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('反转链表 II', () => {
   describe('穿针引线', function () {
     testCase(reverseBetween);

@@ -1,4 +1,5 @@
-import { ladderLength } from './index';
+import { ladderLength } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('单词接龙', () => {
   testCase(ladderLength);
@@ -7,19 +8,10 @@ describe('单词接龙', () => {
 function testCase(
   fn: (beginWord: string, endWord: string, wordList: string[]) => number
 ) {
-  it('示例一', () => {
-    const beginWord = 'hit';
-    const endWord = 'cog';
-    const wordList = ['hot', 'dot', 'dog', 'lot', 'log', 'cog'];
-    const expected = 5;
-    expect(fn(beginWord, endWord, wordList)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const beginWord = 'hit';
-    const endWord = 'cog';
-    const wordList = ['hot', 'dot', 'dog', 'lot', 'log'];
-    const expected = 0;
+  it.each([
+    ['hit', 'cog', ['hot', 'dot', 'dog', 'lot', 'log', 'cog'], 5],
+    ['hit', 'cog', ['hot', 'dot', 'dog', 'lot', 'log'], 0]
+  ])('示例%#', (beginWord, endWord, wordList, expected) => {
     expect(fn(beginWord, endWord, wordList)).toBe(expected);
   });
 }

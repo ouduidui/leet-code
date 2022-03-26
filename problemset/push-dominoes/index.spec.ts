@@ -1,5 +1,6 @@
-import { pushDominoes, pushDominoes2 } from './index';
-
+import { pushDominoes, pushDominoes2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('推多米诺', () => {
   describe('广度优先搜索', () => {
     testCase(pushDominoes);

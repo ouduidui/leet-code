@@ -1,5 +1,6 @@
-import { searchRange } from './index';
-
+import { searchRange } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('在排序数组中查找元素的第一个和最后一个位置', () => {
   describe('二分法', () => {
     testCase(searchRange);

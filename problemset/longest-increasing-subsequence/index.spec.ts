@@ -1,5 +1,6 @@
-import { lengthOfLIS, lengthOfLIS2 } from './index';
-
+import { lengthOfLIS, lengthOfLIS2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长递增子序列', () => {
   describe('动态规划', () => {
     testCase(lengthOfLIS);

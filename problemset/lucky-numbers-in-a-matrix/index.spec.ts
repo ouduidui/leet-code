@@ -1,5 +1,6 @@
-import { luckyNumbers } from './index';
-
+import { luckyNumbers } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('矩阵中的幸运数', () => {
   testCase(luckyNumbers);
 });

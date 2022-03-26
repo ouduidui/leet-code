@@ -1,5 +1,6 @@
-import { findPeakElement, findPeakElement2, findPeakElement3 } from './index';
-
+import { findPeakElement, findPeakElement2, findPeakElement3 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('寻找峰值', () => {
   describe('找到最大值', () => {
     testCase(findPeakElement);

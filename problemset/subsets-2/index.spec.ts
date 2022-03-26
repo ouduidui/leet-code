@@ -1,5 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { subsetsWithDup } from './index';
+import { subsetsWithDup } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 
 describe('子集 II', () => {
   testCase(subsetsWithDup);

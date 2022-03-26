@@ -1,6 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { insert } from './index';
-
+import { insert } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('插入区间', () => {
   testCase(insert);
 });

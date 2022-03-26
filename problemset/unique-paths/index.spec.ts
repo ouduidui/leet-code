@@ -1,4 +1,5 @@
-import { uniquePaths, uniquePaths2 } from './index';
+import { uniquePaths, uniquePaths2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('不同路径', () => {
   describe('组合数学', () => {
@@ -11,35 +12,12 @@ describe('不同路径', () => {
 });
 
 function testCase(fn: (m: number, n: number) => number) {
-  it('示例一', () => {
-    const m = 3;
-    const n = 7;
-    const expected = 28;
-
-    expect(fn(m, n)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const m = 3;
-    const n = 2;
-    const expected = 3;
-
-    expect(fn(m, n)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const m = 7;
-    const n = 3;
-    const expected = 28;
-
-    expect(fn(m, n)).toBe(expected);
-  });
-
-  it('示例四', () => {
-    const m = 3;
-    const n = 3;
-    const expected = 6;
-
+  it.each([
+    [3, 7, 28],
+    [3, 2, 3],
+    [7, 3, 28],
+    [3, 3, 6]
+  ])('示例%#', (m, n, expected) => {
     expect(fn(m, n)).toBe(expected);
   });
 }

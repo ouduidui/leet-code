@@ -1,5 +1,6 @@
-import { canJump } from './index';
-
+import { canJump } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('跳跃游戏', () => {
   describe('贪心算法', () => {
     testCase(canJump);

@@ -1,5 +1,6 @@
-import { searchMatrix, searchMatrix2 } from './index';
-
+import { searchMatrix, searchMatrix2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('搜索二维矩阵', () => {
   describe('两次二分查找', () => {
     testCase(searchMatrix);

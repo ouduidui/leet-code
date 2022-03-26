@@ -1,6 +1,7 @@
-import { fourSum } from './index';
+import { fourSum } from '.';
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('四数之和', () => {
   describe('排序+双指针', () => {
     testCase(fourSum);
@@ -8,7 +9,7 @@ describe('四数之和', () => {
 });
 
 function testCase(fn: (nums: number[], target: number) => number[][]) {
-  test('示例一', () => {
+  it('示例一', () => {
     const nums: number[] = [1, 0, -1, 0, -2, 2];
     const target = 0;
     const expected: number[][] = [
@@ -20,7 +21,7 @@ function testCase(fn: (nums: number[], target: number) => number[][]) {
     twoDimensionalArrayEqual(fn(nums, target), expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const nums: number[] = [2, 2, 2, 2, 2];
     const target = 8;
     const expected: number[][] = [[2, 2, 2, 2]];

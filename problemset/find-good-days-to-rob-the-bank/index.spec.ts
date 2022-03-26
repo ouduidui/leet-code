@@ -1,5 +1,6 @@
-import { goodDaysToRobBank, goodDaysToRobBank2 } from './index';
-
+import { goodDaysToRobBank, goodDaysToRobBank2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('适合打劫银行的日子', () => {
   describe('暴力解法', () => {
     testCase(goodDaysToRobBank);

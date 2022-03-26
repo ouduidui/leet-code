@@ -1,5 +1,6 @@
-import { strStr, strStr2 } from './index';
-
+import { strStr, strStr2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('实现strStr()', () => {
   describe('暴力解法', () => {
     testCase(strStr);
@@ -11,7 +12,7 @@ describe('实现strStr()', () => {
 });
 
 function testCase(fn: (haystack: string, needle: string) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const haystack = 'hello';
     const needle = 'll';
     const expected = 2;
@@ -19,7 +20,7 @@ function testCase(fn: (haystack: string, needle: string) => number) {
     expect(fn(haystack, needle)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const haystack = 'aaaaa';
     const needle = 'bba';
     const expected = -1;
@@ -27,7 +28,7 @@ function testCase(fn: (haystack: string, needle: string) => number) {
     expect(fn(haystack, needle)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const haystack = '';
     const needle = '';
     const expected = 0;

@@ -1,5 +1,6 @@
-import { simplifyPath } from './index';
-
+import { simplifyPath } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('简化路径', () => {
   describe('栈', () => {
     testCase(simplifyPath);

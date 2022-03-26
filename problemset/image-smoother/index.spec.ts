@@ -1,5 +1,6 @@
 import { imageSmoother } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('图片平滑器', () => {
   testCase(imageSmoother);
 });

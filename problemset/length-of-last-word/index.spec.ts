@@ -1,5 +1,6 @@
-import { lengthOfLastWord } from './index';
-
+import { lengthOfLastWord } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最后一个单词的长度', () => {
   describe('反向遍历', () => {
     testCase(lengthOfLastWord);

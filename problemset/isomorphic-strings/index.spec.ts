@@ -1,5 +1,6 @@
 import { isIsomorphic, isIsomorphic2 } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('同构字符串', () => {
   describe('暴力解法', () => {
     testCase(isIsomorphic);

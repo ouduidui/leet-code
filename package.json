@@ -4,7 +4,7 @@
   "scripts": {
     "create": "node scripts/create",
     "update": "node scripts/category",
-    "test": "jest",
+    "test": "vitest",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset",
     "fix": "eslint --ext .js,.ts --ignore-path .gitignore --fix problemset",
     "format": "prettier .  --write"
@@ -30,6 +30,8 @@
     "prettier": "^2.5.1",
     "ts-jest": "^27.0.5",
     "ts-node": "^10.4.0",
-    "typescript": "^4.4.3"
+    "typescript": "^4.4.3",
+    "vite": "^2.8.6",
+    "vitest": "^0.7.11"
   }
 }

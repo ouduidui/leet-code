@@ -1,5 +1,6 @@
-import { longestPalindrome, longestPalindrome2 } from './index';
-
+import { longestPalindrome, longestPalindrome2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长回文子串', () => {
   describe('中心扩展', () => {
     testCase(longestPalindrome);
@@ -11,46 +12,46 @@ describe('最长回文子串', () => {
 });
 
 function testCase(fn: (s: string) => string) {
-  test('示例一', () => {
+  it('示例一', () => {
     const s = 'babad';
 
     expect(fn(s)).toMatch(/bab|aba/);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const s = 'cbbd';
     const expected = 'bb';
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const s = 'a';
     const expected = 'a';
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例四', () => {
+  it('示例四', () => {
     const s = 'ac';
     expect(fn(s)).toMatch(/a|c/);
   });
 
-  test('示例五', () => {
+  it('示例五', () => {
     const s = 'bb';
     const expected = 'bb';
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例六', () => {
+  it('示例六', () => {
     const s = 'ccc';
     const expected = 'ccc';
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例七', () => {
+  it('示例七', () => {
     const s = 'aaaa';
     const expected = 'aaaa';
 

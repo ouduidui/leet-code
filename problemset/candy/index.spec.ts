@@ -1,4 +1,5 @@
-import { candy, candy2 } from './index';
+import { candy, candy2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('分发糖果', () => {
   describe('两次遍历', () => {
@@ -11,21 +12,11 @@ describe('分发糖果', () => {
 });
 
 function testCase(fn: (ratings: number[]) => number) {
-  it('示例一', () => {
-    const ratings = [1, 0, 2];
-    const expected = 5;
-    expect(fn(ratings)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const ratings = [1, 2, 2];
-    const expected = 4;
-    expect(fn(ratings)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const ratings = [1, 3, 2, 2, 1];
-    const expected = 7;
+  it.each([
+    [[1, 0, 2], 5],
+    [[1, 2, 2], 4],
+    [[1, 3, 2, 2, 1], 7]
+  ])('示例%#', (ratings, expected) => {
     expect(fn(ratings)).toBe(expected);
   });
 }

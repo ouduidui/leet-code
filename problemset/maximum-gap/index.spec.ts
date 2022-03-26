@@ -1,5 +1,6 @@
-import { maximumGap, maximumGap2 } from './index';
-
+import { maximumGap, maximumGap2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最大间距', () => {
   describe('基数排序', () => {
     testCase(maximumGap);

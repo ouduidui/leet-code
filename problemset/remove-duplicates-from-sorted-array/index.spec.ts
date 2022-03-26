@@ -1,5 +1,6 @@
-import { removeDuplicates } from './index';
-
+import { removeDuplicates } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('删除有序数组中的重复项', () => {
   describe('双指针', () => {
     testCase(removeDuplicates);
@@ -7,7 +8,7 @@ describe('删除有序数组中的重复项', () => {
 });
 
 function testCase(fn: (nums: number[]) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const nums: number[] = [1, 1, 2];
     const expected = 2;
     const expectedNums: number[] = [1, 2];
@@ -18,7 +19,7 @@ function testCase(fn: (nums: number[]) => number) {
     expect(nums).toEqual(expectedNums);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const nums: number[] = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4];
     const expected = 5;
     const expectedNums: number[] = [0, 1, 2, 3, 4];

@@ -1,5 +1,6 @@
-import { LRUCache } from './index';
-
+import { LRUCache } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 it('LRU缓存', () => {
   const obj = new LRUCache(2);
   obj.put(1, 1);

@@ -1,5 +1,6 @@
-import { mySqrt, mySqrt2 } from './index';
-
+import { mySqrt, mySqrt2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('Sqrt(x)', () => {
   describe('二分法', () => {
     testCase(mySqrt);

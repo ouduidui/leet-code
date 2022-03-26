@@ -1,5 +1,6 @@
-import { DetectSquares } from './index';
-
+import { DetectSquares } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 it('检测正方形', () => {
   const detectSquares = new DetectSquares();
   detectSquares.add([3, 10]);

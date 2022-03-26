@@ -1,5 +1,6 @@
-import { letterCombinations, letterCombinations2 } from './index';
-
+import { letterCombinations, letterCombinations2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('电话号码的字母组合', () => {
   describe('暴力解法', () => {
     testCase(letterCombinations);
@@ -11,7 +12,7 @@ describe('电话号码的字母组合', () => {
 });
 
 function testCase(fn: (digits: string) => string[]) {
-  test('示例一', () => {
+  it('示例一', () => {
     const digits = '23';
     const expected: string[] = [
       'ad',
@@ -28,14 +29,14 @@ function testCase(fn: (digits: string) => string[]) {
     checkExpected(fn(digits), expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const digits = '';
     const expected: string[] = [];
 
     checkExpected(fn(digits), expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const digits = '2';
     const expected: string[] = ['a', 'b', 'c'];
 

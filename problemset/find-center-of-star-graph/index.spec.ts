@@ -1,5 +1,6 @@
-import { findCenter } from './index';
-
+import { findCenter } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('找出星型图的中心节点', () => {
   testCase(findCenter);
 });

@@ -2,8 +2,9 @@ import {
   largestRectangleArea,
   largestRectangleArea1,
   largestRectangleArea2
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('柱状图中最大的矩形', () => {
   describe('暴力解法 - 遍历所有矩形', () => {
     testCase(largestRectangleArea);

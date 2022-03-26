@@ -1,4 +1,5 @@
-import { trap, trap2, trap3 } from './index';
+import { trap, trap2, trap3 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('接雨水', () => {
   describe('动态规划', () => {
@@ -15,17 +16,10 @@ describe('接雨水', () => {
 });
 
 function testCase(fn: (height: number[]) => number) {
-  it('示例一', () => {
-    const height: number[] = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1];
-    const expected = 6;
-
-    expect(fn(height)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const height: number[] = [4, 2, 0, 3, 2, 5];
-    const expected = 9;
-
+  it.each([
+    [[0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1], 6],
+    [[4, 2, 0, 3, 2, 5], 9]
+  ])('示例%#', (height, expected) => {
     expect(fn(height)).toBe(expected);
   });
 }

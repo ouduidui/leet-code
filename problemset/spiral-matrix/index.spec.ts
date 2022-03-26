@@ -1,5 +1,6 @@
-import { spiralOrder, spiralOrder2 } from './index';
-
+import { spiralOrder, spiralOrder2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('螺旋矩阵', () => {
   describe('模拟', () => {
     testCase(spiralOrder);

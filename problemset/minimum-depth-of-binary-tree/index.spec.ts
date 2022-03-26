@@ -1,5 +1,6 @@
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-import { minDepth, minDepth2 } from './index';
+import { minDepth, minDepth2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('二叉树的最小深度', () => {
   describe('深度优先搜索', function () {
@@ -11,15 +12,10 @@ describe('二叉树的最小深度', () => {
 });
 
 function testCase(fn: (root: TreeNode | null) => number) {
-  it('示例一', () => {
-    const root = createTreeNode([3, 9, 20, null, null, 15, 7]);
-    const expected = 2;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const root = createTreeNode([2, null, 3, null, 4, null, 5, null, 6]);
-    const expected = 5;
-    expect(fn(root)).toBe(expected);
+  it.each([
+    [[3, 9, 20, null, null, 15, 7], 2],
+    [[2, null, 3, null, 4, null, 5, null, 6], 5]
+  ])('示例%#', (root, expected) => {
+    expect(fn(createTreeNode(root))).toBe(expected);
   });
 }

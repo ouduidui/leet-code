@@ -1,5 +1,6 @@
-import { countValidWords } from './index';
-
+import { countValidWords } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('句子中的有效单词数', () => {
   testCase(countValidWords);
 });

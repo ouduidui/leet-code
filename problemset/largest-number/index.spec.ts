@@ -1,5 +1,6 @@
-import { largestNumber } from './index';
-
+import { largestNumber } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最大数', () => {
   testCase(largestNumber);
 });

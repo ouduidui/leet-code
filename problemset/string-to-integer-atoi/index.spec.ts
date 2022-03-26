@@ -1,5 +1,6 @@
-import { myAtoi, myAtoi2 } from './index';
-
+import { myAtoi, myAtoi2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('字符串转换整数(atoi)', () => {
   describe('暴力解法', () => {
     testCase(myAtoi);
@@ -11,42 +12,42 @@ describe('字符串转换整数(atoi)', () => {
 });
 
 function testCase(fn: (s: string) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const s = '42';
     const expected = 42;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const s = '   -42';
     const expected = -42;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const s = '4193 with words';
     const expected = 4193;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例四', () => {
+  it('示例四', () => {
     const s = 'words and 987';
     const expected = 0;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例五', () => {
+  it('示例五', () => {
     const s = '-91283472332';
     const expected = -2147483648;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例六', () => {
+  it('示例六', () => {
     const s = '   +0 123';
     const expected = 0;
 

@@ -1,6 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { generateMatrix } from './index';
-
+import { generateMatrix } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('螺旋矩阵 II', () => {
   testCase(generateMatrix);
 });

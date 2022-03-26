@@ -1,5 +1,6 @@
-import { reverseOnlyLetters } from './index';
-
+import { reverseOnlyLetters } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('仅仅反转字母', () => {
   testCase(reverseOnlyLetters);
 });

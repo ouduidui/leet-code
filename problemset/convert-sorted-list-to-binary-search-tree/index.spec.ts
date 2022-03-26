@@ -1,6 +1,7 @@
-import { sortedListToBST, sortedListToBST2 } from './index';
+import { sortedListToBST, sortedListToBST2 } from '.';
 import { ListNode, createListNode } from '~/utils/listNode';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
+import { describe, it, expect } from 'vitest';
 
 describe('有序链表转换二叉搜索树', () => {
   describe('分治', () => {
@@ -13,9 +14,12 @@ describe('有序链表转换二叉搜索树', () => {
 });
 
 function testCase(fn: (head: ListNode | null) => TreeNode | null) {
-  it('示例', () => {
-    const head = createListNode([-10, -3, 0, 5, 9]);
-    const expected = createTreeNode([0, -3, 9, -10, null, 5]);
-    expect(fn(head)).toStrictEqual(expected);
+  it.each([
+    [
+      [-10, -3, 0, 5, 9],
+      [0, -3, 9, -10, null, 5]
+    ]
+  ])('示例%#', (head, expected) => {
+    expect(fn(createListNode(head))).toStrictEqual(createTreeNode(expected));
   });
 }

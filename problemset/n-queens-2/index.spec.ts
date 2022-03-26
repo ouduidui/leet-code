@@ -1,5 +1,6 @@
-import { totalNQueens } from './index';
-
+import { totalNQueens } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('N皇后 II', () => {
   testCase(totalNQueens);
 });

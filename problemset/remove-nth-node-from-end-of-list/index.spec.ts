@@ -1,10 +1,7 @@
-import {
-  removeNthFromEnd,
-  removeNthFromEnd2,
-  removeNthFromEnd3
-} from './index';
+import { removeNthFromEnd, removeNthFromEnd2, removeNthFromEnd3 } from '.';
 import { ListNode, createListNode } from '~/utils/listNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('删除链表的倒数第N个结点', () => {
   describe('暴力解法', () => {
     testCase(removeNthFromEnd);
@@ -20,7 +17,7 @@ describe('删除链表的倒数第N个结点', () => {
 });
 
 function testCase(fn: (head: ListNode | null, n: number) => ListNode | null) {
-  test('示例一', () => {
+  it('示例一', () => {
     const head: ListNode | null = createListNode([1, 2, 3, 4, 5]);
     const n = 2;
     const expected: ListNode | null = createListNode([1, 2, 3, 5]);
@@ -28,7 +25,7 @@ function testCase(fn: (head: ListNode | null, n: number) => ListNode | null) {
     expect(fn(head, n)).toEqual(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const head: ListNode | null = createListNode([1]);
     const n = 1;
     const expected: ListNode | null = createListNode([]);
@@ -36,7 +33,7 @@ function testCase(fn: (head: ListNode | null, n: number) => ListNode | null) {
     expect(fn(head, n)).toEqual(expected);
   });
 
-  test('示例一', () => {
+  it('示例一', () => {
     const head: ListNode | null = createListNode([1, 2]);
     const n = 1;
     const expected: ListNode | null = createListNode([1]);

@@ -1,6 +1,7 @@
 import { reverseList } from '.';
 import { ListNode, createListNode } from '~/utils/listNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('反转链表', () => {
   testCase(reverseList);
 });

@@ -1,5 +1,6 @@
-import { rotate, rotate2, rotate3 } from './index';
-
+import { rotate, rotate2, rotate3 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('旋转图片', () => {
   describe('使用辅助数组', () => {
     testCase(rotate);

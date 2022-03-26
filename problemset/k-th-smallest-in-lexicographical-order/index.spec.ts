@@ -1,5 +1,6 @@
 import { findKthNumber } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('字典序的第K小数字', () => {
   testCase(findKthNumber);
 });

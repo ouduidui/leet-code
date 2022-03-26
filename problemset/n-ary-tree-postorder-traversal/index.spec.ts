@@ -1,7 +1,8 @@
 import { Node, createNAryTree } from '~/utils/nAryTree';
 import { postorder, postorder2 } from '.';
-import { postorder3 } from './index';
-
+import { postorder3 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('N 叉树的后序遍历', () => {
   describe('递归', () => {
     testCase(postorder);

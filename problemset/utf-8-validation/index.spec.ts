@@ -1,19 +1,15 @@
-import { validUtf8 } from './index';
+import { validUtf8 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('UTF-8 编码验证', () => {
   testCase(validUtf8);
 });
 
 function testCase(fn: (data: number[]) => boolean) {
-  it('示例一', () => {
-    const data = [197, 130, 1];
-    const expected = true;
-    expect(fn(data)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const data = [235, 140, 4];
-    const expected = false;
+  it.each([
+    [[197, 130, 1], true],
+    [[235, 140, 4], false]
+  ])('示例%#', (data, expected) => {
     expect(fn(data)).toBe(expected);
   });
 }

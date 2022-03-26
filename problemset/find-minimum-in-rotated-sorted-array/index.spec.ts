@@ -1,5 +1,6 @@
-import { findMin } from './index';
-
+import { findMin } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('寻找旋转排序数组中的最小值', () => {
   testCase(findMin);
 });

@@ -1,5 +1,6 @@
-import { minDistance } from './index';
-
+import { minDistance } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('编辑距离', () => {
   describe('动态规划', () => {
     testCase(minDistance);

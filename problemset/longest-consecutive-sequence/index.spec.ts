@@ -1,5 +1,6 @@
-import { longestConsecutive } from './index';
-
+import { longestConsecutive } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长连续序列', () => {
   testCase(longestConsecutive);
 });

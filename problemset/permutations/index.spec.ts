@@ -1,6 +1,7 @@
-import { permute } from './index';
+import { permute } from '.';
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('全排列', () => {
   testCase(permute);
 });

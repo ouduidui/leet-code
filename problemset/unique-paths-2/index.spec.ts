@@ -1,4 +1,5 @@
-import { uniquePathsWithObstacles, uniquePathsWithObstacles2 } from './index';
+import { uniquePathsWithObstacles, uniquePathsWithObstacles2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('不同路径 II', () => {
   describe('动态规划', () => {
@@ -11,24 +12,23 @@ describe('不同路径 II', () => {
 });
 
 function testCase(fn: (obstacleGrid: number[][]) => number) {
-  it('示例一', () => {
-    const obstacleGrid = [
-      [0, 0, 0],
-      [0, 1, 0],
-      [0, 0, 0]
-    ];
-    const expected = 2;
-
-    expect(fn(obstacleGrid)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const obstacleGrid = [
-      [0, 1],
-      [0, 0]
-    ];
-    const expected = 1;
-
+  it.each([
+    [
+      [
+        [0, 0, 0],
+        [0, 1, 0],
+        [0, 0, 0]
+      ],
+      2
+    ],
+    [
+      [
+        [0, 1],
+        [0, 0]
+      ],
+      1
+    ]
+  ])('示例%#', (obstacleGrid, expected) => {
     expect(fn(obstacleGrid)).toBe(expected);
   });
 }

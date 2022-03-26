@@ -1,4 +1,5 @@
-import { convert } from './index';
+import { convert } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('Z字形变换', () => {
   describe('按行排序', () => {
@@ -7,27 +8,11 @@ describe('Z字形变换', () => {
 });
 
 function testCase(fn: (s: string, numRows: number) => string) {
-  test('示例一', () => {
-    const s = 'PAYPALISHIRING';
-    const numRows = 3;
-    const expected = 'PAHNAPLSIIGYIR';
-
-    expect(fn(s, numRows)).toBe(expected);
-  });
-
-  test('示例二', () => {
-    const s = 'PAYPALISHIRING';
-    const numRows = 4;
-    const expected = 'PINALSIGYAHRPI';
-
-    expect(fn(s, numRows)).toBe(expected);
-  });
-
-  test('示例三', () => {
-    const s = 'A';
-    const numRows = 1;
-    const expected = 'A';
-
+  it.each([
+    ['PAYPALISHIRING', 3, 'PAHNAPLSIIGYIR'],
+    ['PAYPALISHIRING', 4, 'PINALSIGYAHRPI'],
+    ['A', 1, 'A']
+  ])('示例%#', (s, numRows, expected) => {
     expect(fn(s, numRows)).toBe(expected);
   });
 }

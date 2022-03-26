@@ -1,5 +1,6 @@
-import { convertToTitle, convertToTitle2 } from './index';
-
+import { convertToTitle, convertToTitle2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('Excel表列名称', () => {
   describe('数学', () => {
     testCase(convertToTitle);

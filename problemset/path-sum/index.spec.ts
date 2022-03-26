@@ -1,6 +1,7 @@
-import { hasPathSum, hasPathSum2 } from './index';
+import { hasPathSum, hasPathSum2 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('路径总和', () => {
   testCase(hasPathSum);
   testCase(hasPathSum2);

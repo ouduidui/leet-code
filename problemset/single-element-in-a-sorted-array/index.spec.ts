@@ -2,8 +2,9 @@ import {
   singleNonDuplicate,
   singleNonDuplicate2,
   singleNonDuplicate3
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('有序数组中的单一元素', () => {
   describe('暴力解法', () => {
     testCase(singleNonDuplicate);

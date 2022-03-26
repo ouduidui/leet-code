@@ -1,4 +1,5 @@
 import { countMaxOrSubsets, countMaxOrSubsets2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('统计按位或能得到最大值的子集数目', () => {
   describe('回溯', () => {
@@ -11,21 +12,11 @@ describe('统计按位或能得到最大值的子集数目', () => {
 });
 
 function testCase(fn: (nums: number[]) => number) {
-  it('示例一', () => {
-    const nums = [3, 1];
-    const expected = 2;
-    expect(fn(nums)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const nums = [2, 2, 2];
-    const expected = 7;
-    expect(fn(nums)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const nums = [3, 2, 1, 5];
-    const expected = 6;
+  it.each([
+    [[3, 1], 2],
+    [[2, 2, 2], 7],
+    [[3, 2, 1, 5], 6]
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected);
   });
 }

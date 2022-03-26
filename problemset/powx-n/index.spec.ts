@@ -1,5 +1,6 @@
-import { myPow } from './index';
-
+import { myPow } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('Pow(x, n)', () => {
   describe('迭代', () => {
     testCase(myPow);

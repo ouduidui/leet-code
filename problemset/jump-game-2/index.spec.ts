@@ -1,5 +1,6 @@
-import { jump, jump2 } from './index';
-
+import { jump, jump2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('跳跃游戏 II', () => {
   describe('贪心算法 - 反向查找', () => {
     testCase(jump);

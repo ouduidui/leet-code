@@ -1,5 +1,6 @@
-import { maxPoints } from './index';
-
+import { maxPoints } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('直线上最多的点数', () => {
   testCase(maxPoints);
 });

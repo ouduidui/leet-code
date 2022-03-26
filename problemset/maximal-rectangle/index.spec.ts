@@ -1,5 +1,6 @@
-import { maximalRectangle, maximalRectangle2 } from './index';
-
+import { maximalRectangle, maximalRectangle2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最大矩形', () => {
   describe('暴力解法', () => {
     testCase(maximalRectangle);

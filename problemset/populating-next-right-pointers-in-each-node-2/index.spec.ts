@@ -1,10 +1,11 @@
-import { connect, connect2 } from './index';
+import { connect, connect2 } from '.';
 import {
   Node,
   createBinaryTree,
   createPerfectBinaryTree
 } from '~/utils/perfectBinaryTree';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('填充每个节点的下一个右侧节点指针 II', () => {
   describe('层级遍历', () => {
     testCase(connect);

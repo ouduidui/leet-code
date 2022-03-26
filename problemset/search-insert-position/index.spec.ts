@@ -1,5 +1,6 @@
-import { searchInsert } from './index';
-
+import { searchInsert } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('搜索插入位置', () => {
   describe('二分法', () => {
     testCase(searchInsert);

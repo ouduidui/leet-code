@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { insertionSortList } from './index';
-
+import { insertionSortList } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('对链表进行插入排序', () => {
   testCase(insertionSortList);
 });

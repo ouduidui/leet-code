@@ -1,5 +1,6 @@
-import { reverseWords, reverseWords2 } from './index';
-
+import { reverseWords, reverseWords2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('翻转字符串中里的单词', () => {
   describe('语言特性', () => {
     testCase(reverseWords);

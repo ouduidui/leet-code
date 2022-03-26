@@ -1,5 +1,6 @@
-import { bestRotation, bestRotation2 } from './index';
-
+import { bestRotation, bestRotation2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('得分最高的最小轮调', () => {
   describe('暴力解法', () => {
     testCase(bestRotation);

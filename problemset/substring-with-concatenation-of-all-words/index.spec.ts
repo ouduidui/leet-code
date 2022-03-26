@@ -1,4 +1,6 @@
-import { findSubstring } from './index';
+import { findSubstring } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 
 describe('串联所有单词的子串', () => {
   describe('滑动窗口', () => {
@@ -7,7 +9,7 @@ describe('串联所有单词的子串', () => {
 });
 
 function testCase(fn: (s: string, words: string[]) => number[]) {
-  test('示例一', () => {
+  it('示例一', () => {
     const s = 'barfoothefoobarman';
     const words: string[] = ['foo', 'bar'];
     const expected: number[] = [0, 9];
@@ -15,7 +17,7 @@ function testCase(fn: (s: string, words: string[]) => number[]) {
     expect(fn(s, words)).toEqual(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const s = 'wordgoodgoodgoodbestword';
     const words: string[] = ['word', 'good', 'best', 'word'];
     const expected: number[] = [];
@@ -23,7 +25,7 @@ function testCase(fn: (s: string, words: string[]) => number[]) {
     expect(fn(s, words)).toEqual(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const s = 'barfoofoobarthefoobarman';
     const words: string[] = ['bar', 'foo', 'the'];
     const expected: number[] = [6, 9, 12];

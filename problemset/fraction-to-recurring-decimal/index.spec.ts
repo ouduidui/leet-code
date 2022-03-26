@@ -1,5 +1,6 @@
-import { fractionToDecimal } from './index';
-
+import { fractionToDecimal } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('分数到小数', () => {
   testCase(fractionToDecimal);
 });

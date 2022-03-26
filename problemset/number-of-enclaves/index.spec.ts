@@ -1,5 +1,6 @@
-import { numEnclaves } from './index';
-
+import { numEnclaves } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('飞地的数量', () => {
   testCase(numEnclaves);
 });

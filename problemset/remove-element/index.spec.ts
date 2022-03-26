@@ -1,5 +1,6 @@
-import { removeElement } from './index';
-
+import { removeElement } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('移除元素', () => {
   describe('示例一', () => {
     testCase(removeElement);
@@ -7,7 +8,7 @@ describe('移除元素', () => {
 });
 
 function testCase(fn: (nums: number[], val: number) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const nums: number[] = [3, 2, 2, 3];
     const val = 3;
     const expected = 2;
@@ -18,7 +19,7 @@ function testCase(fn: (nums: number[], val: number) => number) {
     expect(nums).toEqual(expectedNums);
   });
 
-  test('示例一', () => {
+  it('示例一', () => {
     const nums: number[] = [0, 1, 2, 2, 3, 0, 4, 2];
     const val = 2;
     const expected = 5;

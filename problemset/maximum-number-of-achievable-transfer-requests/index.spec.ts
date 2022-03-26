@@ -1,5 +1,6 @@
-import { maximumRequests, maximumRequests2 } from './index';
-
+import { maximumRequests, maximumRequests2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最多可达成的换楼请求数目', () => {
   describe('回溯 + 枚举', () => {
     testCase(maximumRequests);

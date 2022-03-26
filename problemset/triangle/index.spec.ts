@@ -1,4 +1,5 @@
-import { minimumTotal, minimumTotal2 } from './index';
+import { minimumTotal, minimumTotal2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('三角形最小路径和', () => {
   describe('动态规划', () => {
@@ -11,21 +12,11 @@ describe('三角形最小路径和', () => {
 });
 
 function testCase(fn: (triangle: number[][]) => number) {
-  it('示例一', () => {
-    const triangle = [[2], [3, 4], [6, 5, 7], [4, 1, 8, 3]];
-    const expected = 11;
-    expect(fn(triangle)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const triangle = [[-10]];
-    const expected = -10;
-    expect(fn(triangle)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const triangle = [[-1], [2, 3], [1, -1, -3]];
-    const expected = -1;
+  it.each([
+    [[[2], [3, 4], [6, 5, 7], [4, 1, 8, 3]], 11],
+    [[[-10]], -10],
+    [[[-1], [2, 3], [1, -1, -3]], -1]
+  ])('示例%#', (triangle, expected) => {
     expect(fn(triangle)).toBe(expected);
   });
 }

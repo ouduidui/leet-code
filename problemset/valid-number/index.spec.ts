@@ -1,4 +1,5 @@
-import { isNumber, isNumber2 } from './index';
+import { isNumber, isNumber2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('有效数字', () => {
   describe('正则表达式', () => {
@@ -11,23 +12,12 @@ describe('有效数字', () => {
 });
 
 function testCase(fn: (s: string) => boolean) {
-  it('示例一', () => {
-    const s = '0';
-    expect(fn(s)).toBe(true);
-  });
-
-  it('示例二', () => {
-    const s = 'e';
-    expect(fn(s)).toBe(false);
-  });
-
-  it('示例三', () => {
-    const s = '.';
-    expect(fn(s)).toBe(false);
-  });
-
-  it('示例四', () => {
-    const s = '.1';
-    expect(fn(s)).toBe(true);
+  it.each([
+    ['0', true],
+    ['e', false],
+    ['.', false],
+    ['.1', true]
+  ])('示例%#', (s, expected) => {
+    expect(fn(s)).toBe(expected);
   });
 }

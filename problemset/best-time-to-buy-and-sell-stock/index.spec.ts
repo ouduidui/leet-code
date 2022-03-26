@@ -1,4 +1,5 @@
-import { maxProfit, maxProfit2 } from './index';
+import { maxProfit, maxProfit2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('买卖股票的最佳时机', () => {
   describe('暴力解法', () => {
@@ -11,15 +12,10 @@ describe('买卖股票的最佳时机', () => {
 });
 
 function testCase(fn: (prices: number[]) => number) {
-  it('示例一', () => {
-    const prices = [7, 1, 5, 3, 6, 4];
-    const expected = 5;
-    expect(fn(prices)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const prices = [7, 6, 4, 3, 1];
-    const expected = 0;
+  it.each([
+    [[7, 1, 5, 3, 6, 4], 5],
+    [[7, 6, 4, 3, 1], 0]
+  ])('示例%#', (prices, expected) => {
     expect(fn(prices)).toBe(expected);
   });
 }

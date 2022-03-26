@@ -1,5 +1,6 @@
 import { longestWord } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('词典中最长的单词', () => {
   describe('哈希集合', () => {
     testCase(longestWord);

@@ -1,3 +1,5 @@
+import { expect } from 'vitest';
+
 /**
  * 测试两个二维数组是否相等
  * @param ans {number[][] | string[][]}

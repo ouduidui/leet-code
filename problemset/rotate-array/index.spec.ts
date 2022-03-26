@@ -1,5 +1,6 @@
 import { rotate, rotate2, rotate3 } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('轮转数组', () => {
   describe('使用额外的数组', () => {
     testCase(rotate);

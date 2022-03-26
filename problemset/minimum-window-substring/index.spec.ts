@@ -1,5 +1,6 @@
-import { minWindow } from './index';
-
+import { minWindow } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最小覆盖子串', () => {
   testCase(minWindow);
 });

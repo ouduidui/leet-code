@@ -1,5 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { subsets } from './index';
+import { subsets } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 
 describe('子集', () => {
   describe('回溯', () => {

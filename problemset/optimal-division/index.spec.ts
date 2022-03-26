@@ -1,5 +1,6 @@
-import { optimalDivision } from './index';
-
+import { optimalDivision } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最优除法', () => {
   testCase(optimalDivision);
 });

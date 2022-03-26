@@ -1,5 +1,6 @@
-import { pancakeSort } from './index';
-
+import { pancakeSort } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('煎饼排序', () => {
   testCase(pancakeSort);
 });

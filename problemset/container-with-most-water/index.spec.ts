@@ -1,4 +1,5 @@
-import { maxArea, maxArea2 } from './index';
+import { maxArea, maxArea2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('盛最多水的容器', () => {
   describe('暴力解法', () => {
@@ -11,31 +12,12 @@ describe('盛最多水的容器', () => {
 });
 
 function testCase(fn: (height: number[]) => number) {
-  test('示例一', () => {
-    const height: number[] = [1, 8, 6, 2, 5, 4, 8, 3, 7];
-    const expected = 49;
-
-    expect(fn(height)).toEqual(expected);
-  });
-
-  test('示例二', () => {
-    const height: number[] = [1, 1];
-    const expected = 1;
-
-    expect(fn(height)).toEqual(expected);
-  });
-
-  test('示例三', () => {
-    const height: number[] = [4, 3, 2, 1, 4];
-    const expected = 16;
-
-    expect(fn(height)).toEqual(expected);
-  });
-
-  test('示例四', () => {
-    const height: number[] = [1, 2, 1];
-    const expected = 2;
-
+  it.each([
+    [[1, 8, 6, 2, 5, 4, 8, 3, 7], 49],
+    [[1, 1], 1],
+    [[4, 3, 2, 1, 4], 16],
+    [[1, 2, 1], 2]
+  ])('示例%#', (height, expected) => {
     expect(fn(height)).toEqual(expected);
   });
 }

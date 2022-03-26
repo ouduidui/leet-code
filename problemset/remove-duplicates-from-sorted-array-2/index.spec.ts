@@ -1,5 +1,6 @@
-import { removeDuplicates } from './index';
-
+import { removeDuplicates } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('删除有序数组中的重复项 II', () => {
   testCase(removeDuplicates);
 });

@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { rotateRight } from './index';
-
+import { rotateRight } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('旋转链表', () => {
   describe('合并链表', () => {
     testCase(rotateRight);

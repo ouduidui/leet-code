@@ -1,4 +1,5 @@
-import { MinStack } from './index';
+import { MinStack } from '.';
+import { it, expect } from 'vitest';
 
 it('最小栈', () => {
   const stack = new MinStack();

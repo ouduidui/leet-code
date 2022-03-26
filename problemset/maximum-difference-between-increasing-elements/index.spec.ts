@@ -1,5 +1,6 @@
-import { maximumDifference, maximumDifference2 } from './index';
-
+import { maximumDifference, maximumDifference2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('增量元素之间的最大差值', () => {
   describe('暴力解法', () => {
     testCase(maximumDifference);

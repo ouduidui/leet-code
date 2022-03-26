@@ -1,6 +1,7 @@
-import { hasCycle, hasCycle2 } from './index';
+import { hasCycle, hasCycle2 } from '.';
 import { ListNode, createCycleListNode } from '~/utils/listNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('环形链表', () => {
   describe('哈希表', () => {
     testCase(hasCycle);

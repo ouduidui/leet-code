@@ -1,5 +1,6 @@
-import { titleToNumber } from './index';
-
+import { titleToNumber } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('Excel 表列序号', () => {
   testCase(titleToNumber);
 });

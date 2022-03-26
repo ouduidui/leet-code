@@ -1,5 +1,6 @@
-import { search } from './index';
-
+import { search } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('搜索旋转排序数组 II', () => {
   testCase(search);
 });

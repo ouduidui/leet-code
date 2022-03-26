@@ -1,5 +1,6 @@
-import { multiply } from './index';
-
+import { multiply } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('字符串相乘', () => {
   describe('做乘法', () => {
     testCase(multiply);

@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { partition } from './index';
-
+import { partition } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('分隔链表', () => {
   testCase(partition);
 });

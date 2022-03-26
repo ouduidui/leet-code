@@ -1,10 +1,6 @@
-import {
-  singleNumber,
-  singleNumber2,
-  singleNumber3,
-  singleNumber4
-} from './index';
-
+import { singleNumber, singleNumber2, singleNumber3, singleNumber4 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('只出现一次的数字 II', () => {
   describe('哈希表', () => {
     testCase(singleNumber);

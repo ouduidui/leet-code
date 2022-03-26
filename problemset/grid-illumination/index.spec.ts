@@ -1,5 +1,6 @@
-import { gridIllumination } from './index';
-
+import { gridIllumination } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('网格照明', () => {
   testCase(gridIllumination);
 });

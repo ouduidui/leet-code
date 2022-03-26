@@ -1,5 +1,6 @@
 import { winnerOfGame } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('如果相邻两个颜色均相同则删除当前颜色', () => {
   testCase(winnerOfGame);
 });

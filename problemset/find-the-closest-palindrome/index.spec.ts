@@ -1,5 +1,6 @@
-import { nearestPalindromic } from './index';
-
+import { nearestPalindromic } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('寻找最近的回文数', () => {
   testCase(nearestPalindromic);
 });

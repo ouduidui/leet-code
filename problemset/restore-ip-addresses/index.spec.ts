@@ -1,5 +1,6 @@
-import { restoreIpAddresses } from './index';
-
+import { restoreIpAddresses } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('复原IP地址', () => {
   testCase(restoreIpAddresses);
 });

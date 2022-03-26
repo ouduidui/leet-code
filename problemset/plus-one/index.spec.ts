@@ -1,5 +1,6 @@
-import { plusOne } from './index';
-
+import { plusOne } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('加一', () => {
   testCase(plusOne);
 });

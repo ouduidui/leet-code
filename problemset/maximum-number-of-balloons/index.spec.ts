@@ -1,5 +1,6 @@
-import { maxNumberOfBalloons } from './index';
-
+import { maxNumberOfBalloons } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('“气球” 的最大数量', () => {
   testCase(maxNumberOfBalloons);
 });

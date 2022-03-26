@@ -1,6 +1,7 @@
 import { ListNode, createListNode } from '~/utils/listNode';
-import { sortList, sortList2 } from './index';
-
+import { sortList, sortList2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('排序链表', () => {
   describe('自顶向下归并排序', () => {
     testCase(sortList);

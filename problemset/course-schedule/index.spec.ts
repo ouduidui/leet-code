@@ -1,4 +1,5 @@
 import { canFinish, canFinish2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('课程表', () => {
   describe('深度优先搜索', () => {
@@ -13,20 +14,17 @@ describe('课程表', () => {
 function testCase(
   fn: (numCourses: number, prerequisites: number[][]) => boolean
 ) {
-  it('示例一', () => {
-    const numCourses = 2;
-    const prerequisites = [[1, 0]];
-    const expected = true;
-    expect(fn(numCourses, prerequisites)).toBe(expected);
-  });
-
-  it('示例一', () => {
-    const numCourses = 2;
-    const prerequisites = [
-      [1, 0],
-      [0, 1]
-    ];
-    const expected = false;
+  it.each([
+    [2, [[1, 0]], true],
+    [
+      2,
+      [
+        [1, 0],
+        [0, 1]
+      ],
+      false
+    ]
+  ])('示例%#', (numCourses, prerequisites, expected) => {
     expect(fn(numCourses, prerequisites)).toBe(expected);
   });
 }

@@ -1,4 +1,6 @@
-import { solveSudoku } from './index';
+import { solveSudoku } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 
 describe('解数独', () => {
   describe('回溯', () => {

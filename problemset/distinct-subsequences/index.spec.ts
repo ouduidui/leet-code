@@ -1,5 +1,6 @@
-import { numDistinct, numDistinct2 } from './index';
-
+import { numDistinct, numDistinct2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('不同的子序列', () => {
   describe('回溯', () => {
     testCase(numDistinct);

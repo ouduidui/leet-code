@@ -1,5 +1,6 @@
-import { setZeroes, setZeroes2 } from './index';
-
+import { setZeroes, setZeroes2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('矩阵置零', () => {
   describe('标记数组', () => {
     testCase(setZeroes);

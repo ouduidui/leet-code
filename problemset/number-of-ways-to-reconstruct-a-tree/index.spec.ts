@@ -1,5 +1,6 @@
-import { checkWays } from './index';
-
+import { checkWays } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('重构一棵树的方案数', () => {
   testCase(checkWays);
 });

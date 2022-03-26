@@ -1,6 +1,7 @@
-import { flatten, flatten2, flatten3 } from './index';
+import { flatten, flatten2, flatten3 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('二叉树展开为链表', () => {
   describe('前序遍历', () => {
     testCase(flatten);

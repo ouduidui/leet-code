@@ -1,4 +1,5 @@
 import { rangeBitwiseAnd, rangeBitwiseAnd2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('数字范围按位与', () => {
   describe('位移', () => {
@@ -11,24 +12,11 @@ describe('数字范围按位与', () => {
 });
 
 function testCase(fn: (left: number, right: number) => number) {
-  it('示例一', () => {
-    const left = 5;
-    const right = 7;
-    const expected = 4;
-    expect(fn(left, right)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const left = 0;
-    const right = 0;
-    const expected = 0;
-    expect(fn(left, right)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const left = 1;
-    const right = 2147483647;
-    const expected = 0;
+  it.each([
+    [5, 7, 4],
+    [0, 0, 0],
+    [1, 2147483647, 0]
+  ])('示例%#', (left, right, expected) => {
     expect(fn(left, right)).toBe(expected);
   });
 }

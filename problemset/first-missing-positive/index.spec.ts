@@ -1,5 +1,6 @@
-import { firstMissingPositive } from './index';
-
+import { firstMissingPositive } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('缺失的第一个正数', () => {
   describe('原地哈希表', () => {
     testCase(firstMissingPositive);

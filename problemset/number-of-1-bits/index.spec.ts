@@ -1,5 +1,6 @@
 import { hammingWeight, hammingWeight2 } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('位1的个数', () => {
   describe('循环检查二进制位', () => {
     testCase(hammingWeight);

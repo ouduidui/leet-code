@@ -1,9 +1,6 @@
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-import {
-  inorderTraversal,
-  inorderTraversal2,
-  inorderTraversal3
-} from './index';
+import { inorderTraversal, inorderTraversal2, inorderTraversal3 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('二叉树的中序遍历', () => {
   describe('递归', () => {
@@ -20,33 +17,22 @@ describe('二叉树的中序遍历', () => {
 });
 
 function testCase(fn: (root: TreeNode | null) => number[]) {
-  it('示例一', () => {
-    const root = createTreeNode([1, null, 2, 3]);
-    const expected = [1, 3, 2];
-    expect(fn(root)).toStrictEqual(expected);
-  });
-
-  it('示例二', () => {
-    const root = createTreeNode([]);
-    const expected: number[] = [];
-    expect(fn(root)).toStrictEqual(expected);
-  });
-
-  it('示例三', () => {
-    const root = createTreeNode([1]);
-    const expected = [1];
-    expect(fn(root)).toStrictEqual(expected);
-  });
-
-  it('示例四', () => {
-    const root = createTreeNode([1, 2]);
-    const expected = [2, 1];
-    expect(fn(root)).toStrictEqual(expected);
-  });
-
-  it('示例一', () => {
-    const root = createTreeNode([1, null, 2]);
-    const expected = [1, 2];
-    expect(fn(root)).toStrictEqual(expected);
+  it.each([
+    [
+      [1, null, 2, 3],
+      [1, 3, 2]
+    ],
+    [[], []],
+    [[1], [1]],
+    [
+      [1, 2],
+      [2, 1]
+    ],
+    [
+      [1, null, 2],
+      [1, 2]
+    ]
+  ])('示例%#', (root, expected) => {
+    expect(fn(createTreeNode(root))).toStrictEqual(expected);
   });
 }

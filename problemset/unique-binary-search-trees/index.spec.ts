@@ -1,4 +1,5 @@
-import { numTrees, numTrees2, numTrees3 } from './index';
+import { numTrees, numTrees2, numTrees3 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('不同的二叉搜索树', () => {
   describe('回溯', function () {
@@ -15,15 +16,10 @@ describe('不同的二叉搜索树', () => {
 });
 
 function testCase(fn: (n: number) => number) {
-  it('示例一', () => {
-    const n = 3;
-    const expected = 5;
-    expect(fn(n)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const n = 1;
-    const expected = 1;
+  it.each([
+    [3, 5],
+    [1, 1]
+  ])('示例%#', (n, expected) => {
     expect(fn(n)).toBe(expected);
   });
 }

@@ -1,5 +1,6 @@
-import { isInterleave, isInterleave2 } from './index';
-
+import { isInterleave, isInterleave2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('交错字符串', () => {
   describe('动态规划', function () {
     testCase(isInterleave);

@@ -1,5 +1,6 @@
 import { reverseBits, reverseBits2 } from '.';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('颠倒二进制位', () => {
   describe('逐位颠倒', () => {
     testCase(reverseBits);

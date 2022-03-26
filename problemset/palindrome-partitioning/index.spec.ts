@@ -1,5 +1,6 @@
-import { partition, partition2 } from './index';
-
+import { partition, partition2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('分割回文串', () => {
   describe('回溯 + 记忆化搜索', () => {
     testCase(partition);

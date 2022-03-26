@@ -1,5 +1,6 @@
-import { findLUSlength } from './index';
-
+import { findLUSlength } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长特殊序列', () => {
   testCase(findLUSlength);
 });

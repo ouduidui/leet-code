@@ -1,5 +1,6 @@
-import { minPathSum } from './index';
-
+import { minPathSum } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最小路径和', () => {
   describe('动态规划', () => {
     testCase(minPathSum);

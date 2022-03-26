@@ -1,4 +1,7 @@
-import { Trie } from './index';
+import { Trie } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
+
 it('实现 Trie (前缀树)', () => {
   const trie = new Trie();
   trie.insert('apple');

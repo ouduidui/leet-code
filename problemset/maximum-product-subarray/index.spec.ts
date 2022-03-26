@@ -1,5 +1,6 @@
-import { maxProduct, maxProduct2 } from './index';
-
+import { maxProduct, maxProduct2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('乘积最大子数组', () => {
   describe('暴力解法', () => {
     testCase(maxProduct);

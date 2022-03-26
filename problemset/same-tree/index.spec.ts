@@ -1,6 +1,7 @@
-import { isSameTree, isSameTree2 } from './index';
+import { isSameTree, isSameTree2 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('相同的树', () => {
   describe('深度优先搜索', () => {
     testCase(isSameTree);

@@ -1,5 +1,6 @@
-import { highestPeak } from './index';
-
+import { highestPeak } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('地图中的最高点', () => {
   testCase(highestPeak);
 });

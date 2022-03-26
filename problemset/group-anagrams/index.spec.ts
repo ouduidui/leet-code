@@ -1,6 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { groupAnagrams } from './index';
-
+import { groupAnagrams } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('字母异位词分组', () => {
   describe('排序', () => {
     testCase(groupAnagrams);

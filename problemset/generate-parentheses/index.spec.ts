@@ -1,11 +1,12 @@
-import { generateParenthesis } from './index';
-
+import { generateParenthesis } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('括号生成', () => {
   testCase(generateParenthesis);
 });
 
 function testCase(fn: (n: number) => string[]) {
-  test('示例一', () => {
+  it('示例一', () => {
     const n = 3;
     const expected: string[] = [
       '((()))',
@@ -18,7 +19,7 @@ function testCase(fn: (n: number) => string[]) {
     checkExpected(fn(n), expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const n = 1;
     const expected: string[] = ['()'];
 

@@ -1,5 +1,6 @@
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-import { sumNumbers, sumNumbers2 } from './index';
+import { sumNumbers, sumNumbers2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('求根节点到叶节点数字之和', () => {
   describe('深度优先搜索', () => {
@@ -12,15 +13,10 @@ describe('求根节点到叶节点数字之和', () => {
 });
 
 function testCase(fn: (root: TreeNode | null) => number) {
-  it('示例一', () => {
-    const root = createTreeNode([1, 2, 3]);
-    const expected = 25;
-    expect(fn(root)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const root = createTreeNode([4, 9, 0, 5, 1]);
-    const expected = 1026;
-    expect(fn(root)).toBe(expected);
+  it.each([
+    [[1, 2, 3], 25],
+    [[4, 9, 0, 5, 1], 1026]
+  ])('示例%#', (root, expected) => {
+    expect(fn(createTreeNode(root))).toBe(expected);
   });
 }

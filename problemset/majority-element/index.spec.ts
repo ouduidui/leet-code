@@ -3,8 +3,9 @@ import {
   majorityElement2,
   majorityElement3,
   majorityElement4
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('多数元素', () => {
   describe('哈希表', () => {
     testCase(majorityElement);

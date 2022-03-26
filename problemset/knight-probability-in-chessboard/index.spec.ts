@@ -1,5 +1,6 @@
-import { knightProbability } from './index';
-
+import { knightProbability } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('骑士在棋盘上的概率', () => {
   testCase(knightProbability);
 });

@@ -1,5 +1,6 @@
-import { minCut } from './index';
-
+import { minCut } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('分割回文串 II', () => {
   testCase(minCut);
 });

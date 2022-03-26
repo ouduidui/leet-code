@@ -1,5 +1,6 @@
-import { intToRoman, intToRoman2, intToRoman3 } from './index';
-
+import { intToRoman, intToRoman2, intToRoman3 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('整数转罗马数字', () => {
   describe('暴力解法', () => {
     testCase(intToRoman);
@@ -15,35 +16,35 @@ describe('整数转罗马数字', () => {
 });
 
 function testCase(fn: (num: number) => string) {
-  test('示例一', () => {
+  it('示例一', () => {
     const num = 3;
     const expected = 'III';
 
     expect(fn(num)).toEqual(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const num = 4;
     const expected = 'IV';
 
     expect(fn(num)).toEqual(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const num = 9;
     const expected = 'IX';
 
     expect(fn(num)).toEqual(expected);
   });
 
-  test('示例四', () => {
+  it('示例四', () => {
     const num = 58;
     const expected = 'LVIII';
 
     expect(fn(num)).toEqual(expected);
   });
 
-  test('示例五', () => {
+  it('示例五', () => {
     const num = 1994;
     const expected = 'MCMXCIV';
 

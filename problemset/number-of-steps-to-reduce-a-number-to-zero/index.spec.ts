@@ -1,5 +1,6 @@
-import { numberOfSteps } from './index';
-
+import { numberOfSteps } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('将数字变成 0 的操作次数', () => {
   testCase(numberOfSteps);
 });

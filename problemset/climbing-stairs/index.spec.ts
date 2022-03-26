@@ -1,4 +1,5 @@
-import { climbStairs, climbStairs2 } from './index';
+import { climbStairs, climbStairs2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('爬楼梯', () => {
   describe('动态规划 - 滑动数组', () => {
@@ -11,17 +12,10 @@ describe('爬楼梯', () => {
 });
 
 function testCase(fn: (n: number) => number) {
-  it('示例一', () => {
-    const n = 2;
-    const expected = 2;
-
-    expect(fn(n)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const n = 3;
-    const expected = 3;
-
+  it.each([
+    [2, 2],
+    [3, 3]
+  ])('示例%#', (n, expected) => {
     expect(fn(n)).toBe(expected);
   });
 }

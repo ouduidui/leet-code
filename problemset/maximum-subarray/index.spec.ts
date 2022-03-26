@@ -1,5 +1,6 @@
-import { maxSubArray, maxSubArray2 } from './index';
-
+import { maxSubArray, maxSubArray2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最大子数组和', () => {
   describe('暴力解法', () => {
     testCase(maxSubArray);

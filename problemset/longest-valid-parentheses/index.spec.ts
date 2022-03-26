@@ -3,8 +3,9 @@ import {
   longestValidParentheses2,
   longestValidParentheses3,
   longestValidParentheses4
-} from './index';
-
+} from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最长有效括号', () => {
   describe('暴力解法', () => {
     testCase(longestValidParentheses);
@@ -24,21 +25,21 @@ describe('最长有效括号', () => {
 });
 
 function testCase(fn: (s: string) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const s = '(()';
     const expected = 2;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const s = ')()())';
     const expected = 4;
 
     expect(fn(s)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const s = '';
     const expected = 0;
 

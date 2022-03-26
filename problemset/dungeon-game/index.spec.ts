@@ -1,5 +1,6 @@
-import { calculateMinimumHP } from './index';
-
+import { calculateMinimumHP } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('地下城游戏', () => {
   testCase(calculateMinimumHP);
 });

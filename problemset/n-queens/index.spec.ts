@@ -1,6 +1,7 @@
 import { twoDimensionalArrayEqual } from '~/utils/tools';
-import { solveNQueens } from './index';
-
+import { solveNQueens } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('N 皇后', () => {
   describe('基于集合的回溯', () => {
     testCase(solveNQueens);

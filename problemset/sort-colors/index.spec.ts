@@ -1,5 +1,6 @@
-import { sortColors, sortColors2 } from './index';
-
+import { sortColors, sortColors2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('颜色分类', () => {
   describe('单指针', () => {
     testCase(sortColors);

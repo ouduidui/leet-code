@@ -1,4 +1,5 @@
-import { isMatch } from './index';
+import { isMatch } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('通配符匹配', () => {
   describe('动态规划', () => {
@@ -7,43 +8,13 @@ describe('通配符匹配', () => {
 });
 
 function testCase(fn: (s: string, p: string) => boolean) {
-  it('示例一', () => {
-    const s = 'aa';
-    const p = 'a';
-    const expected = false;
-
-    expect(fn(s, p)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const s = 'aa';
-    const p = '*';
-    const expected = true;
-
-    expect(fn(s, p)).toBe(expected);
-  });
-
-  it('示例三', () => {
-    const s = 'cb';
-    const p = '?a';
-    const expected = false;
-
-    expect(fn(s, p)).toBe(expected);
-  });
-
-  it('示例四', () => {
-    const s = 'adceb';
-    const p = '*a*b';
-    const expected = true;
-
-    expect(fn(s, p)).toBe(expected);
-  });
-
-  it('示例一', () => {
-    const s = 'acdcb';
-    const p = 'a*c?b';
-    const expected = false;
-
+  it.each([
+    ['aa', 'a', false],
+    ['aa', '*', true],
+    ['cb', '?a', false],
+    ['adceb', '*a*b', true],
+    ['acdcb', 'a*c?b', false]
+  ])('示例%#', (s, p, expected) => {
     expect(fn(s, p)).toBe(expected);
   });
 }

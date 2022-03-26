@@ -1,5 +1,6 @@
-import { getRow, getRow2 } from './index';
-
+import { getRow, getRow2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('杨辉三角 II', () => {
   describe('递推', () => {
     testCase(getRow);

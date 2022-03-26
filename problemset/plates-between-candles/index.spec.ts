@@ -1,5 +1,6 @@
-import { platesBetweenCandles } from './index';
-
+import { platesBetweenCandles } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('蜡烛之间的盘子', () => {
   testCase(platesBetweenCandles);
 });

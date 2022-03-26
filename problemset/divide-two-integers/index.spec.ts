@@ -1,5 +1,6 @@
-import { divide, divide2 } from './index';
-
+import { divide, divide2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('两数相除', () => {
   describe('二分法', () => {
     testCase(divide);
@@ -10,7 +11,7 @@ describe('两数相除', () => {
 });
 
 function testCase(fn: (dividend: number, divisor: number) => number) {
-  test('示例一', () => {
+  it('示例一', () => {
     const dividend = 10;
     const divisor = 3;
     const expected = 3;
@@ -18,7 +19,7 @@ function testCase(fn: (dividend: number, divisor: number) => number) {
     expect(fn(dividend, divisor)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const dividend = 7;
     const divisor = -3;
     const expected = -2;

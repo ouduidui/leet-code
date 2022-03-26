@@ -1,5 +1,6 @@
-import { isPalindrome, isPalindrome1 } from './index';
-
+import { isPalindrome, isPalindrome1 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('回文数', () => {
   describe('暴力解法', () => {
     testCase(isPalindrome);
@@ -11,28 +12,28 @@ describe('回文数', () => {
 });
 
 function testCase(fn: (x: number) => boolean) {
-  test('示例一', () => {
+  it('示例一', () => {
     const x = 121;
     const expected = true;
 
     expect(fn(x)).toBe(expected);
   });
 
-  test('示例二', () => {
+  it('示例二', () => {
     const x = -121;
     const expected = false;
 
     expect(fn(x)).toBe(expected);
   });
 
-  test('示例三', () => {
+  it('示例三', () => {
     const x = 10;
     const expected = false;
 
     expect(fn(x)).toBe(expected);
   });
 
-  test('示例四', () => {
+  it('示例四', () => {
     const x = -101;
     const expected = false;
 

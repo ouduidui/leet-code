@@ -1,5 +1,6 @@
-import { simplifiedFractions } from './index';
-
+import { simplifiedFractions } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('最简分数', () => {
   testCase(simplifiedFractions);
 });

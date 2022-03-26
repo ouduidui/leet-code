@@ -1,5 +1,6 @@
-import { getPermutation, getPermutation2 } from './index';
-
+import { getPermutation, getPermutation2 } from '.';
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('排列序列', () => {
   describe('回溯', () => {
     testCase(getPermutation);

@@ -1,6 +1,7 @@
-import { recoverTree, recoverTree2, recoverTree3 } from './index';
+import { recoverTree, recoverTree2, recoverTree3 } from '.';
 import { TreeNode, createTreeNode } from '~/utils/treeNode';
-
+// need refactor
+import { describe, it, expect } from 'vitest';
 describe('恢复二叉搜索树', () => {
   describe('显式中序遍历', () => {
     testCase(recoverTree);

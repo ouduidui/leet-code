@@ -1,4 +1,5 @@
-import { threeSumClosest } from './index';
+import { threeSumClosest } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('最接近的三数之和', () => {
   describe('排序+双指针', () => {
@@ -7,27 +8,11 @@ describe('最接近的三数之和', () => {
 });
 
 function testCase(fn: (nums: number[], target: number) => number) {
-  test('示例一', () => {
-    const nums: number[] = [-1, 2, 1, -4];
-    const target = 1;
-    const expected = 2;
-
-    expect(fn(nums, target)).toBe(expected);
-  });
-
-  test('示例二', () => {
-    const nums: number[] = [1, 1, -1, -1, 3];
-    const target = 1;
-    const expected = 1;
-
-    expect(fn(nums, target)).toBe(expected);
-  });
-
-  test('示例三', () => {
-    const nums: number[] = [-1, 0, 1, 1, 55];
-    const target = 3;
-    const expected = 2;
-
+  it.each([
+    [[-1, 2, 1, -4], 1, 2],
+    [[1, 1, -1, -1, 3], 1, 1],
+    [[-1, 0, 1, 1, 55], 3, 2]
+  ])('示例%#', (nums, target, expected) => {
     expect(fn(nums, target)).toBe(expected);
   });
 }

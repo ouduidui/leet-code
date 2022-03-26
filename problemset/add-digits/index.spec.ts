@@ -1,4 +1,5 @@
-import { addDigits, addDigits2 } from './index';
+import { addDigits, addDigits2 } from '.';
+import { describe, it, expect } from 'vitest';
 
 describe('各位相加', () => {
   describe('模拟', () => {
@@ -11,15 +12,10 @@ describe('各位相加', () => {
 });
 
 function testCase(fn: (num: number) => number) {
-  it('示例一', () => {
-    const num = 38;
-    const expected = 2;
-    expect(fn(num)).toBe(expected);
-  });
-
-  it('示例二', () => {
-    const num = 0;
-    const expected = 0;
+  it.each([
+    [38, 2],
+    [0, 0]
+  ])('示例%#', (num, expected) => {
     expect(fn(num)).toBe(expected);
   });
 }
