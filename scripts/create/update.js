@@ -16,7 +16,7 @@ const update = ({ cn, en, difficulty, url, id }) => {
     );
     fs.writeFileSync(
       `problemset/${projectPath}/index.spec.ts`,
-      `describe('${cn}', () => {});`
+      `import { describe, it, expect } from 'vitest';\r\n\r\ndescribe('${cn}', () => {});\r\n\r\nfunction testCase(fn:unknown){}`
     );
     const problems = updateDataJson({
       cn,
