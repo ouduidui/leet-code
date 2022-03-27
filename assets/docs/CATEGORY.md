@@ -235,10 +235,8 @@
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 189. [轮转数组](../../problemset/rotate-array/README.md) | 中等 |
-| 208. [实现 Trie (前缀树)](../../problemset/implement-trie-prefix-tree/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
-| 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
@@ -445,3 +443,11 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
+
+## 字典树
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 208. [实现 Trie (前缀树)](../../problemset/implement-trie-prefix-tree/README.md) | 中等 |
+| 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
+| 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |

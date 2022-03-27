@@ -1164,12 +1164,6 @@
         "difficulty": "中等"
       },
       {
-        "id": 208,
-        "title": "实现 Trie (前缀树)",
-        "path": "../../problemset/implement-trie-prefix-tree/README.md",
-        "difficulty": "中等"
-      },
-      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",
@@ -1180,12 +1174,6 @@
         "title": "UTF-8 编码验证",
         "path": "../../problemset/utf-8-validation/README.md",
         "difficulty": "中等"
-      },
-      {
-        "id": 440,
-        "title": "字典序的第K小数字",
-        "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md",
-        "difficulty": "困难"
       },
       {
         "id": 521,
@@ -2147,6 +2135,29 @@
         "title": "岛屿数量",
         "path": "../../problemset/number-of-islands/README.md",
         "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "字典树",
+    "problems": [
+      {
+        "id": 208,
+        "title": "实现 Trie (前缀树)",
+        "path": "../../problemset/implement-trie-prefix-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 211,
+        "title": "添加与搜索单词 - 数据结构设计",
+        "path": "../../problemset/design-add-and-search-words-data-structure/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 440,
+        "title": "字典序的第K小数字",
+        "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md",
+        "difficulty": "困难"
       }
     ]
   }

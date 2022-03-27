@@ -1860,6 +1860,16 @@
     "path": "../../problemset/course-schedule-2/README.md"
   },
   {
+    "id": 211,
+    "title": {
+      "cn": "添加与搜索单词 - 数据结构设计",
+      "en": "design-add-and-search-words-data-structure"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/",
+    "path": "../../problemset/design-add-and-search-words-data-structure/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-this-alias */
 export class Trie {
   isEnd = false
   children: (Trie | null)[] = new Array(26).fill(null)
