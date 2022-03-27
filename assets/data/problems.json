@@ -1850,6 +1850,16 @@
     "path": "../../problemset/minimum-size-subarray-sum/README.md"
   },
   {
+    "id": 210,
+    "title": {
+      "cn": "课程表 II",
+      "en": "course-schedule-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/course-schedule-ii/",
+    "path": "../../problemset/course-schedule-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -1707,6 +1707,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 210,
+        "title": "课程表 II",
+        "path": "../../problemset/course-schedule-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",

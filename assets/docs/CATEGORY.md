@@ -338,6 +338,7 @@
 | 203. [移除链表元素](../../problemset/remove-linked-list-elements/README.md) | 简单 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 207. [课程表](../../problemset/course-schedule/README.md) | 中等 |
+| 210. [课程表 II](../../problemset/course-schedule-2/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
