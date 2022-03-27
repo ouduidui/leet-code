@@ -3,5 +3,4 @@
 
 PATH=$PATH:/usr/local/bin:/usr/local/sbin
 
-npm run test
-npm run lint
+npm run test:run
