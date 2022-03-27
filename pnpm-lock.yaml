@@ -16,7 +16,6 @@ specifiers:
   husky: ^7.0.4
   inquirer: ^8.1.2
   jest: ^27.2.0
-  prettier: ^2.5.1
   ts-jest: ^27.0.5
   ts-node: ^10.4.0
   typescript: ^4.4.3
@@ -33,13 +32,12 @@ devDependencies:
   clear: 0.1.0
   eslint: 8.6.0
   eslint-config-prettier: 8.3.0_eslint@8.6.0
-  eslint-plugin-prettier: 4.0.0_1c588f61426b1faf18812943f1678311
+  eslint-plugin-prettier: 4.0.0_fca46e11a1e806700c7f2f50fa8bcaf7
   execa: 5.1.1
   figlet: 1.5.2
   husky: 7.0.4
   inquirer: 8.2.0
   jest: 27.4.7_ts-node@10.4.0
-  prettier: 2.5.1
   ts-jest: 27.1.2_9364f2ad0b7b67f00a4d081c662c6871
   ts-node: 10.4.0_c0a8ca172db2ce87bc71f1a1cb132fc8
   typescript: 4.5.4
@@ -2168,7 +2166,7 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /eslint-plugin-prettier/4.0.0_1c588f61426b1faf18812943f1678311:
+  /eslint-plugin-prettier/4.0.0_fca46e11a1e806700c7f2f50fa8bcaf7:
     resolution: {integrity: sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==}
     engines: {node: '>=6.0.0'}
     peerDependencies:
@@ -2181,7 +2179,6 @@ packages:
     dependencies:
       eslint: 8.6.0
       eslint-config-prettier: 8.3.0_eslint@8.6.0
-      prettier: 2.5.1
       prettier-linter-helpers: 1.0.0
     dev: true
 
@@ -4048,12 +4045,6 @@ packages:
     engines: {node: '>=6.0.0'}
     dependencies:
       fast-diff: 1.2.0
-    dev: true
-
-  /prettier/2.5.1:
-    resolution: {integrity: sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==}
-    engines: {node: '>=10.13.0'}
-    hasBin: true
     dev: true
 
   /pretty-format/27.4.6:
