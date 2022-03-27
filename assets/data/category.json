@@ -1260,6 +1260,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 2028,
+        "title": "找出缺失的观测数据",
+        "path": "../../problemset/find-missing-observations/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 2043,
         "title": "简易银行系统",
         "path": "../../problemset/simple-bank-system/README.md",

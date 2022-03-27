@@ -184,7 +184,7 @@
 
 [92. 反转链表 II](../../problemset/reverse-linked-list-2/README.md)
 
-[93. 复原 IP 地址](../../problemset/restore-ip-addresses/README.md)
+[93. 复原IP地址](../../problemset/restore-ip-addresses/README.md)
 
 [94. 二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md)
 
@@ -290,7 +290,7 @@
 
 [145. 二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md)
 
-[146. LRU 缓存](../../problemset/lru-cache/README.md)
+[146. LRU缓存](../../problemset/lru-cache/README.md)
 
 [147. 对链表进行插入排序](../../problemset/insertion-sort-list/README.md)
 
@@ -322,7 +322,7 @@
 
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
-[168. Excel 表列名称](../../problemset/excel-sheet-column-title/README.md)
+[168. Excel表列名称](../../problemset/excel-sheet-column-title/README.md)
 
 [169. 多数元素](../../problemset/majority-element/README.md)
 
@@ -336,7 +336,7 @@
 
 [179. 最大数](../../problemset/largest-number/README.md)
 
-[187. 重复的 DNA 序列](../../problemset/repeated-dna-sequences/README.md)
+[187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
 
 [188. 买卖股票的最佳时机 IV](../../problemset/best-time-to-buy-and-sell-stock-4/README.md)
 
@@ -344,7 +344,7 @@
 
 [190. 颠倒二进制位](../../problemset/reverse-bits/README.md)
 
-[191. 位 1 的个数](../../problemset/number-of-1-bits/README.md)
+[191. 位1的个数](../../problemset/number-of-1-bits/README.md)
 
 [198. 打家劫舍](../../problemset/house-robber/README.md)
 
@@ -378,7 +378,7 @@
 
 [432. 全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md)
 
-[440. 字典序的第 K 小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md)
+[440. 字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md)
 
 [504. 七进制数](../../problemset/base-7/README.md)
 
@@ -455,6 +455,8 @@
 [2013. 检测正方形](../../problemset/detect-squares/README.md)
 
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
+
+[2028. 找出缺失的观测数据](../../problemset/find-missing-observations/README.md)
 
 [2038. 如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md)
 

@@ -2280,6 +2280,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2028,
+    "title": {
+      "cn": "找出缺失的观测数据",
+      "en": "find-missing-observations"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-missing-observations/",
+    "path": "../../problemset/find-missing-observations/README.md"
+  },
+  {
     "id": 2038,
     "title": {
       "cn": "如果相邻两个颜色均相同则删除当前颜色",
