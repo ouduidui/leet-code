@@ -2060,6 +2060,16 @@
     "path": "../../problemset/knight-probability-in-chessboard/README.md"
   },
   {
+    "id": 693,
+    "title": {
+      "cn": "交替位二进制数",
+      "en": "binary-number-with-alternating-bits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/binary-number-with-alternating-bits/",
+    "path": "../../problemset/binary-number-with-alternating-bits/README.md"
+  },
+  {
     "id": 720,
     "title": {
       "cn": "词典中最长的单词",
