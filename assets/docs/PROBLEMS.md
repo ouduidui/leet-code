@@ -374,6 +374,8 @@
 
 [211. 添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md)
 
+[212. 单词搜索 II](../../problemset/word-search-2/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

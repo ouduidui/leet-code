@@ -1870,6 +1870,16 @@
     "path": "../../problemset/design-add-and-search-words-data-structure/README.md"
   },
   {
+    "id": 212,
+    "title": {
+      "cn": "单词搜索 II",
+      "en": "word-search-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/word-search-ii/",
+    "path": "../../problemset/word-search-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

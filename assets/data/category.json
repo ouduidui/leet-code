@@ -1403,6 +1403,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 212,
+        "title": "单词搜索 II",
+        "path": "../../problemset/word-search-2/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1601,
         "title": "最多可达成的换楼请求数目",
         "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
@@ -2158,6 +2164,12 @@
         "title": "添加与搜索单词 - 数据结构设计",
         "path": "../../problemset/design-add-and-search-words-data-structure/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 212,
+        "title": "单词搜索 II",
+        "path": "../../problemset/word-search-2/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 440,

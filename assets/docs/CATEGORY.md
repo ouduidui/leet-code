@@ -279,6 +279,7 @@
 | 138. [复制带随机指针的链表](../../problemset/copy-list-with-random-pointer/README.md) | 中等 |
 | 140. [单词拆分 II](../../problemset/word-break-2/README.md) | 困难 |
 | 198. [打家劫舍](../../problemset/house-robber/README.md) | 中等 |
+| 212. [单词搜索 II](../../problemset/word-search-2/README.md) | 困难 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 
@@ -451,4 +452,5 @@
 | ---- | ---- |
 | 208. [实现 Trie (前缀树)](../../problemset/implement-trie-prefix-tree/README.md) | 中等 |
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
+| 212. [单词搜索 II](../../problemset/word-search-2/README.md) | 困难 |
 | 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |
