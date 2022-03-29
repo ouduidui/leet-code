@@ -2320,6 +2320,16 @@
     "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
+    "id": 2024,
+    "title": {
+      "cn": "考试的最大困扰度",
+      "en": "maximize-the-confusion-of-an-exam"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/",
+    "path": "../../problemset/maximize-the-confusion-of-an-exam/README.md"
+  },
+  {
     "id": 2028,
     "title": {
       "cn": "找出缺失的观测数据",

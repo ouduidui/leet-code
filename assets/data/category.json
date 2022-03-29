@@ -335,6 +335,12 @@
         "title": "最长的美好子字符串",
         "path": "../../problemset/longest-nice-substring/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 2024,
+        "title": "考试的最大困扰度",
+        "path": "../../problemset/maximize-the-confusion-of-an-exam/README.md",
+        "difficulty": "中等"
       }
     ]
   },

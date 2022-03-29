@@ -464,6 +464,8 @@
 
 [2016. 增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md)
 
+[2024. 考试的最大困扰度](../../problemset/maximize-the-confusion-of-an-exam/README.md)
+
 [2028. 找出缺失的观测数据](../../problemset/find-missing-observations/README.md)
 
 [2038. 如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md)
