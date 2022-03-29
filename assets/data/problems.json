@@ -2230,6 +2230,16 @@
     "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md"
   },
   {
+    "id": 1663,
+    "title": {
+      "cn": "具有给定数值的最小字符串",
+      "en": "smallest-string-with-a-given-numeric-value"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/smallest-string-with-a-given-numeric-value/",
+    "path": "../../problemset/smallest-string-with-a-given-numeric-value/README.md"
+  },
+  {
     "id": 1706,
     "title": {
       "cn": "球会落何处",

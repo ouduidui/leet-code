@@ -1883,6 +1883,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 1663,
+        "title": "具有给定数值的最小字符串",
+        "path": "../../problemset/smallest-string-with-a-given-numeric-value/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 2038,
         "title": "如果相邻两个颜色均相同则删除当前颜色",
         "path": "../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
