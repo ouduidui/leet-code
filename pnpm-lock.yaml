@@ -20,7 +20,7 @@ specifiers:
   ts-node: ^10.4.0
   typescript: ^4.4.3
   vite: ^2.8.6
-  vitest: ^0.7.11
+  vitest: ^0.7.12
 
 devDependencies:
   '@ouduidui/eslint-config-ts': 0.0.2_eslint@8.6.0+typescript@4.5.4
@@ -42,7 +42,7 @@ devDependencies:
   ts-node: 10.4.0_c0a8ca172db2ce87bc71f1a1cb132fc8
   typescript: 4.5.4
   vite: 2.8.6
-  vitest: 0.7.11
+  vitest: 0.7.12
 
 packages:
 
@@ -4753,8 +4753,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest/0.7.11:
-    resolution: {integrity: sha512-xCEUBCpqiIVhUFIMCKKXDZ/bcPLk2EhPmTFA9qw+Kf+B2d/gm3ZBdUAMa3jIZNZ/d3esji5H6XZPNAk//9K4Kw==}
+  /vitest/0.7.12:
+    resolution: {integrity: sha512-Q/UrBAhStPUeic++s+jnH6M0vsBhemTixAsAKvp6z8zN6K47tfZqob4XgpbViebDmYcmhlyREumVmrpUlyuXdA==}
     engines: {node: '>=v14.16.0'}
     hasBin: true
     peerDependencies:
