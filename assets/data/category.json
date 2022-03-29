@@ -836,6 +836,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 213,
+        "title": "打家劫舍 II",
+        "path": "../../problemset/house-robber-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
@@ -1413,6 +1419,12 @@
         "title": "单词搜索 II",
         "path": "../../problemset/word-search-2/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 213,
+        "title": "打家劫舍 II",
+        "path": "../../problemset/house-robber-2/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1601,

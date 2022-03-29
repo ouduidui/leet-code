@@ -1880,6 +1880,16 @@
     "path": "../../problemset/word-search-2/README.md"
   },
   {
+    "id": 213,
+    "title": {
+      "cn": "打家劫舍 II",
+      "en": "house-robber-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/house-robber-ii/",
+    "path": "../../problemset/house-robber-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
