@@ -634,6 +634,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 214,
+        "title": "最短回文串",
+        "path": "../../problemset/shortest-palindrome/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

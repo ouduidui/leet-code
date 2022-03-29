@@ -1890,6 +1890,16 @@
     "path": "../../problemset/house-robber-2/README.md"
   },
   {
+    "id": 214,
+    "title": {
+      "cn": "最短回文串",
+      "en": "shortest-palindrome"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/shortest-palindrome/",
+    "path": "../../problemset/shortest-palindrome/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
