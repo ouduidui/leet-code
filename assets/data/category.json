@@ -479,6 +479,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 215,
+        "title": "数组中的第k个最大元素",
+        "path": "../../problemset/kth-largest-element-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1984,
         "title": "学生分数的最小差值",
         "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",

@@ -380,6 +380,8 @@
 
 [214. 最短回文串](../../problemset/shortest-palindrome/README.md)
 
+[215. 数组中的第k个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

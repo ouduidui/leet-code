@@ -1900,6 +1900,16 @@
     "path": "../../problemset/shortest-palindrome/README.md"
   },
   {
+    "id": 215,
+    "title": {
+      "cn": "数组中的第k个最大元素",
+      "en": "kth-largest-element-in-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/kth-largest-element-in-an-array/",
+    "path": "../../problemset/kth-largest-element-in-an-array/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

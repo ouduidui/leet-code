@@ -100,6 +100,7 @@
 | 164. [最大间距](../../problemset/maximum-gap/README.md) | 困难 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 179. [最大数](../../problemset/largest-number/README.md) | 中等 |
+| 215. [数组中的第k个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
