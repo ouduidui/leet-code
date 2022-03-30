@@ -2230,6 +2230,16 @@
     "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md"
   },
   {
+    "id": 1606,
+    "title": {
+      "cn": "找到处理最多请求的服务器",
+      "en": "find-servers-that-handled-most-number-of-requests"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/",
+    "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md"
+  },
+  {
     "id": 1663,
     "title": {
       "cn": "具有给定数值的最小字符串",

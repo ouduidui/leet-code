@@ -1248,6 +1248,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1606,
+        "title": "找到处理最多请求的服务器",
+        "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1706,
         "title": "球会落何处",
         "path": "../../problemset/where-will-the-ball-fall/README.md",

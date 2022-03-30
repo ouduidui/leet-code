@@ -446,6 +446,8 @@
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)
 
+[1606. 找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md)
+
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)
 
 [1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
