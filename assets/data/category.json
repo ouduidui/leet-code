@@ -1230,6 +1230,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 728,
+        "title": "自除数",
+        "path": "../../problemset/self-dividing-numbers/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 798,
         "title": "得分最高的最小轮调",
         "path": "../../problemset/smallest-rotation-with-highest-score/README.md",

@@ -424,6 +424,8 @@
 
 [720. 词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md)
 
+[728. 自除数](../../problemset/self-dividing-numbers/README.md)
+
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)

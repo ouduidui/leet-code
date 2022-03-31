@@ -2120,6 +2120,16 @@
     "path": "../../problemset/longest-word-in-dictionary/README.md"
   },
   {
+    "id": 728,
+    "title": {
+      "cn": "自除数",
+      "en": "self-dividing-numbers"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/self-dividing-numbers/",
+    "path": "../../problemset/self-dividing-numbers/README.md"
+  },
+  {
     "id": 798,
     "title": {
       "cn": "得分最高的最小轮调",
