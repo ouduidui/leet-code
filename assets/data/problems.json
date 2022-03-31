@@ -1910,6 +1910,16 @@
     "path": "../../problemset/kth-largest-element-in-an-array/README.md"
   },
   {
+    "id": 216,
+    "title": {
+      "cn": "组合总和 III",
+      "en": "combination-sum-3"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/combination-sum-iii/",
+    "path": "../../problemset/combination-sum-3/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

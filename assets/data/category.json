@@ -1451,6 +1451,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 216,
+        "title": "组合总和 III",
+        "path": "../../problemset/combination-sum-3/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1601,
         "title": "最多可达成的换楼请求数目",
         "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",

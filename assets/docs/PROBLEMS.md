@@ -382,6 +382,8 @@
 
 [215. 数组中的第k个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
 
+[216. 组合总和 III](../../problemset/combination-sum-3/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
