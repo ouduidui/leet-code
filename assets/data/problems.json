@@ -1920,6 +1920,16 @@
     "path": "../../problemset/combination-sum-3/README.md"
   },
   {
+    "id": 217,
+    "title": {
+      "cn": "存在重复元素",
+      "en": "contains-duplicate"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/contains-duplicate/",
+    "path": "../../problemset/contains-duplicate/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -111,6 +111,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 217,
+        "title": "存在重复元素",
+        "path": "../../problemset/contains-duplicate/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
