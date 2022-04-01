@@ -27,6 +27,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
+| 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
 | 1380. [矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md) | 简单 |
@@ -101,6 +102,7 @@
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 179. [最大数](../../problemset/largest-number/README.md) | 中等 |
 | 215. [数组中的第k个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
+| 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 

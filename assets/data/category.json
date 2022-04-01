@@ -141,6 +141,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 954,
+        "title": "二倍数对数组",
+        "path": "../../problemset/array-of-doubled-pairs/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1001,
         "title": "网格照明",
         "path": "../../problemset/grid-illumination/README.md",
@@ -482,6 +488,12 @@
         "id": 215,
         "title": "数组中的第k个最大元素",
         "path": "../../problemset/kth-largest-element-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 954,
+        "title": "二倍数对数组",
+        "path": "../../problemset/array-of-doubled-pairs/README.md",
         "difficulty": "中等"
       },
       {

@@ -2180,6 +2180,16 @@
     "path": "../../problemset/reverse-only-letters/README.md"
   },
   {
+    "id": 954,
+    "title": {
+      "cn": "二倍数对数组",
+      "en": "array-of-doubled-pairs"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/array-of-doubled-pairs/",
+    "path": "../../problemset/array-of-doubled-pairs/README.md"
+  },
+  {
     "id": 969,
     "title": {
       "cn": "煎饼排序",
