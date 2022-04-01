@@ -10,6 +10,14 @@ export class PriorityQueue<T> {
   ) {}
 
   /**
+   * 判断队列是否为空
+   * @returns
+   */
+  isEmpty(): boolean {
+    return this.size === 0
+  }
+
+  /**
    * 获取队头的值
    * @returns
    */

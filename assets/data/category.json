@@ -1206,6 +1206,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 218,
+        "title": "天际线问题",
+        "path": "../../problemset/the-skyline-problem/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

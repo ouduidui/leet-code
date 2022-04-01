@@ -242,6 +242,7 @@
 | 135. [分发糖果](../../problemset/candy/README.md) | 困难 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 189. [轮转数组](../../problemset/rotate-array/README.md) | 中等 |
+| 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |

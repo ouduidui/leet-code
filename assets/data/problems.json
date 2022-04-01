@@ -1930,6 +1930,16 @@
     "path": "../../problemset/contains-duplicate/README.md"
   },
   {
+    "id": 218,
+    "title": {
+      "cn": "天际线问题",
+      "en": "the-skyline-problem"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/the-skyline-problem/",
+    "path": "../../problemset/the-skyline-problem/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
