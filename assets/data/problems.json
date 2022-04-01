@@ -1940,6 +1940,16 @@
     "path": "../../problemset/the-skyline-problem/README.md"
   },
   {
+    "id": 219,
+    "title": {
+      "cn": "存在重复元素 II",
+      "en": "contains-duplicate-2"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/contains-duplicate-ii/",
+    "path": "../../problemset/contains-duplicate-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

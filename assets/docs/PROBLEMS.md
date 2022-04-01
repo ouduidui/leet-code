@@ -388,6 +388,8 @@
 
 [218. 天际线问题](../../problemset/the-skyline-problem/README.md)
 
+[219. 存在重复元素 II](../../problemset/contains-duplicate-2/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

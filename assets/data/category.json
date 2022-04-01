@@ -117,6 +117,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 219,
+        "title": "存在重复元素 II",
+        "path": "../../problemset/contains-duplicate-2/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -341,6 +347,12 @@
         "title": "长度最小的子数组",
         "path": "../../problemset/minimum-size-subarray-sum/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 219,
+        "title": "存在重复元素 II",
+        "path": "../../problemset/contains-duplicate-2/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 1763,
