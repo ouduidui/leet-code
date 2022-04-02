@@ -1236,6 +1236,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 420,
+        "title": "强密码检验器",
+        "path": "../../problemset/strong-password-checker/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 521,
         "title": "最长特殊序列",
         "path": "../../problemset/longest-uncommon-subsequence/README.md",

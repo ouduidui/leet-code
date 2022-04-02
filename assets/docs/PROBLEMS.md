@@ -396,6 +396,8 @@
 
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
+[420. 强密码检验器](../../problemset/strong-password-checker/README.md)
+
 [432. 全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md)
 
 [440. 字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md)

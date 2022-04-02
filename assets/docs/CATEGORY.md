@@ -247,6 +247,7 @@
 | 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
+| 420. [强密码检验器](../../problemset/strong-password-checker/README.md) | 困难 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |

@@ -1980,6 +1980,16 @@
     "path": "../../problemset/utf-8-validation/README.md"
   },
   {
+    "id": 420,
+    "title": {
+      "cn": "强密码检验器",
+      "en": "strong-password-checker"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/strong-password-checker/",
+    "path": "../../problemset/strong-password-checker/README.md"
+  },
+  {
     "id": 432,
     "title": {
       "cn": "全 O(1) 的数据结构",
