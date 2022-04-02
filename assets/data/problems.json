@@ -2190,6 +2190,16 @@
     "path": "../../problemset/self-dividing-numbers/README.md"
   },
   {
+    "id": 744,
+    "title": {
+      "cn": "寻找比目标字母大的最小字母",
+      "en": "find-smallest-letter-greater-than-target"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/",
+    "path": "../../problemset/find-smallest-letter-greater-than-target/README.md"
+  },
+  {
     "id": 798,
     "title": {
       "cn": "得分最高的最小轮调",

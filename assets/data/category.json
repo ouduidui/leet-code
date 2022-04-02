@@ -460,6 +460,12 @@
         "title": "有序数组中的单一元素",
         "path": "../../problemset/single-element-in-a-sorted-array/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 744,
+        "title": "寻找比目标字母大的最小字母",
+        "path": "../../problemset/find-smallest-letter-greater-than-target/README.md",
+        "difficulty": "简单"
       }
     ]
   },

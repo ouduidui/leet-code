@@ -438,6 +438,8 @@
 
 [728. 自除数](../../problemset/self-dividing-numbers/README.md)
 
+[744. 寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md)
+
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
