@@ -1950,6 +1950,16 @@
     "path": "../../problemset/contains-duplicate-2/README.md"
   },
   {
+    "id": 220,
+    "title": {
+      "cn": "存在重复元素 III",
+      "en": "contains-duplicate-3"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/contains-duplicate-iii/",
+    "path": "../../problemset/contains-duplicate-3/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -123,6 +123,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 220,
+        "title": "存在重复元素 III",
+        "path": "../../problemset/contains-duplicate-3/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -353,6 +359,12 @@
         "title": "存在重复元素 II",
         "path": "../../problemset/contains-duplicate-2/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 220,
+        "title": "存在重复元素 III",
+        "path": "../../problemset/contains-duplicate-3/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1763,

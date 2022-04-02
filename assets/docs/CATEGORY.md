@@ -24,6 +24,7 @@
 | 205. [同构字符串](../../problemset/isomorphic-strings/README.md) | 简单 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-2/README.md) | 简单 |
+| 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
@@ -71,6 +72,7 @@
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-2/README.md) | 简单 |
+| 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2024. [考试的最大困扰度](../../problemset/maximize-the-confusion-of-an-exam/README.md) | 中等 |
 
