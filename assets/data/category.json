@@ -902,6 +902,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 221,
+        "title": "最大正方形",
+        "path": "../../problemset/maximal-square/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",

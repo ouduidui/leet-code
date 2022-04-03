@@ -1960,6 +1960,16 @@
     "path": "../../problemset/contains-duplicate-3/README.md"
   },
   {
+    "id": 221,
+    "title": {
+      "cn": "最大正方形",
+      "en": "maximal-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/maximal-square/",
+    "path": "../../problemset/maximal-square/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
