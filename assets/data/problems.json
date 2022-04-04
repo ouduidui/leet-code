@@ -1990,6 +1990,16 @@
     "path": "../../problemset/longest-increasing-subsequence/README.md"
   },
   {
+    "id": 307,
+    "title": {
+      "cn": " 区域和检索 - 数组可修改",
+      "en": "range-sum-query-mutable"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/range-sum-query-mutable/",
+    "path": "../../problemset/range-sum-query-mutable/README.md"
+  },
+  {
     "id": 393,
     "title": {
       "cn": "UTF-8 编码验证",
