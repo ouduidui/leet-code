@@ -450,6 +450,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 222,
+        "title": "完全二叉树的节点个数",
+        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
@@ -1833,6 +1839,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 222,
+        "title": "完全二叉树的节点个数",
+        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
@@ -2158,6 +2170,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 222,
+        "title": "完全二叉树的节点个数",
+        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
@@ -2243,6 +2261,12 @@
         "id": 201,
         "title": "数字范围按位与",
         "path": "../../problemset/bitwise-and-of-numbers-range/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 222,
+        "title": "完全二叉树的节点个数",
+        "path": "../../problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
       },
       {

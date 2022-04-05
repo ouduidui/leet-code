@@ -91,6 +91,7 @@
 | 153. [寻找旋转排序数组中的最小值](../../problemset/find-minimum-in-rotated-sorted-array/README.md) | 中等 |
 | 154. [寻找旋转排序数组中的最小值 II](../../problemset/find-minimum-in-rotated-sorted-array-2/README.md) | 困难 |
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
+| 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
@@ -359,6 +360,7 @@
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 207. [课程表](../../problemset/course-schedule/README.md) | 中等 |
 | 210. [课程表 II](../../problemset/course-schedule-2/README.md) | 中等 |
+| 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
@@ -434,6 +436,7 @@
 | 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
 | 173. [二叉搜索树迭代器](../../problemset/binary-search-tree-iterator/README.md) | 中等 |
 | 199. [二叉树的右视图](../../problemset/binary-tree-right-side-view/README.md) | 中等 |
+| 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
@@ -457,6 +460,7 @@
 | 190. [颠倒二进制位](../../problemset/reverse-bits/README.md) | 简单 |
 | 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
 | 201. [数字范围按位与](../../problemset/bitwise-and-of-numbers-range/README.md) | 中等 |
+| 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

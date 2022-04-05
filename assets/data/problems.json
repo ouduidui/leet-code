@@ -1970,6 +1970,16 @@
     "path": "../../problemset/maximal-square/README.md"
   },
   {
+    "id": 222,
+    "title": {
+      "cn": "完全二叉树的节点个数",
+      "en": "count-complete-tree-nodes"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/count-complete-tree-nodes/",
+    "path": "../../problemset/count-complete-tree-nodes/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
