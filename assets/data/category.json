@@ -712,6 +712,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 762,
+        "title": "二进制表示中质数个计算置位",
+        "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1447,
         "title": "最简分数",
         "path": "../../problemset/simplified-fractions/README.md",
@@ -2249,6 +2255,12 @@
         "id": 693,
         "title": "交替位二进制数",
         "path": "../../problemset/binary-number-with-alternating-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 762,
+        "title": "二进制表示中质数个计算置位",
+        "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md",
         "difficulty": "简单"
       },
       {

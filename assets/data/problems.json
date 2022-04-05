@@ -2220,6 +2220,16 @@
     "path": "../../problemset/find-smallest-letter-greater-than-target/README.md"
   },
   {
+    "id": 762,
+    "title": {
+      "cn": "二进制表示中质数个计算置位",
+      "en": "prime-number-of-set-bits-in-binary-representation"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/",
+    "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md"
+  },
+  {
     "id": 798,
     "title": {
       "cn": "得分最高的最小轮调",

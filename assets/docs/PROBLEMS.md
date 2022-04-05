@@ -444,6 +444,8 @@
 
 [744. 寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md)
 
+[762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)
+
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
