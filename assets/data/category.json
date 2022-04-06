@@ -1272,6 +1272,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 310,
+        "title": "最小高度树",
+        "path": "../../problemset/minimum-height-trees/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 393,
         "title": "UTF-8 编码验证",
         "path": "../../problemset/utf-8-validation/README.md",

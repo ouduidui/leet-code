@@ -402,6 +402,8 @@
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)
 
+[310. 最小高度树](../../problemset/minimum-height-trees/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)

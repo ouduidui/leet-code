@@ -2010,6 +2010,16 @@
     "path": "../../problemset/range-sum-query-mutable/README.md"
   },
   {
+    "id": 310,
+    "title": {
+      "cn": "最小高度树",
+      "en": "minimum-height-trees"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/minimum-height-trees/",
+    "path": "../../problemset/minimum-height-trees/README.md"
+  },
+  {
     "id": 393,
     "title": {
       "cn": "UTF-8 编码验证",
