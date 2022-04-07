@@ -396,6 +396,8 @@
 
 [222. 完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md)
 
+[223. 矩形面积](../../problemset/rectangle-area/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

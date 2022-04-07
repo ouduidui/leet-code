@@ -1260,6 +1260,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 223,
+        "title": "矩形面积",
+        "path": "../../problemset/rectangle-area/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

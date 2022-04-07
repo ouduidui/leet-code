@@ -1980,6 +1980,16 @@
     "path": "../../problemset/count-complete-tree-nodes/README.md"
   },
   {
+    "id": 223,
+    "title": {
+      "cn": "矩形面积",
+      "en": "rectangle-area"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/rectangle-area/",
+    "path": "../../problemset/rectangle-area/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -251,6 +251,7 @@
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 189. [轮转数组](../../problemset/rotate-array/README.md) | 中等 |
 | 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
+| 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 307. [ 区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
