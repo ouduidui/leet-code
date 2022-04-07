@@ -2000,6 +2000,16 @@
     "path": "../../problemset/basic-calculator/README.md"
   },
   {
+    "id": 225,
+    "title": {
+      "cn": "用队列实现栈",
+      "en": "implement-stack-using-queues"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/implement-stack-using-queues/",
+    "path": "../../problemset/implement-stack-using-queues/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

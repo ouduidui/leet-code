@@ -1648,6 +1648,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 225,
+        "title": "用队列实现栈",
+        "path": "../../problemset/implement-stack-using-queues/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 2104,
         "title": "子数组范围和",
         "path": "../../problemset/sum-of-subarray-ranges/README.md",
