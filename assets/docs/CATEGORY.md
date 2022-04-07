@@ -325,6 +325,7 @@
 | 155. [最小栈](../../problemset/min-stack/README.md) | 简单 |
 | 224. [基本计算器](../../problemset/basic-calculator/README.md) | 困难 |
 | 225. [用队列实现栈](../../problemset/implement-stack-using-queues/README.md) | 简单 |
+| 227. [基本计算器 II](../../problemset/basic-calculator-2/README.md) | 中等 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 
 ## 递归 & 迭代

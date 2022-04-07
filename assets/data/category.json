@@ -1654,6 +1654,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 227,
+        "title": "基本计算器 II",
+        "path": "../../problemset/basic-calculator-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 2104,
         "title": "子数组范围和",
         "path": "../../problemset/sum-of-subarray-ranges/README.md",

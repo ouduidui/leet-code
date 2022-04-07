@@ -2020,6 +2020,16 @@
     "path": "../../problemset/invert-binary-tree/README.md"
   },
   {
+    "id": 227,
+    "title": {
+      "cn": "基本计算器 II",
+      "en": "basic-calculator-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/basic-calculator-ii/",
+    "path": "../../problemset/basic-calculator-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

@@ -404,6 +404,8 @@
 
 [226. 翻转二叉树](../../problemset/invert-binary-tree/README.md)
 
+[227. 基本计算器 II](../../problemset/basic-calculator-2/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
