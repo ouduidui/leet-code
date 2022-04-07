@@ -1875,6 +1875,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 226,
+        "title": "翻转二叉树",
+        "path": "../../problemset/invert-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",

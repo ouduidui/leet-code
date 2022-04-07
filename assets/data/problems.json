@@ -2010,6 +2010,16 @@
     "path": "../../problemset/implement-stack-using-queues/README.md"
   },
   {
+    "id": 226,
+    "title": {
+      "cn": "翻转二叉树",
+      "en": "invert-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/invert-binary-tree/",
+    "path": "../../problemset/invert-binary-tree/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
