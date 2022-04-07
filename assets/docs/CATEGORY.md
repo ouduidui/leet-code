@@ -323,6 +323,7 @@
 | 98. [验证二叉搜索树](../../problemset/validate-binary-search-tree/README.md) | 中等 |
 | 150. [逆波兰表达式求值](../../problemset/valuate-reverse-polish-notation/README.md) | 中等 |
 | 155. [最小栈](../../problemset/min-stack/README.md) | 简单 |
+| 224. [基本计算器](../../problemset/basic-calculator/README.md) | 困难 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 
 ## 递归 & 迭代

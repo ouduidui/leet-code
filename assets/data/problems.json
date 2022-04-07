@@ -1990,6 +1990,16 @@
     "path": "../../problemset/rectangle-area/README.md"
   },
   {
+    "id": 224,
+    "title": {
+      "cn": "基本计算器",
+      "en": "basic-calculator"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/basic-calculator/",
+    "path": "../../problemset/basic-calculator/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
