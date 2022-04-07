@@ -1326,6 +1326,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 796,
+        "title": "旋转字符串",
+        "path": "../../problemset/rotate-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 798,
         "title": "得分最高的最小轮调",
         "path": "../../problemset/smallest-rotation-with-highest-score/README.md",

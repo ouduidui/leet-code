@@ -2250,6 +2250,16 @@
     "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md"
   },
   {
+    "id": 796,
+    "title": {
+      "cn": "旋转字符串",
+      "en": "rotate-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/rotate-string/",
+    "path": "../../problemset/rotate-string/README.md"
+  },
+  {
     "id": 798,
     "title": {
       "cn": "得分最高的最小轮调",
