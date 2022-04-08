@@ -1678,6 +1678,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 232,
+        "title": "用栈实现队列",
+        "path": "../../problemset/implement-queue-using-stacks/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 2104,
         "title": "子数组范围和",
         "path": "../../problemset/sum-of-subarray-ranges/README.md",

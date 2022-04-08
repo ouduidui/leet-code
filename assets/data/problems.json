@@ -2070,6 +2070,16 @@
     "path": "../../problemset/power-of-two/README.md"
   },
   {
+    "id": 232,
+    "title": {
+      "cn": "用栈实现队列",
+      "en": "implement-queue-using-stacks"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/implement-queue-using-stacks/",
+    "path": "../../problemset/implement-queue-using-stacks/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
