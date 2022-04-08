@@ -2090,6 +2090,16 @@
     "path": "../../problemset/strong-password-checker/README.md"
   },
   {
+    "id": 429,
+    "title": {
+      "cn": "N 叉树的层序遍历",
+      "en": "n-ary-tree-level-order-traversal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/",
+    "path": "../../problemset/n-ary-tree-level-order-traversal/README.md"
+  },
+  {
     "id": 432,
     "title": {
       "cn": "全 O(1) 的数据结构",

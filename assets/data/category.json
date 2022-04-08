@@ -1887,6 +1887,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 429,
+        "title": "N 叉树的层序遍历",
+        "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 589,
         "title": "N 叉树的前序遍历",
         "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
