@@ -143,6 +143,7 @@
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 214. [最短回文串](../../problemset/shortest-palindrome/README.md) | 困难 |
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
+| 233. [数字1的个数](../../problemset/number-of-digit-one/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |

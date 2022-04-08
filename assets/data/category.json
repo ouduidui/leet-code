@@ -712,6 +712,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 233,
+        "title": "数字1的个数",
+        "path": "../../problemset/number-of-digit-one/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

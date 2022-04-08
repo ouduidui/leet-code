@@ -416,6 +416,8 @@
 
 [232. 用栈实现队列](../../problemset/implement-queue-using-stacks/README.md)
 
+[233. 数字1的个数](../../problemset/number-of-digit-one/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

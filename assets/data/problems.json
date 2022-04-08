@@ -2080,6 +2080,16 @@
     "path": "../../problemset/implement-queue-using-stacks/README.md"
   },
   {
+    "id": 233,
+    "title": {
+      "cn": "数字1的个数",
+      "en": "number-of-digit-one"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/number-of-digit-one/",
+    "path": "../../problemset/number-of-digit-one/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
