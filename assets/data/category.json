@@ -1266,6 +1266,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 228,
+        "title": "汇总区间",
+        "path": "../../problemset/summary-ranges/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

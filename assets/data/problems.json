@@ -2030,6 +2030,16 @@
     "path": "../../problemset/basic-calculator-2/README.md"
   },
   {
+    "id": 228,
+    "title": {
+      "cn": "汇总区间",
+      "en": "summary-ranges"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/summary-ranges/",
+    "path": "../../problemset/summary-ranges/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
