@@ -1350,6 +1350,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 780,
+        "title": "到达终点",
+        "path": "../../problemset/reaching-points/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 796,
         "title": "旋转字符串",
         "path": "../../problemset/rotate-string/README.md",

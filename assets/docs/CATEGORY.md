@@ -266,6 +266,7 @@
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
+| 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |

@@ -2360,6 +2360,16 @@
     "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md"
   },
   {
+    "id": 780,
+    "title": {
+      "cn": "到达终点",
+      "en": "reaching-points"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/reaching-points/",
+    "path": "../../problemset/reaching-points/README.md"
+  },
+  {
     "id": 796,
     "title": {
       "cn": "旋转字符串",
