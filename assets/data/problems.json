@@ -2060,6 +2060,16 @@
     "path": "../../problemset/kth-smallest-element-in-a-bst/README.md"
   },
   {
+    "id": 231,
+    "title": {
+      "cn": "2的幂",
+      "en": "power-of-two"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/power-of-two/",
+    "path": "../../problemset/power-of-two/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

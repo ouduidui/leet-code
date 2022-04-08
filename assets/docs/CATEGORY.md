@@ -142,6 +142,7 @@
 | 172. [阶乘后的零](../../problemset/factorial-trailing-zeroes/README.md) | 中等 |
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 214. [最短回文串](../../problemset/shortest-palindrome/README.md) | 困难 |
+| 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
@@ -475,6 +476,7 @@
 | 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
 | 201. [数字范围按位与](../../problemset/bitwise-and-of-numbers-range/README.md) | 中等 |
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
+| 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

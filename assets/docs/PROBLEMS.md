@@ -412,6 +412,8 @@
 
 [230. 二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md)
 
+[231. 2的幂](../../problemset/power-of-two/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

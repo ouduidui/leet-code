@@ -706,6 +706,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 231,
+        "title": "2的幂",
+        "path": "../../problemset/power-of-two/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",
@@ -2352,6 +2358,12 @@
         "title": "完全二叉树的节点个数",
         "path": "../../problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 231,
+        "title": "2的幂",
+        "path": "../../problemset/power-of-two/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 393,
