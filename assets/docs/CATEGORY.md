@@ -25,6 +25,7 @@
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-2/README.md) | 简单 |
 | 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
+| 229. [求众数 II](../../problemset/majority-element-2/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |

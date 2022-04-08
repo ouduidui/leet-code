@@ -2040,6 +2040,16 @@
     "path": "../../problemset/summary-ranges/README.md"
   },
   {
+    "id": 229,
+    "title": {
+      "cn": "求众数 II",
+      "en": "majority-element-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/majority-element-ii/",
+    "path": "../../problemset/majority-element-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

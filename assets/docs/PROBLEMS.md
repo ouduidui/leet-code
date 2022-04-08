@@ -408,6 +408,8 @@
 
 [228. 汇总区间](../../problemset/summary-ranges/README.md)
 
+[229. 求众数 II](../../problemset/majority-element-2/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
