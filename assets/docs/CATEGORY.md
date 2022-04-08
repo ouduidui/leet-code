@@ -370,6 +370,7 @@
 | 210. [课程表 II](../../problemset/course-schedule-2/README.md) | 中等 |
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 226. [翻转二叉树](../../problemset/invert-binary-tree/README.md) | 简单 |
+| 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
@@ -447,6 +448,9 @@
 | 173. [二叉搜索树迭代器](../../problemset/binary-search-tree-iterator/README.md) | 中等 |
 | 199. [二叉树的右视图](../../problemset/binary-tree-right-side-view/README.md) | 中等 |
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
+| 226. [翻转二叉树](../../problemset/invert-binary-tree/README.md) | 简单 |
+| 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
+| 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |

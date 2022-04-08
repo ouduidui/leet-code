@@ -1899,6 +1899,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 230,
+        "title": "二叉搜索树中第K小的元素",
+        "path": "../../problemset/kth-smallest-element-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 429,
         "title": "N 叉树的层序遍历",
         "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
@@ -2233,6 +2239,24 @@
         "id": 222,
         "title": "完全二叉树的节点个数",
         "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 226,
+        "title": "翻转二叉树",
+        "path": "../../problemset/invert-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 230,
+        "title": "二叉搜索树中第K小的元素",
+        "path": "../../problemset/kth-smallest-element-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 310,
+        "title": "最小高度树",
+        "path": "../../problemset/minimum-height-trees/README.md",
         "difficulty": "中等"
       },
       {
