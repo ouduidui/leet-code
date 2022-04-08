@@ -1099,6 +1099,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 233,
+        "title": "数字1的个数",
+        "path": "../../problemset/number-of-digit-one/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 653,
         "title": "两数之和 IV - 输入 BST",
         "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
