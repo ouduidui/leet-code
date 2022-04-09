@@ -2,7 +2,7 @@
 import { describe, expect, it } from 'vitest'
 import { lowestCommonAncestor } from '.'
 import type { TreeNode } from '~/utils/treeNode'
-import { createTreeNode } from '~/utils/treeNode'
+import { createTreeNode, findNode } from '~/utils/treeNode'
 
 describe('二叉搜索树的最近公共祖先', () => {
   testCase(lowestCommonAncestor)
@@ -23,16 +23,4 @@ function testCase(fn: (
     const expected = findNode(root!, _expected)
     expect(fn(root, p, q)).toBe(expected)
   })
-}
-
-function findNode(root: TreeNode, val: number): TreeNode | null {
-  const queue: TreeNode[] = [root]
-  while (queue.length) {
-    const node = queue.pop()!
-    if (node.val === val) return node
-
-    node.left && queue.unshift(node.left)
-    node.right && queue.unshift(node.right)
-  }
-  return null
 }

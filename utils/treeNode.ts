@@ -37,3 +37,21 @@ export function createTreeNode(array: TreeNodeArrayItem[]): TreeNode | null {
 
   return rootTree
 }
+
+/**
+ * 找到对应节点
+ * @param root
+ * @param val
+ * @returns
+ */
+export function findNode(root: TreeNode, val: number): TreeNode | null {
+  const queue: TreeNode[] = [root]
+  while (queue.length) {
+    const node = queue.pop()!
+    if (node.val === val) return node
+
+    node.left && queue.unshift(node.left)
+    node.right && queue.unshift(node.right)
+  }
+  return null
+}
