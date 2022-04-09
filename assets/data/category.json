@@ -2290,6 +2290,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 235,
+        "title": "二叉搜索树的最近公共祖先",
+        "path": "../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 310,
         "title": "最小高度树",
         "path": "../../problemset/minimum-height-trees/README.md",

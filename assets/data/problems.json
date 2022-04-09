@@ -2100,6 +2100,16 @@
     "path": "../../problemset/palindrome-linked-list/README.md"
   },
   {
+    "id": 235,
+    "title": {
+      "cn": "二叉搜索树的最近公共祖先",
+      "en": "lowest-common-ancestor-of-a-binary-search-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "path": "../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
