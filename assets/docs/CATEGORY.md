@@ -63,6 +63,7 @@
 | 148. [排序链表](../../problemset/sort-list/README.md) | 中等 |
 | 203. [移除链表元素](../../problemset/remove-linked-list-elements/README.md) | 简单 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
+| 237. [删除链表中的节点](../../problemset/delete-node-in-a-linked-list/README.md) | 简单 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 
 ## 滑动窗口
@@ -259,6 +260,7 @@
 | 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 228. [汇总区间](../../problemset/summary-ranges/README.md) | 简单 |
+| 237. [删除链表中的节点](../../problemset/delete-node-in-a-linked-list/README.md) | 简单 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 307. [ 区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |

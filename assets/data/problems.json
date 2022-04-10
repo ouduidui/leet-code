@@ -2120,6 +2120,16 @@
     "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md"
   },
   {
+    "id": 237,
+    "title": {
+      "cn": "删除链表中的节点",
+      "en": "delete-node-in-a-linked-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/delete-node-in-a-linked-list/",
+    "path": "../../problemset/delete-node-in-a-linked-list/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

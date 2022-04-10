@@ -332,6 +332,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 237,
+        "title": "删除链表中的节点",
+        "path": "../../problemset/delete-node-in-a-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -1305,6 +1311,12 @@
         "id": 228,
         "title": "汇总区间",
         "path": "../../problemset/summary-ranges/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 237,
+        "title": "删除链表中的节点",
+        "path": "../../problemset/delete-node-in-a-linked-list/README.md",
         "difficulty": "简单"
       },
       {
