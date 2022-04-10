@@ -1,27 +1,21 @@
-# 每日力扣刷题
+<h1 align="center"><samp>LeetCode Everyday</samp></h1>
 
-> 保持每日至少刷一题算法题：
->
-> - [题库目录](./assets/docs/PROBLEMS.md)
-> - [题库分类](./assets/docs/CATEGORY.md)
-> - [力扣主页](https://leetcode-cn.com/u/ouduidui/)
+<p align="center">
+<a href="./assets/docs/PROBLEMS.md"><img src="https://img.shields.io/badge/-题库目录-blue" alt="NPM version"></a>
+<a href="./assets/docs/CATEGORY.md"><img src="https://img.shields.io/badge/-题库分类-red" alt="NPM version"></a>
+<a href="[./assets/docs/PROBLEMS.md](https://leetcode-cn.com/u/ouduidui/)"><img src="https://img.shields.io/badge/-力扣主页-yellow" alt="NPM version"></a>
 
-使用
-[**TDD 模式**](https://zh.wikipedia.org/wiki/%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91)
-刷题，先根据题目的示例编辑测试用例，然后再一一实现代码逻辑，也方便测试和 Debug。
 
-### 手脚架
+### Usage
 
 ```shell
-# 创建题目
+# create a new topic
 pnpm run create
 
-# 更新分类
+# update the category of specified topic
 pnpm run update
 ```
 
 ### License
 
-[MIT](./LICENSE)
-
-Copyright (c) 2021 Dewey Ou
+[MIT](./LICENSE) Copyright (c) 2021 Dewey Ou
