@@ -8,7 +8,4 @@ export default defineConfig({
       '~/': `${path.resolve(__dirname, '.')}/`,
     },
   },
-  test: {
-    testTimeout: 5000,
-  },
 })
