@@ -422,6 +422,8 @@
 
 [235. 二叉搜索树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md)
 
+[236. 二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

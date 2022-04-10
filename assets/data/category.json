@@ -135,6 +135,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 236,
+        "title": "二叉树的最近公共祖先",
+        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -1941,6 +1947,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 236,
+        "title": "二叉树的最近公共祖先",
+        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 429,
         "title": "N 叉树的层序遍历",
         "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
@@ -2294,6 +2306,12 @@
         "title": "二叉搜索树的最近公共祖先",
         "path": "../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 236,
+        "title": "二叉树的最近公共祖先",
+        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 310,

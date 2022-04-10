@@ -90,12 +90,11 @@ const update = ({ cn, en, difficulty, url, id }) => {
     )
     fs.writeFileSync(
       `problemset/${projectPath}/index.spec.ts`,
-      `
-import { describe, it, expect } from 'vitest';
+      `import { describe, expect, it } from 'vitest'
 
 describe('${cn}', () => {})
 
-function testCase(fn:unknown){
+function testCase(fn: unknown) {
   it.each([
     // test cases
   ])('示例%#', () => {

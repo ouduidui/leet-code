@@ -26,6 +26,7 @@
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-2/README.md) | 简单 |
 | 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
 | 229. [求众数 II](../../problemset/majority-element-2/README.md) | 中等 |
+| 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
@@ -377,6 +378,7 @@
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 226. [翻转二叉树](../../problemset/invert-binary-tree/README.md) | 简单 |
 | 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
+| 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
@@ -457,6 +459,7 @@
 | 226. [翻转二叉树](../../problemset/invert-binary-tree/README.md) | 简单 |
 | 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
 | 235. [二叉搜索树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md) | 简单 |
+| 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
