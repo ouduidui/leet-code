@@ -77,6 +77,7 @@
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-2/README.md) | 简单 |
 | 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
+| 239. [滑动窗口最大值](../../problemset/sliding-window-maximum/README.md) | 困难 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2024. [考试的最大困扰度](../../problemset/maximize-the-confusion-of-an-exam/README.md) | 中等 |
 

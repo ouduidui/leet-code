@@ -2140,6 +2140,16 @@
     "path": "../../problemset/product-of-array-except-self/README.md"
   },
   {
+    "id": 239,
+    "title": {
+      "cn": "滑动窗口最大值",
+      "en": "sliding-window-maximum"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/sliding-window-maximum/",
+    "path": "../../problemset/sliding-window-maximum/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

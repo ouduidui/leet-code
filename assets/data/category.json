@@ -391,6 +391,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 239,
+        "title": "滑动窗口最大值",
+        "path": "../../problemset/sliding-window-maximum/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1763,
         "title": "最长的美好子字符串",
         "path": "../../problemset/longest-nice-substring/README.md",
