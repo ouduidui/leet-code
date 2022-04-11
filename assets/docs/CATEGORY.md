@@ -147,6 +147,7 @@
 | 214. [最短回文串](../../problemset/shortest-palindrome/README.md) | 困难 |
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 233. [数字1的个数](../../problemset/number-of-digit-one/README.md) | 困难 |
+| 238. [除自身以外数组的乘积](../../problemset/product-of-array-except-self/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |

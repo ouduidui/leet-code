@@ -736,6 +736,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 238,
+        "title": "除自身以外数组的乘积",
+        "path": "../../problemset/product-of-array-except-self/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 258,
         "title": "各位相加",
         "path": "../../problemset/add-digits/README.md",

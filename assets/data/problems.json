@@ -2130,6 +2130,16 @@
     "path": "../../problemset/delete-node-in-a-linked-list/README.md"
   },
   {
+    "id": 238,
+    "title": {
+      "cn": "除自身以外数组的乘积",
+      "en": "product-of-array-except-self"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/product-of-array-except-self/",
+    "path": "../../problemset/product-of-array-except-self/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
