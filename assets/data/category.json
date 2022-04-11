@@ -742,6 +742,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 357,
+        "title": "统计各位数字都不同的数字个数",
+        "path": "../../problemset/count-numbers-with-unique-digits/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 504,
         "title": "七进制数",
         "path": "../../problemset/base-7/README.md",

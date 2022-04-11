@@ -148,6 +148,7 @@
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 233. [数字1的个数](../../problemset/number-of-digit-one/README.md) | 困难 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
+| 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

@@ -2170,6 +2170,16 @@
     "path": "../../problemset/minimum-height-trees/README.md"
   },
   {
+    "id": 357,
+    "title": {
+      "cn": "统计各位数字都不同的数字个数",
+      "en": "count-numbers-with-unique-digits"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/count-numbers-with-unique-digits/",
+    "path": "../../problemset/count-numbers-with-unique-digits/README.md"
+  },
+  {
     "id": 393,
     "title": {
       "cn": "UTF-8 编码验证",

@@ -434,6 +434,8 @@
 
 [310. 最小高度树](../../problemset/minimum-height-trees/README.md)
 
+[357. 统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)
