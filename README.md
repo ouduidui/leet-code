@@ -12,7 +12,7 @@
 # create a new topic
 pnpm run create
 
-# update the category of specified topic
+# update the category of the specified topic
 pnpm run update
 ```
 
