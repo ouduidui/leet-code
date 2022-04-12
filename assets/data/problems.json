@@ -2480,6 +2480,16 @@
     "path": "../../problemset/unique-morse-code-words/README.md"
   },
   {
+    "id": 806,
+    "title": {
+      "cn": "写字符串需要的行数",
+      "en": "number-of-lines-to-write-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/number-of-lines-to-write-string/",
+    "path": "../../problemset/number-of-lines-to-write-string/README.md"
+  },
+  {
     "id": 838,
     "title": {
       "cn": "推多米诺",

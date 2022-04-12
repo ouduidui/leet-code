@@ -1422,6 +1422,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 806,
+        "title": "写字符串需要的行数",
+        "path": "../../problemset/number-of-lines-to-write-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 838,
         "title": "推多米诺",
         "path": "../../problemset/push-dominoes/README.md",

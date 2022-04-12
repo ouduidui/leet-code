@@ -496,6 +496,8 @@
 
 [804. 唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md)
 
+[806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)
+
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
