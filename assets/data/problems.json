@@ -2150,6 +2150,16 @@
     "path": "../../problemset/sliding-window-maximum/README.md"
   },
   {
+    "id": 240,
+    "title": {
+      "cn": "搜索二维矩阵 II",
+      "en": "search-a-2d-matrix-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/search-a-2d-matrix-ii/",
+    "path": "../../problemset/search-a-2d-matrix-2/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

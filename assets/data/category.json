@@ -486,6 +486,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 240,
+        "title": "搜索二维矩阵 II",
+        "path": "../../problemset/search-a-2d-matrix-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
