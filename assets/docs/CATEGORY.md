@@ -411,6 +411,7 @@
 | 109. [有序链表转换二叉搜索树](../../problemset/convert-sorted-list-to-binary-search-tree/README.md) | 中等 |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 190. [颠倒二进制位](../../problemset/reverse-bits/README.md) | 简单 |
+| 241. [为运算表达式设计优先级](../../problemset/different-ways-to-add-parentheses/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配

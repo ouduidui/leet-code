@@ -432,6 +432,8 @@
 
 [240. 搜索二维矩阵 II](../../problemset/search-a-2d-matrix-2/README.md)
 
+[241. 为运算表达式设计优先级](../../problemset/different-ways-to-add-parentheses/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
