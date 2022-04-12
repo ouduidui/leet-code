@@ -141,6 +141,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 242,
+        "title": "有效的字母异位词",
+        "path": "../../problemset/valid-anagram/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",

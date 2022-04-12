@@ -434,6 +434,8 @@
 
 [241. 为运算表达式设计优先级](../../problemset/different-ways-to-add-parentheses/README.md)
 
+[242. 有效的字母异位词](../../problemset/valid-anagram/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

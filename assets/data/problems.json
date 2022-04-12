@@ -2170,6 +2170,16 @@
     "path": "../../problemset/different-ways-to-add-parentheses/README.md"
   },
   {
+    "id": 242,
+    "title": {
+      "cn": "有效的字母异位词",
+      "en": "valid-anagram"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/valid-anagram/",
+    "path": "../../problemset/valid-anagram/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",

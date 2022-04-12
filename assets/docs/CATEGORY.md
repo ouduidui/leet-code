@@ -27,6 +27,7 @@
 | 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
 | 229. [求众数 II](../../problemset/majority-element-2/README.md) | 中等 |
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
+| 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
