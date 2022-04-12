@@ -2001,6 +2001,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 257,
+        "title": "二叉树的所有路径",
+        "path": "../../problemset/binary-tree-paths/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 429,
         "title": "N 叉树的层序遍历",
         "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
@@ -2366,6 +2372,12 @@
         "title": "二叉树的最近公共祖先",
         "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 257,
+        "title": "二叉树的所有路径",
+        "path": "../../problemset/binary-tree-paths/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 310,

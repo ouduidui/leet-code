@@ -387,6 +387,7 @@
 | 226. [翻转二叉树](../../problemset/invert-binary-tree/README.md) | 简单 |
 | 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
+| 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
@@ -469,6 +470,7 @@
 | 230. [二叉搜索树中第K小的元素](../../problemset/kth-smallest-element-in-a-bst/README.md) | 中等 |
 | 235. [二叉搜索树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md) | 简单 |
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
+| 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |

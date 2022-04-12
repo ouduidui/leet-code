@@ -436,6 +436,8 @@
 
 [242. 有效的字母异位词](../../problemset/valid-anagram/README.md)
 
+[257. 二叉树的所有路径](../../problemset/binary-tree-paths/README.md)
+
 [258. 各位相加](../../problemset/add-digits/README.md)
 
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)

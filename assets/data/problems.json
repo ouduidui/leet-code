@@ -2180,6 +2180,16 @@
     "path": "../../problemset/valid-anagram/README.md"
   },
   {
+    "id": 257,
+    "title": {
+      "cn": "二叉树的所有路径",
+      "en": "binary-tree-paths"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/binary-tree-paths/",
+    "path": "../../problemset/binary-tree-paths/README.md"
+  },
+  {
     "id": 258,
     "title": {
       "cn": "各位相加",
