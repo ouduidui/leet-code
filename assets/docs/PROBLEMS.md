@@ -450,6 +450,8 @@
 
 [357. 统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md)
 
+[380. O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)

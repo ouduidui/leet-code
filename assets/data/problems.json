@@ -2250,6 +2250,16 @@
     "path": "../../problemset/count-numbers-with-unique-digits/README.md"
   },
   {
+    "id": 380,
+    "title": {
+      "cn": "O(1) 时间插入、删除和获取随机元素",
+      "en": "insert-delete-getrandom-o1"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/insert-delete-getrandom-o1/",
+    "path": "../../problemset/insert-delete-getrandom-o1/README.md"
+  },
+  {
     "id": 393,
     "title": {
       "cn": "UTF-8 编码验证",

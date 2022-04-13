@@ -153,6 +153,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 380,
+        "title": "O(1) 时间插入、删除和获取随机元素",
+        "path": "../../problemset/insert-delete-getrandom-o1/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
