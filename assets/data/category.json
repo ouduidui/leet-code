@@ -778,6 +778,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 263,
+        "title": "丑数",
+        "path": "../../problemset/ugly-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 357,
         "title": "统计各位数字都不同的数字个数",
         "path": "../../problemset/count-numbers-with-unique-digits/README.md",

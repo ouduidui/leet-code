@@ -2210,6 +2210,16 @@
     "path": "../../problemset/single-number-3/README.md"
   },
   {
+    "id": 263,
+    "title": {
+      "cn": "丑数",
+      "en": "ugly-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/ugly-number/",
+    "path": "../../problemset/ugly-number/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
