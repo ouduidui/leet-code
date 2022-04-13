@@ -29,6 +29,7 @@
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
+| 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 380. [O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
@@ -118,6 +119,7 @@
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 179. [最大数](../../problemset/largest-number/README.md) | 中等 |
 | 215. [数组中的第k个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
+| 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
@@ -155,6 +157,7 @@
 | 238. [除自身以外数组的乘积](../../problemset/product-of-array-except-self/README.md) | 中等 |
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 263. [丑数](../../problemset/ugly-number/README.md) | 简单 |
+| 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
@@ -502,6 +505,7 @@
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
+| 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

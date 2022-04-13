@@ -153,6 +153,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 268,
+        "title": "丢失的数字",
+        "path": "../../problemset/missing-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 380,
         "title": "O(1) 时间插入、删除和获取随机元素",
         "path": "../../problemset/insert-delete-getrandom-o1/README.md",
@@ -587,6 +593,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 268,
+        "title": "丢失的数字",
+        "path": "../../problemset/missing-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 954,
         "title": "二倍数对数组",
         "path": "../../problemset/array-of-doubled-pairs/README.md",
@@ -781,6 +793,12 @@
         "id": 263,
         "title": "丑数",
         "path": "../../problemset/ugly-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 268,
+        "title": "丢失的数字",
+        "path": "../../problemset/missing-number/README.md",
         "difficulty": "简单"
       },
       {
@@ -2514,6 +2532,12 @@
         "title": "只出现一次的数字 III",
         "path": "../../problemset/single-number-3/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 268,
+        "title": "丢失的数字",
+        "path": "../../problemset/missing-number/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 393,

@@ -2230,6 +2230,16 @@
     "path": "../../problemset/ugly-number-2/README.md"
   },
   {
+    "id": 268,
+    "title": {
+      "cn": "丢失的数字",
+      "en": "missing-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/missing-number/",
+    "path": "../../problemset/missing-number/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
