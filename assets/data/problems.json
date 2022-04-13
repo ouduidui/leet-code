@@ -2220,6 +2220,16 @@
     "path": "../../problemset/ugly-number/README.md"
   },
   {
+    "id": 264,
+    "title": {
+      "cn": "丑数 II",
+      "en": "ugly-number-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/ugly-number-ii/",
+    "path": "../../problemset/ugly-number-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

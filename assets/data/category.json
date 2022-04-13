@@ -1004,6 +1004,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 264,
+        "title": "丑数 II",
+        "path": "../../problemset/ugly-number-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
@@ -2577,6 +2583,35 @@
         "id": 440,
         "title": "字典序的第K小数字",
         "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md",
+        "difficulty": "困难"
+      }
+    ]
+  },
+  {
+    "label": "优先队列",
+    "problems": [
+      {
+        "id": 218,
+        "title": "天际线问题",
+        "path": "../../problemset/the-skyline-problem/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 239,
+        "title": "滑动窗口最大值",
+        "path": "../../problemset/sliding-window-maximum/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 264,
+        "title": "丑数 II",
+        "path": "../../problemset/ugly-number-2/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 1606,
+        "title": "找到处理最多请求的服务器",
+        "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md",
         "difficulty": "困难"
       }
     ]

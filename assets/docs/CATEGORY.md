@@ -200,6 +200,7 @@
 | 198. [打家劫舍](../../problemset/house-robber/README.md) | 中等 |
 | 213. [打家劫舍 II](../../problemset/house-robber-2/README.md) | 中等 |
 | 221. [最大正方形](../../problemset/maximal-square/README.md) | 中等 |
+| 264. [丑数 II](../../problemset/ugly-number-2/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
@@ -521,3 +522,12 @@
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 212. [单词搜索 II](../../problemset/word-search-2/README.md) | 困难 |
 | 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |
+
+## 优先队列
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
+| 239. [滑动窗口最大值](../../problemset/sliding-window-maximum/README.md) | 困难 |
+| 264. [丑数 II](../../problemset/ugly-number-2/README.md) | 中等 |
+| 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |

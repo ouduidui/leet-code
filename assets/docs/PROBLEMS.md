@@ -444,6 +444,8 @@
 
 [263. 丑数](../../problemset/ugly-number/README.md)
 
+[264. 丑数 II](../../problemset/ugly-number-2/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)
