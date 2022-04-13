@@ -440,6 +440,8 @@
 
 [258. 各位相加](../../problemset/add-digits/README.md)
 
+[260. 只出现一次的数字 III](../../problemset/single-number-3/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)

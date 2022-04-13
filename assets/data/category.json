@@ -147,6 +147,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 260,
+        "title": "只出现一次的数字 III",
+        "path": "../../problemset/single-number-3/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 432,
         "title": "全 O(1) 的数据结构",
         "path": "../../problemset/all-one-data-structure/README.md",
@@ -2484,6 +2490,12 @@
         "title": "2的幂",
         "path": "../../problemset/power-of-two/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 260,
+        "title": "只出现一次的数字 III",
+        "path": "../../problemset/single-number-3/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 393,

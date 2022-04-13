@@ -2200,6 +2200,16 @@
     "path": "../../problemset/add-digits/README.md"
   },
   {
+    "id": 260,
+    "title": {
+      "cn": "只出现一次的数字 III",
+      "en": "single-number-3"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/single-number-iii/",
+    "path": "../../problemset/single-number-3/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

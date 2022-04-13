@@ -28,6 +28,7 @@
 | 229. [求众数 II](../../problemset/majority-element-2/README.md) | 中等 |
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
+| 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
@@ -497,6 +498,7 @@
 | 201. [数字范围按位与](../../problemset/bitwise-and-of-numbers-range/README.md) | 中等 |
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
+| 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
