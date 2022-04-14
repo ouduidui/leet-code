@@ -2240,6 +2240,16 @@
     "path": "../../problemset/missing-number/README.md"
   },
   {
+    "id": 273,
+    "title": {
+      "cn": "整数转换英文表示",
+      "en": "integer-to-english-words"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/integer-to-english-words/",
+    "path": "../../problemset/integer-to-english-words/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

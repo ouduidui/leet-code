@@ -2055,6 +2055,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 273,
+        "title": "整数转换英文表示",
+        "path": "../../problemset/integer-to-english-words/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 429,
         "title": "N 叉树的层序遍历",
         "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
