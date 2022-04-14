@@ -292,6 +292,7 @@
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
+| 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |

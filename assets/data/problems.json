@@ -2720,6 +2720,16 @@
     "path": "../../problemset/smallest-string-with-a-given-numeric-value/README.md"
   },
   {
+    "id": 1672,
+    "title": {
+      "cn": "最富有客户的资产总量",
+      "en": "richest-customer-wealth"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/richest-customer-wealth/",
+    "path": "../../problemset/richest-customer-wealth/README.md"
+  },
+  {
     "id": 1706,
     "title": {
       "cn": "球会落何处",

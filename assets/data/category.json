@@ -1506,6 +1506,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 1672,
+        "title": "最富有客户的资产总量",
+        "path": "../../problemset/richest-customer-wealth/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1706,
         "title": "球会落何处",
         "path": "../../problemset/where-will-the-ball-fall/README.md",

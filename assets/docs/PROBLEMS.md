@@ -544,6 +544,8 @@
 
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)
 
+[1672. 最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md)
+
 [1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
 
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
