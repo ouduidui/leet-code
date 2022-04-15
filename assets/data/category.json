@@ -522,6 +522,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 278,
+        "title": "第一个错误的版本",
+        "path": "../../problemset/first-bad-version/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",

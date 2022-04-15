@@ -2270,6 +2270,16 @@
     "path": "../../problemset/h-index-2/README.md"
   },
   {
+    "id": 278,
+    "title": {
+      "cn": "第一个错误的版本",
+      "en": "first-bad-version"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/first-bad-version/",
+    "path": "../../problemset/first-bad-version/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
