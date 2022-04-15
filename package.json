@@ -2,8 +2,8 @@
   "name": "algorithm-brushing",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "git@github.com:OUDUIDUI/algorithm-brushing.git",
-  "author": "oushihao <oushihao97@163.com>",
+  "repository": "git@github.com:ouduidui/leet-code.git",
+  "author": "Dewey Ou <oushihao97@gmail.com>",
   "scripts": {
     "create": "node scripts/create",
     "update": "node scripts/category",
@@ -21,7 +21,6 @@
     "eslint": "^8.13.0",
     "execa": "^6.1.0",
     "figlet": "^1.5.2",
-    "husky": "^7.0.4",
     "inquirer": "^8.2.2",
     "typescript": "^4.6.3",
     "vite": "^2.9.1",
