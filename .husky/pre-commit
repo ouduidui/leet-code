@@ -3,4 +3,6 @@
 
 PATH=$PATH:/usr/local/bin:/usr/local/sbin
 
+echo $HUSKY_GIT_PARAMS
+
 npm run test:run
