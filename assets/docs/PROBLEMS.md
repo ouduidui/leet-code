@@ -450,6 +450,8 @@
 
 [273. 整数转换英文表示](../../problemset/integer-to-english-words/README.md)
 
+[274. H指数](../../problemset/h-index/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)

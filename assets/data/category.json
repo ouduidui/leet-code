@@ -599,6 +599,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 274,
+        "title": "H指数",
+        "path": "../../problemset/h-index/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 954,
         "title": "二倍数对数组",
         "path": "../../problemset/array-of-doubled-pairs/README.md",

@@ -2250,6 +2250,16 @@
     "path": "../../problemset/integer-to-english-words/README.md"
   },
   {
+    "id": 274,
+    "title": {
+      "cn": "H指数",
+      "en": "h-index"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/h-index/",
+    "path": "../../problemset/h-index/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
