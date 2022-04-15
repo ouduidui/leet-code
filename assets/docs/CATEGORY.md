@@ -102,6 +102,7 @@
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 | 222. [完全二叉树的节点个数](../../problemset/count-complete-tree-nodes/README.md) | 中等 |
 | 240. [搜索二维矩阵 II](../../problemset/search-a-2d-matrix-2/README.md) | 中等 |
+| 275. [H指数 II](../../problemset/h-index-2/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |

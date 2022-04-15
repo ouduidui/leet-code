@@ -2260,6 +2260,16 @@
     "path": "../../problemset/h-index/README.md"
   },
   {
+    "id": 275,
+    "title": {
+      "cn": "H指数 II",
+      "en": "h-index-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/h-index-ii/",
+    "path": "../../problemset/h-index-2/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

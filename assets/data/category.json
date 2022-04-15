@@ -516,6 +516,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 275,
+        "title": "H指数 II",
+        "path": "../../problemset/h-index-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 300,
         "title": "最长递增子序列",
         "path": "../../problemset/longest-increasing-subsequence/README.md",
