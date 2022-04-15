@@ -1810,6 +1810,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 385,
+        "title": "迷你语法分析器",
+        "path": "../../problemset/mini-parser/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 2104,
         "title": "子数组范围和",
         "path": "../../problemset/sum-of-subarray-ranges/README.md",
@@ -2059,6 +2065,12 @@
         "title": "整数转换英文表示",
         "path": "../../problemset/integer-to-english-words/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 385,
+        "title": "迷你语法分析器",
+        "path": "../../problemset/mini-parser/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 429,

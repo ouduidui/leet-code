@@ -351,6 +351,7 @@
 | 225. [用队列实现栈](../../problemset/implement-stack-using-queues/README.md) | 简单 |
 | 227. [基本计算器 II](../../problemset/basic-calculator-2/README.md) | 中等 |
 | 232. [用栈实现队列](../../problemset/implement-queue-using-stacks/README.md) | 简单 |
+| 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 
 ## 递归 & 迭代
@@ -397,6 +398,7 @@
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
+| 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |

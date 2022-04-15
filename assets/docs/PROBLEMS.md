@@ -460,6 +460,8 @@
 
 [380. O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md)
 
+[385. 迷你语法分析器](../../problemset/mini-parser/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)
