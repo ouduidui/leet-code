@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { trailingZeroes, trailingZeroes2, trailingZeroes3 } from '.'
-// need refactor
+
 describe('阶乘后的零', () => {
   describe('计算阶乘', () => {
     testCase(trailingZeroes)
@@ -16,21 +16,11 @@ describe('阶乘后的零', () => {
 })
 
 function testCase(fn: (n: number) => number) {
-  it('示例一', () => {
-    const n = 3
-    const expected = 0
-    expect(fn(n)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const n = 5
-    const expected = 1
-    expect(fn(n)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const n = 0
-    const expected = 0
+  it.each([
+    [3, 0],
+    [5, 1],
+    [0, 0],
+  ])('示例%#', (n, expected) => {
     expect(fn(n)).toBe(expected)
   })
 }

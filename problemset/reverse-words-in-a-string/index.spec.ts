@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { reverseWords, reverseWords2 } from '.'
-// need refactor
+
 describe('翻转字符串中里的单词', () => {
   describe('语言特性', () => {
     testCase(reverseWords)
@@ -12,38 +12,13 @@ describe('翻转字符串中里的单词', () => {
 })
 
 function testCase(fn: (s: string) => string) {
-  it('示例一', () => {
-    const s = 'the sky is blue'
-    const expected = 'blue is sky the'
-
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const s = '  hello world  '
-    const expected = 'world hello'
-
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const s = 'a good   example'
-    const expected = 'example good a'
-
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例四', () => {
-    const s = '  Bob    Loves  Alice   '
-    const expected = 'Alice Loves Bob'
-
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例五', () => {
-    const s = 'Alice does not even like bob'
-    const expected = 'bob like even not does Alice'
-
+  it.each([
+    ['the sky is blue', 'blue is sky the'],
+    ['  hello world  ', 'world hello'],
+    ['a good   example', 'example good a'],
+    ['  Bob    Loves  Alice   ', 'Alice Loves Bob'],
+    ['Alice does not even like bob', 'bob like even not does Alice'],
+  ])('示例%#', (s, expected) => {
     expect(fn(s)).toBe(expected)
   })
 }

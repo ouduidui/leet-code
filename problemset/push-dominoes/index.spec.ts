@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { pushDominoes, pushDominoes2 } from '.'
-// need refactor
+
 describe('推多米诺', () => {
   describe('广度优先搜索', () => {
     testCase(pushDominoes)
@@ -12,15 +12,10 @@ describe('推多米诺', () => {
 })
 
 function testCase(fn: (dominoes: string) => string) {
-  it('示例一', () => {
-    const dominoes = 'RR.L'
-    const expected = 'RR.L'
-    expect(fn(dominoes)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const dominoes = '.L.R...LR..L..'
-    const expected = 'LL.RR.LLRRLL..'
+  it.each([
+    ['RR.L', 'RR.L'],
+    ['.L.R...LR..L..', 'LL.RR.LLRRLL..'],
+  ])('示例%#', (dominoes, expected) => {
     expect(fn(dominoes)).toBe(expected)
   })
 }

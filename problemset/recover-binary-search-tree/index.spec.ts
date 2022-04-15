@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { recoverTree, recoverTree2, recoverTree3 } from '.'
 import type { TreeNode } from '~/utils/treeNode'
 import { createTreeNode } from '~/utils/treeNode'
-// need refactor
+
 describe('恢复二叉搜索树', () => {
   describe('显式中序遍历', () => {
     testCase(recoverTree)
@@ -18,19 +18,12 @@ describe('恢复二叉搜索树', () => {
 })
 
 function testCase(fn: (root: TreeNode | null) => void) {
-  it('示例一', () => {
-    const root = createTreeNode([1, 3, null, null, 2])
-    const expected = createTreeNode([3, 1, null, null, 2])
+  it.each([
+    [[1, 3, null, null, 2], [3, 1, null, null, 2]],
+    [[3, 1, 4, null, null, 2], [2, 1, 4, null, null, 3]],
+  ])('示例%#', (arr, expected) => {
+    const root = createTreeNode(arr)
     fn(root)
-
-    expect(root).toStrictEqual(expected)
-  })
-
-  it('示例二', () => {
-    const root = createTreeNode([3, 1, 4, null, null, 2])
-    const expected = createTreeNode([2, 1, 4, null, null, 3])
-    fn(root)
-
-    expect(root).toStrictEqual(expected)
+    expect(root).toStrictEqual(createTreeNode(expected))
   })
 }

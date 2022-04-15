@@ -1,34 +1,33 @@
 import { describe, it } from 'vitest'
 import { permuteUnique } from '.'
 import { twoDimensionalArrayEqual } from '~/utils/tools'
-// need refactor
+
 describe('全排列 II', () => {
   testCase(permuteUnique)
 })
 
 function testCase(fn: (nums: number[]) => number[][]) {
-  it('示例一', () => {
-    const nums = [1, 1, 2]
-    const expected = [
+  it.each([
+    [
       [1, 1, 2],
-      [1, 2, 1],
-      [2, 1, 1],
-    ]
-
-    twoDimensionalArrayEqual(fn(nums) as number[][], expected)
-  })
-
-  it('示例二', () => {
-    const nums = [1, 2, 3]
-    const expected = [
+      [
+        [1, 1, 2],
+        [1, 2, 1],
+        [2, 1, 1],
+      ],
+    ],
+    [
       [1, 2, 3],
-      [1, 3, 2],
-      [2, 1, 3],
-      [2, 3, 1],
-      [3, 1, 2],
-      [3, 2, 1],
-    ]
-
-    twoDimensionalArrayEqual(fn(nums) as number[][], expected)
+      [
+        [1, 2, 3],
+        [1, 3, 2],
+        [2, 1, 3],
+        [2, 3, 1],
+        [3, 1, 2],
+        [3, 2, 1],
+      ],
+    ],
+  ])('示例%#', (nums, expected) => {
+    twoDimensionalArrayEqual(fn(nums), expected)
   })
 }

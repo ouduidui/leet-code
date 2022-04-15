@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { convertToTitle, convertToTitle2 } from '.'
-// need refactor
+
 describe('Excel表列名称', () => {
   describe('数学', () => {
     testCase(convertToTitle)
@@ -12,27 +12,12 @@ describe('Excel表列名称', () => {
 })
 
 function testCase(fn: (columnNumber: number) => string) {
-  it('示例一', () => {
-    const columnNumber = 1
-    const expected = 'A'
-    expect(fn(columnNumber)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const columnNumber = 28
-    const expected = 'AB'
-    expect(fn(columnNumber)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const columnNumber = 701
-    const expected = 'ZY'
-    expect(fn(columnNumber)).toBe(expected)
-  })
-
-  it('示例四', () => {
-    const columnNumber = 2147483647
-    const expected = 'FXSHRXW'
+  it.each([
+    [1, 'A'],
+    [28, 'AB'],
+    [701, 'ZY'],
+    [2147483647, 'FXSHRXW'],
+  ])('示例%#', (columnNumber, expected) => {
     expect(fn(columnNumber)).toBe(expected)
   })
 }
