@@ -335,6 +335,7 @@
 | 212. [单词搜索 II](../../problemset/word-search-2/README.md) | 困难 |
 | 213. [打家劫舍 II](../../problemset/house-robber-2/README.md) | 中等 |
 | 216. [组合总和 III](../../problemset/combination-sum-3/README.md) | 中等 |
+| 282. [给表达式添加运算符](../../problemset/expression-add-operators/README.md) | 困难 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 

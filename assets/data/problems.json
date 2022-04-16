@@ -2290,6 +2290,16 @@
     "path": "../../problemset/perfect-squares/README.md"
   },
   {
+    "id": 282,
+    "title": {
+      "cn": "给表达式添加运算符",
+      "en": "expression-add-operators"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/expression-add-operators/",
+    "path": "../../problemset/expression-add-operators/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",
