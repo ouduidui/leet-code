@@ -820,6 +820,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 279,
+        "title": "完全平方数",
+        "path": "../../problemset/perfect-squares/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 357,
         "title": "统计各位数字都不同的数字个数",
         "path": "../../problemset/count-numbers-with-unique-digits/README.md",
@@ -1043,6 +1049,12 @@
         "id": 264,
         "title": "丑数 II",
         "path": "../../problemset/ugly-number-2/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 279,
+        "title": "完全平方数",
+        "path": "../../problemset/perfect-squares/README.md",
         "difficulty": "中等"
       },
       {

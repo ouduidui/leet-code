@@ -2280,6 +2280,16 @@
     "path": "../../problemset/first-bad-version/README.md"
   },
   {
+    "id": 279,
+    "title": {
+      "cn": "完全平方数",
+      "en": "perfect-squares"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/perfect-squares/",
+    "path": "../../problemset/perfect-squares/README.md"
+  },
+  {
     "id": 300,
     "title": {
       "cn": "最长递增子序列",

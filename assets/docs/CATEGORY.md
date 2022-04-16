@@ -161,6 +161,7 @@
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 263. [丑数](../../problemset/ugly-number/README.md) | 简单 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
+| 279. [完全平方数](../../problemset/perfect-squares/README.md) | 中等 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
@@ -207,6 +208,7 @@
 | 213. [打家劫舍 II](../../problemset/house-robber-2/README.md) | 中等 |
 | 221. [最大正方形](../../problemset/maximal-square/README.md) | 中等 |
 | 264. [丑数 II](../../problemset/ugly-number-2/README.md) | 中等 |
+| 279. [完全平方数](../../problemset/perfect-squares/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
