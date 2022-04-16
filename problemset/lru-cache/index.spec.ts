@@ -1,6 +1,6 @@
 import { expect, it } from 'vitest'
 import { LRUCache } from '.'
-// need refactor
+
 it('LRU缓存', () => {
   const obj = new LRUCache(2)
   obj.put(1, 1)

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { singleNumber, singleNumber2, singleNumber3, singleNumber4 } from '.'
-// need refactor
+
 describe('只出现一次的数字 II', () => {
   describe('哈希表', () => {
     testCase(singleNumber)
@@ -20,15 +20,10 @@ describe('只出现一次的数字 II', () => {
 })
 
 function testCase(fn: (nums: number[]) => number) {
-  it('示例一', () => {
-    const nums = [2, 2, 3, 2]
-    const expected = 3
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const nums = [0, 1, 0, 1, 0, 1, 99]
-    const expected = 99
+  it.each([
+    [[2, 2, 3, 2], 3],
+    [[0, 1, 0, 1, 0, 1, 99], 99],
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected)
   })
 }

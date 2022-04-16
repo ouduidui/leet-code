@@ -1,7 +1,7 @@
 import { describe, it } from 'vitest'
 import { groupAnagrams } from '.'
 import { twoDimensionalArrayEqual } from '~/utils/tools'
-// need refactor
+
 describe('字母异位词分组', () => {
   describe('排序', () => {
     testCase(groupAnagrams)
@@ -9,24 +9,20 @@ describe('字母异位词分组', () => {
 })
 
 function testCase(fn: (strs: string[]) => string[][]) {
-  it('示例一', () => {
-    const strs = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat']
-    const expected = [['bat'], ['nat', 'tan'], ['ate', 'eat', 'tea']]
-
-    twoDimensionalArrayEqual(fn(strs), expected, true)
-  })
-
-  it('示例二', () => {
-    const strs = ['']
-    const expected = [['']]
-
-    twoDimensionalArrayEqual(fn(strs), expected, true)
-  })
-
-  it('示例三', () => {
-    const strs = ['a']
-    const expected = [['a']]
-
+  it.each([
+    [
+      ['eat', 'tea', 'tan', 'ate', 'nat', 'bat'],
+      [['bat'], ['nat', 'tan'], ['ate', 'eat', 'tea']],
+    ],
+    [
+      [''],
+      [['']],
+    ],
+    [
+      ['a'],
+      [['a']],
+    ],
+  ])('示例%#', (strs, expected) => {
     twoDimensionalArrayEqual(fn(strs), expected, true)
   })
 }

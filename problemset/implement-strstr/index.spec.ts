@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { strStr, strStr2 } from '.'
-// need refactor
+
 describe('实现strStr()', () => {
   describe('暴力解法', () => {
     testCase(strStr)
@@ -12,27 +12,11 @@ describe('实现strStr()', () => {
 })
 
 function testCase(fn: (haystack: string, needle: string) => number) {
-  it('示例一', () => {
-    const haystack = 'hello'
-    const needle = 'll'
-    const expected = 2
-
-    expect(fn(haystack, needle)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const haystack = 'aaaaa'
-    const needle = 'bba'
-    const expected = -1
-
-    expect(fn(haystack, needle)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const haystack = ''
-    const needle = ''
-    const expected = 0
-
+  it.each([
+    ['hello', 'll', 2],
+    ['aaaaa', 'bba', -1],
+    ['', '', 0],
+  ])('示例%#', (haystack, needle, expected) => {
     expect(fn(haystack, needle)).toBe(expected)
   })
 }

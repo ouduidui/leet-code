@@ -1,28 +1,21 @@
 import { describe, expect, it } from 'vitest'
 import { generateParenthesis } from '.'
-// need refactor
+
 describe('括号生成', () => {
   testCase(generateParenthesis)
 })
 
 function testCase(fn: (n: number) => string[]) {
-  it('示例一', () => {
-    const n = 3
-    const expected: string[] = [
+  it.each([
+    [3, [
       '((()))',
       '(()())',
       '(())()',
       '()(())',
       '()()()',
-    ]
-
-    checkExpected(fn(n), expected)
-  })
-
-  it('示例二', () => {
-    const n = 1
-    const expected: string[] = ['()']
-
+    ]],
+    [1, ['()']],
+  ])('示例%#', (n, expected) => {
     checkExpected(fn(n), expected)
   })
 }

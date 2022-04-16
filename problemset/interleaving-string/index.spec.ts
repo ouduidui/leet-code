@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { isInterleave, isInterleave2 } from '.'
-// need refactor
+
 describe('交错字符串', () => {
   describe('动态规划', () => {
     testCase(isInterleave)
@@ -12,30 +12,11 @@ describe('交错字符串', () => {
 })
 
 function testCase(fn: (s1: string, s2: string, s3: string) => boolean) {
-  it('示例一', () => {
-    const s1 = 'aabcc'
-    const s2 = 'dbbca'
-    const s3 = 'aadbbcbcac'
-    const expected = true
-
-    expect(fn(s1, s2, s3)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const s1 = 'aabcc'
-    const s2 = 'dbbca'
-    const s3 = 'aadbbbaccc'
-    const expected = false
-
-    expect(fn(s1, s2, s3)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const s1 = ''
-    const s2 = ''
-    const s3 = ''
-    const expected = true
-
+  it.each([
+    ['aabcc', 'dbbca', 'aadbbcbcac', true],
+    ['aabcc', 'dbbca', 'aadbbbaccc', false],
+    ['', '', '', true],
+  ])('示例%#', (s1, s2, s3, expected) => {
     expect(fn(s1, s2, s3)).toBe(expected)
   })
 }

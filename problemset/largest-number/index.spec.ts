@@ -1,26 +1,16 @@
 import { describe, expect, it } from 'vitest'
 import { largestNumber } from '.'
-// need refactor
+
 describe('最大数', () => {
   testCase(largestNumber)
 })
 
 function testCase(fn: (nums: number[]) => string) {
-  it('示例一', () => {
-    const nums = [10, 2]
-    const expected = '210'
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const nums = [3, 30, 34, 5, 9]
-    const expected = '9534330'
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const nums = [111311, 1113]
-    const expected = '1113111311'
+  it.each([
+    [[10, 2], '210'],
+    [[3, 30, 34, 5, 9], '9534330'],
+    [[111311, 1113], '1113111311'],
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected)
   })
 }
