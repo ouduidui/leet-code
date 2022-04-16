@@ -2499,6 +2499,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 479,
+        "title": "最大回文数乘积",
+        "path": "../../problemset/largest-palindrome-product/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1601,
         "title": "最多可达成的换楼请求数目",
         "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",

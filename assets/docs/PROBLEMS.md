@@ -478,6 +478,8 @@
 
 [440. 字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md)
 
+[479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)
+
 [504. 七进制数](../../problemset/base-7/README.md)
 
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)

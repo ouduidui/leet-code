@@ -2390,6 +2390,16 @@
     "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md"
   },
   {
+    "id": 479,
+    "title": {
+      "cn": "最大回文数乘积",
+      "en": "largest-palindrome-product"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/largest-palindrome-product/",
+    "path": "../../problemset/largest-palindrome-product/README.md"
+  },
+  {
     "id": 504,
     "title": {
       "cn": "七进制数",
