@@ -242,6 +242,7 @@
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 202. [快乐数](../../problemset/happy-number/README.md) | 简单 |
 | 233. [数字1的个数](../../problemset/number-of-digit-one/README.md) | 困难 |
+| 234. [回文链表](../../problemset/palindrome-linked-list/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 

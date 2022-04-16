@@ -37,4 +37,4 @@ jobs:
         run: nr lint --if-present
 
       - name: Test
-        run: nr test --if-present
+        run: nr test:all --if-present
