@@ -36,6 +36,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
 | 804. [唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md) | 简单 |
+| 819. [最常见的单词](../../problemset/most-common-word/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
