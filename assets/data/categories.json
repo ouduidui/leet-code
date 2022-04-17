@@ -1237,6 +1237,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "283",
+        "title": "移动零",
+        "path": "./problemset/move-zeroes/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "653",
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
