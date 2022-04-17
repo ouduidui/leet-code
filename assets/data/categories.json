@@ -1,2719 +1,2719 @@
 [
   {
     "label": "哈希表",
-    "problems": [
+    "topics": [
       {
-        "id": 1,
+        "id": "1",
         "title": "两数之和",
-        "path": "../../problemset/two-sum/README.md",
+        "path": "./problemset/two-sum/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 3,
+        "id": "3",
         "title": "无重复字符的最长子串",
-        "path": "../../problemset/longest-substring-without-repeating-characters/README.md",
+        "path": "./problemset/longest-substring-without-repeating-characters/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 13,
+        "id": "13",
         "title": "罗马数字转整数",
-        "path": "../../problemset/roman-to-integer/README.md",
+        "path": "./problemset/roman-to-integer/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 30,
+        "id": "30",
         "title": "串联所有单词的子串",
-        "path": "../../problemset/substring-with-concatenation-of-all-words/README.md",
+        "path": "./problemset/substring-with-concatenation-of-all-words/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 36,
+        "id": "36",
         "title": "有效的数独",
-        "path": "../../problemset/valid-sudoku/README.md",
+        "path": "./problemset/valid-sudoku/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 41,
+        "id": "41",
         "title": "缺失的第一个正数",
-        "path": "../../problemset/first-missing-positive/README.md",
+        "path": "./problemset/first-missing-positive/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 128,
+        "id": "128",
         "title": "最长连续序列",
-        "path": "../../problemset/longest-consecutive-sequence/README.md",
+        "path": "./problemset/longest-consecutive-sequence/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 136,
+        "id": "136",
         "title": "只出现一次的数字",
-        "path": "../../problemset/single-number/README.md",
+        "path": "./problemset/single-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 137,
+        "id": "137",
         "title": "只出现一次的数字 II",
-        "path": "../../problemset/single-number-2/README.md",
+        "path": "./problemset/single-number-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 141,
+        "id": "141",
         "title": "环形链表",
-        "path": "../../problemset/linked-list-cycle/README.md",
+        "path": "./problemset/linked-list-cycle/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 142,
+        "id": "142",
         "title": "环形链表 II",
-        "path": "../../problemset/linked-list-cycle-ii/README.md",
+        "path": "./problemset/linked-list-cycle-ii/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 146,
+        "id": "146",
         "title": "LRU缓存",
-        "path": "../../problemset/lru-cache/README.md",
+        "path": "./problemset/lru-cache/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 149,
+        "id": "149",
         "title": "直线上最多的点数",
-        "path": "../../problemset/max-points-on-a-line/README.md",
+        "path": "./problemset/max-points-on-a-line/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 160,
+        "id": "160",
         "title": "相交链表",
-        "path": "../../problemset/intersection-of-two-linked-lists/README.md",
+        "path": "./problemset/intersection-of-two-linked-lists/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 169,
+        "id": "169",
         "title": "多数元素",
-        "path": "../../problemset/majority-element/README.md",
+        "path": "./problemset/majority-element/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 187,
+        "id": "187",
         "title": "重复的DNA序列",
-        "path": "../../problemset/repeated-dna-sequences/README.md",
+        "path": "./problemset/repeated-dna-sequences/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 202,
+        "id": "202",
         "title": "快乐数",
-        "path": "../../problemset/happy-number/README.md",
+        "path": "./problemset/happy-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 205,
+        "id": "205",
         "title": "同构字符串",
-        "path": "../../problemset/isomorphic-strings/README.md",
+        "path": "./problemset/isomorphic-strings/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 217,
+        "id": "217",
         "title": "存在重复元素",
-        "path": "../../problemset/contains-duplicate/README.md",
+        "path": "./problemset/contains-duplicate/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 219,
+        "id": "219",
         "title": "存在重复元素 II",
-        "path": "../../problemset/contains-duplicate-2/README.md",
+        "path": "./problemset/contains-duplicate-2/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 220,
+        "id": "220",
         "title": "存在重复元素 III",
-        "path": "../../problemset/contains-duplicate-3/README.md",
+        "path": "./problemset/contains-duplicate-3/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 229,
+        "id": "229",
         "title": "求众数 II",
-        "path": "../../problemset/majority-element-2/README.md",
+        "path": "./problemset/majority-element-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 236,
+        "id": "236",
         "title": "二叉树的最近公共祖先",
-        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "path": "./problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 242,
+        "id": "242",
         "title": "有效的字母异位词",
-        "path": "../../problemset/valid-anagram/README.md",
+        "path": "./problemset/valid-anagram/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 260,
+        "id": "260",
         "title": "只出现一次的数字 III",
-        "path": "../../problemset/single-number-3/README.md",
+        "path": "./problemset/single-number-3/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 268,
+        "id": "268",
         "title": "丢失的数字",
-        "path": "../../problemset/missing-number/README.md",
+        "path": "./problemset/missing-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 380,
+        "id": "380",
         "title": "O(1) 时间插入、删除和获取随机元素",
-        "path": "../../problemset/insert-delete-getrandom-o1/README.md",
+        "path": "./problemset/insert-delete-getrandom-o1/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 432,
+        "id": "432",
         "title": "全 O(1) 的数据结构",
-        "path": "../../problemset/all-one-data-structure/README.md",
+        "path": "./problemset/all-one-data-structure/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 599,
+        "id": "599",
         "title": "两个列表的最小索引总和",
-        "path": "../../problemset/minimum-index-sum-of-two-lists/README.md",
+        "path": "./problemset/minimum-index-sum-of-two-lists/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 653,
+        "id": "653",
         "title": "两数之和 IV - 输入 BST",
-        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 720,
+        "id": "720",
         "title": "词典中最长的单词",
-        "path": "../../problemset/longest-word-in-dictionary/README.md",
+        "path": "./problemset/longest-word-in-dictionary/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 804,
+        "id": "804",
         "title": "唯一摩尔斯密码词",
-        "path": "../../problemset/unique-morse-code-words/README.md",
+        "path": "./problemset/unique-morse-code-words/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 819,
+        "id": "819",
         "title": "最常见的单词",
-        "path": "../../problemset/most-common-word/README.md",
+        "path": "./problemset/most-common-word/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 884,
+        "id": "884",
         "title": "两句话中的不常见单词",
-        "path": "../../problemset/uncommon-words-from-two-sentences/README.md",
+        "path": "./problemset/uncommon-words-from-two-sentences/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 954,
+        "id": "954",
         "title": "二倍数对数组",
-        "path": "../../problemset/array-of-doubled-pairs/README.md",
+        "path": "./problemset/array-of-doubled-pairs/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1001,
+        "id": "1001",
         "title": "网格照明",
-        "path": "../../problemset/grid-illumination/README.md",
+        "path": "./problemset/grid-illumination/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 1189,
+        "id": "1189",
         "title": "“气球” 的最大数量",
-        "path": "../../problemset/maximum-number-of-balloons/README.md",
+        "path": "./problemset/maximum-number-of-balloons/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1380,
+        "id": "1380",
         "title": "矩阵中的幸运数",
-        "path": "../../problemset/lucky-numbers-in-a-matrix/README.md",
+        "path": "./problemset/lucky-numbers-in-a-matrix/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2006,
+        "id": "2006",
         "title": "差的绝对值为 K 的数对数目",
-        "path": "../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md",
+        "path": "./problemset/count-number-of-pairs-with-absolute-difference-k/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2013,
+        "id": "2013",
         "title": "检测正方形",
-        "path": "../../problemset/detect-squares/README.md",
+        "path": "./problemset/detect-squares/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "链表",
-    "problems": [
+    "topics": [
       {
-        "id": 2,
+        "id": "2",
         "title": "两数相加",
-        "path": "../../problemset/add-two-numbers/README.md",
+        "path": "./problemset/add-two-numbers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 19,
+        "id": "19",
         "title": "删除链表的倒数第 N 个结点",
-        "path": "../../problemset/remove-nth-node-from-end-of-list/README.md",
+        "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 21,
+        "id": "21",
         "title": "合并两个有序链表",
-        "path": "../../problemset/merge-two-sorted-lists/README.md",
+        "path": "./problemset/merge-two-sorted-lists/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 23,
+        "id": "23",
         "title": "合并 K 个升序链表",
-        "path": "../../problemset/merge-k-sorted-lists/README.md",
+        "path": "./problemset/merge-k-sorted-lists/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 24,
+        "id": "24",
         "title": "两两交换链表中的节点",
-        "path": "../../problemset/swap-nodes-in-pairs/README.md",
+        "path": "./problemset/swap-nodes-in-pairs/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 25,
+        "id": "25",
         "title": "K 个一组翻转链表",
-        "path": "../../problemset/reverse-nodes-in-k-group/README.md",
+        "path": "./problemset/reverse-nodes-in-k-group/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 61,
+        "id": "61",
         "title": "旋转链表",
-        "path": "../../problemset/rotate-list/README.md",
+        "path": "./problemset/rotate-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 82,
+        "id": "82",
         "title": "删除排序链表的重复元素 II",
-        "path": "../../problemset/remove-duplicates-from-sorted-list-2/README.md",
+        "path": "./problemset/remove-duplicates-from-sorted-list-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 83,
+        "id": "83",
         "title": "删除排序列表中的重复元素",
-        "path": "../../problemset/remove-duplicates-from-sorted-list/README.md",
+        "path": "./problemset/remove-duplicates-from-sorted-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 86,
+        "id": "86",
         "title": "分隔链表",
-        "path": "../../problemset/partition-list/README.md",
+        "path": "./problemset/partition-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 92,
+        "id": "92",
         "title": "反转链表 II",
-        "path": "../../problemset/reverse-linked-list-2/README.md",
+        "path": "./problemset/reverse-linked-list-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 138,
+        "id": "138",
         "title": "复制带随机指针的链表",
-        "path": "../../problemset/copy-list-with-random-pointer/README.md",
+        "path": "./problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 142,
+        "id": "142",
         "title": "环形链表 II",
-        "path": "../../problemset/linked-list-cycle-ii/README.md",
+        "path": "./problemset/linked-list-cycle-ii/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 143,
+        "id": "143",
         "title": "重排链表",
-        "path": "../../problemset/reorder-list/README.md",
+        "path": "./problemset/reorder-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 146,
+        "id": "146",
         "title": "LRU缓存",
-        "path": "../../problemset/lru-cache/README.md",
+        "path": "./problemset/lru-cache/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 147,
+        "id": "147",
         "title": "对链表进行插入排序",
-        "path": "../../problemset/insertion-sort-list/README.md",
+        "path": "./problemset/insertion-sort-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 148,
+        "id": "148",
         "title": "排序链表",
-        "path": "../../problemset/sort-list/README.md",
+        "path": "./problemset/sort-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 203,
+        "id": "203",
         "title": "移除链表元素",
-        "path": "../../problemset/remove-linked-list-elements/README.md",
+        "path": "./problemset/remove-linked-list-elements/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 206,
+        "id": "206",
         "title": "反转链表",
-        "path": "../../problemset/reverse-linked-list/README.md",
+        "path": "./problemset/reverse-linked-list/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 237,
+        "id": "237",
         "title": "删除链表中的节点",
-        "path": "../../problemset/delete-node-in-a-linked-list/README.md",
+        "path": "./problemset/delete-node-in-a-linked-list/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 432,
+        "id": "432",
         "title": "全 O(1) 的数据结构",
-        "path": "../../problemset/all-one-data-structure/README.md",
+        "path": "./problemset/all-one-data-structure/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "滑动窗口",
-    "problems": [
+    "topics": [
       {
-        "id": 3,
+        "id": "3",
         "title": "无重复字符的最长子串",
-        "path": "../../problemset/longest-substring-without-repeating-characters/README.md",
+        "path": "./problemset/longest-substring-without-repeating-characters/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 30,
+        "id": "30",
         "title": "串联所有单词的子串",
-        "path": "../../problemset/substring-with-concatenation-of-all-words/README.md",
+        "path": "./problemset/substring-with-concatenation-of-all-words/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 76,
+        "id": "76",
         "title": "最小覆盖子串",
-        "path": "../../problemset/minimum-window-substring/README.md",
+        "path": "./problemset/minimum-window-substring/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 187,
+        "id": "187",
         "title": "重复的DNA序列",
-        "path": "../../problemset/repeated-dna-sequences/README.md",
+        "path": "./problemset/repeated-dna-sequences/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 209,
+        "id": "209",
         "title": "长度最小的子数组",
-        "path": "../../problemset/minimum-size-subarray-sum/README.md",
+        "path": "./problemset/minimum-size-subarray-sum/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 219,
+        "id": "219",
         "title": "存在重复元素 II",
-        "path": "../../problemset/contains-duplicate-2/README.md",
+        "path": "./problemset/contains-duplicate-2/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 220,
+        "id": "220",
         "title": "存在重复元素 III",
-        "path": "../../problemset/contains-duplicate-3/README.md",
+        "path": "./problemset/contains-duplicate-3/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 239,
+        "id": "239",
         "title": "滑动窗口最大值",
-        "path": "../../problemset/sliding-window-maximum/README.md",
+        "path": "./problemset/sliding-window-maximum/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 1763,
+        "id": "1763",
         "title": "最长的美好子字符串",
-        "path": "../../problemset/longest-nice-substring/README.md",
+        "path": "./problemset/longest-nice-substring/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2024,
+        "id": "2024",
         "title": "考试的最大困扰度",
-        "path": "../../problemset/maximize-the-confusion-of-an-exam/README.md",
+        "path": "./problemset/maximize-the-confusion-of-an-exam/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "二分法",
-    "problems": [
+    "topics": [
       {
-        "id": 4,
+        "id": "4",
         "title": "寻找两个正序数组的中位数",
-        "path": "../../problemset/median-of-two-sorted-arrays/README.md",
+        "path": "./problemset/median-of-two-sorted-arrays/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 29,
+        "id": "29",
         "title": "两数相除",
-        "path": "../../problemset/divide-two-integers/README.md",
+        "path": "./problemset/divide-two-integers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 33,
+        "id": "33",
         "title": "搜索旋转排序数组",
-        "path": "../../problemset/search-in-rotated-sorted-array/README.md",
+        "path": "./problemset/search-in-rotated-sorted-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 34,
+        "id": "34",
         "title": "在排序数组中查找元素的第一个和最后一个位置",
-        "path": "../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md",
+        "path": "./problemset/find-first-and-last-position-of-element-in-sorted-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 35,
+        "id": "35",
         "title": "搜索插入位置",
-        "path": "../../problemset/search-insert-position/README.md",
+        "path": "./problemset/search-insert-position/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 69,
+        "id": "69",
         "title": "Sqrt(x)",
-        "path": "../../problemset/sqrtx/README.md",
+        "path": "./problemset/sqrtx/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 74,
+        "id": "74",
         "title": "搜索二维矩阵",
-        "path": "../../problemset/search-a-2d-matrix/README.md",
+        "path": "./problemset/search-a-2d-matrix/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 81,
+        "id": "81",
         "title": "搜索旋转排序数组 II",
-        "path": "../../problemset/search-in-rotated-sorted-array-2/README.md",
+        "path": "./problemset/search-in-rotated-sorted-array-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 153,
+        "id": "153",
         "title": "寻找旋转排序数组中的最小值",
-        "path": "../../problemset/find-minimum-in-rotated-sorted-array/README.md",
+        "path": "./problemset/find-minimum-in-rotated-sorted-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 154,
+        "id": "154",
         "title": "寻找旋转排序数组中的最小值 II",
-        "path": "../../problemset/find-minimum-in-rotated-sorted-array-2/README.md",
+        "path": "./problemset/find-minimum-in-rotated-sorted-array-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 162,
+        "id": "162",
         "title": "寻找峰值",
-        "path": "../../problemset/find-peak-element/README.md",
+        "path": "./problemset/find-peak-element/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 222,
+        "id": "222",
         "title": "完全二叉树的节点个数",
-        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "path": "./problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 240,
+        "id": "240",
         "title": "搜索二维矩阵 II",
-        "path": "../../problemset/search-a-2d-matrix-2/README.md",
+        "path": "./problemset/search-a-2d-matrix-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 275,
+        "id": "275",
         "title": "H指数 II",
-        "path": "../../problemset/h-index-2/README.md",
+        "path": "./problemset/h-index-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 278,
+        "id": "278",
         "title": "第一个错误的版本",
-        "path": "../../problemset/first-bad-version/README.md",
+        "path": "./problemset/first-bad-version/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 300,
+        "id": "300",
         "title": "最长递增子序列",
-        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "path": "./problemset/longest-increasing-subsequence/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 540,
+        "id": "540",
         "title": "有序数组中的单一元素",
-        "path": "../../problemset/single-element-in-a-sorted-array/README.md",
+        "path": "./problemset/single-element-in-a-sorted-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 744,
+        "id": "744",
         "title": "寻找比目标字母大的最小字母",
-        "path": "../../problemset/find-smallest-letter-greater-than-target/README.md",
+        "path": "./problemset/find-smallest-letter-greater-than-target/README.md",
         "difficulty": "简单"
       }
     ]
   },
   {
     "label": "排序",
-    "problems": [
+    "topics": [
       {
-        "id": 6,
+        "id": "6",
         "title": "Z 字形变换",
-        "path": "../../problemset/zigzag-conversion/README.md",
+        "path": "./problemset/zigzag-conversion/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 49,
+        "id": "49",
         "title": "字母异位词分组",
-        "path": "../../problemset/group-anagrams/README.md",
+        "path": "./problemset/group-anagrams/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 56,
+        "id": "56",
         "title": "合并区间",
-        "path": "../../problemset/merge-intervals/README.md",
+        "path": "./problemset/merge-intervals/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 147,
+        "id": "147",
         "title": "对链表进行插入排序",
-        "path": "../../problemset/insertion-sort-list/README.md",
+        "path": "./problemset/insertion-sort-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 148,
+        "id": "148",
         "title": "排序链表",
-        "path": "../../problemset/sort-list/README.md",
+        "path": "./problemset/sort-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 164,
+        "id": "164",
         "title": "最大间距",
-        "path": "../../problemset/maximum-gap/README.md",
+        "path": "./problemset/maximum-gap/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 169,
+        "id": "169",
         "title": "多数元素",
-        "path": "../../problemset/majority-element/README.md",
+        "path": "./problemset/majority-element/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 179,
+        "id": "179",
         "title": "最大数",
-        "path": "../../problemset/largest-number/README.md",
+        "path": "./problemset/largest-number/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 215,
+        "id": "215",
         "title": "数组中的第k个最大元素",
-        "path": "../../problemset/kth-largest-element-in-an-array/README.md",
+        "path": "./problemset/kth-largest-element-in-an-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 268,
+        "id": "268",
         "title": "丢失的数字",
-        "path": "../../problemset/missing-number/README.md",
+        "path": "./problemset/missing-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 274,
+        "id": "274",
         "title": "H指数",
-        "path": "../../problemset/h-index/README.md",
+        "path": "./problemset/h-index/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 954,
+        "id": "954",
         "title": "二倍数对数组",
-        "path": "../../problemset/array-of-doubled-pairs/README.md",
+        "path": "./problemset/array-of-doubled-pairs/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1984,
+        "id": "1984",
         "title": "学生分数的最小差值",
-        "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
+        "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1996,
+        "id": "1996",
         "title": "游戏中弱角色的数量",
-        "path": "../../problemset/the-number-of-weak-characters-in-the-game/README.md",
+        "path": "./problemset/the-number-of-weak-characters-in-the-game/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "数学",
-    "problems": [
+    "topics": [
       {
-        "id": 7,
+        "id": "7",
         "title": "整数反转",
-        "path": "../../problemset/reverse-integer/README.md",
+        "path": "./problemset/reverse-integer/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 9,
+        "id": "9",
         "title": "回文数",
-        "path": "../../problemset/palindrome-number/README.md",
+        "path": "./problemset/palindrome-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 29,
+        "id": "29",
         "title": "两数相除",
-        "path": "../../problemset/divide-two-integers/README.md",
+        "path": "./problemset/divide-two-integers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 32,
+        "id": "32",
         "title": "最长有效括号",
-        "path": "../../problemset/longest-valid-parentheses/README.md",
+        "path": "./problemset/longest-valid-parentheses/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 43,
+        "id": "43",
         "title": "字符串相乘",
-        "path": "../../problemset/multiply-strings/README.md",
+        "path": "./problemset/multiply-strings/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 50,
+        "id": "50",
         "title": "Pow(x, n)",
-        "path": "../../problemset/powx-n/README.md",
+        "path": "./problemset/powx-n/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 60,
+        "id": "60",
         "title": "排列序列",
-        "path": "../../problemset/permutation-sequence/README.md",
+        "path": "./problemset/permutation-sequence/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 62,
+        "id": "62",
         "title": "不同路径",
-        "path": "../../problemset/unique-paths/README.md",
+        "path": "./problemset/unique-paths/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 69,
+        "id": "69",
         "title": "Sqrt(x)",
-        "path": "../../problemset/sqrtx/README.md",
+        "path": "./problemset/sqrtx/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 70,
+        "id": "70",
         "title": "爬楼梯",
-        "path": "../../problemset/climbing-stairs/README.md",
+        "path": "./problemset/climbing-stairs/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 89,
+        "id": "89",
         "title": "格雷编码",
-        "path": "../../problemset/gray-code/README.md",
+        "path": "./problemset/gray-code/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 96,
+        "id": "96",
         "title": "不同的二叉搜索树",
-        "path": "../../problemset/unique-binary-search-trees/README.md",
+        "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 118,
+        "id": "118",
         "title": "杨辉三角",
-        "path": "../../problemset/pascals-triangle/README.md",
+        "path": "./problemset/pascals-triangle/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 119,
+        "id": "119",
         "title": "杨辉三角 II",
-        "path": "../../problemset/pascals-triangle-2/README.md",
+        "path": "./problemset/pascals-triangle-2/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 136,
+        "id": "136",
         "title": "只出现一次的数字",
-        "path": "../../problemset/single-number/README.md",
+        "path": "./problemset/single-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 137,
+        "id": "137",
         "title": "只出现一次的数字 II",
-        "path": "../../problemset/single-number-2/README.md",
+        "path": "./problemset/single-number-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 164,
+        "id": "164",
         "title": "最大间距",
-        "path": "../../problemset/maximum-gap/README.md",
+        "path": "./problemset/maximum-gap/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 166,
+        "id": "166",
         "title": "分数到小数",
-        "path": "../../problemset/fraction-to-recurring-decimal/README.md",
+        "path": "./problemset/fraction-to-recurring-decimal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 168,
+        "id": "168",
         "title": "Excel表列名称",
-        "path": "../../problemset/excel-sheet-column-title/README.md",
+        "path": "./problemset/excel-sheet-column-title/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 169,
+        "id": "169",
         "title": "多数元素",
-        "path": "../../problemset/majority-element/README.md",
+        "path": "./problemset/majority-element/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 171,
+        "id": "171",
         "title": "Excel 表列序号",
-        "path": "../../problemset/excel-sheet-column-number/README.md",
+        "path": "./problemset/excel-sheet-column-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 172,
+        "id": "172",
         "title": "阶乘后的零",
-        "path": "../../problemset/factorial-trailing-zeroes/README.md",
+        "path": "./problemset/factorial-trailing-zeroes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 204,
+        "id": "204",
         "title": "计数质数",
-        "path": "../../problemset/count-primes/README.md",
+        "path": "./problemset/count-primes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 214,
+        "id": "214",
         "title": "最短回文串",
-        "path": "../../problemset/shortest-palindrome/README.md",
+        "path": "./problemset/shortest-palindrome/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 231,
+        "id": "231",
         "title": "2的幂",
-        "path": "../../problemset/power-of-two/README.md",
+        "path": "./problemset/power-of-two/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 233,
+        "id": "233",
         "title": "数字1的个数",
-        "path": "../../problemset/number-of-digit-one/README.md",
+        "path": "./problemset/number-of-digit-one/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 238,
+        "id": "238",
         "title": "除自身以外数组的乘积",
-        "path": "../../problemset/product-of-array-except-self/README.md",
+        "path": "./problemset/product-of-array-except-self/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 258,
+        "id": "258",
         "title": "各位相加",
-        "path": "../../problemset/add-digits/README.md",
+        "path": "./problemset/add-digits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 263,
+        "id": "263",
         "title": "丑数",
-        "path": "../../problemset/ugly-number/README.md",
+        "path": "./problemset/ugly-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 268,
+        "id": "268",
         "title": "丢失的数字",
-        "path": "../../problemset/missing-number/README.md",
+        "path": "./problemset/missing-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 279,
+        "id": "279",
         "title": "完全平方数",
-        "path": "../../problemset/perfect-squares/README.md",
+        "path": "./problemset/perfect-squares/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 357,
+        "id": "357",
         "title": "统计各位数字都不同的数字个数",
-        "path": "../../problemset/count-numbers-with-unique-digits/README.md",
+        "path": "./problemset/count-numbers-with-unique-digits/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 504,
+        "id": "504",
         "title": "七进制数",
-        "path": "../../problemset/base-7/README.md",
+        "path": "./problemset/base-7/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 553,
+        "id": "553",
         "title": "最优除法",
-        "path": "../../problemset/optimal-division/README.md",
+        "path": "./problemset/optimal-division/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 762,
+        "id": "762",
         "title": "二进制表示中质数个计算置位",
-        "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md",
+        "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1447,
+        "id": "1447",
         "title": "最简分数",
-        "path": "../../problemset/simplified-fractions/README.md",
+        "path": "./problemset/simplified-fractions/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1791,
+        "id": "1791",
         "title": "找出星型图的中心节点",
-        "path": "../../problemset/find-center-of-star-graph/README.md",
+        "path": "./problemset/find-center-of-star-graph/README.md",
         "difficulty": "简单"
       }
     ]
   },
   {
     "label": "自动机",
-    "problems": [
+    "topics": [
       {
-        "id": 8,
+        "id": "8",
         "title": "字符串转换整数(atoi)",
-        "path": "../../problemset/string-to-integer-atoi/README.md",
+        "path": "./problemset/string-to-integer-atoi/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 65,
+        "id": "65",
         "title": "有效数字",
-        "path": "../../problemset/valid-number/README.md",
+        "path": "./problemset/valid-number/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "动态规划",
-    "problems": [
+    "topics": [
       {
-        "id": 10,
+        "id": "10",
         "title": "正则表达式匹配",
-        "path": "../../problemset/regular-expression-matching/README.md",
+        "path": "./problemset/regular-expression-matching/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 32,
+        "id": "32",
         "title": "最长有效括号",
-        "path": "../../problemset/longest-valid-parentheses/README.md",
+        "path": "./problemset/longest-valid-parentheses/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 42,
+        "id": "42",
         "title": "接雨水",
-        "path": "../../problemset/trapping-rain-water/README.md",
+        "path": "./problemset/trapping-rain-water/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 44,
+        "id": "44",
         "title": "通配符匹配",
-        "path": "../../problemset/wildcard-matching/README.md",
+        "path": "./problemset/wildcard-matching/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 53,
+        "id": "53",
         "title": "最大子数组和",
-        "path": "../../problemset/maximum-subarray/README.md",
+        "path": "./problemset/maximum-subarray/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 62,
+        "id": "62",
         "title": "不同路径",
-        "path": "../../problemset/unique-paths/README.md",
+        "path": "./problemset/unique-paths/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 63,
+        "id": "63",
         "title": "不同路径 II",
-        "path": "../../problemset/unique-paths-2/README.md",
+        "path": "./problemset/unique-paths-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 64,
+        "id": "64",
         "title": "最小路径和",
-        "path": "../../problemset/minimum-path-sum/README.md",
+        "path": "./problemset/minimum-path-sum/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 70,
+        "id": "70",
         "title": "爬楼梯",
-        "path": "../../problemset/climbing-stairs/README.md",
+        "path": "./problemset/climbing-stairs/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 72,
+        "id": "72",
         "title": "编辑距离",
-        "path": "../../problemset/edit-distance/README.md",
+        "path": "./problemset/edit-distance/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 87,
+        "id": "87",
         "title": "扰乱字符串",
-        "path": "../../problemset/scramble-string/README.md",
+        "path": "./problemset/scramble-string/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 91,
+        "id": "91",
         "title": "解码方法",
-        "path": "../../problemset/decode-ways/README.md",
+        "path": "./problemset/decode-ways/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 96,
+        "id": "96",
         "title": "不同的二叉搜索树",
-        "path": "../../problemset/unique-binary-search-trees/README.md",
+        "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 97,
+        "id": "97",
         "title": "交错字符串",
-        "path": "../../problemset/interleaving-string/README.md",
+        "path": "./problemset/interleaving-string/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 115,
+        "id": "115",
         "title": "不同的子序列",
-        "path": "../../problemset/distinct-subsequences/README.md",
+        "path": "./problemset/distinct-subsequences/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 120,
+        "id": "120",
         "title": "三角形最小路径和",
-        "path": "../../problemset/triangle/README.md",
+        "path": "./problemset/triangle/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 122,
+        "id": "122",
         "title": "买卖股票的最佳时机 II",
-        "path": "../../problemset/best-time-to-buy-and-sell-stock-2/README.md",
+        "path": "./problemset/best-time-to-buy-and-sell-stock-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 123,
+        "id": "123",
         "title": "买卖股票的最佳时机 III",
-        "path": "../../problemset/best-time-to-buy-and-sell-stock-3/README.md",
+        "path": "./problemset/best-time-to-buy-and-sell-stock-3/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 131,
+        "id": "131",
         "title": "分割回文串",
-        "path": "../../problemset/palindrome-partitioning/README.md",
+        "path": "./problemset/palindrome-partitioning/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 132,
+        "id": "132",
         "title": "分割回文串 II",
-        "path": "../../problemset/palindrome-partitioning-2/README.md",
+        "path": "./problemset/palindrome-partitioning-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 139,
+        "id": "139",
         "title": "单词拆分",
-        "path": "../../problemset/word-break/README.md",
+        "path": "./problemset/word-break/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 152,
+        "id": "152",
         "title": "乘积最大子数组",
-        "path": "../../problemset/maximum-product-subarray/README.md",
+        "path": "./problemset/maximum-product-subarray/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 174,
+        "id": "174",
         "title": "地下城游戏",
-        "path": "../../problemset/dungeon-game/README.md",
+        "path": "./problemset/dungeon-game/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 188,
+        "id": "188",
         "title": "买卖股票的最佳时机 IV",
-        "path": "../../problemset/best-time-to-buy-and-sell-stock-4/README.md",
+        "path": "./problemset/best-time-to-buy-and-sell-stock-4/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 198,
+        "id": "198",
         "title": "打家劫舍",
-        "path": "../../problemset/house-robber/README.md",
+        "path": "./problemset/house-robber/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 213,
+        "id": "213",
         "title": "打家劫舍 II",
-        "path": "../../problemset/house-robber-2/README.md",
+        "path": "./problemset/house-robber-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 221,
+        "id": "221",
         "title": "最大正方形",
-        "path": "../../problemset/maximal-square/README.md",
+        "path": "./problemset/maximal-square/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 264,
+        "id": "264",
         "title": "丑数 II",
-        "path": "../../problemset/ugly-number-2/README.md",
+        "path": "./problemset/ugly-number-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 279,
+        "id": "279",
         "title": "完全平方数",
-        "path": "../../problemset/perfect-squares/README.md",
+        "path": "./problemset/perfect-squares/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 300,
+        "id": "300",
         "title": "最长递增子序列",
-        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "path": "./problemset/longest-increasing-subsequence/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 688,
+        "id": "688",
         "title": "骑士在棋盘上的概率",
-        "path": "../../problemset/knight-probability-in-chessboard/README.md",
+        "path": "./problemset/knight-probability-in-chessboard/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1994,
+        "id": "1994",
         "title": "好子集的数目",
-        "path": "../../problemset/the-number-of-good-subsets/README.md",
+        "path": "./problemset/the-number-of-good-subsets/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 2100,
+        "id": "2100",
         "title": "适合打劫银行的日子",
-        "path": "../../problemset/find-good-days-to-rob-the-bank/README.md",
+        "path": "./problemset/find-good-days-to-rob-the-bank/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "双指针",
-    "problems": [
+    "topics": [
       {
-        "id": 3,
+        "id": "3",
         "title": "无重复字符的最长子串",
-        "path": "../../problemset/longest-substring-without-repeating-characters/README.md",
+        "path": "./problemset/longest-substring-without-repeating-characters/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 11,
+        "id": "11",
         "title": "盛最多水的容器",
-        "path": "../../problemset/container-with-most-water/README.md",
+        "path": "./problemset/container-with-most-water/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 15,
+        "id": "15",
         "title": "三数之和",
-        "path": "../../problemset/three-sum/README.md",
+        "path": "./problemset/three-sum/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 16,
+        "id": "16",
         "title": "最接近的三数之和",
-        "path": "../../problemset/three-sum-closest/README.md",
+        "path": "./problemset/three-sum-closest/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 18,
+        "id": "18",
         "title": "四数之和",
-        "path": "../../problemset/four-sum/README.md",
+        "path": "./problemset/four-sum/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 19,
+        "id": "19",
         "title": "删除链表的倒数第 N 个结点",
-        "path": "../../problemset/remove-nth-node-from-end-of-list/README.md",
+        "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 26,
+        "id": "26",
         "title": "删除有序数组中的重复项",
-        "path": "../../problemset/remove-duplicates-from-sorted-array/README.md",
+        "path": "./problemset/remove-duplicates-from-sorted-array/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 27,
+        "id": "27",
         "title": "移除元素",
-        "path": "../../problemset/remove-element/README.md",
+        "path": "./problemset/remove-element/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 42,
+        "id": "42",
         "title": "接雨水",
-        "path": "../../problemset/trapping-rain-water/README.md",
+        "path": "./problemset/trapping-rain-water/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 68,
+        "id": "68",
         "title": "文本左右对齐",
-        "path": "../../problemset/text-justification/README.md",
+        "path": "./problemset/text-justification/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 75,
+        "id": "75",
         "title": "颜色分类",
-        "path": "../../problemset/sort-colors/README.md",
+        "path": "./problemset/sort-colors/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 80,
+        "id": "80",
         "title": "删除有序数组中的重复项 II",
-        "path": "../../problemset/remove-duplicates-from-sorted-array-2/README.md",
+        "path": "./problemset/remove-duplicates-from-sorted-array-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 88,
+        "id": "88",
         "title": "合并两个有序数组",
-        "path": "../../problemset/merge-sorted-array/README.md",
+        "path": "./problemset/merge-sorted-array/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 125,
+        "id": "125",
         "title": "验证回文串",
-        "path": "../../problemset/valid-palindrome/README.md",
+        "path": "./problemset/valid-palindrome/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 131,
+        "id": "131",
         "title": "分割回文串",
-        "path": "../../problemset/palindrome-partitioning/README.md",
+        "path": "./problemset/palindrome-partitioning/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 141,
+        "id": "141",
         "title": "环形链表",
-        "path": "../../problemset/linked-list-cycle/README.md",
+        "path": "./problemset/linked-list-cycle/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 142,
+        "id": "142",
         "title": "环形链表 II",
-        "path": "../../problemset/linked-list-cycle-ii/README.md",
+        "path": "./problemset/linked-list-cycle-ii/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 151,
+        "id": "151",
         "title": "翻转字符串中里的单词",
-        "path": "../../problemset/reverse-words-in-a-string/README.md",
+        "path": "./problemset/reverse-words-in-a-string/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 160,
+        "id": "160",
         "title": "相交链表",
-        "path": "../../problemset/intersection-of-two-linked-lists/README.md",
+        "path": "./problemset/intersection-of-two-linked-lists/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 165,
+        "id": "165",
         "title": "比较版本号",
-        "path": "../../problemset/compare-version-numbers/README.md",
+        "path": "./problemset/compare-version-numbers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 167,
+        "id": "167",
         "title": "两数之和 II - 输入有序数组",
-        "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md",
+        "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 202,
+        "id": "202",
         "title": "快乐数",
-        "path": "../../problemset/happy-number/README.md",
+        "path": "./problemset/happy-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 233,
+        "id": "233",
         "title": "数字1的个数",
-        "path": "../../problemset/number-of-digit-one/README.md",
+        "path": "./problemset/number-of-digit-one/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 234,
+        "id": "234",
         "title": "回文链表",
-        "path": "../../problemset/palindrome-linked-list/README.md",
+        "path": "./problemset/palindrome-linked-list/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 653,
+        "id": "653",
         "title": "两数之和 IV - 输入 BST",
-        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 917,
+        "id": "917",
         "title": "仅仅反转字母",
-        "path": "../../problemset/reverse-only-letters/README.md",
+        "path": "./problemset/reverse-only-letters/README.md",
         "difficulty": "简单"
       }
     ]
   },
   {
     "label": "模拟",
-    "problems": [
+    "topics": [
       {
-        "id": 1,
+        "id": "1",
         "title": "两数之和",
-        "path": "../../problemset/two-sum/README.md",
+        "path": "./problemset/two-sum/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2,
+        "id": "2",
         "title": "两数相加",
-        "path": "../../problemset/add-two-numbers/README.md",
+        "path": "./problemset/add-two-numbers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 5,
+        "id": "5",
         "title": "最长回文子串",
-        "path": "../../problemset/longest-palindromic-substring/README.md",
+        "path": "./problemset/longest-palindromic-substring/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 6,
+        "id": "6",
         "title": "Z 字形变换",
-        "path": "../../problemset/zigzag-conversion/README.md",
+        "path": "./problemset/zigzag-conversion/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 7,
+        "id": "7",
         "title": "整数反转",
-        "path": "../../problemset/reverse-integer/README.md",
+        "path": "./problemset/reverse-integer/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 12,
+        "id": "12",
         "title": "整数转罗马数字",
-        "path": "../../problemset/integer-to-roman/README.md",
+        "path": "./problemset/integer-to-roman/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 13,
+        "id": "13",
         "title": "罗马数字转整数",
-        "path": "../../problemset/roman-to-integer/README.md",
+        "path": "./problemset/roman-to-integer/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 14,
+        "id": "14",
         "title": "最长公共前缀",
-        "path": "../../problemset/longest-common-prefix/README.md",
+        "path": "./problemset/longest-common-prefix/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 25,
+        "id": "25",
         "title": "K 个一组翻转链表",
-        "path": "../../problemset/reverse-nodes-in-k-group/README.md",
+        "path": "./problemset/reverse-nodes-in-k-group/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 31,
+        "id": "31",
         "title": "下一个排列",
-        "path": "../../problemset/next-permutation/README.md",
+        "path": "./problemset/next-permutation/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 38,
+        "id": "38",
         "title": "外观数列",
-        "path": "../../problemset/count-and-say/README.md",
+        "path": "./problemset/count-and-say/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 48,
+        "id": "48",
         "title": "旋转图片",
-        "path": "../../problemset/rotate-image/README.md",
+        "path": "./problemset/rotate-image/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 54,
+        "id": "54",
         "title": "螺旋矩阵",
-        "path": "../../problemset/spiral-matrix/README.md",
+        "path": "./problemset/spiral-matrix/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 57,
+        "id": "57",
         "title": "插入区间",
-        "path": "../../problemset/insert-interval/README.md",
+        "path": "./problemset/insert-interval/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 58,
+        "id": "58",
         "title": "最后一个单词的长度",
-        "path": "../../problemset/length-of-last-word/README.md",
+        "path": "./problemset/length-of-last-word/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 59,
+        "id": "59",
         "title": "螺旋矩阵 II",
-        "path": "../../problemset/spiral-matrix-2/README.md",
+        "path": "./problemset/spiral-matrix-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 66,
+        "id": "66",
         "title": "加一",
-        "path": "../../problemset/plus-one/README.md",
+        "path": "./problemset/plus-one/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 67,
+        "id": "67",
         "title": "二进制求和",
-        "path": "../../problemset/add-binary/README.md",
+        "path": "./problemset/add-binary/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 68,
+        "id": "68",
         "title": "文本左右对齐",
-        "path": "../../problemset/text-justification/README.md",
+        "path": "./problemset/text-justification/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 73,
+        "id": "73",
         "title": "矩阵置零",
-        "path": "../../problemset/set-matrix-zeroes/README.md",
+        "path": "./problemset/set-matrix-zeroes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 86,
+        "id": "86",
         "title": "分隔链表",
-        "path": "../../problemset/partition-list/README.md",
+        "path": "./problemset/partition-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 121,
+        "id": "121",
         "title": "买卖股票的最佳时机",
-        "path": "../../problemset/best-time-to-buy-and-sell-stock/README.md",
+        "path": "./problemset/best-time-to-buy-and-sell-stock/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 134,
+        "id": "134",
         "title": "加油站",
-        "path": "../../problemset/gas-station/README.md",
+        "path": "./problemset/gas-station/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 135,
+        "id": "135",
         "title": "分发糖果",
-        "path": "../../problemset/candy/README.md",
+        "path": "./problemset/candy/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 165,
+        "id": "165",
         "title": "比较版本号",
-        "path": "../../problemset/compare-version-numbers/README.md",
+        "path": "./problemset/compare-version-numbers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 189,
+        "id": "189",
         "title": "轮转数组",
-        "path": "../../problemset/rotate-array/README.md",
+        "path": "./problemset/rotate-array/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 218,
+        "id": "218",
         "title": "天际线问题",
-        "path": "../../problemset/the-skyline-problem/README.md",
+        "path": "./problemset/the-skyline-problem/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 223,
+        "id": "223",
         "title": "矩形面积",
-        "path": "../../problemset/rectangle-area/README.md",
+        "path": "./problemset/rectangle-area/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 228,
+        "id": "228",
         "title": "汇总区间",
-        "path": "../../problemset/summary-ranges/README.md",
+        "path": "./problemset/summary-ranges/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 237,
+        "id": "237",
         "title": "删除链表中的节点",
-        "path": "../../problemset/delete-node-in-a-linked-list/README.md",
+        "path": "./problemset/delete-node-in-a-linked-list/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 258,
+        "id": "258",
         "title": "各位相加",
-        "path": "../../problemset/add-digits/README.md",
+        "path": "./problemset/add-digits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 307,
+        "id": "307",
         "title": " 区域和检索 - 数组可修改",
-        "path": "../../problemset/range-sum-query-mutable/README.md",
+        "path": "./problemset/range-sum-query-mutable/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 310,
+        "id": "310",
         "title": "最小高度树",
-        "path": "../../problemset/minimum-height-trees/README.md",
+        "path": "./problemset/minimum-height-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 393,
+        "id": "393",
         "title": "UTF-8 编码验证",
-        "path": "../../problemset/utf-8-validation/README.md",
+        "path": "./problemset/utf-8-validation/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 420,
+        "id": "420",
         "title": "强密码检验器",
-        "path": "../../problemset/strong-password-checker/README.md",
+        "path": "./problemset/strong-password-checker/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 521,
+        "id": "521",
         "title": "最长特殊序列",
-        "path": "../../problemset/longest-uncommon-subsequence/README.md",
+        "path": "./problemset/longest-uncommon-subsequence/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 537,
+        "id": "537",
         "title": "复数乘法",
-        "path": "../../problemset/complex-number-multiplication/README.md",
+        "path": "./problemset/complex-number-multiplication/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 564,
+        "id": "564",
         "title": "寻找最近的回文数",
-        "path": "../../problemset/find-the-closest-palindrome/README.md",
+        "path": "./problemset/find-the-closest-palindrome/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 661,
+        "id": "661",
         "title": "图片平滑器",
-        "path": "../../problemset/image-smoother/README.md",
+        "path": "./problemset/image-smoother/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 682,
+        "id": "682",
         "title": "棒球比赛",
-        "path": "../../problemset/baseball-game/README.md",
+        "path": "./problemset/baseball-game/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 728,
+        "id": "728",
         "title": "自除数",
-        "path": "../../problemset/self-dividing-numbers/README.md",
+        "path": "./problemset/self-dividing-numbers/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 780,
+        "id": "780",
         "title": "到达终点",
-        "path": "../../problemset/reaching-points/README.md",
+        "path": "./problemset/reaching-points/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 796,
+        "id": "796",
         "title": "旋转字符串",
-        "path": "../../problemset/rotate-string/README.md",
+        "path": "./problemset/rotate-string/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 798,
+        "id": "798",
         "title": "得分最高的最小轮调",
-        "path": "../../problemset/smallest-rotation-with-highest-score/README.md",
+        "path": "./problemset/smallest-rotation-with-highest-score/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 806,
+        "id": "806",
         "title": "写字符串需要的行数",
-        "path": "../../problemset/number-of-lines-to-write-string/README.md",
+        "path": "./problemset/number-of-lines-to-write-string/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 838,
+        "id": "838",
         "title": "推多米诺",
-        "path": "../../problemset/push-dominoes/README.md",
+        "path": "./problemset/push-dominoes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 969,
+        "id": "969",
         "title": "煎饼排序",
-        "path": "../../problemset/pancake-sorting/README.md",
+        "path": "./problemset/pancake-sorting/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1342,
+        "id": "1342",
         "title": "将数字变成 0 的操作次数",
-        "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",
+        "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1606,
+        "id": "1606",
         "title": "找到处理最多请求的服务器",
-        "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md",
+        "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 1672,
+        "id": "1672",
         "title": "最富有客户的资产总量",
-        "path": "../../problemset/richest-customer-wealth/README.md",
+        "path": "./problemset/richest-customer-wealth/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1706,
+        "id": "1706",
         "title": "球会落何处",
-        "path": "../../problemset/where-will-the-ball-fall/README.md",
+        "path": "./problemset/where-will-the-ball-fall/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1719,
+        "id": "1719",
         "title": "重构一棵树的方案数",
-        "path": "../../problemset/number-of-ways-to-reconstruct-a-tree/README.md",
+        "path": "./problemset/number-of-ways-to-reconstruct-a-tree/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 2016,
+        "id": "2016",
         "title": "增量元素之间的最大差值",
-        "path": "../../problemset/maximum-difference-between-increasing-elements/README.md",
+        "path": "./problemset/maximum-difference-between-increasing-elements/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2028,
+        "id": "2028",
         "title": "找出缺失的观测数据",
-        "path": "../../problemset/find-missing-observations/README.md",
+        "path": "./problemset/find-missing-observations/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2043,
+        "id": "2043",
         "title": "简易银行系统",
-        "path": "../../problemset/simple-bank-system/README.md",
+        "path": "./problemset/simple-bank-system/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2047,
+        "id": "2047",
         "title": "句子中的有效单词数",
-        "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md",
+        "path": "./problemset/number-of-valid-words-in-a-sentence/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2055,
+        "id": "2055",
         "title": "蜡烛之间的盘子",
-        "path": "../../problemset/plates-between-candles/README.md",
+        "path": "./problemset/plates-between-candles/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "回溯",
-    "problems": [
+    "topics": [
       {
-        "id": 17,
+        "id": "17",
         "title": "电话号码的字母组合",
-        "path": "../../problemset/letter-combinations-of-a-phone-number/README.md",
+        "path": "./problemset/letter-combinations-of-a-phone-number/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 37,
+        "id": "37",
         "title": "解数独",
-        "path": "../../problemset/sudoku-solver/README.md",
+        "path": "./problemset/sudoku-solver/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 39,
+        "id": "39",
         "title": "组合总和",
-        "path": "../../problemset/combination-sum/README.md",
+        "path": "./problemset/combination-sum/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 40,
+        "id": "40",
         "title": "组合总和 II",
-        "path": "../../problemset/combination-sum-2/README.md",
+        "path": "./problemset/combination-sum-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 46,
+        "id": "46",
         "title": "全排列",
-        "path": "../../problemset/permutations/README.md",
+        "path": "./problemset/permutations/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 47,
+        "id": "47",
         "title": "全排列 II",
-        "path": "../../problemset/permutations-2/README.md",
+        "path": "./problemset/permutations-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 51,
+        "id": "51",
         "title": "N 皇后",
-        "path": "../../problemset/n-queens/README.md",
+        "path": "./problemset/n-queens/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 52,
+        "id": "52",
         "title": "N 皇后 II",
-        "path": "../../problemset/n-queens-2/README.md",
+        "path": "./problemset/n-queens-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 77,
+        "id": "77",
         "title": "组合",
-        "path": "../../problemset/combinations/README.md",
+        "path": "./problemset/combinations/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 78,
+        "id": "78",
         "title": "子集",
-        "path": "../../problemset/subsets/README.md",
+        "path": "./problemset/subsets/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 79,
+        "id": "79",
         "title": "单词搜索",
-        "path": "../../problemset/word-search/README.md",
+        "path": "./problemset/word-search/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 90,
+        "id": "90",
         "title": "子集 II",
-        "path": "../../problemset/subsets-2/README.md",
+        "path": "./problemset/subsets-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 93,
+        "id": "93",
         "title": "复原IP地址",
-        "path": "../../problemset/restore-ip-addresses/README.md",
+        "path": "./problemset/restore-ip-addresses/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 95,
+        "id": "95",
         "title": "不同的二叉搜索数 II",
-        "path": "../../problemset/unique-binary-search-trees-2/README.md",
+        "path": "./problemset/unique-binary-search-trees-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 96,
+        "id": "96",
         "title": "不同的二叉搜索树",
-        "path": "../../problemset/unique-binary-search-trees/README.md",
+        "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 115,
+        "id": "115",
         "title": "不同的子序列",
-        "path": "../../problemset/distinct-subsequences/README.md",
+        "path": "./problemset/distinct-subsequences/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 126,
+        "id": "126",
         "title": "单词接龙 II",
-        "path": "../../problemset/word-ladder-2/README.md",
+        "path": "./problemset/word-ladder-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 131,
+        "id": "131",
         "title": "分割回文串",
-        "path": "../../problemset/palindrome-partitioning/README.md",
+        "path": "./problemset/palindrome-partitioning/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 138,
+        "id": "138",
         "title": "复制带随机指针的链表",
-        "path": "../../problemset/copy-list-with-random-pointer/README.md",
+        "path": "./problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 140,
+        "id": "140",
         "title": "单词拆分 II",
-        "path": "../../problemset/word-break-2/README.md",
+        "path": "./problemset/word-break-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 198,
+        "id": "198",
         "title": "打家劫舍",
-        "path": "../../problemset/house-robber/README.md",
+        "path": "./problemset/house-robber/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 212,
+        "id": "212",
         "title": "单词搜索 II",
-        "path": "../../problemset/word-search-2/README.md",
+        "path": "./problemset/word-search-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 213,
+        "id": "213",
         "title": "打家劫舍 II",
-        "path": "../../problemset/house-robber-2/README.md",
+        "path": "./problemset/house-robber-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 216,
+        "id": "216",
         "title": "组合总和 III",
-        "path": "../../problemset/combination-sum-3/README.md",
+        "path": "./problemset/combination-sum-3/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 282,
+        "id": "282",
         "title": "给表达式添加运算符",
-        "path": "../../problemset/expression-add-operators/README.md",
+        "path": "./problemset/expression-add-operators/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 1601,
+        "id": "1601",
         "title": "最多可达成的换楼请求数目",
-        "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
+        "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 2044,
+        "id": "2044",
         "title": "统计按位或能得到最大值的子集数目",
-        "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
+        "path": "./problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "栈",
-    "problems": [
+    "topics": [
       {
-        "id": 20,
+        "id": "20",
         "title": "有效的括号",
-        "path": "../../problemset/valid-parentheses/README.md",
+        "path": "./problemset/valid-parentheses/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 22,
+        "id": "22",
         "title": "括号生成",
-        "path": "../../problemset/generate-parentheses/README.md",
+        "path": "./problemset/generate-parentheses/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 32,
+        "id": "32",
         "title": "最长有效括号",
-        "path": "../../problemset/longest-valid-parentheses/README.md",
+        "path": "./problemset/longest-valid-parentheses/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 42,
+        "id": "42",
         "title": "接雨水",
-        "path": "../../problemset/trapping-rain-water/README.md",
+        "path": "./problemset/trapping-rain-water/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 71,
+        "id": "71",
         "title": "简化路径",
-        "path": "../../problemset/simplify-path/README.md",
+        "path": "./problemset/simplify-path/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 84,
+        "id": "84",
         "title": "柱状图中最大的矩形",
-        "path": "../../problemset/largest-rectangle-in-histogram/README.md",
+        "path": "./problemset/largest-rectangle-in-histogram/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 85,
+        "id": "85",
         "title": "最大矩形",
-        "path": "../../problemset/maximal-rectangle/README.md",
+        "path": "./problemset/maximal-rectangle/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 94,
+        "id": "94",
         "title": "二叉树的中序遍历",
-        "path": "../../problemset/binary-tree-inorder-traversal/README.md",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 98,
+        "id": "98",
         "title": "验证二叉搜索树",
-        "path": "../../problemset/validate-binary-search-tree/README.md",
+        "path": "./problemset/validate-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 150,
+        "id": "150",
         "title": "逆波兰表达式求值",
-        "path": "../../problemset/valuate-reverse-polish-notation/README.md",
+        "path": "./problemset/valuate-reverse-polish-notation/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 155,
+        "id": "155",
         "title": "最小栈",
-        "path": "../../problemset/min-stack/README.md",
+        "path": "./problemset/min-stack/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 224,
+        "id": "224",
         "title": "基本计算器",
-        "path": "../../problemset/basic-calculator/README.md",
+        "path": "./problemset/basic-calculator/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 225,
+        "id": "225",
         "title": "用队列实现栈",
-        "path": "../../problemset/implement-stack-using-queues/README.md",
+        "path": "./problemset/implement-stack-using-queues/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 227,
+        "id": "227",
         "title": "基本计算器 II",
-        "path": "../../problemset/basic-calculator-2/README.md",
+        "path": "./problemset/basic-calculator-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 232,
+        "id": "232",
         "title": "用栈实现队列",
-        "path": "../../problemset/implement-queue-using-stacks/README.md",
+        "path": "./problemset/implement-queue-using-stacks/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 385,
+        "id": "385",
         "title": "迷你语法分析器",
-        "path": "../../problemset/mini-parser/README.md",
+        "path": "./problemset/mini-parser/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2104,
+        "id": "2104",
         "title": "子数组范围和",
-        "path": "../../problemset/sum-of-subarray-ranges/README.md",
+        "path": "./problemset/sum-of-subarray-ranges/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "递归 & 迭代",
-    "problems": [
+    "topics": [
       {
-        "id": 21,
+        "id": "21",
         "title": "合并两个有序链表",
-        "path": "../../problemset/merge-two-sorted-lists/README.md",
+        "path": "./problemset/merge-two-sorted-lists/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 24,
+        "id": "24",
         "title": "两两交换链表中的节点",
-        "path": "../../problemset/swap-nodes-in-pairs/README.md",
+        "path": "./problemset/swap-nodes-in-pairs/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 50,
+        "id": "50",
         "title": "Pow(x, n)",
-        "path": "../../problemset/powx-n/README.md",
+        "path": "./problemset/powx-n/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 87,
+        "id": "87",
         "title": "扰乱字符串",
-        "path": "../../problemset/scramble-string/README.md",
+        "path": "./problemset/scramble-string/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 94,
+        "id": "94",
         "title": "二叉树的中序遍历",
-        "path": "../../problemset/binary-tree-inorder-traversal/README.md",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 98,
+        "id": "98",
         "title": "验证二叉搜索树",
-        "path": "../../problemset/validate-binary-search-tree/README.md",
+        "path": "./problemset/validate-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 100,
+        "id": "100",
         "title": "相同的树",
-        "path": "../../problemset/same-tree/README.md",
+        "path": "./problemset/same-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 101,
+        "id": "101",
         "title": "对称二叉树",
-        "path": "../../problemset/symmetric-tree/README.md",
+        "path": "./problemset/symmetric-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 102,
+        "id": "102",
         "title": "二叉树的层序遍历",
-        "path": "../../problemset/binary-tree-level-order-traversal/README.md",
+        "path": "./problemset/binary-tree-level-order-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 103,
+        "id": "103",
         "title": "二叉树的锯齿形层序遍历",
-        "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md",
+        "path": "./problemset/binary-tree-zigzag-level-order-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 104,
+        "id": "104",
         "title": "二叉树的最大深度",
-        "path": "../../problemset/maximum-depth-of-binary-tree/README.md",
+        "path": "./problemset/maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 105,
+        "id": "105",
         "title": "从前序与中序遍历序列构造二叉树",
-        "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "path": "./problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 106,
+        "id": "106",
         "title": "从中序与后序遍历序列构造二叉树",
-        "path": "../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+        "path": "./problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 107,
+        "id": "107",
         "title": "二叉树的层序遍历 II",
-        "path": "../../problemset/binary-tree-level-order-traversal-2/README.md",
+        "path": "./problemset/binary-tree-level-order-traversal-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 110,
+        "id": "110",
         "title": "平衡二叉树",
-        "path": "../../problemset/balanced-binary-tree/README.md",
+        "path": "./problemset/balanced-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 111,
+        "id": "111",
         "title": "二叉树的最小深度",
-        "path": "../../problemset/minimum-depth-of-binary-tree/README.md",
+        "path": "./problemset/minimum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 112,
+        "id": "112",
         "title": "路径总和",
-        "path": "../../problemset/path-sum/README.md",
+        "path": "./problemset/path-sum/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 113,
+        "id": "113",
         "title": "路径总和 II",
-        "path": "../../problemset/path-sum-2/README.md",
+        "path": "./problemset/path-sum-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 124,
+        "id": "124",
         "title": "二叉树中的最大路径和",
-        "path": "../../problemset/binary-tree-maximum-path-sum/README.md",
+        "path": "./problemset/binary-tree-maximum-path-sum/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 126,
+        "id": "126",
         "title": "单词接龙 II",
-        "path": "../../problemset/word-ladder-2/README.md",
+        "path": "./problemset/word-ladder-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 127,
+        "id": "127",
         "title": "单词接龙",
-        "path": "../../problemset/word-ladder/README.md",
+        "path": "./problemset/word-ladder/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 129,
+        "id": "129",
         "title": "求根节点到叶节点数字之和",
-        "path": "../../problemset/sum-root-to-leaf-numbers/README.md",
+        "path": "./problemset/sum-root-to-leaf-numbers/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 130,
+        "id": "130",
         "title": "被围绕的区域",
-        "path": "../../problemset/surrounded-regions/README.md",
+        "path": "./problemset/surrounded-regions/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 133,
+        "id": "133",
         "title": "克隆图",
-        "path": "../../problemset/clone-graph/README.md",
+        "path": "./problemset/clone-graph/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 138,
+        "id": "138",
         "title": "复制带随机指针的链表",
-        "path": "../../problemset/copy-list-with-random-pointer/README.md",
+        "path": "./problemset/copy-list-with-random-pointer/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 144,
+        "id": "144",
         "title": "二叉树的前序遍历",
-        "path": "../../problemset/binary-tree-preorder-traversal/README.md",
+        "path": "./problemset/binary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 145,
+        "id": "145",
         "title": "二叉树的后序遍历",
-        "path": "../../problemset/binary-tree-postorder-traversal/README.md",
+        "path": "./problemset/binary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 173,
+        "id": "173",
         "title": "二叉搜索树迭代器",
-        "path": "../../problemset/binary-search-tree-iterator/README.md",
+        "path": "./problemset/binary-search-tree-iterator/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 199,
+        "id": "199",
         "title": "二叉树的右视图",
-        "path": "../../problemset/binary-tree-right-side-view/README.md",
+        "path": "./problemset/binary-tree-right-side-view/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 200,
+        "id": "200",
         "title": "岛屿数量",
-        "path": "../../problemset/number-of-islands/README.md",
+        "path": "./problemset/number-of-islands/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 203,
+        "id": "203",
         "title": "移除链表元素",
-        "path": "../../problemset/remove-linked-list-elements/README.md",
+        "path": "./problemset/remove-linked-list-elements/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 206,
+        "id": "206",
         "title": "反转链表",
-        "path": "../../problemset/reverse-linked-list/README.md",
+        "path": "./problemset/reverse-linked-list/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 207,
+        "id": "207",
         "title": "课程表",
-        "path": "../../problemset/course-schedule/README.md",
+        "path": "./problemset/course-schedule/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 210,
+        "id": "210",
         "title": "课程表 II",
-        "path": "../../problemset/course-schedule-2/README.md",
+        "path": "./problemset/course-schedule-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 222,
+        "id": "222",
         "title": "完全二叉树的节点个数",
-        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "path": "./problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 226,
+        "id": "226",
         "title": "翻转二叉树",
-        "path": "../../problemset/invert-binary-tree/README.md",
+        "path": "./problemset/invert-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 230,
+        "id": "230",
         "title": "二叉搜索树中第K小的元素",
-        "path": "../../problemset/kth-smallest-element-in-a-bst/README.md",
+        "path": "./problemset/kth-smallest-element-in-a-bst/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 236,
+        "id": "236",
         "title": "二叉树的最近公共祖先",
-        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "path": "./problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 257,
+        "id": "257",
         "title": "二叉树的所有路径",
-        "path": "../../problemset/binary-tree-paths/README.md",
+        "path": "./problemset/binary-tree-paths/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 273,
+        "id": "273",
         "title": "整数转换英文表示",
-        "path": "../../problemset/integer-to-english-words/README.md",
+        "path": "./problemset/integer-to-english-words/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 385,
+        "id": "385",
         "title": "迷你语法分析器",
-        "path": "../../problemset/mini-parser/README.md",
+        "path": "./problemset/mini-parser/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 429,
+        "id": "429",
         "title": "N 叉树的层序遍历",
-        "path": "../../problemset/n-ary-tree-level-order-traversal/README.md",
+        "path": "./problemset/n-ary-tree-level-order-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 589,
+        "id": "589",
         "title": "N 叉树的前序遍历",
-        "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
+        "path": "./problemset/n-ary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 590,
+        "id": "590",
         "title": "N 叉树的后序遍历",
-        "path": "../../problemset/n-ary-tree-postorder-traversal/README.md",
+        "path": "./problemset/n-ary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 606,
+        "id": "606",
         "title": "根据二叉树创建字符串",
-        "path": "../../problemset/construct-string-from-binary-tree/README.md",
+        "path": "./problemset/construct-string-from-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 653,
+        "id": "653",
         "title": "两数之和 IV - 输入 BST",
-        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 838,
+        "id": "838",
         "title": "推多米诺",
-        "path": "../../problemset/push-dominoes/README.md",
+        "path": "./problemset/push-dominoes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1020,
+        "id": "1020",
         "title": "飞地的数量",
-        "path": "../../problemset/number-of-enclaves/README.md",
+        "path": "./problemset/number-of-enclaves/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1765,
+        "id": "1765",
         "title": "地图中的最高点",
-        "path": "../../problemset/map-of-highest-peak/README.md",
+        "path": "./problemset/map-of-highest-peak/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2039,
+        "id": "2039",
         "title": "网络空闲的时刻",
-        "path": "../../problemset/the-time-when-the-network-becomes-idle/README.md",
+        "path": "./problemset/the-time-when-the-network-becomes-idle/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2049,
+        "id": "2049",
         "title": "统计最高分的节点数目",
-        "path": "../../problemset/count-nodes-with-the-highest-score/README.md",
+        "path": "./problemset/count-nodes-with-the-highest-score/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "堆",
-    "problems": [
+    "topics": [
       {
-        "id": 23,
+        "id": "23",
         "title": "合并 K 个升序链表",
-        "path": "../../problemset/merge-k-sorted-lists/README.md",
+        "path": "./problemset/merge-k-sorted-lists/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "分治",
-    "problems": [
+    "topics": [
       {
-        "id": 23,
+        "id": "23",
         "title": "合并 K 个升序链表",
-        "path": "../../problemset/merge-k-sorted-lists/README.md",
+        "path": "./problemset/merge-k-sorted-lists/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 109,
+        "id": "109",
         "title": "有序链表转换二叉搜索树",
-        "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
+        "path": "./problemset/convert-sorted-list-to-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 169,
+        "id": "169",
         "title": "多数元素",
-        "path": "../../problemset/majority-element/README.md",
+        "path": "./problemset/majority-element/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 190,
+        "id": "190",
         "title": "颠倒二进制位",
-        "path": "../../problemset/reverse-bits/README.md",
+        "path": "./problemset/reverse-bits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 241,
+        "id": "241",
         "title": "为运算表达式设计优先级",
-        "path": "../../problemset/different-ways-to-add-parentheses/README.md",
+        "path": "./problemset/different-ways-to-add-parentheses/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1763,
+        "id": "1763",
         "title": "最长的美好子字符串",
-        "path": "../../problemset/longest-nice-substring/README.md",
+        "path": "./problemset/longest-nice-substring/README.md",
         "difficulty": "简单"
       }
     ]
   },
   {
     "label": "子串匹配",
-    "problems": [
+    "topics": [
       {
-        "id": 28,
+        "id": "28",
         "title": "实现 strStr()",
-        "path": "../../problemset/implement-strstr/README.md",
+        "path": "./problemset/implement-strstr/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 87,
+        "id": "87",
         "title": "扰乱字符串",
-        "path": "../../problemset/scramble-string/README.md",
+        "path": "./problemset/scramble-string/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "贪心算法",
-    "problems": [
+    "topics": [
       {
-        "id": 45,
+        "id": "45",
         "title": "跳跃游戏 II",
-        "path": "../../problemset/jump-game-2/README.md",
+        "path": "./problemset/jump-game-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 55,
+        "id": "55",
         "title": "跳跃游戏",
-        "path": "../../problemset/jump-game/README.md",
+        "path": "./problemset/jump-game/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 68,
+        "id": "68",
         "title": "文本左右对齐",
-        "path": "../../problemset/text-justification/README.md",
+        "path": "./problemset/text-justification/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 122,
+        "id": "122",
         "title": "买卖股票的最佳时机 II",
-        "path": "../../problemset/best-time-to-buy-and-sell-stock-2/README.md",
+        "path": "./problemset/best-time-to-buy-and-sell-stock-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 300,
+        "id": "300",
         "title": "最长递增子序列",
-        "path": "../../problemset/longest-increasing-subsequence/README.md",
+        "path": "./problemset/longest-increasing-subsequence/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1663,
+        "id": "1663",
         "title": "具有给定数值的最小字符串",
-        "path": "../../problemset/smallest-string-with-a-given-numeric-value/README.md",
+        "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 2038,
+        "id": "2038",
         "title": "如果相邻两个颜色均相同则删除当前颜色",
-        "path": "../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
+        "path": "./problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "二叉树",
-    "problems": [
+    "topics": [
       {
-        "id": 94,
+        "id": "94",
         "title": "二叉树的中序遍历",
-        "path": "../../problemset/binary-tree-inorder-traversal/README.md",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 95,
+        "id": "95",
         "title": "不同的二叉搜索数 II",
-        "path": "../../problemset/unique-binary-search-trees-2/README.md",
+        "path": "./problemset/unique-binary-search-trees-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 96,
+        "id": "96",
         "title": "不同的二叉搜索树",
-        "path": "../../problemset/unique-binary-search-trees/README.md",
+        "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 98,
+        "id": "98",
         "title": "验证二叉搜索树",
-        "path": "../../problemset/validate-binary-search-tree/README.md",
+        "path": "./problemset/validate-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 99,
+        "id": "99",
         "title": "恢复二叉搜索树",
-        "path": "../../problemset/recover-binary-search-tree/README.md",
+        "path": "./problemset/recover-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 100,
+        "id": "100",
         "title": "相同的树",
-        "path": "../../problemset/same-tree/README.md",
+        "path": "./problemset/same-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 101,
+        "id": "101",
         "title": "对称二叉树",
-        "path": "../../problemset/symmetric-tree/README.md",
+        "path": "./problemset/symmetric-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 102,
+        "id": "102",
         "title": "二叉树的层序遍历",
-        "path": "../../problemset/binary-tree-level-order-traversal/README.md",
+        "path": "./problemset/binary-tree-level-order-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 103,
+        "id": "103",
         "title": "二叉树的锯齿形层序遍历",
-        "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md",
+        "path": "./problemset/binary-tree-zigzag-level-order-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 104,
+        "id": "104",
         "title": "二叉树的最大深度",
-        "path": "../../problemset/maximum-depth-of-binary-tree/README.md",
+        "path": "./problemset/maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 105,
+        "id": "105",
         "title": "从前序与中序遍历序列构造二叉树",
-        "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "path": "./problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 106,
+        "id": "106",
         "title": "从中序与后序遍历序列构造二叉树",
-        "path": "../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+        "path": "./problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 107,
+        "id": "107",
         "title": "二叉树的层序遍历 II",
-        "path": "../../problemset/binary-tree-level-order-traversal-2/README.md",
+        "path": "./problemset/binary-tree-level-order-traversal-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 108,
+        "id": "108",
         "title": "将有序数组转换为二叉搜索树",
-        "path": "../../problemset/convert-sorted-array-to-binary-search-tree/README.md",
+        "path": "./problemset/convert-sorted-array-to-binary-search-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 109,
+        "id": "109",
         "title": "有序链表转换二叉搜索树",
-        "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md",
+        "path": "./problemset/convert-sorted-list-to-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 110,
+        "id": "110",
         "title": "平衡二叉树",
-        "path": "../../problemset/balanced-binary-tree/README.md",
+        "path": "./problemset/balanced-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 111,
+        "id": "111",
         "title": "二叉树的最小深度",
-        "path": "../../problemset/minimum-depth-of-binary-tree/README.md",
+        "path": "./problemset/minimum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 112,
+        "id": "112",
         "title": "路径总和",
-        "path": "../../problemset/path-sum/README.md",
+        "path": "./problemset/path-sum/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 113,
+        "id": "113",
         "title": "路径总和 II",
-        "path": "../../problemset/path-sum-2/README.md",
+        "path": "./problemset/path-sum-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 114,
+        "id": "114",
         "title": "二叉树展开为链表",
-        "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md",
+        "path": "./problemset/flatten-binary-tree-to-linked-list/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 116,
+        "id": "116",
         "title": "填充每个节点的下一个右侧节点指针",
-        "path": "../../problemset/populating-next-right-pointers-in-each-node/README.md",
+        "path": "./problemset/populating-next-right-pointers-in-each-node/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 117,
+        "id": "117",
         "title": "填充每个节点的下一个右侧节点指针 II",
-        "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md",
+        "path": "./problemset/populating-next-right-pointers-in-each-node-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 144,
+        "id": "144",
         "title": "二叉树的前序遍历",
-        "path": "../../problemset/binary-tree-preorder-traversal/README.md",
+        "path": "./problemset/binary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 145,
+        "id": "145",
         "title": "二叉树的后序遍历",
-        "path": "../../problemset/binary-tree-postorder-traversal/README.md",
+        "path": "./problemset/binary-tree-postorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 173,
+        "id": "173",
         "title": "二叉搜索树迭代器",
-        "path": "../../problemset/binary-search-tree-iterator/README.md",
+        "path": "./problemset/binary-search-tree-iterator/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 199,
+        "id": "199",
         "title": "二叉树的右视图",
-        "path": "../../problemset/binary-tree-right-side-view/README.md",
+        "path": "./problemset/binary-tree-right-side-view/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 222,
+        "id": "222",
         "title": "完全二叉树的节点个数",
-        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "path": "./problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 226,
+        "id": "226",
         "title": "翻转二叉树",
-        "path": "../../problemset/invert-binary-tree/README.md",
+        "path": "./problemset/invert-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 230,
+        "id": "230",
         "title": "二叉搜索树中第K小的元素",
-        "path": "../../problemset/kth-smallest-element-in-a-bst/README.md",
+        "path": "./problemset/kth-smallest-element-in-a-bst/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 235,
+        "id": "235",
         "title": "二叉搜索树的最近公共祖先",
-        "path": "../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md",
+        "path": "./problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 236,
+        "id": "236",
         "title": "二叉树的最近公共祖先",
-        "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
+        "path": "./problemset/lowest-common-ancestor-of-a-binary-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 257,
+        "id": "257",
         "title": "二叉树的所有路径",
-        "path": "../../problemset/binary-tree-paths/README.md",
+        "path": "./problemset/binary-tree-paths/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 310,
+        "id": "310",
         "title": "最小高度树",
-        "path": "../../problemset/minimum-height-trees/README.md",
+        "path": "./problemset/minimum-height-trees/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 589,
+        "id": "589",
         "title": "N 叉树的前序遍历",
-        "path": "../../problemset/n-ary-tree-preorder-traversal/README.md",
+        "path": "./problemset/n-ary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 606,
+        "id": "606",
         "title": "根据二叉树创建字符串",
-        "path": "../../problemset/construct-string-from-binary-tree/README.md",
+        "path": "./problemset/construct-string-from-binary-tree/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 653,
+        "id": "653",
         "title": "两数之和 IV - 输入 BST",
-        "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md",
+        "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
       }
     ]
   },
   {
     "label": "枚举",
-    "problems": [
+    "topics": [
       {
-        "id": 204,
+        "id": "204",
         "title": "计数质数",
-        "path": "../../problemset/count-primes/README.md",
+        "path": "./problemset/count-primes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 479,
+        "id": "479",
         "title": "最大回文数乘积",
-        "path": "../../problemset/largest-palindrome-product/README.md",
+        "path": "./problemset/largest-palindrome-product/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 1601,
+        "id": "1601",
         "title": "最多可达成的换楼请求数目",
-        "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md",
+        "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "位运算",
-    "problems": [
+    "topics": [
       {
-        "id": 67,
+        "id": "67",
         "title": "二进制求和",
-        "path": "../../problemset/add-binary/README.md",
+        "path": "./problemset/add-binary/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 89,
+        "id": "89",
         "title": "格雷编码",
-        "path": "../../problemset/gray-code/README.md",
+        "path": "./problemset/gray-code/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 136,
+        "id": "136",
         "title": "只出现一次的数字",
-        "path": "../../problemset/single-number/README.md",
+        "path": "./problemset/single-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 137,
+        "id": "137",
         "title": "只出现一次的数字 II",
-        "path": "../../problemset/single-number-2/README.md",
+        "path": "./problemset/single-number-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 187,
+        "id": "187",
         "title": "重复的DNA序列",
-        "path": "../../problemset/repeated-dna-sequences/README.md",
+        "path": "./problemset/repeated-dna-sequences/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 190,
+        "id": "190",
         "title": "颠倒二进制位",
-        "path": "../../problemset/reverse-bits/README.md",
+        "path": "./problemset/reverse-bits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 191,
+        "id": "191",
         "title": "位1的个数",
-        "path": "../../problemset/number-of-1-bits/README.md",
+        "path": "./problemset/number-of-1-bits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 201,
+        "id": "201",
         "title": "数字范围按位与",
-        "path": "../../problemset/bitwise-and-of-numbers-range/README.md",
+        "path": "./problemset/bitwise-and-of-numbers-range/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 222,
+        "id": "222",
         "title": "完全二叉树的节点个数",
-        "path": "../../problemset/count-complete-tree-nodes/README.md",
+        "path": "./problemset/count-complete-tree-nodes/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 231,
+        "id": "231",
         "title": "2的幂",
-        "path": "../../problemset/power-of-two/README.md",
+        "path": "./problemset/power-of-two/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 260,
+        "id": "260",
         "title": "只出现一次的数字 III",
-        "path": "../../problemset/single-number-3/README.md",
+        "path": "./problemset/single-number-3/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 268,
+        "id": "268",
         "title": "丢失的数字",
-        "path": "../../problemset/missing-number/README.md",
+        "path": "./problemset/missing-number/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 393,
+        "id": "393",
         "title": "UTF-8 编码验证",
-        "path": "../../problemset/utf-8-validation/README.md",
+        "path": "./problemset/utf-8-validation/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 693,
+        "id": "693",
         "title": "交替位二进制数",
-        "path": "../../problemset/binary-number-with-alternating-bits/README.md",
+        "path": "./problemset/binary-number-with-alternating-bits/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 762,
+        "id": "762",
         "title": "二进制表示中质数个计算置位",
-        "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md",
+        "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 1763,
+        "id": "1763",
         "title": "最长的美好子字符串",
-        "path": "../../problemset/longest-nice-substring/README.md",
+        "path": "./problemset/longest-nice-substring/README.md",
         "difficulty": "简单"
       },
       {
-        "id": 2044,
+        "id": "2044",
         "title": "统计按位或能得到最大值的子集数目",
-        "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
+        "path": "./problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "并查集",
-    "problems": [
+    "topics": [
       {
-        "id": 200,
+        "id": "200",
         "title": "岛屿数量",
-        "path": "../../problemset/number-of-islands/README.md",
+        "path": "./problemset/number-of-islands/README.md",
         "difficulty": "中等"
       }
     ]
   },
   {
     "label": "字典树",
-    "problems": [
+    "topics": [
       {
-        "id": 208,
+        "id": "208",
         "title": "实现 Trie (前缀树)",
-        "path": "../../problemset/implement-trie-prefix-tree/README.md",
+        "path": "./problemset/implement-trie-prefix-tree/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 211,
+        "id": "211",
         "title": "添加与搜索单词 - 数据结构设计",
-        "path": "../../problemset/design-add-and-search-words-data-structure/README.md",
+        "path": "./problemset/design-add-and-search-words-data-structure/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 212,
+        "id": "212",
         "title": "单词搜索 II",
-        "path": "../../problemset/word-search-2/README.md",
+        "path": "./problemset/word-search-2/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 440,
+        "id": "440",
         "title": "字典序的第K小数字",
-        "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md",
+        "path": "./problemset/k-th-smallest-in-lexicographical-order/README.md",
         "difficulty": "困难"
       }
     ]
   },
   {
     "label": "优先队列",
-    "problems": [
+    "topics": [
       {
-        "id": 218,
+        "id": "218",
         "title": "天际线问题",
-        "path": "../../problemset/the-skyline-problem/README.md",
+        "path": "./problemset/the-skyline-problem/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 239,
+        "id": "239",
         "title": "滑动窗口最大值",
-        "path": "../../problemset/sliding-window-maximum/README.md",
+        "path": "./problemset/sliding-window-maximum/README.md",
         "difficulty": "困难"
       },
       {
-        "id": 264,
+        "id": "264",
         "title": "丑数 II",
-        "path": "../../problemset/ugly-number-2/README.md",
+        "path": "./problemset/ugly-number-2/README.md",
         "difficulty": "中等"
       },
       {
-        "id": 1606,
+        "id": "1606",
         "title": "找到处理最多请求的服务器",
-        "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md",
+        "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
         "difficulty": "困难"
       }
     ]

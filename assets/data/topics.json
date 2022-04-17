@@ -1,3042 +1,3042 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "title": {
       "cn": "两数之和",
       "en": "two-sum"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/two-sum/",
-    "path": "../../problemset/two-sum/README.md"
+    "path": "./problemset/two-sum/README.md"
   },
   {
-    "id": 2,
+    "id": "2",
     "title": {
       "cn": "两数相加",
       "en": "add-two-numbers"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/add-two-numbers/",
-    "path": "../../problemset/add-two-numbers/README.md"
+    "path": "./problemset/add-two-numbers/README.md"
   },
   {
-    "id": 3,
+    "id": "3",
     "title": {
       "cn": "无重复字符的最长子串",
       "en": "longest-substring-without-repeating-characters"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/",
-    "path": "../../problemset/longest-substring-without-repeating-characters/README.md"
+    "path": "./problemset/longest-substring-without-repeating-characters/README.md"
   },
   {
-    "id": 4,
+    "id": "4",
     "title": {
       "cn": "寻找两个正序数组的中位数",
       "en": "median-of-two-sorted-arrays"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/median-of-two-sorted-arrays/",
-    "path": "../../problemset/median-of-two-sorted-arrays/README.md"
+    "path": "./problemset/median-of-two-sorted-arrays/README.md"
   },
   {
-    "id": 5,
+    "id": "5",
     "title": {
       "cn": "最长回文子串",
       "en": "longest-palindromic-substring"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/longest-palindromic-substring/",
-    "path": "../../problemset/longest-palindromic-substring/README.md"
+    "path": "./problemset/longest-palindromic-substring/README.md"
   },
   {
-    "id": 6,
+    "id": "6",
     "title": {
       "cn": "Z 字形变换",
       "en": "zigzag-conversion"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/zigzag-conversion/",
-    "path": "../../problemset/zigzag-conversion/README.md"
+    "path": "./problemset/zigzag-conversion/README.md"
   },
   {
-    "id": 7,
+    "id": "7",
     "title": {
       "cn": "整数反转",
       "en": "reverse-integer"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/reverse-integer/",
-    "path": "../../problemset/reverse-integer/README.md"
+    "path": "./problemset/reverse-integer/README.md"
   },
   {
-    "id": 8,
+    "id": "8",
     "title": {
       "cn": "字符串转换整数(atoi)",
       "en": "string-to-integer-atoi"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/string-to-integer-atoi/",
-    "path": "../../problemset/string-to-integer-atoi/README.md"
+    "path": "./problemset/string-to-integer-atoi/README.md"
   },
   {
-    "id": 9,
+    "id": "9",
     "title": {
       "cn": "回文数",
       "en": "palindrome-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/palindrome-number/",
-    "path": "../../problemset/palindrome-number/README.md"
+    "path": "./problemset/palindrome-number/README.md"
   },
   {
-    "id": 10,
+    "id": "10",
     "title": {
       "cn": "正则表达式匹配",
       "en": "regular-expression-matching"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/regular-expression-matching/",
-    "path": "../../problemset/regular-expression-matching/README.md"
+    "path": "./problemset/regular-expression-matching/README.md"
   },
   {
-    "id": 11,
+    "id": "11",
     "title": {
       "cn": "盛最多水的容器",
       "en": "container-with-most-water"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/container-with-most-water/",
-    "path": "../../problemset/container-with-most-water/README.md"
+    "path": "./problemset/container-with-most-water/README.md"
   },
   {
-    "id": 12,
+    "id": "12",
     "title": {
       "cn": "整数转罗马数字",
       "en": "integer-to-roman"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/integer-to-roman/",
-    "path": "../../problemset/integer-to-roman/README.md"
+    "path": "./problemset/integer-to-roman/README.md"
   },
   {
-    "id": 13,
+    "id": "13",
     "title": {
       "cn": "罗马数字转整数",
       "en": "roman-to-integer"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/roman-to-integer/",
-    "path": "../../problemset/roman-to-integer/README.md"
+    "path": "./problemset/roman-to-integer/README.md"
   },
   {
-    "id": 14,
+    "id": "14",
     "title": {
       "cn": "最长公共前缀",
       "en": "longest-common-prefix"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/longest-common-prefix/",
-    "path": "../../problemset/longest-common-prefix/README.md"
+    "path": "./problemset/longest-common-prefix/README.md"
   },
   {
-    "id": 15,
+    "id": "15",
     "title": {
       "cn": "三数之和",
       "en": "three-sum"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/3sum/",
-    "path": "../../problemset/three-sum/README.md"
+    "path": "./problemset/three-sum/README.md"
   },
   {
-    "id": 16,
+    "id": "16",
     "title": {
       "cn": "最接近的三数之和",
       "en": "three-sum-closest"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/3sum-closest/",
-    "path": "../../problemset/three-sum-closest/README.md"
+    "path": "./problemset/three-sum-closest/README.md"
   },
   {
-    "id": 17,
+    "id": "17",
     "title": {
       "cn": "电话号码的字母组合",
       "en": "letter-combinations-of-a-phone-number"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/",
-    "path": "../../problemset/letter-combinations-of-a-phone-number/README.md"
+    "path": "./problemset/letter-combinations-of-a-phone-number/README.md"
   },
   {
-    "id": 18,
+    "id": "18",
     "title": {
       "cn": "四数之和",
       "en": "four-sum"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/4sum/",
-    "path": "../../problemset/four-sum/README.md"
+    "path": "./problemset/four-sum/README.md"
   },
   {
-    "id": 19,
+    "id": "19",
     "title": {
       "cn": "删除链表的倒数第 N 个结点",
       "en": "remove-nth-node-from-end-of-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/",
-    "path": "../../problemset/remove-nth-node-from-end-of-list/README.md"
+    "path": "./problemset/remove-nth-node-from-end-of-list/README.md"
   },
   {
-    "id": 20,
+    "id": "20",
     "title": {
       "cn": "有效的括号",
       "en": "valid-parentheses"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/valid-parentheses/",
-    "path": "../../problemset/valid-parentheses/README.md"
+    "path": "./problemset/valid-parentheses/README.md"
   },
   {
-    "id": 21,
+    "id": "21",
     "title": {
       "cn": "合并两个有序链表",
       "en": "merge-two-sorted-lists"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/merge-two-sorted-lists/",
-    "path": "../../problemset/merge-two-sorted-lists/README.md"
+    "path": "./problemset/merge-two-sorted-lists/README.md"
   },
   {
-    "id": 22,
+    "id": "22",
     "title": {
       "cn": "括号生成",
       "en": "generate-parentheses"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/generate-parentheses/",
-    "path": "../../problemset/generate-parentheses/README.md"
+    "path": "./problemset/generate-parentheses/README.md"
   },
   {
-    "id": 23,
+    "id": "23",
     "title": {
       "cn": "合并 K 个升序链表",
       "en": "merge-k-sorted-lists"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/merge-k-sorted-lists/",
-    "path": "../../problemset/merge-k-sorted-lists/README.md"
+    "path": "./problemset/merge-k-sorted-lists/README.md"
   },
   {
-    "id": 24,
+    "id": "24",
     "title": {
       "cn": "两两交换链表中的节点",
       "en": "swap-nodes-in-pairs"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/swap-nodes-in-pairs/",
-    "path": "../../problemset/swap-nodes-in-pairs/README.md"
+    "path": "./problemset/swap-nodes-in-pairs/README.md"
   },
   {
-    "id": 25,
+    "id": "25",
     "title": {
       "cn": "K 个一组翻转链表",
       "en": "reverse-nodes-in-k-group"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/reverse-nodes-in-k-group/",
-    "path": "../../problemset/reverse-nodes-in-k-group/README.md"
+    "path": "./problemset/reverse-nodes-in-k-group/README.md"
   },
   {
-    "id": 26,
+    "id": "26",
     "title": {
       "cn": "删除有序数组中的重复项",
       "en": "remove-duplicates-from-sorted-array"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/",
-    "path": "../../problemset/remove-duplicates-from-sorted-array/README.md"
+    "path": "./problemset/remove-duplicates-from-sorted-array/README.md"
   },
   {
-    "id": 27,
+    "id": "27",
     "title": {
       "cn": "移除元素",
       "en": "remove-element"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/remove-element/",
-    "path": "../../problemset/remove-element/README.md"
+    "path": "./problemset/remove-element/README.md"
   },
   {
-    "id": 28,
+    "id": "28",
     "title": {
       "cn": "实现 strStr()",
       "en": "implement-strstr"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/implement-strstr/",
-    "path": "../../problemset/implement-strstr/README.md"
+    "path": "./problemset/implement-strstr/README.md"
   },
   {
-    "id": 29,
+    "id": "29",
     "title": {
       "cn": "两数相除",
       "en": "divide-two-integers"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/divide-two-integers/",
-    "path": "../../problemset/divide-two-integers/README.md"
+    "path": "./problemset/divide-two-integers/README.md"
   },
   {
-    "id": 30,
+    "id": "30",
     "title": {
       "cn": "串联所有单词的子串",
       "en": "substring-with-concatenation-of-all-words"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/",
-    "path": "../../problemset/substring-with-concatenation-of-all-words/README.md"
+    "path": "./problemset/substring-with-concatenation-of-all-words/README.md"
   },
   {
-    "id": 31,
+    "id": "31",
     "title": {
       "cn": "下一个排列",
       "en": "next-permutation"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/next-permutation/",
-    "path": "../../problemset/next-permutation/README.md"
+    "path": "./problemset/next-permutation/README.md"
   },
   {
-    "id": 32,
+    "id": "32",
     "title": {
       "cn": "最长有效括号",
       "en": "longest-valid-parentheses"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/longest-valid-parentheses/",
-    "path": "../../problemset/longest-valid-parentheses/README.md"
+    "path": "./problemset/longest-valid-parentheses/README.md"
   },
   {
-    "id": 33,
+    "id": "33",
     "title": {
       "cn": "搜索旋转排序数组",
       "en": "search-in-rotated-sorted-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/search-in-rotated-sorted-array/",
-    "path": "../../problemset/search-in-rotated-sorted-array/README.md"
+    "path": "./problemset/search-in-rotated-sorted-array/README.md"
   },
   {
-    "id": 34,
+    "id": "34",
     "title": {
       "cn": "在排序数组中查找元素的第一个和最后一个位置",
       "en": "find-first-and-last-position-of-element-in-sorted-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-    "path": "../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md"
+    "path": "./problemset/find-first-and-last-position-of-element-in-sorted-array/README.md"
   },
   {
-    "id": 35,
+    "id": "35",
     "title": {
       "cn": "搜索插入位置",
       "en": "search-insert-position"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/search-insert-position/",
-    "path": "../../problemset/search-insert-position/README.md"
+    "path": "./problemset/search-insert-position/README.md"
   },
   {
-    "id": 36,
+    "id": "36",
     "title": {
       "cn": "有效的数独",
       "en": "valid-sudoku"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/valid-sudoku/",
-    "path": "../../problemset/valid-sudoku/README.md"
+    "path": "./problemset/valid-sudoku/README.md"
   },
   {
-    "id": 37,
+    "id": "37",
     "title": {
       "cn": "解数独",
       "en": "sudoku-solver"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/sudoku-solver/",
-    "path": "../../problemset/sudoku-solver/README.md"
+    "path": "./problemset/sudoku-solver/README.md"
   },
   {
-    "id": 38,
+    "id": "38",
     "title": {
       "cn": "外观数列",
       "en": "count-and-say"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-and-say/",
-    "path": "../../problemset/count-and-say/README.md"
+    "path": "./problemset/count-and-say/README.md"
   },
   {
-    "id": 39,
+    "id": "39",
     "title": {
       "cn": "组合总和",
       "en": "combination-sum"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/combination-sum/",
-    "path": "../../problemset/combination-sum/README.md"
+    "path": "./problemset/combination-sum/README.md"
   },
   {
-    "id": 40,
+    "id": "40",
     "title": {
       "cn": "组合总和 II",
       "en": "combination-sum-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/combination-sum-ii/",
-    "path": "../../problemset/combination-sum-2/README.md"
+    "path": "./problemset/combination-sum-2/README.md"
   },
   {
-    "id": 41,
+    "id": "41",
     "title": {
       "cn": "缺失的第一个正数",
       "en": "first-missing-positive"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/first-missing-positive/",
-    "path": "../../problemset/first-missing-positive/README.md"
+    "path": "./problemset/first-missing-positive/README.md"
   },
   {
-    "id": 42,
+    "id": "42",
     "title": {
       "cn": "接雨水",
       "en": "trapping-rain-water"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/trapping-rain-water/",
-    "path": "../../problemset/trapping-rain-water/README.md"
+    "path": "./problemset/trapping-rain-water/README.md"
   },
   {
-    "id": 43,
+    "id": "43",
     "title": {
       "cn": "字符串相乘",
       "en": "multiply-strings"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/multiply-strings/",
-    "path": "../../problemset/multiply-strings/README.md"
+    "path": "./problemset/multiply-strings/README.md"
   },
   {
-    "id": 44,
+    "id": "44",
     "title": {
       "cn": "通配符匹配",
       "en": "wildcard-matching"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/wildcard-matching/",
-    "path": "../../problemset/wildcard-matching/README.md"
+    "path": "./problemset/wildcard-matching/README.md"
   },
   {
-    "id": 45,
+    "id": "45",
     "title": {
       "cn": "跳跃游戏 II",
       "en": "jump-game-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/jump-game-ii/",
-    "path": "../../problemset/jump-game-2/README.md"
+    "path": "./problemset/jump-game-2/README.md"
   },
   {
-    "id": 46,
+    "id": "46",
     "title": {
       "cn": "全排列",
       "en": "permutations"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/permutations/",
-    "path": "../../problemset/permutations/README.md"
+    "path": "./problemset/permutations/README.md"
   },
   {
-    "id": 47,
+    "id": "47",
     "title": {
       "cn": "全排列 II",
       "en": "permutations-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/permutations-ii/",
-    "path": "../../problemset/permutations-2/README.md"
+    "path": "./problemset/permutations-2/README.md"
   },
   {
-    "id": 48,
+    "id": "48",
     "title": {
       "cn": "旋转图片",
       "en": "rotate-image"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/rotate-image/",
-    "path": "../../problemset/rotate-image/README.md"
+    "path": "./problemset/rotate-image/README.md"
   },
   {
-    "id": 49,
+    "id": "49",
     "title": {
       "cn": "字母异位词分组",
       "en": "group-anagrams"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/group-anagrams/",
-    "path": "../../problemset/group-anagrams/README.md"
+    "path": "./problemset/group-anagrams/README.md"
   },
   {
-    "id": 50,
+    "id": "50",
     "title": {
       "cn": "Pow(x, n)",
       "en": "powx-n"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/powx-n/",
-    "path": "../../problemset/powx-n/README.md"
+    "path": "./problemset/powx-n/README.md"
   },
   {
-    "id": 51,
+    "id": "51",
     "title": {
       "cn": "N 皇后",
       "en": "n-queens"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/n-queens/",
-    "path": "../../problemset/n-queens/README.md"
+    "path": "./problemset/n-queens/README.md"
   },
   {
-    "id": 52,
+    "id": "52",
     "title": {
       "cn": "N 皇后 II",
       "en": "n-queens-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/n-queens-ii/",
-    "path": "../../problemset/n-queens-2/README.md"
+    "path": "./problemset/n-queens-2/README.md"
   },
   {
-    "id": 53,
+    "id": "53",
     "title": {
       "cn": "最大子数组和",
       "en": "maximum-subarray"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-subarray/",
-    "path": "../../problemset/maximum-subarray/README.md"
+    "path": "./problemset/maximum-subarray/README.md"
   },
   {
-    "id": 54,
+    "id": "54",
     "title": {
       "cn": "螺旋矩阵",
       "en": "spiral-matrix"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/spiral-matrix/",
-    "path": "../../problemset/spiral-matrix/README.md"
+    "path": "./problemset/spiral-matrix/README.md"
   },
   {
-    "id": 55,
+    "id": "55",
     "title": {
       "cn": "跳跃游戏",
       "en": "jump-game"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/jump-game/",
-    "path": "../../problemset/jump-game/README.md"
+    "path": "./problemset/jump-game/README.md"
   },
   {
-    "id": 56,
+    "id": "56",
     "title": {
       "cn": "合并区间",
       "en": "merge-intervals"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/merge-intervals/",
-    "path": "../../problemset/merge-intervals/README.md"
+    "path": "./problemset/merge-intervals/README.md"
   },
   {
-    "id": 57,
+    "id": "57",
     "title": {
       "cn": "插入区间",
       "en": "insert-interval"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/insert-interval/",
-    "path": "../../problemset/insert-interval/README.md"
+    "path": "./problemset/insert-interval/README.md"
   },
   {
-    "id": 58,
+    "id": "58",
     "title": {
       "cn": "最后一个单词的长度",
       "en": "length-of-last-word"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/length-of-last-word/",
-    "path": "../../problemset/length-of-last-word/README.md"
+    "path": "./problemset/length-of-last-word/README.md"
   },
   {
-    "id": 59,
+    "id": "59",
     "title": {
       "cn": "螺旋矩阵 II",
       "en": "spiral-matrix-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/spiral-matrix-ii/",
-    "path": "../../problemset/spiral-matrix-2/README.md"
+    "path": "./problemset/spiral-matrix-2/README.md"
   },
   {
-    "id": 60,
+    "id": "60",
     "title": {
       "cn": "排列序列",
       "en": "permutation-sequence"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/permutation-sequence/",
-    "path": "../../problemset/permutation-sequence/README.md"
+    "path": "./problemset/permutation-sequence/README.md"
   },
   {
-    "id": 61,
+    "id": "61",
     "title": {
       "cn": "旋转链表",
       "en": "rotate-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/rotate-list/",
-    "path": "../../problemset/rotate-list/README.md"
+    "path": "./problemset/rotate-list/README.md"
   },
   {
-    "id": 62,
+    "id": "62",
     "title": {
       "cn": "不同路径",
       "en": "unique-paths"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/unique-paths/",
-    "path": "../../problemset/unique-paths/README.md"
+    "path": "./problemset/unique-paths/README.md"
   },
   {
-    "id": 63,
+    "id": "63",
     "title": {
       "cn": "不同路径 II",
       "en": "unique-paths-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/unique-paths-ii/",
-    "path": "../../problemset/unique-paths-2/README.md"
+    "path": "./problemset/unique-paths-2/README.md"
   },
   {
-    "id": 64,
+    "id": "64",
     "title": {
       "cn": "最小路径和",
       "en": "minimum-path-sum"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/minimum-path-sum/",
-    "path": "../../problemset/minimum-path-sum/README.md"
+    "path": "./problemset/minimum-path-sum/README.md"
   },
   {
-    "id": 65,
+    "id": "65",
     "title": {
       "cn": "有效数字",
       "en": "valid-number"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/valid-number/",
-    "path": "../../problemset/valid-number/README.md"
+    "path": "./problemset/valid-number/README.md"
   },
   {
-    "id": 66,
+    "id": "66",
     "title": {
       "cn": "加一",
       "en": "plus-one"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/plus-one/",
-    "path": "../../problemset/plus-one/README.md"
+    "path": "./problemset/plus-one/README.md"
   },
   {
-    "id": 67,
+    "id": "67",
     "title": {
       "cn": "二进制求和",
       "en": "add-binary"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/add-binary/",
-    "path": "../../problemset/add-binary/README.md"
+    "path": "./problemset/add-binary/README.md"
   },
   {
-    "id": 68,
+    "id": "68",
     "title": {
       "cn": "文本左右对齐",
       "en": "text-justification"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/text-justification/",
-    "path": "../../problemset/text-justification/README.md"
+    "path": "./problemset/text-justification/README.md"
   },
   {
-    "id": 69,
+    "id": "69",
     "title": {
       "cn": "Sqrt(x)",
       "en": "sqrtx"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/sqrtx/",
-    "path": "../../problemset/sqrtx/README.md"
+    "path": "./problemset/sqrtx/README.md"
   },
   {
-    "id": 70,
+    "id": "70",
     "title": {
       "cn": "爬楼梯",
       "en": "climbing-stairs"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/climbing-stairs/",
-    "path": "../../problemset/climbing-stairs/README.md"
+    "path": "./problemset/climbing-stairs/README.md"
   },
   {
-    "id": 71,
+    "id": "71",
     "title": {
       "cn": "简化路径",
       "en": "simplify-path"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/simplify-path/",
-    "path": "../../problemset/simplify-path/README.md"
+    "path": "./problemset/simplify-path/README.md"
   },
   {
-    "id": 72,
+    "id": "72",
     "title": {
       "cn": "编辑距离",
       "en": "edit-distance"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/edit-distance/",
-    "path": "../../problemset/edit-distance/README.md"
+    "path": "./problemset/edit-distance/README.md"
   },
   {
-    "id": 73,
+    "id": "73",
     "title": {
       "cn": "矩阵置零",
       "en": "set-matrix-zeroes"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/set-matrix-zeroes/",
-    "path": "../../problemset/set-matrix-zeroes/README.md"
+    "path": "./problemset/set-matrix-zeroes/README.md"
   },
   {
-    "id": 74,
+    "id": "74",
     "title": {
       "cn": "搜索二维矩阵",
       "en": "search-a-2d-matrix"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/search-a-2d-matrix/",
-    "path": "../../problemset/search-a-2d-matrix/README.md"
+    "path": "./problemset/search-a-2d-matrix/README.md"
   },
   {
-    "id": 75,
+    "id": "75",
     "title": {
       "cn": "颜色分类",
       "en": "sort-colors"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/sort-colors/",
-    "path": "../../problemset/sort-colors/README.md"
+    "path": "./problemset/sort-colors/README.md"
   },
   {
-    "id": 76,
+    "id": "76",
     "title": {
       "cn": "最小覆盖子串",
       "en": "minimum-window-substring"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/minimum-window-substring/",
-    "path": "../../problemset/minimum-window-substring/README.md"
+    "path": "./problemset/minimum-window-substring/README.md"
   },
   {
-    "id": 77,
+    "id": "77",
     "title": {
       "cn": "组合",
       "en": "combinations"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/combinations/",
-    "path": "../../problemset/combinations/README.md"
+    "path": "./problemset/combinations/README.md"
   },
   {
-    "id": 78,
+    "id": "78",
     "title": {
       "cn": "子集",
       "en": "subsets"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/subsets/",
-    "path": "../../problemset/subsets/README.md"
+    "path": "./problemset/subsets/README.md"
   },
   {
-    "id": 79,
+    "id": "79",
     "title": {
       "cn": "单词搜索",
       "en": "word-search"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/word-search/",
-    "path": "../../problemset/word-search/README.md"
+    "path": "./problemset/word-search/README.md"
   },
   {
-    "id": 80,
+    "id": "80",
     "title": {
       "cn": "删除有序数组中的重复项 II",
       "en": "remove-duplicates-from-sorted-array-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/",
-    "path": "../../problemset/remove-duplicates-from-sorted-array-2/README.md"
+    "path": "./problemset/remove-duplicates-from-sorted-array-2/README.md"
   },
   {
-    "id": 81,
+    "id": "81",
     "title": {
       "cn": "搜索旋转排序数组 II",
       "en": "search-in-rotated-sorted-array-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/",
-    "path": "../../problemset/search-in-rotated-sorted-array-2/README.md"
+    "path": "./problemset/search-in-rotated-sorted-array-2/README.md"
   },
   {
-    "id": 82,
+    "id": "82",
     "title": {
       "cn": "删除排序链表的重复元素 II",
       "en": "remove-duplicates-from-sorted-list-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/ ",
-    "path": "../../problemset/remove-duplicates-from-sorted-list-2/README.md"
+    "path": "./problemset/remove-duplicates-from-sorted-list-2/README.md"
   },
   {
-    "id": 83,
+    "id": "83",
     "title": {
       "cn": "删除排序列表中的重复元素",
       "en": "remove-duplicates-from-sorted-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/",
-    "path": "../../problemset/remove-duplicates-from-sorted-list/README.md"
+    "path": "./problemset/remove-duplicates-from-sorted-list/README.md"
   },
   {
-    "id": 84,
+    "id": "84",
     "title": {
       "cn": "柱状图中最大的矩形",
       "en": "largest-rectangle-in-histogram"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/largest-rectangle-in-histogram/ ",
-    "path": "../../problemset/largest-rectangle-in-histogram/README.md"
+    "path": "./problemset/largest-rectangle-in-histogram/README.md"
   },
   {
-    "id": 85,
+    "id": "85",
     "title": {
       "cn": "最大矩形",
       "en": "maximal-rectangle"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/maximal-rectangle/",
-    "path": "../../problemset/maximal-rectangle/README.md"
+    "path": "./problemset/maximal-rectangle/README.md"
   },
   {
-    "id": 86,
+    "id": "86",
     "title": {
       "cn": "分隔链表",
       "en": "partition-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/partition-list/",
-    "path": "../../problemset/partition-list/README.md"
+    "path": "./problemset/partition-list/README.md"
   },
   {
-    "id": 87,
+    "id": "87",
     "title": {
       "cn": "扰乱字符串",
       "en": "scramble-string"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/scramble-string/",
-    "path": "../../problemset/scramble-string/README.md"
+    "path": "./problemset/scramble-string/README.md"
   },
   {
-    "id": 88,
+    "id": "88",
     "title": {
       "cn": "合并两个有序数组",
       "en": "merge-sorted-array"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/merge-sorted-array/",
-    "path": "../../problemset/merge-sorted-array/README.md"
+    "path": "./problemset/merge-sorted-array/README.md"
   },
   {
-    "id": 89,
+    "id": "89",
     "title": {
       "cn": "格雷编码",
       "en": "gray-code"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/gray-code/",
-    "path": "../../problemset/gray-code/README.md"
+    "path": "./problemset/gray-code/README.md"
   },
   {
-    "id": 90,
+    "id": "90",
     "title": {
       "cn": "子集 II",
       "en": "subsets-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/subsets-ii/",
-    "path": "../../problemset/subsets-2/README.md"
+    "path": "./problemset/subsets-2/README.md"
   },
   {
-    "id": 91,
+    "id": "91",
     "title": {
       "cn": "解码方法",
       "en": "decode-ways"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/decode-ways/",
-    "path": "../../problemset/decode-ways/README.md"
+    "path": "./problemset/decode-ways/README.md"
   },
   {
-    "id": 92,
+    "id": "92",
     "title": {
       "cn": "反转链表 II",
       "en": "reverse-linked-list-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/reverse-linked-list-ii/",
-    "path": "../../problemset/reverse-linked-list-2/README.md"
+    "path": "./problemset/reverse-linked-list-2/README.md"
   },
   {
-    "id": 93,
+    "id": "93",
     "title": {
       "cn": "复原IP地址",
       "en": "restore-ip-addresses"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/restore-ip-addresses/",
-    "path": "../../problemset/restore-ip-addresses/README.md"
+    "path": "./problemset/restore-ip-addresses/README.md"
   },
   {
-    "id": 94,
+    "id": "94",
     "title": {
       "cn": "二叉树的中序遍历",
       "en": "binary-tree-inorder-traversal"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-tree-inorder-traversal/",
-    "path": "../../problemset/binary-tree-inorder-traversal/README.md"
+    "path": "./problemset/binary-tree-inorder-traversal/README.md"
   },
   {
-    "id": 95,
+    "id": "95",
     "title": {
       "cn": "不同的二叉搜索数 II",
       "en": "unique-binary-search-trees-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/unique-binary-search-trees-ii/",
-    "path": "../../problemset/unique-binary-search-trees-2/README.md"
+    "path": "./problemset/unique-binary-search-trees-2/README.md"
   },
   {
-    "id": 96,
+    "id": "96",
     "title": {
       "cn": "不同的二叉搜索树",
       "en": "unique-binary-search-trees"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/unique-binary-search-trees/",
-    "path": "../../problemset/unique-binary-search-trees/README.md"
+    "path": "./problemset/unique-binary-search-trees/README.md"
   },
   {
-    "id": 97,
+    "id": "97",
     "title": {
       "cn": "交错字符串",
       "en": "interleaving-string"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/interleaving-string/",
-    "path": "../../problemset/interleaving-string/README.md"
+    "path": "./problemset/interleaving-string/README.md"
   },
   {
-    "id": 98,
+    "id": "98",
     "title": {
       "cn": "验证二叉搜索树",
       "en": "validate-binary-search-tree"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/validate-binary-search-tree/",
-    "path": "../../problemset/validate-binary-search-tree/README.md"
+    "path": "./problemset/validate-binary-search-tree/README.md"
   },
   {
-    "id": 99,
+    "id": "99",
     "title": {
       "cn": "恢复二叉搜索树",
       "en": "recover-binary-search-tree"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/recover-binary-search-tree/",
-    "path": "../../problemset/recover-binary-search-tree/README.md"
+    "path": "./problemset/recover-binary-search-tree/README.md"
   },
   {
-    "id": 100,
+    "id": "100",
     "title": {
       "cn": "相同的树",
       "en": "same-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/same-tree/",
-    "path": "../../problemset/same-tree/README.md"
+    "path": "./problemset/same-tree/README.md"
   },
   {
-    "id": 101,
+    "id": "101",
     "title": {
       "cn": "对称二叉树",
       "en": "symmetric-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/symmetric-tree/",
-    "path": "../../problemset/symmetric-tree/README.md"
+    "path": "./problemset/symmetric-tree/README.md"
   },
   {
-    "id": 102,
+    "id": "102",
     "title": {
       "cn": "二叉树的层序遍历",
       "en": "binary-tree-level-order-traversal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/binary-tree-level-order-traversal/",
-    "path": "../../problemset/binary-tree-level-order-traversal/README.md"
+    "path": "./problemset/binary-tree-level-order-traversal/README.md"
   },
   {
-    "id": 103,
+    "id": "103",
     "title": {
       "cn": "二叉树的锯齿形层序遍历",
       "en": "binary-tree-zigzag-level-order-traversal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/",
-    "path": "../../problemset/binary-tree-zigzag-level-order-traversal/README.md"
+    "path": "./problemset/binary-tree-zigzag-level-order-traversal/README.md"
   },
   {
-    "id": 104,
+    "id": "104",
     "title": {
       "cn": "二叉树的最大深度",
       "en": "maximum-depth-of-binary-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/",
-    "path": "../../problemset/maximum-depth-of-binary-tree/README.md"
+    "path": "./problemset/maximum-depth-of-binary-tree/README.md"
   },
   {
-    "id": 105,
+    "id": "105",
     "title": {
       "cn": "从前序与中序遍历序列构造二叉树",
       "en": "construct-binary-tree-from-preorder-and-inorder-traversal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-    "path": "../../problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
+    "path": "./problemset/construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
   },
   {
-    "id": 106,
+    "id": "106",
     "title": {
       "cn": "从中序与后序遍历序列构造二叉树",
       "en": "construct-binary-tree-from-inorder-and-postorder-traversal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
-    "path": "../../problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md"
+    "path": "./problemset/construct-binary-tree-from-inorder-and-postorder-traversal/README.md"
   },
   {
-    "id": 107,
+    "id": "107",
     "title": {
       "cn": "二叉树的层序遍历 II",
       "en": "binary-tree-level-order-traversal-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/",
-    "path": "../../problemset/binary-tree-level-order-traversal-2/README.md"
+    "path": "./problemset/binary-tree-level-order-traversal-2/README.md"
   },
   {
-    "id": 108,
+    "id": "108",
     "title": {
       "cn": "将有序数组转换为二叉搜索树",
       "en": "convert-sorted-array-to-binary-search-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/",
-    "path": "../../problemset/convert-sorted-array-to-binary-search-tree/README.md"
+    "path": "./problemset/convert-sorted-array-to-binary-search-tree/README.md"
   },
   {
-    "id": 109,
+    "id": "109",
     "title": {
       "cn": "有序链表转换二叉搜索树",
       "en": "convert-sorted-list-to-binary-search-tree"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/",
-    "path": "../../problemset/convert-sorted-list-to-binary-search-tree/README.md"
+    "path": "./problemset/convert-sorted-list-to-binary-search-tree/README.md"
   },
   {
-    "id": 110,
+    "id": "110",
     "title": {
       "cn": "平衡二叉树",
       "en": "balanced-binary-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/balanced-binary-tree/",
-    "path": "../../problemset/balanced-binary-tree/README.md"
+    "path": "./problemset/balanced-binary-tree/README.md"
   },
   {
-    "id": 111,
+    "id": "111",
     "title": {
       "cn": "二叉树的最小深度",
       "en": "minimum-depth-of-binary-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/",
-    "path": "../../problemset/minimum-depth-of-binary-tree/README.md"
+    "path": "./problemset/minimum-depth-of-binary-tree/README.md"
   },
   {
-    "id": 112,
+    "id": "112",
     "title": {
       "cn": "路径总和",
       "en": "path-sum"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/path-sum/",
-    "path": "../../problemset/path-sum/README.md"
+    "path": "./problemset/path-sum/README.md"
   },
   {
-    "id": 113,
+    "id": "113",
     "title": {
       "cn": "路径总和 II",
       "en": "path-sum-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/path-sum-ii/",
-    "path": "../../problemset/path-sum-2/README.md"
+    "path": "./problemset/path-sum-2/README.md"
   },
   {
-    "id": 114,
+    "id": "114",
     "title": {
       "cn": "二叉树展开为链表",
       "en": "flatten-binary-tree-to-linked-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/",
-    "path": "../../problemset/flatten-binary-tree-to-linked-list/README.md"
+    "path": "./problemset/flatten-binary-tree-to-linked-list/README.md"
   },
   {
-    "id": 115,
+    "id": "115",
     "title": {
       "cn": "不同的子序列",
       "en": "distinct-subsequences"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/distinct-subsequences/",
-    "path": "../../problemset/distinct-subsequences/README.md"
+    "path": "./problemset/distinct-subsequences/README.md"
   },
   {
-    "id": 116,
+    "id": "116",
     "title": {
       "cn": "填充每个节点的下一个右侧节点指针",
       "en": "populating-next-right-pointers-in-each-node"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/",
-    "path": "../../problemset/populating-next-right-pointers-in-each-node/README.md"
+    "path": "./problemset/populating-next-right-pointers-in-each-node/README.md"
   },
   {
-    "id": 117,
+    "id": "117",
     "title": {
       "cn": "填充每个节点的下一个右侧节点指针 II",
       "en": "populating-next-right-pointers-in-each-node-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/",
-    "path": "../../problemset/populating-next-right-pointers-in-each-node-2/README.md"
+    "path": "./problemset/populating-next-right-pointers-in-each-node-2/README.md"
   },
   {
-    "id": 118,
+    "id": "118",
     "title": {
       "cn": "杨辉三角",
       "en": "pascals-triangle"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/pascals-triangle/",
-    "path": "../../problemset/pascals-triangle/README.md"
+    "path": "./problemset/pascals-triangle/README.md"
   },
   {
-    "id": 119,
+    "id": "119",
     "title": {
       "cn": "杨辉三角 II",
       "en": "pascals-triangle-2"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/pascals-triangle-ii/",
-    "path": "../../problemset/pascals-triangle-2/README.md"
+    "path": "./problemset/pascals-triangle-2/README.md"
   },
   {
-    "id": 120,
+    "id": "120",
     "title": {
       "cn": "三角形最小路径和",
       "en": "triangle"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/triangle/",
-    "path": "../../problemset/triangle/README.md"
+    "path": "./problemset/triangle/README.md"
   },
   {
-    "id": 121,
+    "id": "121",
     "title": {
       "cn": "买卖股票的最佳时机",
       "en": "best-time-to-buy-and-sell-stock"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/",
-    "path": "../../problemset/best-time-to-buy-and-sell-stock/README.md"
+    "path": "./problemset/best-time-to-buy-and-sell-stock/README.md"
   },
   {
-    "id": 122,
+    "id": "122",
     "title": {
       "cn": "买卖股票的最佳时机 II",
       "en": "best-time-to-buy-and-sell-stock-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/",
-    "path": "../../problemset/best-time-to-buy-and-sell-stock-2/README.md"
+    "path": "./problemset/best-time-to-buy-and-sell-stock-2/README.md"
   },
   {
-    "id": 123,
+    "id": "123",
     "title": {
       "cn": "买卖股票的最佳时机 III",
       "en": "best-time-to-buy-and-sell-stock-3"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/",
-    "path": "../../problemset/best-time-to-buy-and-sell-stock-3/README.md"
+    "path": "./problemset/best-time-to-buy-and-sell-stock-3/README.md"
   },
   {
-    "id": 124,
+    "id": "124",
     "title": {
       "cn": "二叉树中的最大路径和",
       "en": "binary-tree-maximum-path-sum"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/",
-    "path": "../../problemset/binary-tree-maximum-path-sum/README.md"
+    "path": "./problemset/binary-tree-maximum-path-sum/README.md"
   },
   {
-    "id": 125,
+    "id": "125",
     "title": {
       "cn": "验证回文串",
       "en": "valid-palindrome"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/valid-palindrome/",
-    "path": "../../problemset/valid-palindrome/README.md"
+    "path": "./problemset/valid-palindrome/README.md"
   },
   {
-    "id": 126,
+    "id": "126",
     "title": {
       "cn": "单词接龙 II",
       "en": "word-ladder-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/word-ladder-ii/",
-    "path": "../../problemset/word-ladder-2/README.md"
+    "path": "./problemset/word-ladder-2/README.md"
   },
   {
-    "id": 127,
+    "id": "127",
     "title": {
       "cn": "单词接龙",
       "en": "word-ladder"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/word-ladder/",
-    "path": "../../problemset/word-ladder/README.md"
+    "path": "./problemset/word-ladder/README.md"
   },
   {
-    "id": 128,
+    "id": "128",
     "title": {
       "cn": "最长连续序列",
       "en": "longest-consecutive-sequence"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/longest-consecutive-sequence/",
-    "path": "../../problemset/longest-consecutive-sequence/README.md"
+    "path": "./problemset/longest-consecutive-sequence/README.md"
   },
   {
-    "id": 129,
+    "id": "129",
     "title": {
       "cn": "求根节点到叶节点数字之和",
       "en": "sum-root-to-leaf-numbers"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/",
-    "path": "../../problemset/sum-root-to-leaf-numbers/README.md"
+    "path": "./problemset/sum-root-to-leaf-numbers/README.md"
   },
   {
-    "id": 130,
+    "id": "130",
     "title": {
       "cn": "被围绕的区域",
       "en": "surrounded-regions"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/surrounded-regions/",
-    "path": "../../problemset/surrounded-regions/README.md"
+    "path": "./problemset/surrounded-regions/README.md"
   },
   {
-    "id": 131,
+    "id": "131",
     "title": {
       "cn": "分割回文串",
       "en": "palindrome-partitioning"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/palindrome-partitioning/",
-    "path": "../../problemset/palindrome-partitioning/README.md"
+    "path": "./problemset/palindrome-partitioning/README.md"
   },
   {
-    "id": 132,
+    "id": "132",
     "title": {
       "cn": "分割回文串 II",
       "en": "palindrome-partitioning-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/palindrome-partitioning-ii/",
-    "path": "../../problemset/palindrome-partitioning-2/README.md"
+    "path": "./problemset/palindrome-partitioning-2/README.md"
   },
   {
-    "id": 133,
+    "id": "133",
     "title": {
       "cn": "克隆图",
       "en": "clone-graph"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/clone-graph/",
-    "path": "../../problemset/clone-graph/README.md"
+    "path": "./problemset/clone-graph/README.md"
   },
   {
-    "id": 134,
+    "id": "134",
     "title": {
       "cn": "加油站",
       "en": "gas-station"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/gas-station/",
-    "path": "../../problemset/gas-station/README.md"
+    "path": "./problemset/gas-station/README.md"
   },
   {
-    "id": 135,
+    "id": "135",
     "title": {
       "cn": "分发糖果",
       "en": "candy"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/candy/",
-    "path": "../../problemset/candy/README.md"
+    "path": "./problemset/candy/README.md"
   },
   {
-    "id": 136,
+    "id": "136",
     "title": {
       "cn": "只出现一次的数字",
       "en": "single-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/single-number/",
-    "path": "../../problemset/single-number/README.md"
+    "path": "./problemset/single-number/README.md"
   },
   {
-    "id": 137,
+    "id": "137",
     "title": {
       "cn": "只出现一次的数字 II",
       "en": "single-number-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/single-number-ii/",
-    "path": "../../problemset/single-number-2/README.md"
+    "path": "./problemset/single-number-2/README.md"
   },
   {
-    "id": 138,
+    "id": "138",
     "title": {
       "cn": "复制带随机指针的链表",
       "en": "copy-list-with-random-pointer"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/copy-list-with-random-pointer/",
-    "path": "../../problemset/copy-list-with-random-pointer/README.md"
+    "path": "./problemset/copy-list-with-random-pointer/README.md"
   },
   {
-    "id": 139,
+    "id": "139",
     "title": {
       "cn": "单词拆分",
       "en": "word-break"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/word-break/",
-    "path": "../../problemset/word-break/README.md"
+    "path": "./problemset/word-break/README.md"
   },
   {
-    "id": 140,
+    "id": "140",
     "title": {
       "cn": "单词拆分 II",
       "en": "word-break-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/word-break-ii/",
-    "path": "../../problemset/word-break-2/README.md"
+    "path": "./problemset/word-break-2/README.md"
   },
   {
-    "id": 141,
+    "id": "141",
     "title": {
       "cn": "环形链表",
       "en": "linked-list-cycle"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/linked-list-cycle/",
-    "path": "../../problemset/linked-list-cycle/README.md"
+    "path": "./problemset/linked-list-cycle/README.md"
   },
   {
-    "id": 142,
+    "id": "142",
     "title": {
       "cn": "环形链表 II",
       "en": "linked-list-cycle-ii"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/linked-list-cycle-ii/",
-    "path": "../../problemset/linked-list-cycle-ii/README.md"
+    "path": "./problemset/linked-list-cycle-ii/README.md"
   },
   {
-    "id": 143,
+    "id": "143",
     "title": {
       "cn": "重排链表",
       "en": "reorder-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/reorder-list/",
-    "path": "../../problemset/reorder-list/README.md"
+    "path": "./problemset/reorder-list/README.md"
   },
   {
-    "id": 144,
+    "id": "144",
     "title": {
       "cn": "二叉树的前序遍历",
       "en": "binary-tree-preorder-traversal"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-tree-preorder-traversal/",
-    "path": "../../problemset/binary-tree-preorder-traversal/README.md"
+    "path": "./problemset/binary-tree-preorder-traversal/README.md"
   },
   {
-    "id": 145,
+    "id": "145",
     "title": {
       "cn": "二叉树的后序遍历",
       "en": "binary-tree-postorder-traversal"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-tree-postorder-traversal/",
-    "path": "../../problemset/binary-tree-postorder-traversal/README.md"
+    "path": "./problemset/binary-tree-postorder-traversal/README.md"
   },
   {
-    "id": 146,
+    "id": "146",
     "title": {
       "cn": "LRU缓存",
       "en": "lru-cache"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/lru-cache/",
-    "path": "../../problemset/lru-cache/README.md"
+    "path": "./problemset/lru-cache/README.md"
   },
   {
-    "id": 147,
+    "id": "147",
     "title": {
       "cn": "对链表进行插入排序",
       "en": "insertion-sort-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/insertion-sort-list/",
-    "path": "../../problemset/insertion-sort-list/README.md"
+    "path": "./problemset/insertion-sort-list/README.md"
   },
   {
-    "id": 148,
+    "id": "148",
     "title": {
       "cn": "排序链表",
       "en": "sort-list"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/sort-list/",
-    "path": "../../problemset/sort-list/README.md"
+    "path": "./problemset/sort-list/README.md"
   },
   {
-    "id": 149,
+    "id": "149",
     "title": {
       "cn": "直线上最多的点数",
       "en": "max-points-on-a-line"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/max-points-on-a-line/",
-    "path": "../../problemset/max-points-on-a-line/README.md"
+    "path": "./problemset/max-points-on-a-line/README.md"
   },
   {
-    "id": 150,
+    "id": "150",
     "title": {
       "cn": "逆波兰表达式求值",
       "en": "valuate-reverse-polish-notation"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/",
-    "path": "../../problemset/valuate-reverse-polish-notation/README.md"
+    "path": "./problemset/valuate-reverse-polish-notation/README.md"
   },
   {
-    "id": 151,
+    "id": "151",
     "title": {
       "cn": "翻转字符串中里的单词",
       "en": "reverse-words-in-a-string"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/reverse-words-in-a-string/",
-    "path": "../../problemset/reverse-words-in-a-string/README.md"
+    "path": "./problemset/reverse-words-in-a-string/README.md"
   },
   {
-    "id": 152,
+    "id": "152",
     "title": {
       "cn": "乘积最大子数组",
       "en": "maximum-product-subarray"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/maximum-product-subarray/",
-    "path": "../../problemset/maximum-product-subarray/README.md"
+    "path": "./problemset/maximum-product-subarray/README.md"
   },
   {
-    "id": 153,
+    "id": "153",
     "title": {
       "cn": "寻找旋转排序数组中的最小值",
       "en": "find-minimum-in-rotated-sorted-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/",
-    "path": "../../problemset/find-minimum-in-rotated-sorted-array/README.md"
+    "path": "./problemset/find-minimum-in-rotated-sorted-array/README.md"
   },
   {
-    "id": 154,
+    "id": "154",
     "title": {
       "cn": "寻找旋转排序数组中的最小值 II",
       "en": "find-minimum-in-rotated-sorted-array-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/",
-    "path": "../../problemset/find-minimum-in-rotated-sorted-array-2/README.md"
+    "path": "./problemset/find-minimum-in-rotated-sorted-array-2/README.md"
   },
   {
-    "id": 155,
+    "id": "155",
     "title": {
       "cn": "最小栈",
       "en": "min-stack"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/min-stack/",
-    "path": "../../problemset/min-stack/README.md"
+    "path": "./problemset/min-stack/README.md"
   },
   {
-    "id": 160,
+    "id": "160",
     "title": {
       "cn": "相交链表",
       "en": "intersection-of-two-linked-lists"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/intersection-of-two-linked-lists/",
-    "path": "../../problemset/intersection-of-two-linked-lists/README.md"
+    "path": "./problemset/intersection-of-two-linked-lists/README.md"
   },
   {
-    "id": 162,
+    "id": "162",
     "title": {
       "cn": "寻找峰值",
       "en": "find-peak-element"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/find-peak-element/",
-    "path": "../../problemset/find-peak-element/README.md"
+    "path": "./problemset/find-peak-element/README.md"
   },
   {
-    "id": 164,
+    "id": "164",
     "title": {
       "cn": "最大间距",
       "en": "maximum-gap"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/maximum-gap/",
-    "path": "../../problemset/maximum-gap/README.md"
+    "path": "./problemset/maximum-gap/README.md"
   },
   {
-    "id": 165,
+    "id": "165",
     "title": {
       "cn": "比较版本号",
       "en": "compare-version-numbers"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/compare-version-numbers/",
-    "path": "../../problemset/compare-version-numbers/README.md"
+    "path": "./problemset/compare-version-numbers/README.md"
   },
   {
-    "id": 166,
+    "id": "166",
     "title": {
       "cn": "分数到小数",
       "en": "fraction-to-recurring-decimal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/fraction-to-recurring-decimal/",
-    "path": "../../problemset/fraction-to-recurring-decimal/README.md"
+    "path": "./problemset/fraction-to-recurring-decimal/README.md"
   },
   {
-    "id": 167,
+    "id": "167",
     "title": {
       "cn": "两数之和 II - 输入有序数组",
       "en": "two-sum-ii-input-array-is-sorted"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/",
-    "path": "../../problemset/two-sum-ii-input-array-is-sorted/README.md"
+    "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md"
   },
   {
-    "id": 168,
+    "id": "168",
     "title": {
       "cn": "Excel表列名称",
       "en": "excel-sheet-column-title"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/excel-sheet-column-title/",
-    "path": "../../problemset/excel-sheet-column-title/README.md"
+    "path": "./problemset/excel-sheet-column-title/README.md"
   },
   {
-    "id": 169,
+    "id": "169",
     "title": {
       "cn": "多数元素",
       "en": "majority-element"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/majority-element/",
-    "path": "../../problemset/majority-element/README.md"
+    "path": "./problemset/majority-element/README.md"
   },
   {
-    "id": 171,
+    "id": "171",
     "title": {
       "cn": "Excel 表列序号",
       "en": "excel-sheet-column-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/excel-sheet-column-number/",
-    "path": "../../problemset/excel-sheet-column-number/README.md"
+    "path": "./problemset/excel-sheet-column-number/README.md"
   },
   {
-    "id": 172,
+    "id": "172",
     "title": {
       "cn": "阶乘后的零",
       "en": "factorial-trailing-zeroes"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/factorial-trailing-zeroes/",
-    "path": "../../problemset/factorial-trailing-zeroes/README.md"
+    "path": "./problemset/factorial-trailing-zeroes/README.md"
   },
   {
-    "id": 173,
+    "id": "173",
     "title": {
       "cn": "二叉搜索树迭代器",
       "en": "binary-search-tree-iterator"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/binary-search-tree-iterator/",
-    "path": "../../problemset/binary-search-tree-iterator/README.md"
+    "path": "./problemset/binary-search-tree-iterator/README.md"
   },
   {
-    "id": 174,
+    "id": "174",
     "title": {
       "cn": "地下城游戏",
       "en": "dungeon-game"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/dungeon-game/",
-    "path": "../../problemset/dungeon-game/README.md"
+    "path": "./problemset/dungeon-game/README.md"
   },
   {
-    "id": 179,
+    "id": "179",
     "title": {
       "cn": "最大数",
       "en": "largest-number"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/largest-number/",
-    "path": "../../problemset/largest-number/README.md"
+    "path": "./problemset/largest-number/README.md"
   },
   {
-    "id": 187,
+    "id": "187",
     "title": {
       "cn": "重复的DNA序列",
       "en": "repeated-dna-sequences"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/repeated-dna-sequences/",
-    "path": "../../problemset/repeated-dna-sequences/README.md"
+    "path": "./problemset/repeated-dna-sequences/README.md"
   },
   {
-    "id": 188,
+    "id": "188",
     "title": {
       "cn": "买卖股票的最佳时机 IV",
       "en": "best-time-to-buy-and-sell-stock-4"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/",
-    "path": "../../problemset/best-time-to-buy-and-sell-stock-4/README.md"
+    "path": "./problemset/best-time-to-buy-and-sell-stock-4/README.md"
   },
   {
-    "id": 189,
+    "id": "189",
     "title": {
       "cn": "轮转数组",
       "en": "rotate-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/rotate-array/",
-    "path": "../../problemset/rotate-array/README.md"
+    "path": "./problemset/rotate-array/README.md"
   },
   {
-    "id": 190,
+    "id": "190",
     "title": {
       "cn": "颠倒二进制位",
       "en": "reverse-bits"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/reverse-bits/",
-    "path": "../../problemset/reverse-bits/README.md"
+    "path": "./problemset/reverse-bits/README.md"
   },
   {
-    "id": 191,
+    "id": "191",
     "title": {
       "cn": "位1的个数",
       "en": "number-of-1-bits"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-1-bits/",
-    "path": "../../problemset/number-of-1-bits/README.md"
+    "path": "./problemset/number-of-1-bits/README.md"
   },
   {
-    "id": 198,
+    "id": "198",
     "title": {
       "cn": "打家劫舍",
       "en": "house-robber"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/house-robber/",
-    "path": "../../problemset/house-robber/README.md"
+    "path": "./problemset/house-robber/README.md"
   },
   {
-    "id": 199,
+    "id": "199",
     "title": {
       "cn": "二叉树的右视图",
       "en": "binary-tree-right-side-view/"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/binary-tree-right-side-view/",
-    "path": "../../problemset/binary-tree-right-side-view/README.md"
+    "path": "./problemset/binary-tree-right-side-view/README.md"
   },
   {
-    "id": 200,
+    "id": "200",
     "title": {
       "cn": "岛屿数量",
       "en": "number-of-islands"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/number-of-islands/",
-    "path": "../../problemset/number-of-islands/README.md"
+    "path": "./problemset/number-of-islands/README.md"
   },
   {
-    "id": 201,
+    "id": "201",
     "title": {
       "cn": "数字范围按位与",
       "en": "bitwise-and-of-numbers-range"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/",
-    "path": "../../problemset/bitwise-and-of-numbers-range/README.md"
+    "path": "./problemset/bitwise-and-of-numbers-range/README.md"
   },
   {
-    "id": 202,
+    "id": "202",
     "title": {
       "cn": "快乐数",
       "en": "happy-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/happy-number/",
-    "path": "../../problemset/happy-number/README.md"
+    "path": "./problemset/happy-number/README.md"
   },
   {
-    "id": 203,
+    "id": "203",
     "title": {
       "cn": "移除链表元素",
       "en": "remove-linked-list-elements"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/remove-linked-list-elements/",
-    "path": "../../problemset/remove-linked-list-elements/README.md"
+    "path": "./problemset/remove-linked-list-elements/README.md"
   },
   {
-    "id": 204,
+    "id": "204",
     "title": {
       "cn": "计数质数",
       "en": "count-primes"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-primes/",
-    "path": "../../problemset/count-primes/README.md"
+    "path": "./problemset/count-primes/README.md"
   },
   {
-    "id": 205,
+    "id": "205",
     "title": {
       "cn": "同构字符串",
       "en": "isomorphic-strings"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/isomorphic-strings/",
-    "path": "../../problemset/isomorphic-strings/README.md"
+    "path": "./problemset/isomorphic-strings/README.md"
   },
   {
-    "id": 206,
+    "id": "206",
     "title": {
       "cn": "反转链表",
       "en": "reverse-linked-list"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/reverse-linked-list/",
-    "path": "../../problemset/reverse-linked-list/README.md"
+    "path": "./problemset/reverse-linked-list/README.md"
   },
   {
-    "id": 207,
+    "id": "207",
     "title": {
       "cn": "课程表",
       "en": "course-schedule"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/course-schedule/",
-    "path": "../../problemset/course-schedule/README.md"
+    "path": "./problemset/course-schedule/README.md"
   },
   {
-    "id": 208,
+    "id": "208",
     "title": {
       "cn": "实现 Trie (前缀树)",
       "en": "implement-trie-prefix-tree"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/implement-trie-prefix-tree/",
-    "path": "../../problemset/implement-trie-prefix-tree/README.md"
+    "path": "./problemset/implement-trie-prefix-tree/README.md"
   },
   {
-    "id": 209,
+    "id": "209",
     "title": {
       "cn": "长度最小的子数组",
       "en": "minimum-size-subarray-sum"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/minimum-size-subarray-sum/",
-    "path": "../../problemset/minimum-size-subarray-sum/README.md"
+    "path": "./problemset/minimum-size-subarray-sum/README.md"
   },
   {
-    "id": 210,
+    "id": "210",
     "title": {
       "cn": "课程表 II",
       "en": "course-schedule-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/course-schedule-ii/",
-    "path": "../../problemset/course-schedule-2/README.md"
+    "path": "./problemset/course-schedule-2/README.md"
   },
   {
-    "id": 211,
+    "id": "211",
     "title": {
       "cn": "添加与搜索单词 - 数据结构设计",
       "en": "design-add-and-search-words-data-structure"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/",
-    "path": "../../problemset/design-add-and-search-words-data-structure/README.md"
+    "path": "./problemset/design-add-and-search-words-data-structure/README.md"
   },
   {
-    "id": 212,
+    "id": "212",
     "title": {
       "cn": "单词搜索 II",
       "en": "word-search-2"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/word-search-ii/",
-    "path": "../../problemset/word-search-2/README.md"
+    "path": "./problemset/word-search-2/README.md"
   },
   {
-    "id": 213,
+    "id": "213",
     "title": {
       "cn": "打家劫舍 II",
       "en": "house-robber-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/house-robber-ii/",
-    "path": "../../problemset/house-robber-2/README.md"
+    "path": "./problemset/house-robber-2/README.md"
   },
   {
-    "id": 214,
+    "id": "214",
     "title": {
       "cn": "最短回文串",
       "en": "shortest-palindrome"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/shortest-palindrome/",
-    "path": "../../problemset/shortest-palindrome/README.md"
+    "path": "./problemset/shortest-palindrome/README.md"
   },
   {
-    "id": 215,
+    "id": "215",
     "title": {
       "cn": "数组中的第k个最大元素",
       "en": "kth-largest-element-in-an-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/kth-largest-element-in-an-array/",
-    "path": "../../problemset/kth-largest-element-in-an-array/README.md"
+    "path": "./problemset/kth-largest-element-in-an-array/README.md"
   },
   {
-    "id": 216,
+    "id": "216",
     "title": {
       "cn": "组合总和 III",
       "en": "combination-sum-3"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/combination-sum-iii/",
-    "path": "../../problemset/combination-sum-3/README.md"
+    "path": "./problemset/combination-sum-3/README.md"
   },
   {
-    "id": 217,
+    "id": "217",
     "title": {
       "cn": "存在重复元素",
       "en": "contains-duplicate"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/contains-duplicate/",
-    "path": "../../problemset/contains-duplicate/README.md"
+    "path": "./problemset/contains-duplicate/README.md"
   },
   {
-    "id": 218,
+    "id": "218",
     "title": {
       "cn": "天际线问题",
       "en": "the-skyline-problem"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/the-skyline-problem/",
-    "path": "../../problemset/the-skyline-problem/README.md"
+    "path": "./problemset/the-skyline-problem/README.md"
   },
   {
-    "id": 219,
+    "id": "219",
     "title": {
       "cn": "存在重复元素 II",
       "en": "contains-duplicate-2"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/contains-duplicate-ii/",
-    "path": "../../problemset/contains-duplicate-2/README.md"
+    "path": "./problemset/contains-duplicate-2/README.md"
   },
   {
-    "id": 220,
+    "id": "220",
     "title": {
       "cn": "存在重复元素 III",
       "en": "contains-duplicate-3"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/contains-duplicate-iii/",
-    "path": "../../problemset/contains-duplicate-3/README.md"
+    "path": "./problemset/contains-duplicate-3/README.md"
   },
   {
-    "id": 221,
+    "id": "221",
     "title": {
       "cn": "最大正方形",
       "en": "maximal-square"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/maximal-square/",
-    "path": "../../problemset/maximal-square/README.md"
+    "path": "./problemset/maximal-square/README.md"
   },
   {
-    "id": 222,
+    "id": "222",
     "title": {
       "cn": "完全二叉树的节点个数",
       "en": "count-complete-tree-nodes"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-complete-tree-nodes/",
-    "path": "../../problemset/count-complete-tree-nodes/README.md"
+    "path": "./problemset/count-complete-tree-nodes/README.md"
   },
   {
-    "id": 223,
+    "id": "223",
     "title": {
       "cn": "矩形面积",
       "en": "rectangle-area"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/rectangle-area/",
-    "path": "../../problemset/rectangle-area/README.md"
+    "path": "./problemset/rectangle-area/README.md"
   },
   {
-    "id": 224,
+    "id": "224",
     "title": {
       "cn": "基本计算器",
       "en": "basic-calculator"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/basic-calculator/",
-    "path": "../../problemset/basic-calculator/README.md"
+    "path": "./problemset/basic-calculator/README.md"
   },
   {
-    "id": 225,
+    "id": "225",
     "title": {
       "cn": "用队列实现栈",
       "en": "implement-stack-using-queues"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/implement-stack-using-queues/",
-    "path": "../../problemset/implement-stack-using-queues/README.md"
+    "path": "./problemset/implement-stack-using-queues/README.md"
   },
   {
-    "id": 226,
+    "id": "226",
     "title": {
       "cn": "翻转二叉树",
       "en": "invert-binary-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/invert-binary-tree/",
-    "path": "../../problemset/invert-binary-tree/README.md"
+    "path": "./problemset/invert-binary-tree/README.md"
   },
   {
-    "id": 227,
+    "id": "227",
     "title": {
       "cn": "基本计算器 II",
       "en": "basic-calculator-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/basic-calculator-ii/",
-    "path": "../../problemset/basic-calculator-2/README.md"
+    "path": "./problemset/basic-calculator-2/README.md"
   },
   {
-    "id": 228,
+    "id": "228",
     "title": {
       "cn": "汇总区间",
       "en": "summary-ranges"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/summary-ranges/",
-    "path": "../../problemset/summary-ranges/README.md"
+    "path": "./problemset/summary-ranges/README.md"
   },
   {
-    "id": 229,
+    "id": "229",
     "title": {
       "cn": "求众数 II",
       "en": "majority-element-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/majority-element-ii/",
-    "path": "../../problemset/majority-element-2/README.md"
+    "path": "./problemset/majority-element-2/README.md"
   },
   {
-    "id": 230,
+    "id": "230",
     "title": {
       "cn": "二叉搜索树中第K小的元素",
       "en": "kth-smallest-element-in-a-bst"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/",
-    "path": "../../problemset/kth-smallest-element-in-a-bst/README.md"
+    "path": "./problemset/kth-smallest-element-in-a-bst/README.md"
   },
   {
-    "id": 231,
+    "id": "231",
     "title": {
       "cn": "2的幂",
       "en": "power-of-two"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/power-of-two/",
-    "path": "../../problemset/power-of-two/README.md"
+    "path": "./problemset/power-of-two/README.md"
   },
   {
-    "id": 232,
+    "id": "232",
     "title": {
       "cn": "用栈实现队列",
       "en": "implement-queue-using-stacks"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/implement-queue-using-stacks/",
-    "path": "../../problemset/implement-queue-using-stacks/README.md"
+    "path": "./problemset/implement-queue-using-stacks/README.md"
   },
   {
-    "id": 233,
+    "id": "233",
     "title": {
       "cn": "数字1的个数",
       "en": "number-of-digit-one"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/number-of-digit-one/",
-    "path": "../../problemset/number-of-digit-one/README.md"
+    "path": "./problemset/number-of-digit-one/README.md"
   },
   {
-    "id": 234,
+    "id": "234",
     "title": {
       "cn": "回文链表",
       "en": "palindrome-linked-list"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/palindrome-linked-list/",
-    "path": "../../problemset/palindrome-linked-list/README.md"
+    "path": "./problemset/palindrome-linked-list/README.md"
   },
   {
-    "id": 235,
+    "id": "235",
     "title": {
       "cn": "二叉搜索树的最近公共祖先",
       "en": "lowest-common-ancestor-of-a-binary-search-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-    "path": "../../problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md"
+    "path": "./problemset/lowest-common-ancestor-of-a-binary-search-tree/README.md"
   },
   {
-    "id": 236,
+    "id": "236",
     "title": {
       "cn": "二叉树的最近公共祖先",
       "en": "lowest-common-ancestor-of-a-binary-tree"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-    "path": "../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md"
+    "path": "./problemset/lowest-common-ancestor-of-a-binary-tree/README.md"
   },
   {
-    "id": 237,
+    "id": "237",
     "title": {
       "cn": "删除链表中的节点",
       "en": "delete-node-in-a-linked-list"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/delete-node-in-a-linked-list/",
-    "path": "../../problemset/delete-node-in-a-linked-list/README.md"
+    "path": "./problemset/delete-node-in-a-linked-list/README.md"
   },
   {
-    "id": 238,
+    "id": "238",
     "title": {
       "cn": "除自身以外数组的乘积",
       "en": "product-of-array-except-self"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/product-of-array-except-self/",
-    "path": "../../problemset/product-of-array-except-self/README.md"
+    "path": "./problemset/product-of-array-except-self/README.md"
   },
   {
-    "id": 239,
+    "id": "239",
     "title": {
       "cn": "滑动窗口最大值",
       "en": "sliding-window-maximum"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/sliding-window-maximum/",
-    "path": "../../problemset/sliding-window-maximum/README.md"
+    "path": "./problemset/sliding-window-maximum/README.md"
   },
   {
-    "id": 240,
+    "id": "240",
     "title": {
       "cn": "搜索二维矩阵 II",
       "en": "search-a-2d-matrix-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/search-a-2d-matrix-ii/",
-    "path": "../../problemset/search-a-2d-matrix-2/README.md"
+    "path": "./problemset/search-a-2d-matrix-2/README.md"
   },
   {
-    "id": 241,
+    "id": "241",
     "title": {
       "cn": "为运算表达式设计优先级",
       "en": "different-ways-to-add-parentheses"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/different-ways-to-add-parentheses/",
-    "path": "../../problemset/different-ways-to-add-parentheses/README.md"
+    "path": "./problemset/different-ways-to-add-parentheses/README.md"
   },
   {
-    "id": 242,
+    "id": "242",
     "title": {
       "cn": "有效的字母异位词",
       "en": "valid-anagram"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/valid-anagram/",
-    "path": "../../problemset/valid-anagram/README.md"
+    "path": "./problemset/valid-anagram/README.md"
   },
   {
-    "id": 257,
+    "id": "257",
     "title": {
       "cn": "二叉树的所有路径",
       "en": "binary-tree-paths"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-tree-paths/",
-    "path": "../../problemset/binary-tree-paths/README.md"
+    "path": "./problemset/binary-tree-paths/README.md"
   },
   {
-    "id": 258,
+    "id": "258",
     "title": {
       "cn": "各位相加",
       "en": "add-digits"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/add-digits/",
-    "path": "../../problemset/add-digits/README.md"
+    "path": "./problemset/add-digits/README.md"
   },
   {
-    "id": 260,
+    "id": "260",
     "title": {
       "cn": "只出现一次的数字 III",
       "en": "single-number-3"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/single-number-iii/",
-    "path": "../../problemset/single-number-3/README.md"
+    "path": "./problemset/single-number-3/README.md"
   },
   {
-    "id": 263,
+    "id": "263",
     "title": {
       "cn": "丑数",
       "en": "ugly-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/ugly-number/",
-    "path": "../../problemset/ugly-number/README.md"
+    "path": "./problemset/ugly-number/README.md"
   },
   {
-    "id": 264,
+    "id": "264",
     "title": {
       "cn": "丑数 II",
       "en": "ugly-number-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/ugly-number-ii/",
-    "path": "../../problemset/ugly-number-2/README.md"
+    "path": "./problemset/ugly-number-2/README.md"
   },
   {
-    "id": 268,
+    "id": "268",
     "title": {
       "cn": "丢失的数字",
       "en": "missing-number"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/missing-number/",
-    "path": "../../problemset/missing-number/README.md"
+    "path": "./problemset/missing-number/README.md"
   },
   {
-    "id": 273,
+    "id": "273",
     "title": {
       "cn": "整数转换英文表示",
       "en": "integer-to-english-words"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/integer-to-english-words/",
-    "path": "../../problemset/integer-to-english-words/README.md"
+    "path": "./problemset/integer-to-english-words/README.md"
   },
   {
-    "id": 274,
+    "id": "274",
     "title": {
       "cn": "H指数",
       "en": "h-index"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/h-index/",
-    "path": "../../problemset/h-index/README.md"
+    "path": "./problemset/h-index/README.md"
   },
   {
-    "id": 275,
+    "id": "275",
     "title": {
       "cn": "H指数 II",
       "en": "h-index-2"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/h-index-ii/",
-    "path": "../../problemset/h-index-2/README.md"
+    "path": "./problemset/h-index-2/README.md"
   },
   {
-    "id": 278,
+    "id": "278",
     "title": {
       "cn": "第一个错误的版本",
       "en": "first-bad-version"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/first-bad-version/",
-    "path": "../../problemset/first-bad-version/README.md"
+    "path": "./problemset/first-bad-version/README.md"
   },
   {
-    "id": 279,
+    "id": "279",
     "title": {
       "cn": "完全平方数",
       "en": "perfect-squares"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/perfect-squares/",
-    "path": "../../problemset/perfect-squares/README.md"
+    "path": "./problemset/perfect-squares/README.md"
   },
   {
-    "id": 282,
+    "id": "282",
     "title": {
       "cn": "给表达式添加运算符",
       "en": "expression-add-operators"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/expression-add-operators/",
-    "path": "../../problemset/expression-add-operators/README.md"
+    "path": "./problemset/expression-add-operators/README.md"
   },
   {
-    "id": 300,
+    "id": "300",
     "title": {
       "cn": "最长递增子序列",
       "en": "longest-increasing-subsequence"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/longest-increasing-subsequence/",
-    "path": "../../problemset/longest-increasing-subsequence/README.md"
+    "path": "./problemset/longest-increasing-subsequence/README.md"
   },
   {
-    "id": 307,
+    "id": "307",
     "title": {
       "cn": " 区域和检索 - 数组可修改",
       "en": "range-sum-query-mutable"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/range-sum-query-mutable/",
-    "path": "../../problemset/range-sum-query-mutable/README.md"
+    "path": "./problemset/range-sum-query-mutable/README.md"
   },
   {
-    "id": 310,
+    "id": "310",
     "title": {
       "cn": "最小高度树",
       "en": "minimum-height-trees"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/minimum-height-trees/",
-    "path": "../../problemset/minimum-height-trees/README.md"
+    "path": "./problemset/minimum-height-trees/README.md"
   },
   {
-    "id": 357,
+    "id": "357",
     "title": {
       "cn": "统计各位数字都不同的数字个数",
       "en": "count-numbers-with-unique-digits"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-numbers-with-unique-digits/",
-    "path": "../../problemset/count-numbers-with-unique-digits/README.md"
+    "path": "./problemset/count-numbers-with-unique-digits/README.md"
   },
   {
-    "id": 380,
+    "id": "380",
     "title": {
       "cn": "O(1) 时间插入、删除和获取随机元素",
       "en": "insert-delete-getrandom-o1"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/insert-delete-getrandom-o1/",
-    "path": "../../problemset/insert-delete-getrandom-o1/README.md"
+    "path": "./problemset/insert-delete-getrandom-o1/README.md"
   },
   {
-    "id": 385,
+    "id": "385",
     "title": {
       "cn": "迷你语法分析器",
       "en": "mini-parser"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/mini-parser/",
-    "path": "../../problemset/mini-parser/README.md"
+    "path": "./problemset/mini-parser/README.md"
   },
   {
-    "id": 393,
+    "id": "393",
     "title": {
       "cn": "UTF-8 编码验证",
       "en": "utf-8-validation"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/utf-8-validation/",
-    "path": "../../problemset/utf-8-validation/README.md"
+    "path": "./problemset/utf-8-validation/README.md"
   },
   {
-    "id": 420,
+    "id": "420",
     "title": {
       "cn": "强密码检验器",
       "en": "strong-password-checker"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/strong-password-checker/",
-    "path": "../../problemset/strong-password-checker/README.md"
+    "path": "./problemset/strong-password-checker/README.md"
   },
   {
-    "id": 429,
+    "id": "429",
     "title": {
       "cn": "N 叉树的层序遍历",
       "en": "n-ary-tree-level-order-traversal"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/",
-    "path": "../../problemset/n-ary-tree-level-order-traversal/README.md"
+    "path": "./problemset/n-ary-tree-level-order-traversal/README.md"
   },
   {
-    "id": 432,
+    "id": "432",
     "title": {
       "cn": "全 O(1) 的数据结构",
       "en": "all-one-data-structure"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/all-one-data-structure/",
-    "path": "../../problemset/all-one-data-structure/README.md"
+    "path": "./problemset/all-one-data-structure/README.md"
   },
   {
-    "id": 440,
+    "id": "440",
     "title": {
       "cn": "字典序的第K小数字",
       "en": "k-th-smallest-in-lexicographical-order"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/",
-    "path": "../../problemset/k-th-smallest-in-lexicographical-order/README.md"
+    "path": "./problemset/k-th-smallest-in-lexicographical-order/README.md"
   },
   {
-    "id": 479,
+    "id": "479",
     "title": {
       "cn": "最大回文数乘积",
       "en": "largest-palindrome-product"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/largest-palindrome-product/",
-    "path": "../../problemset/largest-palindrome-product/README.md"
+    "path": "./problemset/largest-palindrome-product/README.md"
   },
   {
-    "id": 504,
+    "id": "504",
     "title": {
       "cn": "七进制数",
       "en": "base-7"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/base-7/",
-    "path": "../../problemset/base-7/README.md"
+    "path": "./problemset/base-7/README.md"
   },
   {
-    "id": 521,
+    "id": "521",
     "title": {
       "cn": "最长特殊序列",
       "en": "longest-uncommon-subsequence"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/",
-    "path": "../../problemset/longest-uncommon-subsequence/README.md"
+    "path": "./problemset/longest-uncommon-subsequence/README.md"
   },
   {
-    "id": 537,
+    "id": "537",
     "title": {
       "cn": "复数乘法",
       "en": "complex-number-multiplication"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/complex-number-multiplication/",
-    "path": "../../problemset/complex-number-multiplication/README.md"
+    "path": "./problemset/complex-number-multiplication/README.md"
   },
   {
-    "id": 540,
+    "id": "540",
     "title": {
       "cn": "有序数组中的单一元素",
       "en": "single-element-in-a-sorted-array"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/single-element-in-a-sorted-array/",
-    "path": "../../problemset/single-element-in-a-sorted-array/README.md"
+    "path": "./problemset/single-element-in-a-sorted-array/README.md"
   },
   {
-    "id": 553,
+    "id": "553",
     "title": {
       "cn": "最优除法",
       "en": "optimal-division"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/optimal-division/",
-    "path": "../../problemset/optimal-division/README.md"
+    "path": "./problemset/optimal-division/README.md"
   },
   {
-    "id": 564,
+    "id": "564",
     "title": {
       "cn": "寻找最近的回文数",
       "en": "find-the-closest-palindrome"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/find-the-closest-palindrome/",
-    "path": "../../problemset/find-the-closest-palindrome/README.md"
+    "path": "./problemset/find-the-closest-palindrome/README.md"
   },
   {
-    "id": 589,
+    "id": "589",
     "title": {
       "cn": "N 叉树的前序遍历",
       "en": "n-ary-tree-preorder-traversal"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/",
-    "path": "../../problemset/n-ary-tree-preorder-traversal/README.md"
+    "path": "./problemset/n-ary-tree-preorder-traversal/README.md"
   },
   {
-    "id": 590,
+    "id": "590",
     "title": {
       "cn": "N 叉树的后序遍历",
       "en": "n-ary-tree-postorder-traversal"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/",
-    "path": "../../problemset/n-ary-tree-postorder-traversal/README.md"
+    "path": "./problemset/n-ary-tree-postorder-traversal/README.md"
   },
   {
-    "id": 599,
+    "id": "599",
     "title": {
       "cn": "两个列表的最小索引总和",
       "en": "minimum-index-sum-of-two-lists"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/",
-    "path": "../../problemset/minimum-index-sum-of-two-lists/README.md"
+    "path": "./problemset/minimum-index-sum-of-two-lists/README.md"
   },
   {
-    "id": 606,
+    "id": "606",
     "title": {
       "cn": "根据二叉树创建字符串",
       "en": "construct-string-from-binary-tree"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/construct-string-from-binary-tree/",
-    "path": "../../problemset/construct-string-from-binary-tree/README.md"
+    "path": "./problemset/construct-string-from-binary-tree/README.md"
   },
   {
-    "id": 653,
+    "id": "653",
     "title": {
       "cn": "两数之和 IV - 输入 BST",
       "en": "two-sum-iv-input-is-a-bst"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/",
-    "path": "../../problemset/two-sum-iv-input-is-a-bst/README.md"
+    "path": "./problemset/two-sum-iv-input-is-a-bst/README.md"
   },
   {
-    "id": 661,
+    "id": "661",
     "title": {
       "cn": "图片平滑器",
       "en": "image-smoother"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/image-smoother/",
-    "path": "../../problemset/image-smoother/README.md"
+    "path": "./problemset/image-smoother/README.md"
   },
   {
-    "id": 682,
+    "id": "682",
     "title": {
       "cn": "棒球比赛",
       "en": "baseball-game"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/baseball-game/",
-    "path": "../../problemset/baseball-game/README.md"
+    "path": "./problemset/baseball-game/README.md"
   },
   {
-    "id": 688,
+    "id": "688",
     "title": {
       "cn": "骑士在棋盘上的概率",
       "en": "knight-probability-in-chessboard"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/knight-probability-in-chessboard/",
-    "path": "../../problemset/knight-probability-in-chessboard/README.md"
+    "path": "./problemset/knight-probability-in-chessboard/README.md"
   },
   {
-    "id": 693,
+    "id": "693",
     "title": {
       "cn": "交替位二进制数",
       "en": "binary-number-with-alternating-bits"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-number-with-alternating-bits/",
-    "path": "../../problemset/binary-number-with-alternating-bits/README.md"
+    "path": "./problemset/binary-number-with-alternating-bits/README.md"
   },
   {
-    "id": 720,
+    "id": "720",
     "title": {
       "cn": "词典中最长的单词",
       "en": "longest-word-in-dictionary"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/longest-word-in-dictionary/",
-    "path": "../../problemset/longest-word-in-dictionary/README.md"
+    "path": "./problemset/longest-word-in-dictionary/README.md"
   },
   {
-    "id": 728,
+    "id": "728",
     "title": {
       "cn": "自除数",
       "en": "self-dividing-numbers"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/self-dividing-numbers/",
-    "path": "../../problemset/self-dividing-numbers/README.md"
+    "path": "./problemset/self-dividing-numbers/README.md"
   },
   {
-    "id": 744,
+    "id": "744",
     "title": {
       "cn": "寻找比目标字母大的最小字母",
       "en": "find-smallest-letter-greater-than-target"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/",
-    "path": "../../problemset/find-smallest-letter-greater-than-target/README.md"
+    "path": "./problemset/find-smallest-letter-greater-than-target/README.md"
   },
   {
-    "id": 762,
+    "id": "762",
     "title": {
       "cn": "二进制表示中质数个计算置位",
       "en": "prime-number-of-set-bits-in-binary-representation"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/",
-    "path": "../../problemset/prime-number-of-set-bits-in-binary-representation/README.md"
+    "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md"
   },
   {
-    "id": 780,
+    "id": "780",
     "title": {
       "cn": "到达终点",
       "en": "reaching-points"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/reaching-points/",
-    "path": "../../problemset/reaching-points/README.md"
+    "path": "./problemset/reaching-points/README.md"
   },
   {
-    "id": 796,
+    "id": "796",
     "title": {
       "cn": "旋转字符串",
       "en": "rotate-string"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/rotate-string/",
-    "path": "../../problemset/rotate-string/README.md"
+    "path": "./problemset/rotate-string/README.md"
   },
   {
-    "id": 798,
+    "id": "798",
     "title": {
       "cn": "得分最高的最小轮调",
       "en": "smallest-rotation-with-highest-score"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/",
-    "path": "../../problemset/smallest-rotation-with-highest-score/README.md"
+    "path": "./problemset/smallest-rotation-with-highest-score/README.md"
   },
   {
-    "id": 804,
+    "id": "804",
     "title": {
       "cn": "唯一摩尔斯密码词",
       "en": "unique-morse-code-words"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/unique-morse-code-words/",
-    "path": "../../problemset/unique-morse-code-words/README.md"
+    "path": "./problemset/unique-morse-code-words/README.md"
   },
   {
-    "id": 806,
+    "id": "806",
     "title": {
       "cn": "写字符串需要的行数",
       "en": "number-of-lines-to-write-string"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-lines-to-write-string/",
-    "path": "../../problemset/number-of-lines-to-write-string/README.md"
+    "path": "./problemset/number-of-lines-to-write-string/README.md"
   },
   {
-    "id": 819,
+    "id": "819",
     "title": {
       "cn": "最常见的单词",
       "en": "most-common-word"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/most-common-word/",
-    "path": "../../problemset/most-common-word/README.md"
+    "path": "./problemset/most-common-word/README.md"
   },
   {
-    "id": 838,
+    "id": "838",
     "title": {
       "cn": "推多米诺",
       "en": "push-dominoes"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/push-dominoes/",
-    "path": "../../problemset/push-dominoes/README.md"
+    "path": "./problemset/push-dominoes/README.md"
   },
   {
-    "id": 884,
+    "id": "884",
     "title": {
       "cn": "两句话中的不常见单词",
       "en": "uncommon-words-from-two-sentences"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/",
-    "path": "../../problemset/uncommon-words-from-two-sentences/README.md"
+    "path": "./problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
-    "id": 917,
+    "id": "917",
     "title": {
       "cn": "仅仅反转字母",
       "en": "reverse-only-letters"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/reverse-only-letters/",
-    "path": "../../problemset/reverse-only-letters/README.md"
+    "path": "./problemset/reverse-only-letters/README.md"
   },
   {
-    "id": 954,
+    "id": "954",
     "title": {
       "cn": "二倍数对数组",
       "en": "array-of-doubled-pairs"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/array-of-doubled-pairs/",
-    "path": "../../problemset/array-of-doubled-pairs/README.md"
+    "path": "./problemset/array-of-doubled-pairs/README.md"
   },
   {
-    "id": 969,
+    "id": "969",
     "title": {
       "cn": "煎饼排序",
       "en": "pancake-sorting"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/pancake-sorting/",
-    "path": "../../problemset/pancake-sorting/README.md"
+    "path": "./problemset/pancake-sorting/README.md"
   },
   {
-    "id": 1001,
+    "id": "1001",
     "title": {
       "cn": "网格照明",
       "en": "grid-illumination"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/grid-illumination/",
-    "path": "../../problemset/grid-illumination/README.md"
+    "path": "./problemset/grid-illumination/README.md"
   },
   {
-    "id": 1020,
+    "id": "1020",
     "title": {
       "cn": "飞地的数量",
       "en": "number-of-enclaves"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/number-of-enclaves/",
-    "path": "../../problemset/number-of-enclaves/README.md"
+    "path": "./problemset/number-of-enclaves/README.md"
   },
   {
-    "id": 1189,
+    "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",
       "en": "maximum-number-of-balloons"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-number-of-balloons/",
-    "path": "../../problemset/maximum-number-of-balloons/README.md"
+    "path": "./problemset/maximum-number-of-balloons/README.md"
   },
   {
-    "id": 1342,
+    "id": "1342",
     "title": {
       "cn": "将数字变成 0 的操作次数",
       "en": "number-of-steps-to-reduce-a-number-to-zero"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
-    "path": "../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
+    "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
   },
   {
-    "id": 1380,
+    "id": "1380",
     "title": {
       "cn": "矩阵中的幸运数",
       "en": "lucky-numbers-in-a-matrix"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/",
-    "path": "../../problemset/lucky-numbers-in-a-matrix/README.md"
+    "path": "./problemset/lucky-numbers-in-a-matrix/README.md"
   },
   {
-    "id": 1447,
+    "id": "1447",
     "title": {
       "cn": "最简分数",
       "en": "simplified-fractions"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/simplified-fractions/",
-    "path": "../../problemset/simplified-fractions/README.md"
+    "path": "./problemset/simplified-fractions/README.md"
   },
   {
-    "id": 1601,
+    "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",
       "en": "maximum-number-of-achievable-transfer-requests"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/",
-    "path": "../../problemset/maximum-number-of-achievable-transfer-requests/README.md"
+    "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md"
   },
   {
-    "id": 1606,
+    "id": "1606",
     "title": {
       "cn": "找到处理最多请求的服务器",
       "en": "find-servers-that-handled-most-number-of-requests"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/",
-    "path": "../../problemset/find-servers-that-handled-most-number-of-requests/README.md"
+    "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md"
   },
   {
-    "id": 1663,
+    "id": "1663",
     "title": {
       "cn": "具有给定数值的最小字符串",
       "en": "smallest-string-with-a-given-numeric-value"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/smallest-string-with-a-given-numeric-value/",
-    "path": "../../problemset/smallest-string-with-a-given-numeric-value/README.md"
+    "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md"
   },
   {
-    "id": 1672,
+    "id": "1672",
     "title": {
       "cn": "最富有客户的资产总量",
       "en": "richest-customer-wealth"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/richest-customer-wealth/",
-    "path": "../../problemset/richest-customer-wealth/README.md"
+    "path": "./problemset/richest-customer-wealth/README.md"
   },
   {
-    "id": 1706,
+    "id": "1706",
     "title": {
       "cn": "球会落何处",
       "en": "where-will-the-ball-fall"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/where-will-the-ball-fall/",
-    "path": "../../problemset/where-will-the-ball-fall/README.md"
+    "path": "./problemset/where-will-the-ball-fall/README.md"
   },
   {
-    "id": 1719,
+    "id": "1719",
     "title": {
       "cn": "重构一棵树的方案数",
       "en": "number-of-ways-to-reconstruct-a-tree"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/",
-    "path": "../../problemset/number-of-ways-to-reconstruct-a-tree/README.md"
+    "path": "./problemset/number-of-ways-to-reconstruct-a-tree/README.md"
   },
   {
-    "id": 1763,
+    "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",
       "en": "longest-nice-substring"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/longest-nice-substring/",
-    "path": "../../problemset/longest-nice-substring/README.md"
+    "path": "./problemset/longest-nice-substring/README.md"
   },
   {
-    "id": 1765,
+    "id": "1765",
     "title": {
       "cn": "地图中的最高点",
       "en": "map-of-highest-peak"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/map-of-highest-peak/",
-    "path": "../../problemset/map-of-highest-peak/README.md"
+    "path": "./problemset/map-of-highest-peak/README.md"
   },
   {
-    "id": 1791,
+    "id": "1791",
     "title": {
       "cn": "找出星型图的中心节点",
       "en": "find-center-of-star-graph"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/find-center-of-star-graph/",
-    "path": "../../problemset/find-center-of-star-graph/README.md"
+    "path": "./problemset/find-center-of-star-graph/README.md"
   },
   {
-    "id": 1984,
+    "id": "1984",
     "title": {
       "cn": "学生分数的最小差值",
       "en": "minimum-difference-between-highest-and-lowest-of-k-scores"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
-    "path": "../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md"
+    "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md"
   },
   {
-    "id": 1994,
+    "id": "1994",
     "title": {
       "cn": "好子集的数目",
       "en": "the-number-of-good-subsets"
     },
     "difficulty": "困难",
     "url": "https://leetcode-cn.com/problems/the-number-of-good-subsets/",
-    "path": "../../problemset/the-number-of-good-subsets/README.md"
+    "path": "./problemset/the-number-of-good-subsets/README.md"
   },
   {
-    "id": 1996,
+    "id": "1996",
     "title": {
       "cn": "游戏中弱角色的数量",
       "en": "the-number-of-weak-characters-in-the-game"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/",
-    "path": "../../problemset/the-number-of-weak-characters-in-the-game/README.md"
+    "path": "./problemset/the-number-of-weak-characters-in-the-game/README.md"
   },
   {
-    "id": 2006,
+    "id": "2006",
     "title": {
       "cn": "差的绝对值为 K 的数对数目",
       "en": "count-number-of-pairs-with-absolute-difference-k"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/",
-    "path": "../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md"
+    "path": "./problemset/count-number-of-pairs-with-absolute-difference-k/README.md"
   },
   {
-    "id": 2013,
+    "id": "2013",
     "title": {
       "cn": "检测正方形",
       "en": "detect-squares"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/detect-squares/",
-    "path": "../../problemset/detect-squares/README.md"
+    "path": "./problemset/detect-squares/README.md"
   },
   {
-    "id": 2016,
+    "id": "2016",
     "title": {
       "cn": "增量元素之间的最大差值",
       "en": "maximum-difference-between-increasing-elements"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/",
-    "path": "../../problemset/maximum-difference-between-increasing-elements/README.md"
+    "path": "./problemset/maximum-difference-between-increasing-elements/README.md"
   },
   {
-    "id": 2024,
+    "id": "2024",
     "title": {
       "cn": "考试的最大困扰度",
       "en": "maximize-the-confusion-of-an-exam"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/",
-    "path": "../../problemset/maximize-the-confusion-of-an-exam/README.md"
+    "path": "./problemset/maximize-the-confusion-of-an-exam/README.md"
   },
   {
-    "id": 2028,
+    "id": "2028",
     "title": {
       "cn": "找出缺失的观测数据",
       "en": "find-missing-observations"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/find-missing-observations/",
-    "path": "../../problemset/find-missing-observations/README.md"
+    "path": "./problemset/find-missing-observations/README.md"
   },
   {
-    "id": 2038,
+    "id": "2038",
     "title": {
       "cn": "如果相邻两个颜色均相同则删除当前颜色",
       "en": "remove-colored-pieces-if-both-neighbors-are-the-same-color"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/",
-    "path": "../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md"
+    "path": "./problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md"
   },
   {
-    "id": 2039,
+    "id": "2039",
     "title": {
       "cn": "网络空闲的时刻",
       "en": "the-time-when-the-network-becomes-idle"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/",
-    "path": "../../problemset/the-time-when-the-network-becomes-idle/README.md"
+    "path": "./problemset/the-time-when-the-network-becomes-idle/README.md"
   },
   {
-    "id": 2043,
+    "id": "2043",
     "title": {
       "cn": "简易银行系统",
       "en": "simple-bank-system"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/simple-bank-system/",
-    "path": "../../problemset/simple-bank-system/README.md"
+    "path": "./problemset/simple-bank-system/README.md"
   },
   {
-    "id": 2044,
+    "id": "2044",
     "title": {
       "cn": "统计按位或能得到最大值的子集数目",
       "en": "count-number-of-maximum-bitwise-or-subsets"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/",
-    "path": "../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md"
+    "path": "./problemset/count-number-of-maximum-bitwise-or-subsets/README.md"
   },
   {
-    "id": 2047,
+    "id": "2047",
     "title": {
       "cn": "句子中的有效单词数",
       "en": "number-of-valid-words-in-a-sentence"
     },
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/",
-    "path": "../../problemset/number-of-valid-words-in-a-sentence/README.md"
+    "path": "./problemset/number-of-valid-words-in-a-sentence/README.md"
   },
   {
-    "id": 2049,
+    "id": "2049",
     "title": {
       "cn": "统计最高分的节点数目",
       "en": "count-nodes-with-the-highest-score"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/",
-    "path": "../../problemset/count-nodes-with-the-highest-score/README.md"
+    "path": "./problemset/count-nodes-with-the-highest-score/README.md"
   },
   {
-    "id": 2055,
+    "id": "2055",
     "title": {
       "cn": "蜡烛之间的盘子",
       "en": "plates-between-candles"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/plates-between-candles/",
-    "path": "../../problemset/plates-between-candles/README.md"
+    "path": "./problemset/plates-between-candles/README.md"
   },
   {
-    "id": 2100,
+    "id": "2100",
     "title": {
       "cn": "适合打劫银行的日子",
       "en": "find-good-days-to-rob-the-bank"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/",
-    "path": "../../problemset/find-good-days-to-rob-the-bank/README.md"
+    "path": "./problemset/find-good-days-to-rob-the-bank/README.md"
   },
   {
-    "id": 2104,
+    "id": "2104",
     "title": {
       "cn": "子数组范围和",
       "en": "sum-of-subarray-ranges"
     },
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/sum-of-subarray-ranges/",
-    "path": "../../problemset/sum-of-subarray-ranges/README.md"
+    "path": "./problemset/sum-of-subarray-ranges/README.md"
   }
 ]

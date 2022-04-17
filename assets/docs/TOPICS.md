@@ -348,7 +348,7 @@
 
 [198. 打家劫舍](../../problemset/house-robber/README.md)
 
-[199. 二叉树的右视图](../../problemset/binary-tree-right-side-view//README.md)
+[199. 二叉树的右视图](../../problemset/binary-tree-right-side-view/README.md)
 
 [200. 岛屿数量](../../problemset/number-of-islands/README.md)
 
