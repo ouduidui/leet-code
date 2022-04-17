@@ -460,6 +460,8 @@
 
 [282. 给表达式添加运算符](../../problemset/expression-add-operators/README.md)
 
+[283. 移动零](../../problemset/move-zeroes/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)
