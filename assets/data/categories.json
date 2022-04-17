@@ -2121,6 +2121,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "386",
+        "title": "字典序排数",
+        "path": "./problemset/lexicographical-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "429",
         "title": "N 叉树的层序遍历",
         "path": "./problemset/n-ary-tree-level-order-traversal/README.md",

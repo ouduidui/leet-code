@@ -2360,6 +2360,16 @@
     "path": "./problemset/mini-parser/README.md"
   },
   {
+    "id": "386",
+    "title": {
+      "cn": "字典序排数",
+      "en": "lexicographical-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/lexicographical-numbers/",
+    "path": "./problemset/lexicographical-numbers/README.md"
+  },
+  {
     "id": "393",
     "title": {
       "cn": "UTF-8 编码验证",

@@ -407,6 +407,7 @@
 | 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
+| 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |

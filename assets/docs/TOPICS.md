@@ -472,6 +472,8 @@
 
 [385. 迷你语法分析器](../../problemset/mini-parser/README.md)
 
+[386. 字典序排数](../../problemset/lexicographical-numbers/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)
