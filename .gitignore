@@ -16,6 +16,7 @@ pnpm-debug.log*
 .project
 .idea
 .hbuilderx
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
