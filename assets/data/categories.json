@@ -1446,6 +1446,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "284",
+        "title": "顶端迭代器",
+        "path": "./problemset/peeking-iterator/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "307",
         "title": " 区域和检索 - 数组可修改",
         "path": "./problemset/range-sum-query-mutable/README.md",
