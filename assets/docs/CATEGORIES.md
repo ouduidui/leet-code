@@ -165,6 +165,7 @@
 | 263. [丑数](../../problemset/ugly-number/README.md) | 简单 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 279. [完全平方数](../../problemset/perfect-squares/README.md) | 中等 |
+| 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |

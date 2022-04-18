@@ -2350,6 +2350,16 @@
     "path": "./problemset/word-pattern/README.md"
   },
   {
+    "id": "292",
+    "title": {
+      "cn": "Nim 游戏",
+      "en": "nim-game"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/nim-game/",
+    "path": "./problemset/nim-game/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",
