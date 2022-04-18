@@ -556,4 +556,5 @@
 | 218. [天际线问题](../../problemset/the-skyline-problem/README.md) | 困难 |
 | 239. [滑动窗口最大值](../../problemset/sliding-window-maximum/README.md) | 困难 |
 | 264. [丑数 II](../../problemset/ugly-number-2/README.md) | 中等 |
+| 295. [数据流的中位数](../../problemset/find-median-from-data-stream/README.md) | 困难 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |

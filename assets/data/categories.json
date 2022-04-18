@@ -2765,6 +2765,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "295",
+        "title": "数据流的中位数",
+        "path": "./problemset/find-median-from-data-stream/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",

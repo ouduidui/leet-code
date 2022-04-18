@@ -2360,6 +2360,16 @@
     "path": "./problemset/nim-game/README.md"
   },
   {
+    "id": "295",
+    "title": {
+      "cn": "数据流的中位数",
+      "en": "find-median-from-data-stream"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/find-median-from-data-stream/",
+    "path": "./problemset/find-median-from-data-stream/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",
