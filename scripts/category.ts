@@ -1,3 +1,4 @@
+import { exec } from 'child_process'
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Category, Topic } from './helper'
@@ -9,6 +10,7 @@ interface InquirerAnswers {
   id: string
   existingCategories: string[]
   newCategories: string
+  needPushAction: boolean
 }
 
 (async() => {
@@ -43,12 +45,18 @@ interface InquirerAnswers {
       name: 'newCategories',
       message: 'please enter new category (multiple categories are separated by spaces):',
     },
+    {
+      type: 'comfirm',
+      name: 'needPushAction',
+      message: 'whether to auto commit code and push to github:',
+      default: true,
+    },
   ]).catch((err) => {
     log(err.message, 'red')
     process.exit(1)
   })
 
-  const { id, existingCategories } = ans
+  const { id, existingCategories, needPushAction } = ans
   const newCategories = ans.newCategories ? ans.newCategories.split(' ').filter(i => !!i) : []
   const topic: Topic = topics.find(topic => topic.id === id)!
 
@@ -63,4 +71,19 @@ interface InquirerAnswers {
   updateCategoriesReadme(localCategories)
 
   log('update topic category success')
+
+  if (needPushAction) {
+    const addCommand = 'git add .'
+    const commitCommand = `git commit -am "feat: leetcode ${id}"`
+    const pushCommand = 'git push'
+    exec(
+      `${addCommand} && ${commitCommand} && ${pushCommand}`,
+      (error, stdout, stderr) => {
+        if (error)
+          log(`exec error: ${error}`, 'red')
+
+        log(stdout, 'white')
+        log(stderr, 'red')
+      })
+  }
 })()
