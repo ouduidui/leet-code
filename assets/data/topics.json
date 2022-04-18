@@ -2330,6 +2330,16 @@
     "path": "./problemset/find-the-duplicate-number/README.md"
   },
   {
+    "id": "289",
+    "title": {
+      "cn": "生命游戏",
+      "en": "game-of-life"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/game-of-life/",
+    "path": "./problemset/game-of-life/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",
