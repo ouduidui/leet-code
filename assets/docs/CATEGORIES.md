@@ -105,6 +105,7 @@
 | 240. [搜索二维矩阵 II](../../problemset/search-a-2d-matrix-2/README.md) | 中等 |
 | 275. [H指数 II](../../problemset/h-index-2/README.md) | 中等 |
 | 278. [第一个错误的版本](../../problemset/first-bad-version/README.md) | 简单 |
+| 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
@@ -244,6 +245,7 @@
 | 233. [数字1的个数](../../problemset/number-of-digit-one/README.md) | 困难 |
 | 234. [回文链表](../../problemset/palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
+| 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
@@ -522,6 +524,7 @@
 | 231. [2的幂](../../problemset/power-of-two/README.md) | 简单 |
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
+| 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

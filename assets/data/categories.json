@@ -534,6 +534,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "287",
+        "title": "寻找重复数",
+        "path": "./problemset/find-the-duplicate-number/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "300",
         "title": "最长递增子序列",
         "path": "./problemset/longest-increasing-subsequence/README.md",
@@ -1241,6 +1247,12 @@
         "title": "移动零",
         "path": "./problemset/move-zeroes/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "287",
+        "title": "寻找重复数",
+        "path": "./problemset/find-the-duplicate-number/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "653",
@@ -2634,6 +2646,12 @@
         "title": "丢失的数字",
         "path": "./problemset/missing-number/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "287",
+        "title": "寻找重复数",
+        "path": "./problemset/find-the-duplicate-number/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "393",

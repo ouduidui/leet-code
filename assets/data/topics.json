@@ -2320,6 +2320,16 @@
     "path": "./problemset/peeking-iterator/README.md"
   },
   {
+    "id": "287",
+    "title": {
+      "cn": "寻找重复数",
+      "en": "find-the-duplicate-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-the-duplicate-number/",
+    "path": "./problemset/find-the-duplicate-number/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",
