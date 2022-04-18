@@ -468,6 +468,8 @@
 
 [289. 生命游戏](../../problemset/game-of-life/README.md)
 
+[290. 单词规律](../../problemset/word-pattern/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)

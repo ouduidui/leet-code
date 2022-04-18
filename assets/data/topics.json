@@ -2340,6 +2340,16 @@
     "path": "./problemset/game-of-life/README.md"
   },
   {
+    "id": "290",
+    "title": {
+      "cn": "单词规律",
+      "en": "word-pattern"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/word-pattern/",
+    "path": "./problemset/word-pattern/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",

@@ -159,6 +159,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "290",
+        "title": "单词规律",
+        "path": "./problemset/word-pattern/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "380",
         "title": "O(1) 时间插入、删除和获取随机元素",
         "path": "./problemset/insert-delete-getrandom-o1/README.md",

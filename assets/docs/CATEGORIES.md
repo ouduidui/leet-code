@@ -30,6 +30,7 @@
 | 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
+| 290. [单词规律](../../problemset/word-pattern/README.md) | 简单 |
 | 380. [O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
