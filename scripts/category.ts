@@ -73,7 +73,7 @@ interface InquirerAnswers {
 
   if (needPushAction) {
     await commandAction('git', ['add', '.'])
-    await commandAction('git', ['commit', '-am', `"feat: leetcode ${id}"`])
+    await commandAction('git', ['commit', '-am', `feat: leetcode ${id}`])
     await commandAction('git', ['push'])
   }
 })()

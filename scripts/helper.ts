@@ -304,6 +304,7 @@ export const updateTopicCountOnReadme = (count: number) => {
 
 export const commandAction = (command: string, args: string[]) => {
   return new Promise((resolve) => {
+    log(`start run command: ${`${command} ${args.join(' ')}`}`)
     const ls = spawn(command, args)
     ls.stdout.on('data', data => log(data.toString(), 'white'))
     ls.stderr.on('data', data => log(data.toString(), 'red'))
