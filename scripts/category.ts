@@ -1,8 +1,7 @@
-import { exec } from 'child_process'
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Category, Topic } from './helper'
-import { figletLog, log, updateCategoriesJson, updateCategoriesReadme } from './helper'
+import { commandAction, figletLog, log, updateCategoriesJson, updateCategoriesReadme } from './helper'
 import categories from '~/assets/data/categories.json'
 import topics from '~/assets/data/topics.json'
 
@@ -73,17 +72,8 @@ interface InquirerAnswers {
   log('update topic category success')
 
   if (needPushAction) {
-    const addCommand = 'git add .'
-    const commitCommand = `git commit -am "feat: leetcode ${id}"`
-    const pushCommand = 'git push'
-    exec(
-      `${addCommand} && ${commitCommand} && ${pushCommand}`,
-      (error, stdout, stderr) => {
-        if (error)
-          log(`exec error: ${error}`, 'red')
-
-        log(stdout, 'white')
-        log(stderr, 'red')
-      })
+    await commandAction('git', ['add', '.'])
+    await commandAction('git', ['commit', '-am', `"feat: leetcode ${id}"`])
+    await commandAction('git', ['push'])
   }
 })()
