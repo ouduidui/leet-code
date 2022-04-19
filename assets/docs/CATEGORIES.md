@@ -288,6 +288,7 @@
 | 258. [各位相加](../../problemset/add-digits/README.md) | 简单 |
 | 284. [顶端迭代器](../../problemset/peeking-iterator/README.md) | 中等 |
 | 289. [生命游戏](../../problemset/game-of-life/README.md) | 中等 |
+| 299. [猜数字游戏](../../problemset/bulls-and-cows/README.md) | 中等 |
 | 307. [ 区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |

@@ -476,6 +476,8 @@
 
 [297. 二叉树的序列化与反序列化](../../problemset/serialize-and-deserialize-binary-tree/README.md)
 
+[299. 猜数字游戏](../../problemset/bulls-and-cows/README.md)
+
 [300. 最长递增子序列](../../problemset/longest-increasing-subsequence/README.md)
 
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)

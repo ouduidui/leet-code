@@ -2380,6 +2380,16 @@
     "path": "./problemset/serialize-and-deserialize-binary-tree/README.md"
   },
   {
+    "id": "299",
+    "title": {
+      "cn": "猜数字游戏",
+      "en": "bulls-and-cows"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/bulls-and-cows/",
+    "path": "./problemset/bulls-and-cows/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",
