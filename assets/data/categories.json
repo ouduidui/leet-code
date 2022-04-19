@@ -1566,6 +1566,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "821",
+        "title": "字符的最短距离",
+        "path": "./problemset/shortest-distance-to-a-character/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "838",
         "title": "推多米诺",
         "path": "./problemset/push-dominoes/README.md",

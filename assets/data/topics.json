@@ -2750,6 +2750,16 @@
     "path": "./problemset/most-common-word/README.md"
   },
   {
+    "id": "821",
+    "title": {
+      "cn": "字符的最短距离",
+      "en": "shortest-distance-to-a-character"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/shortest-distance-to-a-character/",
+    "path": "./problemset/shortest-distance-to-a-character/README.md"
+  },
+  {
     "id": "838",
     "title": {
       "cn": "推多米诺",

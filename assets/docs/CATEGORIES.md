@@ -302,6 +302,7 @@
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
 | 806. [写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md) | 简单 |
+| 821. [字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
