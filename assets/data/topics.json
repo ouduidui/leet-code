@@ -2370,6 +2370,16 @@
     "path": "./problemset/find-median-from-data-stream/README.md"
   },
   {
+    "id": "297",
+    "title": {
+      "cn": "二叉树的序列化与反序列化",
+      "en": "serialize-and-deserialize-binary-tree"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/",
+    "path": "./problemset/serialize-and-deserialize-binary-tree/README.md"
+  },
+  {
     "id": "300",
     "title": {
       "cn": "最长递增子序列",

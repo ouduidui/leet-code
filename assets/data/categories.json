@@ -2163,6 +2163,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "297",
+        "title": "二叉树的序列化与反序列化",
+        "path": "./problemset/serialize-and-deserialize-binary-tree/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "385",
         "title": "迷你语法分析器",
         "path": "./problemset/mini-parser/README.md",
