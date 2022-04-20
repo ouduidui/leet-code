@@ -482,6 +482,8 @@
 
 [301. 删除无效的括号](../../problemset/remove-invalid-parentheses/README.md)
 
+[303. 区域和检索 - 数组不可变](../../problemset/range-sum-query-immutable/README.md)
+
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)
 
 [310. 最小高度树](../../problemset/minimum-height-trees/README.md)

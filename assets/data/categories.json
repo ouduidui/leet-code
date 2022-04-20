@@ -1488,6 +1488,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "303",
+        "title": "区域和检索 - 数组不可变",
+        "path": "./problemset/range-sum-query-immutable/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "307",
         "title": " 区域和检索 - 数组可修改",
         "path": "./problemset/range-sum-query-mutable/README.md",

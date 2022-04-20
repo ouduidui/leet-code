@@ -2410,6 +2410,16 @@
     "path": "./problemset/remove-invalid-parentheses/README.md"
   },
   {
+    "id": "303",
+    "title": {
+      "cn": "区域和检索 - 数组不可变",
+      "en": "range-sum-query-immutable"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/range-sum-query-immutable/",
+    "path": "./problemset/range-sum-query-immutable/README.md"
+  },
+  {
     "id": "307",
     "title": {
       "cn": " 区域和检索 - 数组可修改",
