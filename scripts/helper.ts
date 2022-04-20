@@ -1,11 +1,11 @@
 import { promisify } from 'util'
 import fs from 'fs'
 import path from 'path'
-import { spawn } from 'child_process'
 import _figlet from 'figlet'
 import type { Color } from 'chalk'
 import chalk from 'chalk'
 import MagicString from 'magic-string'
+import { execa } from 'execa'
 
 /**
  * data
@@ -305,12 +305,6 @@ export const updateTopicCountOnReadme = (count: number) => {
 export const commandAction = (command: string, args: string[]) => {
   return new Promise((resolve) => {
     log(`start run command: ${`${command} ${args.join(' ')}`}`)
-    const ls = spawn(command, args)
-    ls.stdout.on('data', data => log(data.toString(), 'white'))
-    ls.stderr.on('data', data => log(data.toString(), 'red'))
-    ls.on('exit', (data) => {
-      data && log(data.toString())
-      resolve(true)
-    })
+    execa(command, args, { stdout: 'inherit' }).on('exit', () => resolve(true))
   })
 }
