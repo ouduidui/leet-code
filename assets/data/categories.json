@@ -1805,6 +1805,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "301",
+        "title": "删除无效的括号",
+        "path": "./problemset/remove-invalid-parentheses/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1601",
         "title": "最多可达成的换楼请求数目",
         "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md",
@@ -2172,6 +2178,12 @@
         "id": "297",
         "title": "二叉树的序列化与反序列化",
         "path": "./problemset/serialize-and-deserialize-binary-tree/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "301",
+        "title": "删除无效的括号",
+        "path": "./problemset/remove-invalid-parentheses/README.md",
         "difficulty": "困难"
       },
       {

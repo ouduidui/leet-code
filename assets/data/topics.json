@@ -2400,6 +2400,16 @@
     "path": "./problemset/longest-increasing-subsequence/README.md"
   },
   {
+    "id": "301",
+    "title": {
+      "cn": "删除无效的括号",
+      "en": "remove-invalid-parentheses"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/remove-invalid-parentheses/",
+    "path": "./problemset/remove-invalid-parentheses/README.md"
+  },
+  {
     "id": "307",
     "title": {
       "cn": " 区域和检索 - 数组可修改",

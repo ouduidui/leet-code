@@ -346,6 +346,7 @@
 | 213. [打家劫舍 II](../../problemset/house-robber-2/README.md) | 中等 |
 | 216. [组合总和 III](../../problemset/combination-sum-3/README.md) | 中等 |
 | 282. [给表达式添加运算符](../../problemset/expression-add-operators/README.md) | 困难 |
+| 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 
@@ -416,6 +417,7 @@
 | 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
 | 297. [二叉树的序列化与反序列化](../../problemset/serialize-and-deserialize-binary-tree/README.md) | 困难 |
+| 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
