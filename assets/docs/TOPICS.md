@@ -560,6 +560,8 @@
 
 [821. 字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md)
 
+[824. 山羊拉丁文](../../problemset/goat-latin/README.md)
+
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)

@@ -2800,6 +2800,16 @@
     "path": "./problemset/shortest-distance-to-a-character/README.md"
   },
   {
+    "id": "824",
+    "title": {
+      "cn": "山羊拉丁文",
+      "en": "goat-latin"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/goat-latin/",
+    "path": "./problemset/goat-latin/README.md"
+  },
+  {
     "id": "838",
     "title": {
       "cn": "推多米诺",
