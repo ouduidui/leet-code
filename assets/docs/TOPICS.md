@@ -492,6 +492,8 @@
 
 [310. 最小高度树](../../problemset/minimum-height-trees/README.md)
 
+[342. 4的幂](../../problemset/power-of-four/README.md)
+
 [357. 统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md)
 
 [380. O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md)

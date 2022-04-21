@@ -850,6 +850,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "342",
+        "title": "4的幂",
+        "path": "./problemset/power-of-four/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "357",
         "title": "统计各位数字都不同的数字个数",
         "path": "./problemset/count-numbers-with-unique-digits/README.md",

@@ -2460,6 +2460,16 @@
     "path": "./problemset/minimum-height-trees/README.md"
   },
   {
+    "id": "342",
+    "title": {
+      "cn": "4的幂",
+      "en": "power-of-four"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/power-of-four/",
+    "path": "./problemset/power-of-four/README.md"
+  },
+  {
     "id": "357",
     "title": {
       "cn": "统计各位数字都不同的数字个数",
