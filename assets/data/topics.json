@@ -2430,6 +2430,16 @@
     "path": "./problemset/range-sum-query-2d-immutable/README.md"
   },
   {
+    "id": "306",
+    "title": {
+      "cn": "累加数",
+      "en": "additive-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/additive-number/",
+    "path": "./problemset/additive-number/README.md"
+  },
+  {
     "id": "307",
     "title": {
       "cn": " 区域和检索 - 数组可修改",

@@ -486,6 +486,8 @@
 
 [304. 二维区域和检索 - 矩阵不可变](../../problemset/range-sum-query-2d-immutable/README.md)
 
+[306. 累加数](../../problemset/additive-number/README.md)
+
 [307.  区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md)
 
 [310. 最小高度树](../../problemset/minimum-height-trees/README.md)
