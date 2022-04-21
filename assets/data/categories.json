@@ -1494,6 +1494,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "304",
+        "title": "二维区域和检索 - 矩阵不可变",
+        "path": "./problemset/range-sum-query-2d-immutable/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "307",
         "title": " 区域和检索 - 数组可修改",
         "path": "./problemset/range-sum-query-mutable/README.md",
