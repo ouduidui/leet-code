@@ -5,6 +5,8 @@
   "author": "Dewey Ou <oushihao97@gmail.com>",
   "type": "module",
   "scripts": {
+    "ca": "nr create",
+    "ud": "nr update",
     "create": "esmo scripts/create.ts",
     "update": "esmo scripts/category.ts",
     "test": "vitest --dir problemset",
@@ -27,6 +29,7 @@
     "figlet": "^1.5.2",
     "inquirer": "^8.2.2",
     "magic-string": "^0.26.1",
+    "ni": "^0.0.2",
     "typescript": "^4.6.3",
     "vite": "^2.9.1",
     "vitest": "^0.9.3"
