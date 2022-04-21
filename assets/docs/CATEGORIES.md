@@ -372,6 +372,7 @@
 | 227. [基本计算器 II](../../problemset/basic-calculator-2/README.md) | 中等 |
 | 232. [用栈实现队列](../../problemset/implement-queue-using-stacks/README.md) | 简单 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
+| 388. [文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md) | 中等 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 
 ## 递归 & 迭代

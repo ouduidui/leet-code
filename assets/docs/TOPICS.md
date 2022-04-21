@@ -496,6 +496,8 @@
 
 [386. 字典序排数](../../problemset/lexicographical-numbers/README.md)
 
+[388. 文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md)
+
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)

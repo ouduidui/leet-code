@@ -1936,6 +1936,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "388",
+        "title": "文件的最长绝对路径",
+        "path": "./problemset/longest-absolute-file-path/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "2104",
         "title": "子数组范围和",
         "path": "./problemset/sum-of-subarray-ranges/README.md",

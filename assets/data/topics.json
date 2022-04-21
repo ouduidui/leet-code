@@ -2480,6 +2480,16 @@
     "path": "./problemset/lexicographical-numbers/README.md"
   },
   {
+    "id": "388",
+    "title": {
+      "cn": "文件的最长绝对路径",
+      "en": "longest-absolute-file-path"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/longest-absolute-file-path/",
+    "path": "./problemset/longest-absolute-file-path/README.md"
+  },
+  {
     "id": "393",
     "title": {
       "cn": "UTF-8 编码验证",
