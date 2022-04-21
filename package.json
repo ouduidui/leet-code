@@ -5,8 +5,8 @@
   "author": "Dewey Ou <oushihao97@gmail.com>",
   "type": "module",
   "scripts": {
-    "ca": "nr create",
-    "ud": "nr update",
+    "c": "nr create",
+    "u": "nr update",
     "create": "esmo scripts/create.ts",
     "update": "esmo scripts/category.ts",
     "test": "vitest --dir problemset",
