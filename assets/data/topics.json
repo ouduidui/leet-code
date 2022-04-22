@@ -2780,6 +2780,16 @@
     "path": "./problemset/self-dividing-numbers/README.md"
   },
   {
+    "id": "729",
+    "title": {
+      "cn": "我的日程安排表",
+      "en": "my-calendar"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/my-calendar-i/",
+    "path": "./problemset/my-calendar/README.md"
+  },
+  {
     "id": "744",
     "title": {
       "cn": "寻找比目标字母大的最小字母",
