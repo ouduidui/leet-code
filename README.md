@@ -23,7 +23,7 @@ pnpm run update
 ### Template
 
 ```bash
-npx degit ouduidui/leetcode#template my-leetcode
+npx degit ouduidui/leet-code#template my-leetcode
 ```
 
 ### License
