@@ -20,6 +20,12 @@ pnpm run create
 pnpm run update
 ```
 
+### Template
+
+```bash
+npx degit ouduidui/leetcode#template my-leetcode
+```
+
 ### License
 
 [MIT](./LICENSE) Copyright (c) 2021 Dewey Ou
