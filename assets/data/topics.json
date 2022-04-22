@@ -2670,6 +2670,16 @@
     "path": "./problemset/find-the-closest-palindrome/README.md"
   },
   {
+    "id": "587",
+    "title": {
+      "cn": "安装栅栏",
+      "en": "erect-the-fence"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/erect-the-fence/",
+    "path": "./problemset/erect-the-fence/README.md"
+  },
+  {
     "id": "589",
     "title": {
       "cn": "N 叉树的前序遍历",

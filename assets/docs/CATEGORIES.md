@@ -305,6 +305,7 @@
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
+| 587. [安装栅栏](../../problemset/erect-the-fence/README.md) | 困难 |
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |

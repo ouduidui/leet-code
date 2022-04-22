@@ -534,6 +534,8 @@
 
 [564. 寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md)
 
+[587. 安装栅栏](../../problemset/erect-the-fence/README.md)
+
 [589. N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md)
 
 [590. N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md)

@@ -1584,6 +1584,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "587",
+        "title": "安装栅栏",
+        "path": "./problemset/erect-the-fence/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "661",
         "title": "图片平滑器",
         "path": "./problemset/image-smoother/README.md",
