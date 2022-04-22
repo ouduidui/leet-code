@@ -319,6 +319,7 @@
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
+| 1961. [检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md) | 简单 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |
 | 2028. [找出缺失的观测数据](../../problemset/find-missing-observations/README.md) | 中等 |
 | 2043. [简易银行系统](../../problemset/simple-bank-system/README.md) | 中等 |

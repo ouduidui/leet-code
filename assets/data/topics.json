@@ -3080,6 +3080,16 @@
     "path": "./problemset/find-center-of-star-graph/README.md"
   },
   {
+    "id": "1961",
+    "title": {
+      "cn": "检查字符串是否为数组前缀",
+      "en": "check-if-string-is-a-prefix-of-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/check-if-string-is-a-prefix-of-array/",
+    "path": "./problemset/check-if-string-is-a-prefix-of-array/README.md"
+  },
+  {
     "id": "1984",
     "title": {
       "cn": "学生分数的最小差值",

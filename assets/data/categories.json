@@ -1668,6 +1668,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1961",
+        "title": "检查字符串是否为数组前缀",
+        "path": "./problemset/check-if-string-is-a-prefix-of-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2016",
         "title": "增量元素之间的最大差值",
         "path": "./problemset/maximum-difference-between-increasing-elements/README.md",
