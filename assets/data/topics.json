@@ -2490,6 +2490,16 @@
     "path": "./problemset/power-of-four/README.md"
   },
   {
+    "id": "355",
+    "title": {
+      "cn": "设计推特",
+      "en": "design-twitter"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/design-twitter/",
+    "path": "./problemset/design-twitter/README.md"
+  },
+  {
     "id": "357",
     "title": {
       "cn": "统计各位数字都不同的数字个数",

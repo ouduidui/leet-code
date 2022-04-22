@@ -165,6 +165,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "355",
+        "title": "设计推特",
+        "path": "./problemset/design-twitter/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "380",
         "title": "O(1) 时间插入、删除和获取随机元素",
         "path": "./problemset/insert-delete-getrandom-o1/README.md",
