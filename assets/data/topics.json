@@ -2760,6 +2760,16 @@
     "path": "./problemset/binary-number-with-alternating-bits/README.md"
   },
   {
+    "id": "709",
+    "title": {
+      "cn": "转换成小写字母",
+      "en": "to-lower-case"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/to-lower-case/",
+    "path": "./problemset/to-lower-case/README.md"
+  },
+  {
     "id": "720",
     "title": {
       "cn": "词典中最长的单词",

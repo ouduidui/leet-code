@@ -307,6 +307,7 @@
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
+| 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |

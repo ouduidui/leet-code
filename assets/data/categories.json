@@ -1596,6 +1596,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "709",
+        "title": "转换成小写字母",
+        "path": "./problemset/to-lower-case/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "728",
         "title": "自除数",
         "path": "./problemset/self-dividing-numbers/README.md",
