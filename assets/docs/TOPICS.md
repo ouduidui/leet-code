@@ -506,6 +506,8 @@
 
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)
 
+[396. 旋转函数](../../problemset/rotate-function/README.md)
+
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)
 
 [429. N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md)

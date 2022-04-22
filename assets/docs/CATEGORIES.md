@@ -168,6 +168,7 @@
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 342. [4的幂](../../problemset/power-of-four/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
+| 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
@@ -426,6 +427,7 @@
 | 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
+| 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |

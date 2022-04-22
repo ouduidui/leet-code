@@ -2530,6 +2530,16 @@
     "path": "./problemset/utf-8-validation/README.md"
   },
   {
+    "id": "396",
+    "title": {
+      "cn": "旋转函数",
+      "en": "rotate-function"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/rotate-function/",
+    "path": "./problemset/rotate-function/README.md"
+  },
+  {
     "id": "420",
     "title": {
       "cn": "强密码检验器",
