@@ -1106,6 +1106,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "312",
+        "title": "戳气球",
+        "path": "./problemset/burst-balloons/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "688",
         "title": "骑士在棋盘上的概率",
         "path": "./problemset/knight-probability-in-chessboard/README.md",
@@ -2357,6 +2363,12 @@
         "title": "为运算表达式设计优先级",
         "path": "./problemset/different-ways-to-add-parentheses/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "312",
+        "title": "戳气球",
+        "path": "./problemset/burst-balloons/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "1763",

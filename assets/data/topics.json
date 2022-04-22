@@ -2470,6 +2470,16 @@
     "path": "./problemset/minimum-height-trees/README.md"
   },
   {
+    "id": "312",
+    "title": {
+      "cn": "戳气球",
+      "en": "burst-balloons"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/burst-balloons/",
+    "path": "./problemset/burst-balloons/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

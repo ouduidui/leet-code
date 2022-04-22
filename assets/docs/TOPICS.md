@@ -494,6 +494,8 @@
 
 [310. 最小高度树](../../problemset/minimum-height-trees/README.md)
 
+[312. 戳气球](../../problemset/burst-balloons/README.md)
+
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
 [357. 统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md)
