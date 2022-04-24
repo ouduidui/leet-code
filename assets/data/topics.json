@@ -2480,6 +2480,16 @@
     "path": "./problemset/burst-balloons/README.md"
   },
   {
+    "id": "313",
+    "title": {
+      "cn": "超级丑数",
+      "en": "super-ugly-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/super-ugly-number/",
+    "path": "./problemset/super-ugly-number/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

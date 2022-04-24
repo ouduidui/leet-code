@@ -1130,6 +1130,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "313",
+        "title": "超级丑数",
+        "path": "./problemset/super-ugly-number/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "688",
         "title": "骑士在棋盘上的概率",
         "path": "./problemset/knight-probability-in-chessboard/README.md",

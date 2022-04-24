@@ -221,6 +221,7 @@
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 309. [最佳买卖股票时机含冷冻期](../../problemset/best-time-to-buy-and-sell-stock-with-cooldown/README.md) | 中等 |
 | 312. [戳气球](../../problemset/burst-balloons/README.md) | 困难 |
+| 313. [超级丑数](../../problemset/super-ugly-number/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
