@@ -586,6 +586,8 @@
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
 
+[868. 二进制间距](../../problemset/binary-gap/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [917. 仅仅反转字母](../../problemset/reverse-only-letters/README.md)

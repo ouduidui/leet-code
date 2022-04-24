@@ -2930,6 +2930,16 @@
     "path": "./problemset/push-dominoes/README.md"
   },
   {
+    "id": "868",
+    "title": {
+      "cn": "二进制间距",
+      "en": "binary-gap"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/binary-gap/",
+    "path": "./problemset/binary-gap/README.md"
+  },
+  {
     "id": "884",
     "title": {
       "cn": "两句话中的不常见单词",

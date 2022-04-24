@@ -2822,6 +2822,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "868",
+        "title": "二进制间距",
+        "path": "./problemset/binary-gap/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1763",
         "title": "最长的美好子字符串",
         "path": "./problemset/longest-nice-substring/README.md",
