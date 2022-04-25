@@ -555,6 +555,7 @@
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
+| 318. [最大单词长度乘积](../../problemset/maximum-product-of-word-lengths/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |

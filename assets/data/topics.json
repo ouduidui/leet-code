@@ -2510,6 +2510,16 @@
     "path": "./problemset/remove-duplicate-letters/README.md"
   },
   {
+    "id": "318",
+    "title": {
+      "cn": "最大单词长度乘积",
+      "en": "maximum-product-of-word-lengths"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/maximum-product-of-word-lengths/",
+    "path": "./problemset/maximum-product-of-word-lengths/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

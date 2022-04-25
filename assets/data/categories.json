@@ -2834,6 +2834,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "318",
+        "title": "最大单词长度乘积",
+        "path": "./problemset/maximum-product-of-word-lengths/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "393",
         "title": "UTF-8 编码验证",
         "path": "./problemset/utf-8-validation/README.md",
