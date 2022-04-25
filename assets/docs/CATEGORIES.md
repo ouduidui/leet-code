@@ -33,6 +33,7 @@
 | 290. [单词规律](../../problemset/word-pattern/README.md) | 简单 |
 | 355. [设计推特](../../problemset/design-twitter/README.md) | 中等 |
 | 380. [O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md) | 中等 |
+| 398. [随机数索引](../../problemset/random-pick-index/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
@@ -303,6 +304,7 @@
 | 307. [ 区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
+| 398. [随机数索引](../../problemset/random-pick-index/README.md) | 中等 |
 | 420. [强密码检验器](../../problemset/strong-password-checker/README.md) | 困难 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |

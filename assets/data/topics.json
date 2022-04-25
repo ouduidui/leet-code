@@ -2580,6 +2580,16 @@
     "path": "./problemset/rotate-function/README.md"
   },
   {
+    "id": "398",
+    "title": {
+      "cn": "随机数索引",
+      "en": "random-pick-index"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/random-pick-index/",
+    "path": "./problemset/random-pick-index/README.md"
+  },
+  {
     "id": "420",
     "title": {
       "cn": "强密码检验器",
