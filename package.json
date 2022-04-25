@@ -16,6 +16,7 @@
     "format": "prettier .  --write"
   },
   "devDependencies": {
+    "@antfu/ni": "^0.14.0",
     "@ouduidui/eslint-config-ts": "^0.1.1",
     "@types/clear": "^0.1.2",
     "@types/figlet": "^1.5.4",
@@ -29,7 +30,6 @@
     "figlet": "^1.5.2",
     "inquirer": "^8.2.2",
     "magic-string": "^0.26.1",
-    "ni": "^0.0.2",
     "typescript": "^4.6.3",
     "vite": "^2.9.5",
     "vitest": "^0.9.4"
