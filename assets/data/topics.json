@@ -2490,6 +2490,16 @@
     "path": "./problemset/super-ugly-number/README.md"
   },
   {
+    "id": "315",
+    "title": {
+      "cn": "计算右侧小于当前元素的个数",
+      "en": "count-of-smaller-numbers-after-self"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/",
+    "path": "./problemset/count-of-smaller-numbers-after-self/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

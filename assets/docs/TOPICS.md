@@ -498,6 +498,8 @@
 
 [313. 超级丑数](../../problemset/super-ugly-number/README.md)
 
+[315. 计算右侧小于当前元素的个数](../../problemset/count-of-smaller-numbers-after-self/README.md)
+
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
 [355. 设计推特](../../problemset/design-twitter/README.md)

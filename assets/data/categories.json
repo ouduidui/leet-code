@@ -659,6 +659,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "315",
+        "title": "计算右侧小于当前元素的个数",
+        "path": "./problemset/count-of-smaller-numbers-after-self/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "954",
         "title": "二倍数对数组",
         "path": "./problemset/array-of-doubled-pairs/README.md",
@@ -2930,6 +2936,17 @@
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
+        "difficulty": "困难"
+      }
+    ]
+  },
+  {
+    "label": "树状数组",
+    "topics": [
+      {
+        "id": "315",
+        "title": "计算右侧小于当前元素的个数",
+        "path": "./problemset/count-of-smaller-numbers-after-self/README.md",
         "difficulty": "困难"
       }
     ]
