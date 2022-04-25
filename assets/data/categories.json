@@ -2026,6 +2026,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "316",
+        "title": "去除重复字母",
+        "path": "./problemset/remove-duplicate-letters/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "385",
         "title": "迷你语法分析器",
         "path": "./problemset/mini-parser/README.md",

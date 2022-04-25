@@ -2500,6 +2500,16 @@
     "path": "./problemset/count-of-smaller-numbers-after-self/README.md"
   },
   {
+    "id": "316",
+    "title": {
+      "cn": "去除重复字母",
+      "en": "remove-duplicate-letters"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/remove-duplicate-letters/",
+    "path": "./problemset/remove-duplicate-letters/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",
