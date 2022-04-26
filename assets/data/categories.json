@@ -880,6 +880,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "319",
+        "title": "灯泡开关",
+        "path": "./problemset/bulb-switcher/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "342",
         "title": "4的幂",
         "path": "./problemset/power-of-four/README.md",

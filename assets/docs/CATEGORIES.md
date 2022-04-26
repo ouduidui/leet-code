@@ -171,6 +171,7 @@
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 279. [完全平方数](../../problemset/perfect-squares/README.md) | 中等 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
+| 319. [灯泡开关](../../problemset/bulb-switcher/README.md) | 中等 |
 | 342. [4的幂](../../problemset/power-of-four/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |

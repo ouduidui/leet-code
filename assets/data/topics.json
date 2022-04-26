@@ -2520,6 +2520,16 @@
     "path": "./problemset/maximum-product-of-word-lengths/README.md"
   },
   {
+    "id": "319",
+    "title": {
+      "cn": "灯泡开关",
+      "en": "bulb-switcher"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/bulb-switcher/",
+    "path": "./problemset/bulb-switcher/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",
