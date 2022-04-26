@@ -177,6 +177,7 @@
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
+| 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 

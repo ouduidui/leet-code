@@ -916,6 +916,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "883",
+        "title": "三维形体投影面积",
+        "path": "./problemset/projection-area-of-3d-shapes/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1447",
         "title": "最简分数",
         "path": "./problemset/simplified-fractions/README.md",

@@ -598,6 +598,8 @@
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
+[883. 三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md)
+
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [917. 仅仅反转字母](../../problemset/reverse-only-letters/README.md)
