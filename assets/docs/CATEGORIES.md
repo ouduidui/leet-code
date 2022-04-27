@@ -226,6 +226,7 @@
 | 309. [最佳买卖股票时机含冷冻期](../../problemset/best-time-to-buy-and-sell-stock-with-cooldown/README.md) | 中等 |
 | 312. [戳气球](../../problemset/burst-balloons/README.md) | 困难 |
 | 313. [超级丑数](../../problemset/super-ugly-number/README.md) | 中等 |
+| 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
@@ -441,6 +442,7 @@
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
 | 297. [二叉树的序列化与反序列化](../../problemset/serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
+| 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |

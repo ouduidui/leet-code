@@ -2540,6 +2540,16 @@
     "path": "./problemset/create-maximum-number/README.md"
   },
   {
+    "id": "322",
+    "title": {
+      "cn": "零钱兑换",
+      "en": "coin-change"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/coin-change/",
+    "path": "./problemset/coin-change/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",
