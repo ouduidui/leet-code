@@ -2530,6 +2530,16 @@
     "path": "./problemset/bulb-switcher/README.md"
   },
   {
+    "id": "321",
+    "title": {
+      "cn": "拼接最大数",
+      "en": "create-maximum-number"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/create-maximum-number/",
+    "path": "./problemset/create-maximum-number/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

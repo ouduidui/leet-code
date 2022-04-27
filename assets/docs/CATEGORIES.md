@@ -390,6 +390,7 @@
 | 227. [基本计算器 II](../../problemset/basic-calculator-2/README.md) | 中等 |
 | 232. [用栈实现队列](../../problemset/implement-queue-using-stacks/README.md) | 简单 |
 | 316. [去除重复字母](../../problemset/remove-duplicate-letters/README.md) | 中等 |
+| 321. [拼接最大数](../../problemset/create-maximum-number/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 388. [文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md) | 中等 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
@@ -471,6 +472,7 @@
 | 190. [颠倒二进制位](../../problemset/reverse-bits/README.md) | 简单 |
 | 241. [为运算表达式设计优先级](../../problemset/different-ways-to-add-parentheses/README.md) | 中等 |
 | 312. [戳气球](../../problemset/burst-balloons/README.md) | 困难 |
+| 321. [拼接最大数](../../problemset/create-maximum-number/README.md) | 困难 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配

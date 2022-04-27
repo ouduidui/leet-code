@@ -2044,6 +2044,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "321",
+        "title": "拼接最大数",
+        "path": "./problemset/create-maximum-number/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "385",
         "title": "迷你语法分析器",
         "path": "./problemset/mini-parser/README.md",
@@ -2452,6 +2458,12 @@
         "id": "312",
         "title": "戳气球",
         "path": "./problemset/burst-balloons/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "321",
+        "title": "拼接最大数",
+        "path": "./problemset/create-maximum-number/README.md",
         "difficulty": "困难"
       },
       {
