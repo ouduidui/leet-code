@@ -2550,6 +2550,16 @@
     "path": "./problemset/coin-change/README.md"
   },
   {
+    "id": "324",
+    "title": {
+      "cn": "摆动排序 II",
+      "en": "wiggle-sort-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/wiggle-sort-ii/",
+    "path": "./problemset/wiggle-sort-2/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

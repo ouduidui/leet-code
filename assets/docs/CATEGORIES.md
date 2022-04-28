@@ -131,6 +131,7 @@
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 274. [H指数](../../problemset/h-index/README.md) | 中等 |
 | 315. [计算右侧小于当前元素的个数](../../problemset/count-of-smaller-numbers-after-self/README.md) | 困难 |
+| 324. [摆动排序 II](../../problemset/wiggle-sort-2/README.md) | 中等 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |

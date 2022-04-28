@@ -665,6 +665,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "324",
+        "title": "摆动排序 II",
+        "path": "./problemset/wiggle-sort-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "954",
         "title": "二倍数对数组",
         "path": "./problemset/array-of-doubled-pairs/README.md",
