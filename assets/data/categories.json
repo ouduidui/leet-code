@@ -1351,6 +1351,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "905",
+        "title": "按奇偶排序数组",
+        "path": "./problemset/sort-array-by-parity/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "917",
         "title": "仅仅反转字母",
         "path": "./problemset/reverse-only-letters/README.md",
@@ -1702,6 +1708,12 @@
         "title": "推多米诺",
         "path": "./problemset/push-dominoes/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "905",
+        "title": "按奇偶排序数组",
+        "path": "./problemset/sort-array-by-parity/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "969",

@@ -610,6 +610,8 @@
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
+[905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
+
 [917. 仅仅反转字母](../../problemset/reverse-only-letters/README.md)
 
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)

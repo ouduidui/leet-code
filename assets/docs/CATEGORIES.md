@@ -262,6 +262,7 @@
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 
 ## 模拟
@@ -325,6 +326,7 @@
 | 821. [字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md) | 简单 |
 | 824. [山羊拉丁文](../../problemset/goat-latin/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
+| 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |

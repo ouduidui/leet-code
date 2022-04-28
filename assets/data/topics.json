@@ -3050,6 +3050,16 @@
     "path": "./problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": "905",
+    "title": {
+      "cn": "按奇偶排序数组",
+      "en": "sort-array-by-parity"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/sort-array-by-parity/",
+    "path": "./problemset/sort-array-by-parity/README.md"
+  },
+  {
     "id": "917",
     "title": {
       "cn": "仅仅反转字母",
