@@ -892,6 +892,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "326",
+        "title": "3的幂",
+        "path": "./problemset/power-of-three/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "342",
         "title": "4的幂",
         "path": "./problemset/power-of-four/README.md",

@@ -2560,6 +2560,16 @@
     "path": "./problemset/wiggle-sort-2/README.md"
   },
   {
+    "id": "326",
+    "title": {
+      "cn": "3的幂",
+      "en": "power-of-three"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/power-of-three/",
+    "path": "./problemset/power-of-three/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",
