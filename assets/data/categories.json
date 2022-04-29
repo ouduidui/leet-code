@@ -671,6 +671,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "327",
+        "title": "区间和的个数",
+        "path": "./problemset/count-of-range-sum/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "954",
         "title": "二倍数对数组",
         "path": "./problemset/array-of-doubled-pairs/README.md",

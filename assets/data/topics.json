@@ -2570,6 +2570,16 @@
     "path": "./problemset/power-of-three/README.md"
   },
   {
+    "id": "327",
+    "title": {
+      "cn": "区间和的个数",
+      "en": "count-of-range-sum"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/count-of-range-sum/",
+    "path": "./problemset/count-of-range-sum/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

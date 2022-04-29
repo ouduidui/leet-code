@@ -514,6 +514,8 @@
 
 [326. 3的幂](../../problemset/power-of-three/README.md)
 
+[327. 区间和的个数](../../problemset/count-of-range-sum/README.md)
+
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
 [355. 设计推特](../../problemset/design-twitter/README.md)
