@@ -451,6 +451,7 @@
 | 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 417. [太平洋大西洋水流问题](../../problemset/pacific-atlantic-water-flow/README.md) | 中等 |
+| 427. [建立四叉树](../../problemset/construct-quad-tree/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |

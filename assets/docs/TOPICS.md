@@ -538,6 +538,8 @@
 
 [420. 强密码检验器](../../problemset/strong-password-checker/README.md)
 
+[427. 建立四叉树](../../problemset/construct-quad-tree/README.md)
+
 [429. N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md)
 
 [432. 全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md)

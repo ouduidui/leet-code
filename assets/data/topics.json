@@ -2690,6 +2690,16 @@
     "path": "./problemset/strong-password-checker/README.md"
   },
   {
+    "id": "427",
+    "title": {
+      "cn": "建立四叉树",
+      "en": "construct-quad-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/construct-quad-tree/",
+    "path": "./problemset/construct-quad-tree/README.md"
+  },
+  {
     "id": "429",
     "title": {
       "cn": "N 叉树的层序遍历",

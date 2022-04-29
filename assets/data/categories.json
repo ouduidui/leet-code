@@ -2385,6 +2385,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "427",
+        "title": "建立四叉树",
+        "path": "./problemset/construct-quad-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "429",
         "title": "N 叉树的层序遍历",
         "path": "./problemset/n-ary-tree-level-order-traversal/README.md",
