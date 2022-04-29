@@ -620,6 +620,8 @@
 
 [905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
 
+[908. 最小差值](../../problemset/smallest-range/README.md)
+
 [917. 仅仅反转字母](../../problemset/reverse-only-letters/README.md)
 
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)

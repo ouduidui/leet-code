@@ -3100,6 +3100,16 @@
     "path": "./problemset/sort-array-by-parity/README.md"
   },
   {
+    "id": "908",
+    "title": {
+      "cn": "最小差值",
+      "en": "smallest-range"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/smallest-range-i/",
+    "path": "./problemset/smallest-range/README.md"
+  },
+  {
     "id": "917",
     "title": {
       "cn": "仅仅反转字母",

@@ -946,6 +946,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "908",
+        "title": "最小差值",
+        "path": "./problemset/smallest-range/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1447",
         "title": "最简分数",
         "path": "./problemset/simplified-fractions/README.md",
