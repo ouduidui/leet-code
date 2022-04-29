@@ -392,6 +392,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "328",
+        "title": "奇偶链表",
+        "path": "./problemset/odd-even-linked-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "432",
         "title": "全 O(1) 的数据结构",
         "path": "./problemset/all-one-data-structure/README.md",

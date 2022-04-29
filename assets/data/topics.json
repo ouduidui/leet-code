@@ -2580,6 +2580,16 @@
     "path": "./problemset/count-of-range-sum/README.md"
   },
   {
+    "id": "328",
+    "title": {
+      "cn": "奇偶链表",
+      "en": "odd-even-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/odd-even-linked-list/",
+    "path": "./problemset/odd-even-linked-list/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

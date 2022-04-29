@@ -73,6 +73,7 @@
 | 203. [移除链表元素](../../problemset/remove-linked-list-elements/README.md) | 简单 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 237. [删除链表中的节点](../../problemset/delete-node-in-a-linked-list/README.md) | 简单 |
+| 328. [奇偶链表](../../problemset/odd-even-linked-list/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 
 ## 滑动窗口
