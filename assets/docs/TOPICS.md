@@ -518,6 +518,8 @@
 
 [328. 奇偶链表](../../problemset/odd-even-linked-list/README.md)
 
+[329. 矩阵中的最长递增路径](../../problemset/longest-increasing-path-in-a-matrix/README.md)
+
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
 [355. 设计推特](../../problemset/design-twitter/README.md)

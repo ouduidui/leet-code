@@ -2590,6 +2590,16 @@
     "path": "./problemset/odd-even-linked-list/README.md"
   },
   {
+    "id": "329",
+    "title": {
+      "cn": "矩阵中的最长递增路径",
+      "en": "longest-increasing-path-in-a-matrix"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/",
+    "path": "./problemset/longest-increasing-path-in-a-matrix/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

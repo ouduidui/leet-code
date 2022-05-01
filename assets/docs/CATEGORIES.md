@@ -450,6 +450,7 @@
 | 297. [二叉树的序列化与反序列化](../../problemset/serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
+| 329. [矩阵中的最长递增路径](../../problemset/longest-increasing-path-in-a-matrix/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 386. [字典序排数](../../problemset/lexicographical-numbers/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
