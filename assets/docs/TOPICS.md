@@ -636,6 +636,8 @@
 
 [1189. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
 
+[1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)
+
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
 [1380. 矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md)

@@ -2451,6 +2451,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1305",
+        "title": "两颗二叉搜索树中的所有元素",
+        "path": "./problemset/all-elements-in-two-binary-search-trees/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1765",
         "title": "地图中的最高点",
         "path": "./problemset/map-of-highest-peak/README.md",
@@ -2816,6 +2822,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1305",
+        "title": "两颗二叉搜索树中的所有元素",
+        "path": "./problemset/all-elements-in-two-binary-search-trees/README.md",
+        "difficulty": "中等"
       }
     ]
   },
