@@ -2110,6 +2110,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "591",
+        "title": "标签验证器",
+        "path": "./problemset/tag-validator/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "2104",
         "title": "子数组范围和",
         "path": "./problemset/sum-of-subarray-ranges/README.md",

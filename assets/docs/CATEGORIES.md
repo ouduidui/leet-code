@@ -401,6 +401,7 @@
 | 321. [拼接最大数](../../problemset/create-maximum-number/README.md) | 困难 |
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 388. [文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md) | 中等 |
+| 591. [标签验证器](../../problemset/tag-validator/README.md) | 困难 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 
 ## 递归 & 迭代

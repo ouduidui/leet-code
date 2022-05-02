@@ -2860,6 +2860,16 @@
     "path": "./problemset/n-ary-tree-postorder-traversal/README.md"
   },
   {
+    "id": "591",
+    "title": {
+      "cn": "标签验证器",
+      "en": "tag-validator"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/tag-validator/",
+    "path": "./problemset/tag-validator/README.md"
+  },
+  {
     "id": "599",
     "title": {
       "cn": "两个列表的最小索引总和",
