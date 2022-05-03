@@ -505,6 +505,7 @@
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 122. [买卖股票的最佳时机 II](../../problemset/best-time-to-buy-and-sell-stock-2/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
+| 330. [按要求补齐数组](../../problemset/patching-array/README.md) | 困难 |
 | 1663. [具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md) | 中等 |
 | 2038. [如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md) | 中等 |
 

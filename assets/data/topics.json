@@ -2600,6 +2600,16 @@
     "path": "./problemset/longest-increasing-path-in-a-matrix/README.md"
   },
   {
+    "id": "330",
+    "title": {
+      "cn": "按要求补齐数组",
+      "en": "patching-array"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode-cn.com/problems/patching-array/",
+    "path": "./problemset/patching-array/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",
