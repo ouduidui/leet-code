@@ -916,6 +916,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "338",
+        "title": "比特位计数",
+        "path": "./problemset/counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "342",
         "title": "4的幂",
         "path": "./problemset/power-of-four/README.md",
@@ -1200,6 +1206,12 @@
         "title": "零钱兑换",
         "path": "./problemset/coin-change/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "338",
+        "title": "比特位计数",
+        "path": "./problemset/counting-bits/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "688",

@@ -177,6 +177,7 @@
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 319. [灯泡开关](../../problemset/bulb-switcher/README.md) | 中等 |
 | 326. [3的幂](../../problemset/power-of-three/README.md) | 简单 |
+| 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 342. [4的幂](../../problemset/power-of-four/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
@@ -233,6 +234,7 @@
 | 312. [戳气球](../../problemset/burst-balloons/README.md) | 困难 |
 | 313. [超级丑数](../../problemset/super-ugly-number/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
+| 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |

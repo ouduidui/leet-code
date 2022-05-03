@@ -2610,6 +2610,16 @@
     "path": "./problemset/patching-array/README.md"
   },
   {
+    "id": "338",
+    "title": {
+      "cn": "比特位计数",
+      "en": "counting-bits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/counting-bits/",
+    "path": "./problemset/counting-bits/README.md"
+  },
+  {
     "id": "342",
     "title": {
       "cn": "4的幂",

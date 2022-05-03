@@ -522,6 +522,8 @@
 
 [330. 按要求补齐数组](../../problemset/patching-array/README.md)
 
+[338. 比特位计数](../../problemset/counting-bits/README.md)
+
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
 [355. 设计推特](../../problemset/design-twitter/README.md)
