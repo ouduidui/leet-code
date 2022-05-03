@@ -683,6 +683,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "937",
+        "title": "重新排列日志文件",
+        "path": "./problemset/reorder-data-in-log-files/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "954",
         "title": "二倍数对数组",
         "path": "./problemset/array-of-doubled-pairs/README.md",
