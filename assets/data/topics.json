@@ -3360,6 +3360,16 @@
     "path": "./problemset/find-center-of-star-graph/README.md"
   },
   {
+    "id": "1823",
+    "title": {
+      "cn": "找出游戏的获胜者",
+      "en": "find-the-winner-of-the-circular-game"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/",
+    "path": "./problemset/find-the-winner-of-the-circular-game/README.md"
+  },
+  {
     "id": "1832",
     "title": {
       "cn": "判断句子是否为全字母句",

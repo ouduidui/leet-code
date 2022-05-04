@@ -188,6 +188,7 @@
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
+| 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
 
 ## 自动机
 
@@ -469,6 +470,7 @@
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
+| 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
 | 2039. [网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md) | 中等 |
 | 2049. [统计最高分的节点数目](../../problemset/count-nodes-with-the-highest-score/README.md) | 中等 |
 

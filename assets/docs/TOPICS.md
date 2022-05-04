@@ -672,6 +672,8 @@
 
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
 
+[1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
+
 [1832. 判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md)
 
 [1961. 检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md)

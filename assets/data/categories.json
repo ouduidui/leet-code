@@ -980,6 +980,12 @@
         "title": "找出星型图的中心节点",
         "path": "./problemset/find-center-of-star-graph/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1823",
+        "title": "找出游戏的获胜者",
+        "path": "./problemset/find-the-winner-of-the-circular-game/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -2490,6 +2496,12 @@
         "id": "1765",
         "title": "地图中的最高点",
         "path": "./problemset/map-of-highest-peak/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1823",
+        "title": "找出游戏的获胜者",
+        "path": "./problemset/find-the-winner-of-the-circular-game/README.md",
         "difficulty": "中等"
       },
       {
