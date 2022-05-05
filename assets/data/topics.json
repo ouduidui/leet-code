@@ -2970,6 +2970,16 @@
     "path": "./problemset/to-lower-case/README.md"
   },
   {
+    "id": "713",
+    "title": {
+      "cn": "乘积小于 K 的子数组",
+      "en": "subarray-product-less-than-k"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/subarray-product-less-than-k/",
+    "path": "./problemset/subarray-product-less-than-k/README.md"
+  },
+  {
     "id": "720",
     "title": {
       "cn": "词典中最长的单词",
