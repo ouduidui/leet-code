@@ -1776,6 +1776,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "933",
+        "title": "最近的请求次数",
+        "path": "./problemset/number-of-recent-calls/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "969",
         "title": "煎饼排序",
         "path": "./problemset/pancake-sorting/README.md",

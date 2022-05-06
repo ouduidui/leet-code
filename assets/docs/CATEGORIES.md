@@ -337,6 +337,7 @@
 | 824. [山羊拉丁文](../../problemset/goat-latin/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
+| 933. [最近的请求次数](../../problemset/number-of-recent-calls/README.md) | 简单 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
