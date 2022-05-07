@@ -2770,6 +2770,16 @@
     "path": "./problemset/all-one-data-structure/README.md"
   },
   {
+    "id": "433",
+    "title": {
+      "cn": "最小基因变化",
+      "en": "minimum-genetic-mutation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/minimum-genetic-mutation/",
+    "path": "./problemset/minimum-genetic-mutation/README.md"
+  },
+  {
     "id": "440",
     "title": {
       "cn": "字典序的第K小数字",

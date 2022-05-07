@@ -554,6 +554,8 @@
 
 [432. 全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md)
 
+[433. 最小基因变化](../../problemset/minimum-genetic-mutation/README.md)
+
 [440. 字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md)
 
 [479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)

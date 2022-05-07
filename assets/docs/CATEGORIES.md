@@ -464,6 +464,7 @@
 | 417. [太平洋大西洋水流问题](../../problemset/pacific-atlantic-water-flow/README.md) | 中等 |
 | 427. [建立四叉树](../../problemset/construct-quad-tree/README.md) | 中等 |
 | 429. [N 叉树的层序遍历](../../problemset/n-ary-tree-level-order-traversal/README.md) | 中等 |
+| 433. [最小基因变化](../../problemset/minimum-genetic-mutation/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
