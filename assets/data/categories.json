@@ -1680,6 +1680,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "442",
+        "title": "数组中重复的数据",
+        "path": "./problemset/find-all-duplicates-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "521",
         "title": "最长特殊序列",
         "path": "./problemset/longest-uncommon-subsequence/README.md",

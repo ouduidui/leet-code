@@ -2790,6 +2790,16 @@
     "path": "./problemset/k-th-smallest-in-lexicographical-order/README.md"
   },
   {
+    "id": "442",
+    "title": {
+      "cn": "数组中重复的数据",
+      "en": "find-all-duplicates-in-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/",
+    "path": "./problemset/find-all-duplicates-in-an-array/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",
