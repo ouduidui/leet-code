@@ -2663,6 +2663,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "942",
+        "title": "增减字符串匹配",
+        "path": "./problemset/di-string-match/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1663",
         "title": "具有给定数值的最小字符串",
         "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md",

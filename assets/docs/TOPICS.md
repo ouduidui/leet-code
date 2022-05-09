@@ -644,6 +644,8 @@
 
 [937. 重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md)
 
+[942. 增减字符串匹配](../../problemset/di-string-match/README.md)
+
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)
 
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)

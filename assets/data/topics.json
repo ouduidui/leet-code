@@ -3220,6 +3220,16 @@
     "path": "./problemset/reorder-data-in-log-files/README.md"
   },
   {
+    "id": "942",
+    "title": {
+      "cn": "增减字符串匹配",
+      "en": "di-string-match"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/di-string-match/",
+    "path": "./problemset/di-string-match/README.md"
+  },
+  {
     "id": "954",
     "title": {
       "cn": "二倍数对数组",
