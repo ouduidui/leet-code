@@ -676,6 +676,8 @@
 
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
 
+[1728. 猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)

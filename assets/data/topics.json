@@ -3380,6 +3380,16 @@
     "path": "./problemset/number-of-ways-to-reconstruct-a-tree/README.md"
   },
   {
+    "id": "1728",
+    "title": {
+      "cn": "猫和老鼠 II",
+      "en": "cat-and-mouse-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/cat-and-mouse-ii/",
+    "path": "./problemset/cat-and-mouse-2/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",

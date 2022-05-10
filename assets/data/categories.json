@@ -3142,5 +3142,16 @@
         "difficulty": "困难"
       }
     ]
+  },
+  {
+    "label": "拓扑排序",
+    "topics": [
+      {
+        "id": "1728",
+        "title": "猫和老鼠 II",
+        "path": "./problemset/cat-and-mouse-2/README.md",
+        "difficulty": "困难"
+      }
+    ]
   }
 ]

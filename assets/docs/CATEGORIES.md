@@ -623,3 +623,9 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 315. [计算右侧小于当前元素的个数](../../problemset/count-of-smaller-numbers-after-self/README.md) | 困难 |
+
+## 拓扑排序
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 1728. [猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md) | 困难 |
