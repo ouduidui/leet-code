@@ -2800,6 +2800,16 @@
     "path": "./problemset/find-all-duplicates-in-an-array/README.md"
   },
   {
+    "id": "449",
+    "title": {
+      "cn": "序列化和反序列化二叉搜索树",
+      "en": "serialize-and-deserialize-bst"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/serialize-and-deserialize-bst/",
+    "path": "./problemset/serialize-and-deserialize-bst/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",
