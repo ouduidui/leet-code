@@ -1788,6 +1788,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "944",
+        "title": "删列造序",
+        "path": "./problemset/delete-columns-to-make-sorted/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "969",
         "title": "煎饼排序",
         "path": "./problemset/pancake-sorting/README.md",

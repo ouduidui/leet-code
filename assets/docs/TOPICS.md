@@ -648,6 +648,8 @@
 
 [942. 增减字符串匹配](../../problemset/di-string-match/README.md)
 
+[944. 删列造序](../../problemset/delete-columns-to-make-sorted/README.md)
+
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)
 
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)

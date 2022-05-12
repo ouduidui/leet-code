@@ -3240,6 +3240,16 @@
     "path": "./problemset/di-string-match/README.md"
   },
   {
+    "id": "944",
+    "title": {
+      "cn": "删列造序",
+      "en": "delete-columns-to-make-sorted"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/delete-columns-to-make-sorted/",
+    "path": "./problemset/delete-columns-to-make-sorted/README.md"
+  },
+  {
     "id": "954",
     "title": {
       "cn": "二倍数对数组",
