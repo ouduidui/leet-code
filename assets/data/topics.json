@@ -3638,5 +3638,15 @@
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/sum-of-subarray-ranges/",
     "path": "./problemset/sum-of-subarray-ranges/README.md"
+  },
+  {
+    "id": "面试题 01.05",
+    "title": {
+      "cn": "一次编辑",
+      "en": "one-away-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/one-away-lcci/",
+    "path": "./problemset/one-away-lcci/README.md"
   }
 ]

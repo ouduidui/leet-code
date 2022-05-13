@@ -1864,6 +1864,12 @@
         "title": "蜡烛之间的盘子",
         "path": "./problemset/plates-between-candles/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 01.05",
+        "title": "一次编辑",
+        "path": "./problemset/one-away-lcci/README.md",
+        "difficulty": "中等"
       }
     ]
   },
