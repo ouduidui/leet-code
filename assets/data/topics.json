@@ -2980,6 +2980,16 @@
     "path": "./problemset/knight-probability-in-chessboard/README.md"
   },
   {
+    "id": "691",
+    "title": {
+      "cn": "贴纸拼词",
+      "en": "stickers-to-spell-word"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/stickers-to-spell-word/",
+    "path": "./problemset/stickers-to-spell-word/README.md"
+  },
+  {
     "id": "693",
     "title": {
       "cn": "交替位二进制数",

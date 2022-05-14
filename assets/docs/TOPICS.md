@@ -596,6 +596,8 @@
 
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
+[691. 贴纸拼词](../../problemset/stickers-to-spell-word/README.md)
+
 [693. 交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md)
 
 [709. 转换成小写字母](../../problemset/to-lower-case/README.md)

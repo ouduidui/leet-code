@@ -2517,6 +2517,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "691",
+        "title": "贴纸拼词",
+        "path": "./problemset/stickers-to-spell-word/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "838",
         "title": "推多米诺",
         "path": "./problemset/push-dominoes/README.md",
