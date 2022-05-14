@@ -38,10 +38,10 @@ enum FILE_NAME {
  */
 
 // eslint-disable-next-line no-console
-export const log = (msg: string, color: typeof Color = 'green') => console.log(chalk[color](msg))
+export const log = (msg: string, color: Color = 'green') => console.log(chalk[color](msg))
 
 const figlet = promisify(_figlet)
-export const figletLog = async(msg: string, color: typeof Color = 'green') => log(await figlet(msg) as string, color)
+export const figletLog = async(msg: string, color: Color = 'green') => log(await figlet(msg) as string, color)
 
 /**
  * format
@@ -149,6 +149,18 @@ export interface Topic {
   path: string
 }
 
+const topicsSort = <T extends { id: string }>(topics: T[]): T[] => {
+  const [numIdTopics, strIdTopics] = topics.reduce<[numIdTopics: T[], strIdTopics: T[]]>((acc, cur) => {
+    acc[isNaN(Number(cur.id)) ? 1 : 0].push(cur)
+    return acc
+  }, [[], []])
+
+  return [
+    ...numIdTopics.sort((a, b) => Number(a.id) - Number(b.id)),
+    ...strIdTopics.sort(),
+  ]
+}
+
 export const updateTopicsJson = (
   topics: Topic[],
   id: string,
@@ -165,7 +177,7 @@ export const updateTopicsJson = (
     url,
     path: `${DIR.TOPICS_PATH}${en}/README.md`,
   })
-  topics.sort((a, b) => Number(a.id) - Number(b.id))
+  topics = topicsSort<Topic>(topics)
   fs.writeFileSync(
     getAbsolutePath(DIR.TOPICS_DATA_PATH + FILE_NAME.TOPIC_DATA),
     JSON.stringify(topics, null, 2),
@@ -188,14 +200,16 @@ export const updateTopicsReadme = (topics: Topic[]) => {
   log('update topics readme success')
 }
 
+interface CategoryTopic {
+  id: string
+  title: string
+  difficulty: string
+  path: string
+}
+
 export interface Category {
   label: string
-  topics: {
-    id: string
-    title: string
-    difficulty: string
-    path: string
-  }[]
+  topics: CategoryTopic[]
 }
 
 interface NewCategoryOptions {
@@ -223,7 +237,7 @@ const updateCategoriesData = (
           path: topic.path,
           difficulty: topic.difficulty,
         })
-        category.topics.sort((a, b) => Number(a.id) - Number(b.id))
+        category.topics = topicsSort<CategoryTopic>(category.topics)
       }
     })
   }
