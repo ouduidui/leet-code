@@ -964,6 +964,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "812",
+        "title": "最大三角形面积",
+        "path": "./problemset/largest-triangle-area/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "883",
         "title": "三维形体投影面积",
         "path": "./problemset/projection-area-of-3d-shapes/README.md",
@@ -2953,6 +2959,12 @@
         "title": "最大回文数乘积",
         "path": "./problemset/largest-palindrome-product/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "812",
+        "title": "最大三角形面积",
+        "path": "./problemset/largest-triangle-area/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "1601",

@@ -3120,6 +3120,16 @@
     "path": "./problemset/number-of-lines-to-write-string/README.md"
   },
   {
+    "id": "812",
+    "title": {
+      "cn": "最大三角形面积",
+      "en": "largest-triangle-area"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/largest-triangle-area/",
+    "path": "./problemset/largest-triangle-area/README.md"
+  },
+  {
     "id": "819",
     "title": {
       "cn": "最常见的单词",

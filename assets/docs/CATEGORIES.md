@@ -185,6 +185,7 @@
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
+| 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
@@ -571,6 +572,7 @@
 | ---- | ---- |
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 479. [最大回文数乘积](../../problemset/largest-palindrome-product/README.md) | 困难 |
+| 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 
 ## 位运算
