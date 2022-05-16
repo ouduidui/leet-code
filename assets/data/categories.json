@@ -2569,6 +2569,12 @@
         "title": "统计最高分的节点数目",
         "path": "./problemset/count-nodes-with-the-highest-score/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 04.06",
+        "title": "后继者",
+        "path": "./problemset/successor-lcci/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -2941,6 +2947,12 @@
         "id": "1305",
         "title": "两颗二叉搜索树中的所有元素",
         "path": "./problemset/all-elements-in-two-binary-search-trees/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "面试题 04.06",
+        "title": "后继者",
+        "path": "./problemset/successor-lcci/README.md",
         "difficulty": "中等"
       }
     ]

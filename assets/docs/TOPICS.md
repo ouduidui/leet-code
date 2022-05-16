@@ -733,3 +733,5 @@
 [2104. 子数组范围和](../../problemset/sum-of-subarray-ranges/README.md)
 
 [面试题 01.05. 一次编辑](../../problemset/one-away-lcci/README.md)
+
+[面试题 04.06. 后继者](../../problemset/successor-lcci/README.md)

@@ -3668,5 +3668,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/one-away-lcci/",
     "path": "./problemset/one-away-lcci/README.md"
+  },
+  {
+    "id": "面试题 04.06",
+    "title": {
+      "cn": "后继者",
+      "en": "successor-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/successor-lcci/",
+    "path": "./problemset/successor-lcci/README.md"
   }
 ]
