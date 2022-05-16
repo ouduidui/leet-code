@@ -1,6 +1,5 @@
 import { expect, it } from 'vitest'
 import { Trie } from '.'
-// need refactor
 
 it('实现 Trie (前缀树)', () => {
   const trie = new Trie()

@@ -12,24 +12,11 @@ describe('最大子数组和', () => {
 })
 
 function testCase(fn: (nums: number[]) => number) {
-  it('示例一', () => {
-    const nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
-    const expected = 6
-
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const nums = [1]
-    const expected = 1
-
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const nums = [5, 4, -1, 7, 8]
-    const expected = 23
-
+  it.each([
+    [[-2, 1, -3, 4, -1, 2, 1, -5, 4], 6],
+    [[1], 1],
+    [[5, 4, -1, 7, 8], 23],
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected)
   })
 }
