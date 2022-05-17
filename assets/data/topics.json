@@ -3270,6 +3270,16 @@
     "path": "./problemset/delete-columns-to-make-sorted/README.md"
   },
   {
+    "id": "953",
+    "title": {
+      "cn": "验证外星语词典",
+      "en": "verifying-an-alien-dictionary"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/verifying-an-alien-dictionary/",
+    "path": "./problemset/verifying-an-alien-dictionary/README.md"
+  },
+  {
     "id": "954",
     "title": {
       "cn": "二倍数对数组",

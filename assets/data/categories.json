@@ -1800,6 +1800,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "953",
+        "title": "验证外星语词典",
+        "path": "./problemset/verifying-an-alien-dictionary/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "969",
         "title": "煎饼排序",
         "path": "./problemset/pancake-sorting/README.md",

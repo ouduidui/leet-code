@@ -654,6 +654,8 @@
 
 [944. 删列造序](../../problemset/delete-columns-to-make-sorted/README.md)
 
+[953. 验证外星语词典](../../problemset/verifying-an-alien-dictionary/README.md)
+
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)
 
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)
