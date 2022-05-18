@@ -4,7 +4,7 @@ import {
   findMedianSortedArrays2,
   findMedianSortedArrays3,
 } from '.'
-// need refactor
+
 describe('寻找两个正序数组的中位数', () => {
   describe('暴力解法', () => {
     testCase(findMedianSortedArrays)
@@ -20,59 +20,15 @@ describe('寻找两个正序数组的中位数', () => {
 })
 
 function testCase(fn: (nums1: number[], nums2: number[]) => number) {
-  it('示例一', () => {
-    const num1: Array<number> = [1, 3]
-    const num2: Array<number> = [2]
-    const expected = 2
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const num1: Array<number> = [1, 2]
-    const num2: Array<number> = [3, 4]
-    const expected = 2.5
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const num1: Array<number> = [0, 0]
-    const num2: Array<number> = [0, 0]
-    const expected = 0
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例四', () => {
-    const num1: Array<number> = []
-    const num2: Array<number> = [1]
-    const expected = 1
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例五', () => {
-    const num1: Array<number> = [2]
-    const num2: Array<number> = []
-    const expected = 2
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例六', () => {
-    const num1: Array<number> = [1]
-    const num2: Array<number> = [1]
-    const expected = 1
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例七', () => {
-    const num1: Array<number> = [1, 2, 2]
-    const num2: Array<number> = [1, 2, 3]
-    const expected = 2
-
+  it.each([
+    [[1, 3], [2], 2],
+    [[1, 2], [3, 4], 2.5],
+    [[0, 0], [0, 0], 0],
+    [[], [1], 1],
+    [[2], [], 2],
+    [[1], [1], 1],
+    [[1, 2, 2], [1, 2, 3], 2],
+  ])('示例%#', (num1, num2, expected) => {
     expect(fn(num1, num2)).toBe(expected)
   })
 }
