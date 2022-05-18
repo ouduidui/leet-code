@@ -2960,6 +2960,16 @@
     "path": "./problemset/image-smoother/README.md"
   },
   {
+    "id": "668",
+    "title": {
+      "cn": "乘法表中第k小的数",
+      "en": "kth-smallest-number-in-multiplication-table"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/",
+    "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md"
+  },
+  {
     "id": "682",
     "title": {
       "cn": "棒球比赛",

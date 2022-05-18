@@ -114,6 +114,7 @@
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
+| 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
 
@@ -184,6 +185,7 @@
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
+| 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |

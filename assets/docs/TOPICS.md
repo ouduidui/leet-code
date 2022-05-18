@@ -592,6 +592,8 @@
 
 [661. 图片平滑器](../../problemset/image-smoother/README.md)
 
+[668. 乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md)
+
 [682. 棒球比赛](../../problemset/baseball-game/README.md)
 
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)

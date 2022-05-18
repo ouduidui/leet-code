@@ -588,6 +588,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "668",
+        "title": "乘法表中第k小的数",
+        "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "729",
         "title": "我的日程安排表",
         "path": "./problemset/my-calendar/README.md",
@@ -956,6 +962,12 @@
         "title": "最优除法",
         "path": "./problemset/optimal-division/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "668",
+        "title": "乘法表中第k小的数",
+        "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "762",
