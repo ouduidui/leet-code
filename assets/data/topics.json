@@ -2810,6 +2810,16 @@
     "path": "./problemset/serialize-and-deserialize-bst/README.md"
   },
   {
+    "id": "462",
+    "title": {
+      "cn": "最少移动次数使数组元素相等 II",
+      "en": "minimum-moves-to-equal-array-elements-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/",
+    "path": "./problemset/minimum-moves-to-equal-array-elements-2/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",

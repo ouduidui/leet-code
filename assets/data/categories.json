@@ -695,6 +695,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "462",
+        "title": "最少移动次数使数组元素相等 II",
+        "path": "./problemset/minimum-moves-to-equal-array-elements-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "937",
         "title": "重新排列日志文件",
         "path": "./problemset/reorder-data-in-log-files/README.md",

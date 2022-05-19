@@ -136,6 +136,7 @@
 | 315. [计算右侧小于当前元素的个数](../../problemset/count-of-smaller-numbers-after-self/README.md) | 困难 |
 | 324. [摆动排序 II](../../problemset/wiggle-sort-2/README.md) | 中等 |
 | 327. [区间和的个数](../../problemset/count-of-range-sum/README.md) | 困难 |
+| 462. [最少移动次数使数组元素相等 II](../../problemset/minimum-moves-to-equal-array-elements-2/README.md) | 中等 |
 | 937. [重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |

@@ -562,6 +562,8 @@
 
 [449. 序列化和反序列化二叉搜索树](../../problemset/serialize-and-deserialize-bst/README.md)
 
+[462. 最少移动次数使数组元素相等 II](../../problemset/minimum-moves-to-equal-array-elements-2/README.md)
+
 [479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)
 
 [504. 七进制数](../../problemset/base-7/README.md)
