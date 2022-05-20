@@ -582,6 +582,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "436",
+        "title": "寻找右区间",
+        "path": "./problemset/find-right-interval/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "540",
         "title": "有序数组中的单一元素",
         "path": "./problemset/single-element-in-a-sorted-array/README.md",
@@ -693,6 +699,12 @@
         "title": "区间和的个数",
         "path": "./problemset/count-of-range-sum/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "436",
+        "title": "寻找右区间",
+        "path": "./problemset/find-right-interval/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "462",
@@ -1426,6 +1438,12 @@
         "id": "287",
         "title": "寻找重复数",
         "path": "./problemset/find-the-duplicate-number/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "436",
+        "title": "寻找右区间",
+        "path": "./problemset/find-right-interval/README.md",
         "difficulty": "中等"
       },
       {

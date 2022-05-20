@@ -2780,6 +2780,16 @@
     "path": "./problemset/minimum-genetic-mutation/README.md"
   },
   {
+    "id": "436",
+    "title": {
+      "cn": "寻找右区间",
+      "en": "find-right-interval"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-right-interval/",
+    "path": "./problemset/find-right-interval/README.md"
+  },
+  {
     "id": "440",
     "title": {
       "cn": "字典序的第K小数字",
