@@ -3320,6 +3320,16 @@
     "path": "./problemset/array-of-doubled-pairs/README.md"
   },
   {
+    "id": "961",
+    "title": {
+      "cn": "在长度 2N 的数组中找出重复 N 次的元素",
+      "en": "n-repeated-element-in-size-2n-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/",
+    "path": "./problemset/n-repeated-element-in-size-2n-array/README.md"
+  },
+  {
     "id": "969",
     "title": {
       "cn": "煎饼排序",

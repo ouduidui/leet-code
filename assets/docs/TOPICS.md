@@ -664,6 +664,8 @@
 
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)
 
+[961. 在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md)
+
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)

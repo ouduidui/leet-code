@@ -231,6 +231,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "961",
+        "title": "在长度 2N 的数组中找出重复 N 次的元素",
+        "path": "./problemset/n-repeated-element-in-size-2n-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1001",
         "title": "网格照明",
         "path": "./problemset/grid-illumination/README.md",
@@ -1009,6 +1015,12 @@
         "id": "908",
         "title": "最小差值",
         "path": "./problemset/smallest-range/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "961",
+        "title": "在长度 2N 的数组中找出重复 N 次的元素",
+        "path": "./problemset/n-repeated-element-in-size-2n-array/README.md",
         "difficulty": "简单"
       },
       {
