@@ -2830,6 +2830,16 @@
     "path": "./problemset/minimum-moves-to-equal-array-elements-2/README.md"
   },
   {
+    "id": "464",
+    "title": {
+      "cn": "我能赢吗",
+      "en": "can-i-win"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/can-i-win/",
+    "path": "./problemset/can-i-win/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",
