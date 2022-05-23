@@ -44,13 +44,13 @@ export function cutOffTree(forest: number[][]): number {
       const size = queue.length
       for (let i = 0; i < size; i++) {
         const [cx, cy] = queue.shift()!
+
         for (const dir of dirs) {
           const nx = cx + dir[0]
           const ny = cy + dir[1]
-          if (nx >= 0 && nx < row && ny >= 0 && nx < col) {
+          if (nx >= 0 && nx < row && ny >= 0 && ny < col) {
             if (!visited[nx][ny] && forest[nx][ny] > 0) {
-              if (nx === tx && ny === ty)
-                return step
+              if (nx === tx && ny === ty) return step
 
               queue.push([nx, ny])
               visited[nx][ny] = true
