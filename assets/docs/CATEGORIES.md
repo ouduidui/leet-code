@@ -484,6 +484,7 @@
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 675. [为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md) | 困难 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |

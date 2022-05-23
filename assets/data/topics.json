@@ -3000,6 +3000,16 @@
     "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md"
   },
   {
+    "id": "675",
+    "title": {
+      "cn": "为高尔夫比赛砍树",
+      "en": "cut-off-trees-for-golf-event"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/cut-off-trees-for-golf-event/",
+    "path": "./problemset/cut-off-trees-for-golf-event/README.md"
+  },
+  {
     "id": "682",
     "title": {
       "cn": "棒球比赛",

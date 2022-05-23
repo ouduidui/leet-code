@@ -2583,6 +2583,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "675",
+        "title": "为高尔夫比赛砍树",
+        "path": "./problemset/cut-off-trees-for-golf-event/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "691",
         "title": "贴纸拼词",
         "path": "./problemset/stickers-to-spell-word/README.md",
