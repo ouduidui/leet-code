@@ -5,7 +5,7 @@ import {
   majorityElement3,
   majorityElement4,
 } from '.'
-// need refactor
+
 describe('多数元素', () => {
   describe('哈希表', () => {
     testCase(majorityElement)
@@ -25,15 +25,10 @@ describe('多数元素', () => {
 })
 
 function testCase(fn: (nums: number[]) => number) {
-  it('示例一', () => {
-    const nums = [3, 2, 3]
-    const expected = 3
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const nums = [2, 2, 1, 1, 1, 2, 2]
-    const expected = 2
+  it.each([
+    [[3, 2, 3], 3],
+    [[2, 2, 1, 1, 1, 2, 2], 2],
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected)
   })
 }

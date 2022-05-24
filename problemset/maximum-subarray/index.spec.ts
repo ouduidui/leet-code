@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { maxSubArray, maxSubArray2 } from '.'
-// need refactor
+
 describe('最大子数组和', () => {
   describe('暴力解法', () => {
     testCase(maxSubArray)

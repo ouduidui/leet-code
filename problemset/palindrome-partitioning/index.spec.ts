@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { partition, partition2 } from '.'
-// need refactor
+
 describe('分割回文串', () => {
   describe('回溯 + 记忆化搜索', () => {
     testCase(partition)
@@ -12,18 +12,19 @@ describe('分割回文串', () => {
 })
 
 function testCase(fn: (s: string) => string[][]) {
-  it('示例一', () => {
-    const s = 'aab'
-    const expected = [
-      ['a', 'a', 'b'],
-      ['aa', 'b'],
-    ]
-    expect(fn(s)).toStrictEqual(expected)
-  })
-
-  it('示例二', () => {
-    const s = 'a'
-    const expected = [['a']]
+  it.each([
+    [
+      'aab',
+      [
+        ['a', 'a', 'b'],
+        ['aa', 'b'],
+      ],
+    ],
+    [
+      'a',
+      [['a']],
+    ],
+  ])('示例%#', (s, expected) => {
     expect(fn(s)).toStrictEqual(expected)
   })
 }

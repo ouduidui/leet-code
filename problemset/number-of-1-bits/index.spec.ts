@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { hammingWeight, hammingWeight2 } from '.'
-// need refactor
+
 describe('位1的个数', () => {
   describe('循环检查二进制位', () => {
     testCase(hammingWeight)
@@ -12,21 +12,11 @@ describe('位1的个数', () => {
 })
 
 function testCase(fn: (n: number) => number) {
-  it('示例一', () => {
-    const n = 0b00000000000000000000000000001011
-    const expected = 3
-    expect(fn(n)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const n = 0b00000000000000000000000010000000
-    const expected = 1
-    expect(fn(n)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const n = 0b11111111111111111111111111111101
-    const expected = 31
+  it.each([
+    [0b00000000000000000000000000001011, 3],
+    [0b00000000000000000000000010000000, 1],
+    [0b11111111111111111111111111111101, 31],
+  ])('示例%#', (n, expected) => {
     expect(fn(n)).toBe(expected)
   })
 }

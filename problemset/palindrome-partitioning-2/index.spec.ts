@@ -1,26 +1,16 @@
 import { describe, expect, it } from 'vitest'
 import { minCut } from '.'
-// need refactor
+
 describe('分割回文串 II', () => {
   testCase(minCut)
 })
 
 function testCase(fn: (s: string) => number) {
-  it('示例一', () => {
-    const s = 'aab'
-    const expected = 1
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const s = 'a'
-    const expected = 0
-    expect(fn(s)).toBe(expected)
-  })
-
-  it('示例三', () => {
-    const s = 'ab'
-    const expected = 1
+  it.each([
+    ['aab', 1],
+    ['a', 0],
+    ['ab', 1],
+  ])('示例%#', (s, expected) => {
     expect(fn(s)).toBe(expected)
   })
 }

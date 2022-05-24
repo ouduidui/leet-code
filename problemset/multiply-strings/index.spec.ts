@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { multiply } from '.'
-// need refactor
+
 describe('字符串相乘', () => {
   describe('做乘法', () => {
     testCase(multiply)
@@ -8,19 +8,10 @@ describe('字符串相乘', () => {
 })
 
 function testCase(fn: (num1: string, num2: string) => string) {
-  it('示例一', () => {
-    const num1 = '2'
-    const num2 = '3'
-    const expected = '6'
-
-    expect(fn(num1, num2)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const num1 = '123'
-    const num2 = '456'
-    const expected = '56088'
-
+  it.each([
+    ['2', '3', '6'],
+    ['123', '456', '56088'],
+  ])('示例%#', (num1, num2, expected) => {
     expect(fn(num1, num2)).toBe(expected)
   })
 }

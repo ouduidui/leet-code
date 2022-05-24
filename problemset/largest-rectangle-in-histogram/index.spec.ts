@@ -4,7 +4,7 @@ import {
   largestRectangleArea1,
   largestRectangleArea2,
 } from '.'
-// need refactor
+
 describe('柱状图中最大的矩形', () => {
   describe('暴力解法 - 遍历所有矩形', () => {
     testCase(largestRectangleArea)
@@ -18,15 +18,16 @@ describe('柱状图中最大的矩形', () => {
 })
 
 function testCase(fn: (heights: number[]) => number) {
-  it('示例一', () => {
-    const heights = [2, 1, 5, 6, 2, 3]
-    const expected = 10
-    expect(fn(heights)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const heights = [2, 4]
-    const expected = 4
+  it.each([
+    [
+      [2, 1, 5, 6, 2, 3],
+      10,
+    ],
+    [
+      [2, 4],
+      4,
+    ],
+  ])('示例%#', (heights, expected) => {
     expect(fn(heights)).toBe(expected)
   })
 }

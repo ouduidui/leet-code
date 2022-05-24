@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { maxProduct, maxProduct2 } from '.'
-// need refactor
+
 describe('乘积最大子数组', () => {
   describe('暴力解法', () => {
     testCase(maxProduct)
@@ -12,15 +12,10 @@ describe('乘积最大子数组', () => {
 })
 
 function testCase(fn: (nums: number[]) => number) {
-  it('示例一', () => {
-    const nums = [2, 3, -2, 4]
-    const expected = 6
-    expect(fn(nums)).toBe(expected)
-  })
-
-  it('示例二', () => {
-    const nums = [-2, 0, -1]
-    const expected = 0
+  it.each([
+    [[2, 3, -2, 4], 6],
+    [[-2, 0, -1], 0],
+  ])('示例%#', (nums, expected) => {
     expect(fn(nums)).toBe(expected)
   })
 }
