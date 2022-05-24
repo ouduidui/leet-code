@@ -487,6 +487,7 @@
 | 675. [为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md) | 困难 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
+| 965. [单值二叉树](../../problemset/univalued-binary-tree/README.md) | 简单 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |

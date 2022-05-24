@@ -670,6 +670,8 @@
 
 [961. 在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md)
 
+[965. 单值二叉树](../../problemset/univalued-binary-tree/README.md)
+
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)
 
 [1001. 网格照明](../../problemset/grid-illumination/README.md)

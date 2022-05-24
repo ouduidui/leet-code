@@ -3350,6 +3350,16 @@
     "path": "./problemset/n-repeated-element-in-size-2n-array/README.md"
   },
   {
+    "id": "965",
+    "title": {
+      "cn": "单值二叉树",
+      "en": "univalued-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/univalued-binary-tree/",
+    "path": "./problemset/univalued-binary-tree/README.md"
+  },
+  {
     "id": "969",
     "title": {
       "cn": "煎饼排序",
