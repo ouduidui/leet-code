@@ -245,6 +245,7 @@
 | 313. [超级丑数](../../problemset/super-ugly-number/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
+| 467. [环绕字符串中唯一的子字符串](../../problemset/unique-substrings-in-wraparound-string/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |

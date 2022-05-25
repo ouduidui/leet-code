@@ -2840,6 +2840,16 @@
     "path": "./problemset/can-i-win/README.md"
   },
   {
+    "id": "467",
+    "title": {
+      "cn": "环绕字符串中唯一的子字符串",
+      "en": "unique-substrings-in-wraparound-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/unique-substrings-in-wraparound-string/",
+    "path": "./problemset/unique-substrings-in-wraparound-string/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",

@@ -1274,6 +1274,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "467",
+        "title": "环绕字符串中唯一的子字符串",
+        "path": "./problemset/unique-substrings-in-wraparound-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "688",
         "title": "骑士在棋盘上的概率",
         "path": "./problemset/knight-probability-in-chessboard/README.md",
