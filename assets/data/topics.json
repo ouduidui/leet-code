@@ -3060,6 +3060,16 @@
     "path": "./problemset/binary-number-with-alternating-bits/README.md"
   },
   {
+    "id": "699",
+    "title": {
+      "cn": "掉落的方块",
+      "en": "falling-squares"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/falling-squares/",
+    "path": "./problemset/falling-squares/README.md"
+  },
+  {
     "id": "709",
     "title": {
       "cn": "转换成小写字母",

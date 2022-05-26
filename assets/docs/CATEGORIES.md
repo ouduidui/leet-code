@@ -587,6 +587,7 @@
 | ---- | ---- |
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 479. [最大回文数乘积](../../problemset/largest-palindrome-product/README.md) | 困难 |
+| 699. [掉落的方块](../../problemset/falling-squares/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 

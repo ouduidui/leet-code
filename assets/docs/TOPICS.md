@@ -612,6 +612,8 @@
 
 [693. 交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md)
 
+[699. 掉落的方块](../../problemset/falling-squares/README.md)
+
 [709. 转换成小写字母](../../problemset/to-lower-case/README.md)
 
 [713. 乘积小于 K 的子数组](../../problemset/subarray-product-less-than-k/README.md)

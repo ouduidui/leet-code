@@ -3051,6 +3051,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "699",
+        "title": "掉落的方块",
+        "path": "./problemset/falling-squares/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "812",
         "title": "最大三角形面积",
         "path": "./problemset/largest-triangle-area/README.md",
