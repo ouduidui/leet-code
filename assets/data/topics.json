@@ -3778,5 +3778,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/successor-lcci/",
     "path": "./problemset/successor-lcci/README.md"
+  },
+  {
+    "id": "面试题 17.11",
+    "title": {
+      "cn": "单词距离",
+      "en": "find-closest-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-closest-lcci/",
+    "path": "./problemset/find-closest-lcci/README.md"
   }
 ]

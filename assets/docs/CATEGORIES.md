@@ -364,6 +364,7 @@
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
 | 2055. [蜡烛之间的盘子](../../problemset/plates-between-candles/README.md) | 中等 |
 | 面试题 01.05. [一次编辑](../../problemset/one-away-lcci/README.md) | 中等 |
+| 面试题 17.11. [单词距离](../../problemset/find-closest-lcci/README.md) | 中等 |
 
 ## 回溯
 
