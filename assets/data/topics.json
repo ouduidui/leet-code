@@ -3410,6 +3410,16 @@
     "path": "./problemset/number-of-enclaves/README.md"
   },
   {
+    "id": "1021",
+    "title": {
+      "cn": "删除最外层的括号",
+      "en": "remove-outermost-parentheses"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-outermost-parentheses/",
+    "path": "./problemset/remove-outermost-parentheses/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",

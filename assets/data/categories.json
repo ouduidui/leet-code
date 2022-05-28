@@ -2242,6 +2242,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1021",
+        "title": "删除最外层的括号",
+        "path": "./problemset/remove-outermost-parentheses/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2104",
         "title": "子数组范围和",
         "path": "./problemset/sum-of-subarray-ranges/README.md",
