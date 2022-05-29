@@ -2850,6 +2850,16 @@
     "path": "./problemset/unique-substrings-in-wraparound-string/README.md"
   },
   {
+    "id": "468",
+    "title": {
+      "cn": "验证IP地址",
+      "en": "validate-ip-address"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/validate-ip-address/",
+    "path": "./problemset/validate-ip-address/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",

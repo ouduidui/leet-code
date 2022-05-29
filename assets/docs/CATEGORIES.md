@@ -332,6 +332,7 @@
 | 398. [随机数索引](../../problemset/random-pick-index/README.md) | 中等 |
 | 420. [强密码检验器](../../problemset/strong-password-checker/README.md) | 困难 |
 | 442. [数组中重复的数据](../../problemset/find-all-duplicates-in-an-array/README.md) | 中等 |
+| 468. [验证IP地址](../../problemset/validate-ip-address/README.md) | 中等 |
 | 521. [最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md) | 简单 |
 | 537. [复数乘法](../../problemset/complex-number-multiplication/README.md) | 中等 |
 | 564. [寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md) | 困难 |

@@ -1746,6 +1746,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "468",
+        "title": "验证IP地址",
+        "path": "./problemset/validate-ip-address/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "521",
         "title": "最长特殊序列",
         "path": "./problemset/longest-uncommon-subsequence/README.md",
