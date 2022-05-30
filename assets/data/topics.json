@@ -3430,6 +3430,16 @@
     "path": "./problemset/remove-outermost-parentheses/README.md"
   },
   {
+    "id": "1022",
+    "title": {
+      "cn": " 从根到叶的二进制数之和",
+      "en": "sum-of-root-to-leaf-binary-numbers"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/",
+    "path": "./problemset/sum-of-root-to-leaf-binary-numbers/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",

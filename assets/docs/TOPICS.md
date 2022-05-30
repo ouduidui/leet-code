@@ -686,6 +686,8 @@
 
 [1021. 删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md)
 
+[1022.  从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md)
+
 [1189. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
 
 [1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)

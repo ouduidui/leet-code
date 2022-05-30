@@ -493,6 +493,7 @@
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 965. [单值二叉树](../../problemset/univalued-binary-tree/README.md) | 简单 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
+| 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 | 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
@@ -581,6 +582,7 @@
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
 
