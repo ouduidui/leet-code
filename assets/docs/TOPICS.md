@@ -763,3 +763,5 @@
 [面试题 04.06. 后继者](../../problemset/successor-lcci/README.md)
 
 [面试题 17.11. 单词距离](../../problemset/find-closest-lcci/README.md)
+
+[剑指 Offer II 114. 外星文字典](../../problemset/alien-dictionary/README.md)

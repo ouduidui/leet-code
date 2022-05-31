@@ -500,6 +500,7 @@
 | 2039. [网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md) | 中等 |
 | 2049. [统计最高分的节点数目](../../problemset/count-nodes-with-the-highest-score/README.md) | 中等 |
 | 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
+| 剑指 Offer II 114. [外星文字典](../../problemset/alien-dictionary/README.md) | 困难 |
 
 ## 堆
 
@@ -657,3 +658,4 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1728. [猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md) | 困难 |
+| 剑指 Offer II 114. [外星文字典](../../problemset/alien-dictionary/README.md) | 困难 |

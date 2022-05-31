@@ -3818,5 +3818,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/find-closest-lcci/",
     "path": "./problemset/find-closest-lcci/README.md"
+  },
+  {
+    "id": "剑指 Offer II 114",
+    "title": {
+      "cn": "外星文字典",
+      "en": "alien-dictionary"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/Jf1JuT/",
+    "path": "./problemset/alien-dictionary/README.md"
   }
 ]

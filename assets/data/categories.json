@@ -2677,6 +2677,12 @@
         "title": "后继者",
         "path": "./problemset/successor-lcci/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "剑指 Offer II 114",
+        "title": "外星文字典",
+        "path": "./problemset/alien-dictionary/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -3318,6 +3324,12 @@
         "id": "1728",
         "title": "猫和老鼠 II",
         "path": "./problemset/cat-and-mouse-2/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "剑指 Offer II 114",
+        "title": "外星文字典",
+        "path": "./problemset/alien-dictionary/README.md",
         "difficulty": "困难"
       }
     ]
