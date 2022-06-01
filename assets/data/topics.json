@@ -2860,6 +2860,16 @@
     "path": "./problemset/validate-ip-address/README.md"
   },
   {
+    "id": "473",
+    "title": {
+      "cn": "火柴拼正方形",
+      "en": "matchsticks-to-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/matchsticks-to-square/",
+    "path": "./problemset/matchsticks-to-square/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",

@@ -1280,6 +1280,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "473",
+        "title": "火柴拼正方形",
+        "path": "./problemset/matchsticks-to-square/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "688",
         "title": "骑士在棋盘上的概率",
         "path": "./problemset/knight-probability-in-chessboard/README.md",
@@ -2109,6 +2115,12 @@
         "title": "删除无效的括号",
         "path": "./problemset/remove-invalid-parentheses/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "473",
+        "title": "火柴拼正方形",
+        "path": "./problemset/matchsticks-to-square/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1601",

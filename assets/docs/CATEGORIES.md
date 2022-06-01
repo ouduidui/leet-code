@@ -246,6 +246,7 @@
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 467. [环绕字符串中唯一的子字符串](../../problemset/unique-substrings-in-wraparound-string/README.md) | 中等 |
+| 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
@@ -397,6 +398,7 @@
 | 216. [组合总和 III](../../problemset/combination-sum-3/README.md) | 中等 |
 | 282. [给表达式添加运算符](../../problemset/expression-add-operators/README.md) | 困难 |
 | 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
+| 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
 

@@ -572,6 +572,8 @@
 
 [468. 验证IP地址](../../problemset/validate-ip-address/README.md)
 
+[473. 火柴拼正方形](../../problemset/matchsticks-to-square/README.md)
+
 [479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)
 
 [504. 七进制数](../../problemset/base-7/README.md)
