@@ -564,6 +564,8 @@
 
 [449. 序列化和反序列化二叉搜索树](../../problemset/serialize-and-deserialize-bst/README.md)
 
+[450. 删除二叉搜索树中的节点](../../problemset/delete-node-in-a-bst/README.md)
+
 [462. 最少移动次数使数组元素相等 II](../../problemset/minimum-moves-to-equal-array-elements-2/README.md)
 
 [464. 我能赢吗](../../problemset/can-i-win/README.md)

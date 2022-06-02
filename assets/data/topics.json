@@ -2820,6 +2820,16 @@
     "path": "./problemset/serialize-and-deserialize-bst/README.md"
   },
   {
+    "id": "450",
+    "title": {
+      "cn": "删除二叉搜索树中的节点",
+      "en": "delete-node-in-a-bst"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/delete-node-in-a-bst/",
+    "path": "./problemset/delete-node-in-a-bst/README.md"
+  },
+  {
     "id": "462",
     "title": {
       "cn": "最少移动次数使数组元素相等 II",

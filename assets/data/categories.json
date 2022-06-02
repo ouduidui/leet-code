@@ -2589,6 +2589,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "450",
+        "title": "删除二叉搜索树中的节点",
+        "path": "./problemset/delete-node-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "464",
         "title": "我能赢吗",
         "path": "./problemset/can-i-win/README.md",
@@ -3043,6 +3049,12 @@
         "id": "449",
         "title": "序列化和反序列化二叉搜索树",
         "path": "./problemset/serialize-and-deserialize-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "450",
+        "title": "删除二叉搜索树中的节点",
+        "path": "./problemset/delete-node-in-a-bst/README.md",
         "difficulty": "中等"
       },
       {
