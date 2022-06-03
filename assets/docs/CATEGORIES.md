@@ -583,6 +583,7 @@
 | 236. [二叉树的最近公共祖先](../../problemset/lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 257. [二叉树的所有路径](../../problemset/binary-tree-paths/README.md) | 简单 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
+| 331. [验证二叉树的前序序列化](../../problemset/verify-preorder-serialization-of-a-binary-tree/README.md) | 中等 |
 | 449. [序列化和反序列化二叉搜索树](../../problemset/serialize-and-deserialize-bst/README.md) | 中等 |
 | 450. [删除二叉搜索树中的节点](../../problemset/delete-node-in-a-bst/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |

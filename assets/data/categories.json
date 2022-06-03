@@ -3052,6 +3052,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "331",
+        "title": "验证二叉树的前序序列化",
+        "path": "./problemset/verify-preorder-serialization-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "449",
         "title": "序列化和反序列化二叉搜索树",
         "path": "./problemset/serialize-and-deserialize-bst/README.md",
