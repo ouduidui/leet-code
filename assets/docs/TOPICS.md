@@ -652,6 +652,8 @@
 
 [824. 山羊拉丁文](../../problemset/goat-latin/README.md)
 
+[829. 连续整数求和](../../problemset/consecutive-numbers-sum/README.md)
+
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)

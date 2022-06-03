@@ -1006,6 +1006,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "829",
+        "title": "连续整数求和",
+        "path": "./problemset/consecutive-numbers-sum/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "883",
         "title": "三维形体投影面积",
         "path": "./problemset/projection-area-of-3d-shapes/README.md",

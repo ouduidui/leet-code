@@ -192,6 +192,7 @@
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
+| 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
