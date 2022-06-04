@@ -524,6 +524,8 @@
 
 [331. 验证二叉树的前序序列化](../../problemset/verify-preorder-serialization-of-a-binary-tree/README.md)
 
+[332. 重新安排行程](../../problemset/reconstruct-itinerary/README.md)
+
 [338. 比特位计数](../../problemset/counting-bits/README.md)
 
 [342. 4的幂](../../problemset/power-of-four/README.md)

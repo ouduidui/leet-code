@@ -2129,6 +2129,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "332",
+        "title": "重新安排行程",
+        "path": "./problemset/reconstruct-itinerary/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "473",
         "title": "火柴拼正方形",
         "path": "./problemset/matchsticks-to-square/README.md",

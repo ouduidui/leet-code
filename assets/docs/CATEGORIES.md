@@ -400,6 +400,7 @@
 | 216. [组合总和 III](../../problemset/combination-sum-3/README.md) | 中等 |
 | 282. [给表达式添加运算符](../../problemset/expression-add-operators/README.md) | 困难 |
 | 301. [删除无效的括号](../../problemset/remove-invalid-parentheses/README.md) | 困难 |
+| 332. [重新安排行程](../../problemset/reconstruct-itinerary/README.md) | 困难 |
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |

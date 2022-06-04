@@ -2620,6 +2620,16 @@
     "path": "./problemset/verify-preorder-serialization-of-a-binary-tree/README.md"
   },
   {
+    "id": "332",
+    "title": {
+      "cn": "重新安排行程",
+      "en": "reconstruct-itinerary"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/reconstruct-itinerary/",
+    "path": "./problemset/reconstruct-itinerary/README.md"
+  },
+  {
     "id": "338",
     "title": {
       "cn": "比特位计数",
