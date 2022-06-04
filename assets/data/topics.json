@@ -3350,6 +3350,16 @@
     "path": "./problemset/reverse-only-letters/README.md"
   },
   {
+    "id": "929",
+    "title": {
+      "cn": "独特的电子邮件",
+      "en": "unique-email-addresses"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/unique-email-addresses/",
+    "path": "./problemset/unique-email-addresses/README.md"
+  },
+  {
     "id": "933",
     "title": {
       "cn": "最近的请求次数",

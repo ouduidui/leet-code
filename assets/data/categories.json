@@ -225,6 +225,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "929",
+        "title": "独特的电子邮件",
+        "path": "./problemset/unique-email-addresses/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "954",
         "title": "二倍数对数组",
         "path": "./problemset/array-of-doubled-pairs/README.md",
