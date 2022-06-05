@@ -982,6 +982,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "478",
+        "title": "在圆内随机生成点",
+        "path": "./problemset/generate-random-point-in-a-circle/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "504",
         "title": "七进制数",
         "path": "./problemset/base-7/README.md",

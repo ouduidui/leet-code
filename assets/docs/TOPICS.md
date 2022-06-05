@@ -580,6 +580,8 @@
 
 [473. 火柴拼正方形](../../problemset/matchsticks-to-square/README.md)
 
+[478. 在圆内随机生成点](../../problemset/generate-random-point-in-a-circle/README.md)
+
 [479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)
 
 [504. 七进制数](../../problemset/base-7/README.md)

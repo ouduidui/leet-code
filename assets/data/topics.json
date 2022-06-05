@@ -2900,6 +2900,16 @@
     "path": "./problemset/matchsticks-to-square/README.md"
   },
   {
+    "id": "478",
+    "title": {
+      "cn": "在圆内随机生成点",
+      "en": "generate-random-point-in-a-circle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/generate-random-point-in-a-circle/",
+    "path": "./problemset/generate-random-point-in-a-circle/README.md"
+  },
+  {
     "id": "479",
     "title": {
       "cn": "最大回文数乘积",
