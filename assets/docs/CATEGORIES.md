@@ -119,6 +119,7 @@
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
+| 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
 
 ## 排序
@@ -345,6 +346,7 @@
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
+| 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |

@@ -636,6 +636,8 @@
 
 [729. 我的日程安排表](../../problemset/my-calendar/README.md)
 
+[732. 我的日程安排表 III](../../problemset/my-calendar-3/README.md)
+
 [744. 寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md)
 
 [762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)

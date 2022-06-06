@@ -618,6 +618,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "732",
+        "title": "我的日程安排表 III",
+        "path": "./problemset/my-calendar-3/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "744",
         "title": "寻找比目标字母大的最小字母",
         "path": "./problemset/find-smallest-letter-greater-than-target/README.md",
@@ -1822,6 +1828,12 @@
         "title": "自除数",
         "path": "./problemset/self-dividing-numbers/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "732",
+        "title": "我的日程安排表 III",
+        "path": "./problemset/my-calendar-3/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "780",

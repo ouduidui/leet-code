@@ -3180,6 +3180,16 @@
     "path": "./problemset/my-calendar/README.md"
   },
   {
+    "id": "732",
+    "title": {
+      "cn": "我的日程安排表 III",
+      "en": "my-calendar-3"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/my-calendar-iii/",
+    "path": "./problemset/my-calendar-3/README.md"
+  },
+  {
     "id": "744",
     "title": {
       "cn": "寻找比目标字母大的最小字母",
