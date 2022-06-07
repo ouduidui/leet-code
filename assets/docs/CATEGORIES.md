@@ -121,6 +121,7 @@
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
+| 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
 
 ## 排序
 

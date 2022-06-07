@@ -666,6 +666,8 @@
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
+[875. 爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md)
+
 [883. 三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md)
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)

@@ -628,6 +628,12 @@
         "title": "寻找比目标字母大的最小字母",
         "path": "./problemset/find-smallest-letter-greater-than-target/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "875",
+        "title": "爱吃香蕉的珂珂",
+        "path": "./problemset/koko-eating-bananas/README.md",
+        "difficulty": "中等"
       }
     ]
   },

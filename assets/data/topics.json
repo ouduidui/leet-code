@@ -3330,6 +3330,16 @@
     "path": "./problemset/binary-gap/README.md"
   },
   {
+    "id": "875",
+    "title": {
+      "cn": "爱吃香蕉的珂珂",
+      "en": "koko-eating-bananas"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/koko-eating-bananas/",
+    "path": "./problemset/koko-eating-bananas/README.md"
+  },
+  {
     "id": "883",
     "title": {
       "cn": "三维形体投影面积",
