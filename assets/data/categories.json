@@ -1054,6 +1054,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1037",
+        "title": "有效的回旋镖",
+        "path": "./problemset/valid-boomerang/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1447",
         "title": "最简分数",
         "path": "./problemset/simplified-fractions/README.md",

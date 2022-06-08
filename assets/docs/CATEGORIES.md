@@ -200,6 +200,7 @@
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
+| 1037. [有效的回旋镖](../../problemset/valid-boomerang/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 | 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |

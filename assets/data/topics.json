@@ -3530,6 +3530,16 @@
     "path": "./problemset/sum-of-root-to-leaf-binary-numbers/README.md"
   },
   {
+    "id": "1037",
+    "title": {
+      "cn": "有效的回旋镖",
+      "en": "valid-boomerang"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-boomerang/",
+    "path": "./problemset/valid-boomerang/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",
