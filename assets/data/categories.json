@@ -600,6 +600,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "497",
+        "title": "非重叠矩形中的随机点",
+        "path": "./problemset/random-point-in-non-overlapping-rectangles/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "540",
         "title": "有序数组中的单一元素",
         "path": "./problemset/single-element-in-a-sorted-array/README.md",
@@ -997,6 +1003,12 @@
         "id": "478",
         "title": "在圆内随机生成点",
         "path": "./problemset/generate-random-point-in-a-circle/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "497",
+        "title": "非重叠矩形中的随机点",
+        "path": "./problemset/random-point-in-non-overlapping-rectangles/README.md",
         "difficulty": "中等"
       },
       {

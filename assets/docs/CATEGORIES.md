@@ -116,6 +116,7 @@
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
+| 497. [非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
@@ -191,6 +192,7 @@
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 478. [在圆内随机生成点](../../problemset/generate-random-point-in-a-circle/README.md) | 中等 |
+| 497. [非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md) | 中等 |
 | 504. [七进制数](../../problemset/base-7/README.md) | 简单 |
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |

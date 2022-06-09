@@ -2920,6 +2920,16 @@
     "path": "./problemset/largest-palindrome-product/README.md"
   },
   {
+    "id": "497",
+    "title": {
+      "cn": "非重叠矩形中的随机点",
+      "en": "random-point-in-non-overlapping-rectangles"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/",
+    "path": "./problemset/random-point-in-non-overlapping-rectangles/README.md"
+  },
+  {
     "id": "504",
     "title": {
       "cn": "七进制数",
