@@ -256,6 +256,7 @@
 | 467. [环绕字符串中唯一的子字符串](../../problemset/unique-substrings-in-wraparound-string/README.md) | 中等 |
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
+| 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
 

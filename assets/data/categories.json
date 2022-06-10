@@ -1340,6 +1340,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "730",
+        "title": "统计不同回文子序列",
+        "path": "./problemset/count-different-palindromic-subsequences/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1994",
         "title": "好子集的数目",
         "path": "./problemset/the-number-of-good-subsets/README.md",

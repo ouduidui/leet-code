@@ -3190,6 +3190,16 @@
     "path": "./problemset/my-calendar/README.md"
   },
   {
+    "id": "730",
+    "title": {
+      "cn": "统计不同回文子序列",
+      "en": "count-different-palindromic-subsequences"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/count-different-palindromic-subsequences/",
+    "path": "./problemset/count-different-palindromic-subsequences/README.md"
+  },
+  {
     "id": "732",
     "title": {
       "cn": "我的日程安排表 III",

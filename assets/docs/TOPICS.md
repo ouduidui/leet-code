@@ -638,6 +638,8 @@
 
 [729. 我的日程安排表](../../problemset/my-calendar/README.md)
 
+[730. 统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md)
+
 [732. 我的日程安排表 III](../../problemset/my-calendar-3/README.md)
 
 [744. 寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md)
