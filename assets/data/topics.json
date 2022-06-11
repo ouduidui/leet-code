@@ -3410,6 +3410,16 @@
     "path": "./problemset/reverse-only-letters/README.md"
   },
   {
+    "id": "926",
+    "title": {
+      "cn": "将字符串翻转到单调递增",
+      "en": "flip-string-to-monotone-increasing"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/flip-string-to-monotone-increasing/",
+    "path": "./problemset/flip-string-to-monotone-increasing/README.md"
+  },
+  {
     "id": "929",
     "title": {
       "cn": "独特的电子邮件",

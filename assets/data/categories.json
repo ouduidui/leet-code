@@ -1346,6 +1346,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "926",
+        "title": "将字符串翻转到单调递增",
+        "path": "./problemset/flip-string-to-monotone-increasing/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1994",
         "title": "好子集的数目",
         "path": "./problemset/the-number-of-good-subsets/README.md",
@@ -1912,6 +1918,12 @@
         "title": "按奇偶排序数组",
         "path": "./problemset/sort-array-by-parity/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "926",
+        "title": "将字符串翻转到单调递增",
+        "path": "./problemset/flip-string-to-monotone-increasing/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "933",

@@ -257,6 +257,7 @@
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
+| 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
 
@@ -360,6 +361,7 @@
 | 824. [山羊拉丁文](../../problemset/goat-latin/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
+| 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 933. [最近的请求次数](../../problemset/number-of-recent-calls/README.md) | 简单 |
 | 944. [删列造序](../../problemset/delete-columns-to-make-sorted/README.md) | 简单 |
 | 953. [验证外星语词典](../../problemset/verifying-an-alien-dictionary/README.md) | 简单 |
