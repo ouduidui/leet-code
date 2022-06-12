@@ -340,6 +340,7 @@
 | 306. [累加数](../../problemset/additive-number/README.md) | 中等 |
 | 307. [ 区域和检索 - 数组可修改](../../problemset/range-sum-query-mutable/README.md) | 中等 |
 | 310. [最小高度树](../../problemset/minimum-height-trees/README.md) | 中等 |
+| 335. [路径交叉](../../problemset/self-crossing/README.md) | 困难 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 398. [随机数索引](../../problemset/random-pick-index/README.md) | 中等 |
 | 420. [强密码检验器](../../problemset/strong-password-checker/README.md) | 困难 |

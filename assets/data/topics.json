@@ -2640,6 +2640,16 @@
     "path": "./problemset/increasing-triplet-subsequence/README.md"
   },
   {
+    "id": "335",
+    "title": {
+      "cn": "路径交叉",
+      "en": "self-crossing"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/self-crossing/",
+    "path": "./problemset/self-crossing/README.md"
+  },
+  {
     "id": "338",
     "title": {
       "cn": "比特位计数",

@@ -1794,6 +1794,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "335",
+        "title": "路径交叉",
+        "path": "./problemset/self-crossing/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "393",
         "title": "UTF-8 编码验证",
         "path": "./problemset/utf-8-validation/README.md",
