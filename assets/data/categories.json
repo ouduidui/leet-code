@@ -1525,6 +1525,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "344",
+        "title": "反转字符串",
+        "path": "./problemset/reverse-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "436",
         "title": "寻找右区间",
         "path": "./problemset/find-right-interval/README.md",

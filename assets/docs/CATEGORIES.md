@@ -291,6 +291,7 @@
 | 234. [回文链表](../../problemset/palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
+| 344. [反转字符串](../../problemset/reverse-string/README.md) | 简单 |
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |

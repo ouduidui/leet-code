@@ -2650,6 +2650,16 @@
     "path": "./problemset/power-of-four/README.md"
   },
   {
+    "id": "344",
+    "title": {
+      "cn": "反转字符串",
+      "en": "reverse-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reverse-string/",
+    "path": "./problemset/reverse-string/README.md"
+  },
+  {
     "id": "355",
     "title": {
       "cn": "设计推特",

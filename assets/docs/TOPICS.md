@@ -530,6 +530,8 @@
 
 [342. 4的幂](../../problemset/power-of-four/README.md)
 
+[344. 反转字符串](../../problemset/reverse-string/README.md)
+
 [355. 设计推特](../../problemset/design-twitter/README.md)
 
 [357. 统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md)
