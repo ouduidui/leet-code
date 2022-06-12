@@ -2630,6 +2630,16 @@
     "path": "./problemset/reconstruct-itinerary/README.md"
   },
   {
+    "id": "334",
+    "title": {
+      "cn": "递增的三元子序列",
+      "en": "increasing-triplet-subsequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/increasing-triplet-subsequence/",
+    "path": "./problemset/increasing-triplet-subsequence/README.md"
+  },
+  {
     "id": "338",
     "title": {
       "cn": "比特位计数",

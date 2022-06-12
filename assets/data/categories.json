@@ -2915,6 +2915,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "334",
+        "title": "递增的三元子序列",
+        "path": "./problemset/increasing-triplet-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "942",
         "title": "增减字符串匹配",
         "path": "./problemset/di-string-match/README.md",

@@ -526,6 +526,8 @@
 
 [332. 重新安排行程](../../problemset/reconstruct-itinerary/README.md)
 
+[334. 递增的三元子序列](../../problemset/increasing-triplet-subsequence/README.md)
+
 [338. 比特位计数](../../problemset/counting-bits/README.md)
 
 [342. 4的幂](../../problemset/power-of-four/README.md)
