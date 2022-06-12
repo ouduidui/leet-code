@@ -360,6 +360,7 @@
 | 821. [字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md) | 简单 |
 | 824. [山羊拉丁文](../../problemset/goat-latin/README.md) | 简单 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
+| 890. [查找和替换模式](../../problemset/find-and-replace-pattern/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 933. [最近的请求次数](../../problemset/number-of-recent-calls/README.md) | 简单 |

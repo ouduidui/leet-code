@@ -3380,6 +3380,16 @@
     "path": "./problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": "890",
+    "title": {
+      "cn": "查找和替换模式",
+      "en": "find-and-replace-pattern"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-and-replace-pattern/",
+    "path": "./problemset/find-and-replace-pattern/README.md"
+  },
+  {
     "id": "905",
     "title": {
       "cn": "按奇偶排序数组",

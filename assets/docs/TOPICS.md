@@ -676,6 +676,8 @@
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
+[890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
+
 [905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
 
 [908. 最小差值](../../problemset/smallest-range/README.md)
