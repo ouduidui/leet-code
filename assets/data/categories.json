@@ -755,6 +755,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1051",
+        "title": "高度检查器",
+        "path": "./problemset/height-checker/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1984",
         "title": "学生分数的最小差值",
         "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
