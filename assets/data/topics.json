@@ -2960,6 +2960,16 @@
     "path": "./problemset/random-point-in-non-overlapping-rectangles/README.md"
   },
   {
+    "id": "498",
+    "title": {
+      "cn": "对角线遍历",
+      "en": "diagonal-traverse"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/diagonal-traverse/",
+    "path": "./problemset/diagonal-traverse/README.md"
+  },
+  {
     "id": "504",
     "title": {
       "cn": "七进制数",

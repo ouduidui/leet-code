@@ -592,6 +592,8 @@
 
 [497. 非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md)
 
+[498. 对角线遍历](../../problemset/diagonal-traverse/README.md)
+
 [504. 七进制数](../../problemset/base-7/README.md)
 
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)

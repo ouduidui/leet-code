@@ -1836,6 +1836,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "498",
+        "title": "对角线遍历",
+        "path": "./problemset/diagonal-traverse/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "521",
         "title": "最长特殊序列",
         "path": "./problemset/longest-uncommon-subsequence/README.md",
