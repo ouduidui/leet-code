@@ -3200,6 +3200,16 @@
     "path": "./problemset/subarray-product-less-than-k/README.md"
   },
   {
+    "id": "719",
+    "title": {
+      "cn": "找出第 K 小的数对距离",
+      "en": "find-k-th-smallest-pair-distance"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/find-k-th-smallest-pair-distance/",
+    "path": "./problemset/find-k-th-smallest-pair-distance/README.md"
+  },
+  {
     "id": "720",
     "title": {
       "cn": "词典中最长的单词",

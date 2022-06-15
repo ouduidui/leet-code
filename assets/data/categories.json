@@ -618,6 +618,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "719",
+        "title": "找出第 K 小的数对距离",
+        "path": "./problemset/find-k-th-smallest-pair-distance/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "729",
         "title": "我的日程安排表",
         "path": "./problemset/my-calendar/README.md",
@@ -741,6 +747,12 @@
         "title": "最少移动次数使数组元素相等 II",
         "path": "./problemset/minimum-moves-to-equal-array-elements-2/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "719",
+        "title": "找出第 K 小的数对距离",
+        "path": "./problemset/find-k-th-smallest-pair-distance/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "937",
@@ -1547,6 +1559,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "719",
+        "title": "找出第 K 小的数对距离",
+        "path": "./problemset/find-k-th-smallest-pair-distance/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "905",
