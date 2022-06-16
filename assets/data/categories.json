@@ -189,6 +189,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "532",
+        "title": "数组中的 k-diff 数对",
+        "path": "./problemset/k-diff-pairs-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "599",
         "title": "两个列表的最小索引总和",
         "path": "./problemset/minimum-index-sum-of-two-lists/README.md",

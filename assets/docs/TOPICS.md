@@ -598,6 +598,8 @@
 
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)
 
+[532. 数组中的 k-diff 数对](../../problemset/k-diff-pairs-in-an-array/README.md)
+
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)
 
 [540. 有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md)

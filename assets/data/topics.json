@@ -2990,6 +2990,16 @@
     "path": "./problemset/longest-uncommon-subsequence/README.md"
   },
   {
+    "id": "532",
+    "title": {
+      "cn": "数组中的 k-diff 数对",
+      "en": "k-diff-pairs-in-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/k-diff-pairs-in-an-array/",
+    "path": "./problemset/k-diff-pairs-in-an-array/README.md"
+  },
+  {
     "id": "537",
     "title": {
       "cn": "复数乘法",
