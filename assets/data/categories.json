@@ -2004,6 +2004,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1089",
+        "title": "复写零",
+        "path": "./problemset/duplicate-zeros/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1342",
         "title": "将数字变成 0 的操作次数",
         "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",

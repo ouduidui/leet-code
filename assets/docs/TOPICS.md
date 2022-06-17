@@ -730,6 +730,8 @@
 
 [1051. 高度检查器](../../problemset/height-checker/README.md)
 
+[1089. 复写零](../../problemset/duplicate-zeros/README.md)
+
 [1189. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
 
 [1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)

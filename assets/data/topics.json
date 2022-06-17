@@ -3650,6 +3650,16 @@
     "path": "./problemset/height-checker/README.md"
   },
   {
+    "id": "1089",
+    "title": {
+      "cn": "复写零",
+      "en": "duplicate-zeros"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/duplicate-zeros/",
+    "path": "./problemset/duplicate-zeros/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",

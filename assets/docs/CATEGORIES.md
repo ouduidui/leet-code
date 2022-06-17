@@ -375,6 +375,7 @@
 | 944. [删列造序](../../problemset/delete-columns-to-make-sorted/README.md) | 简单 |
 | 953. [验证外星语词典](../../problemset/verifying-an-alien-dictionary/README.md) | 简单 |
 | 969. [煎饼排序](../../problemset/pancake-sorting/README.md) | 中等 |
+| 1089. [复写零](../../problemset/duplicate-zeros/README.md) | 简单 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
