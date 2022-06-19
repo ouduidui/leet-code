@@ -2745,6 +2745,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "508",
+        "title": "出现次数最多的子树元素和",
+        "path": "./problemset/most-frequent-subtree-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "589",
         "title": "N 叉树的前序遍历",
         "path": "./problemset/n-ary-tree-preorder-traversal/README.md",
@@ -3211,6 +3217,12 @@
         "id": "450",
         "title": "删除二叉搜索树中的节点",
         "path": "./problemset/delete-node-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "508",
+        "title": "出现次数最多的子树元素和",
+        "path": "./problemset/most-frequent-subtree-sum/README.md",
         "difficulty": "中等"
       },
       {
