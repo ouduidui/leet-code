@@ -11,9 +11,7 @@
     "update": "esmo scripts/category.ts",
     "test": "vitest --dir problemset",
     "test:all": "vitest",
-    "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset",
-    "fix": "eslint --ext .js,.ts --ignore-path .gitignore --fix problemset",
-    "format": "prettier .  --write"
+    "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset"
   },
   "devDependencies": {
     "@antfu/ni": "^0.14.0",
