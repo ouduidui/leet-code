@@ -359,6 +359,7 @@
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
+| 715. [Range模块](../../problemset/range-module/README.md) | 困难 |
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |

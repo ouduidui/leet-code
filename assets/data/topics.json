@@ -3220,6 +3220,16 @@
     "path": "./problemset/subarray-product-less-than-k/README.md"
   },
   {
+    "id": "715",
+    "title": {
+      "cn": "Range模块",
+      "en": "range-module"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/range-module/",
+    "path": "./problemset/range-module/README.md"
+  },
+  {
     "id": "719",
     "title": {
       "cn": "找出第 K 小的数对距离",

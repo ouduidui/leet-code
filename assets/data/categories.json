@@ -1908,6 +1908,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "715",
+        "title": "Range模块",
+        "path": "./problemset/range-module/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "728",
         "title": "自除数",
         "path": "./problemset/self-dividing-numbers/README.md",
