@@ -3680,6 +3680,16 @@
     "path": "./problemset/duplicate-zeros/README.md"
   },
   {
+    "id": "1108",
+    "title": {
+      "cn": "IP地址无效化",
+      "en": "defanging-an-ip-address"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/defanging-an-ip-address/",
+    "path": "./problemset/defanging-an-ip-address/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",

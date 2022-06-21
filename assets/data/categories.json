@@ -2016,6 +2016,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1108",
+        "title": "IP地址无效化",
+        "path": "./problemset/defanging-an-ip-address/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1342",
         "title": "将数字变成 0 的操作次数",
         "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",
