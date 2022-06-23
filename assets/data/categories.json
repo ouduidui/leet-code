@@ -1555,6 +1555,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "392",
+        "title": "判断子序列",
+        "path": "./problemset/is-subsequence/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "436",
         "title": "寻找右区间",
         "path": "./problemset/find-right-interval/README.md",
