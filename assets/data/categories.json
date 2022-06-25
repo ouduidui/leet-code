@@ -1386,6 +1386,12 @@
         "title": "适合打劫银行的日子",
         "path": "./problemset/find-good-days-to-rob-the-bank/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "剑指 Offer II 091",
+        "title": "粉刷房子",
+        "path": "./problemset/paint-house/README.md",
+        "difficulty": "中等"
       }
     ]
   },

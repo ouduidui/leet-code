@@ -264,6 +264,7 @@
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
+| 剑指 Offer II 091. [粉刷房子](../../problemset/paint-house/README.md) | 中等 |
 
 ## 双指针
 

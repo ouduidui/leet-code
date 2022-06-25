@@ -823,3 +823,5 @@
 [剑指 Offer II 114. 外星文字典](../../problemset/alien-dictionary/README.md)
 
 [剑指 Offer II 029. 排序的循环链表](../../problemset/sorted-circular-linked-list/README.md)
+
+[剑指 Offer II 091. 粉刷房子](../../problemset/paint-house/README.md)

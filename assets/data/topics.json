@@ -4118,5 +4118,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/4ueAj6/",
     "path": "./problemset/sorted-circular-linked-list/README.md"
+  },
+  {
+    "id": "剑指 Offer II 091",
+    "title": {
+      "cn": "粉刷房子",
+      "en": "paint-house"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/JEj789/",
+    "path": "./problemset/paint-house/README.md"
   }
 ]
