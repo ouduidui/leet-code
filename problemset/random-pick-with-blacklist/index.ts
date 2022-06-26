@@ -1,3 +1,6 @@
+/**
+ * 黑名单映射
+ */
 export class Solution {
   bound: number
   b2w: Map<number, number>
