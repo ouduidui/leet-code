@@ -38,6 +38,7 @@
 | 532. [数组中的 k-diff 数对](../../problemset/k-diff-pairs-in-an-array/README.md) | 中等 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 710. [黑名单中的随机数](../../problemset/random-pick-with-blacklist/README.md) | 困难 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
 | 804. [唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md) | 简单 |
 | 819. [最常见的单词](../../problemset/most-common-word/README.md) | 简单 |

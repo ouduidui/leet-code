@@ -207,6 +207,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "710",
+        "title": "黑名单中的随机数",
+        "path": "./problemset/random-pick-with-blacklist/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "720",
         "title": "词典中最长的单词",
         "path": "./problemset/longest-word-in-dictionary/README.md",

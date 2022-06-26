@@ -3240,6 +3240,16 @@
     "path": "./problemset/to-lower-case/README.md"
   },
   {
+    "id": "710",
+    "title": {
+      "cn": "黑名单中的随机数",
+      "en": "random-pick-with-blacklist"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/random-pick-with-blacklist/",
+    "path": "./problemset/random-pick-with-blacklist/README.md"
+  },
+  {
     "id": "713",
     "title": {
       "cn": "乘积小于 K 的子数组",
