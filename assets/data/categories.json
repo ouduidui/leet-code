@@ -3333,6 +3333,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "522",
+        "title": "最长特殊序列 II",
+        "path": "./problemset/longest-uncommon-subsequence-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "699",
         "title": "掉落的方块",
         "path": "./problemset/falling-squares/README.md",

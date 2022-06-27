@@ -606,6 +606,8 @@
 
 [521. 最长特殊序列](../../problemset/longest-uncommon-subsequence/README.md)
 
+[522. 最长特殊序列 II](../../problemset/longest-uncommon-subsequence-2/README.md)
+
 [532. 数组中的 k-diff 数对](../../problemset/k-diff-pairs-in-an-array/README.md)
 
 [537. 复数乘法](../../problemset/complex-number-multiplication/README.md)

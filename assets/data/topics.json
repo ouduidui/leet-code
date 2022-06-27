@@ -3030,6 +3030,16 @@
     "path": "./problemset/longest-uncommon-subsequence/README.md"
   },
   {
+    "id": "522",
+    "title": {
+      "cn": "最长特殊序列 II",
+      "en": "longest-uncommon-subsequence-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-uncommon-subsequence-ii/",
+    "path": "./problemset/longest-uncommon-subsequence-2/README.md"
+  },
+  {
     "id": "532",
     "title": {
       "cn": "数组中的 k-diff 数对",
