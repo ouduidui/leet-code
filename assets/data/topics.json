@@ -3050,6 +3050,16 @@
     "path": "./problemset/k-diff-pairs-in-an-array/README.md"
   },
   {
+    "id": "535",
+    "title": {
+      "cn": "TinyURL 的加密与解密",
+      "en": "encode-and-decode-tinyurl"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/encode-and-decode-tinyurl/",
+    "path": "./problemset/encode-and-decode-tinyurl/README.md"
+  },
+  {
     "id": "537",
     "title": {
       "cn": "复数乘法",

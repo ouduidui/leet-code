@@ -195,6 +195,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "535",
+        "title": "TinyURL 的加密与解密",
+        "path": "./problemset/encode-and-decode-tinyurl/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "599",
         "title": "两个列表的最小索引总和",
         "path": "./problemset/minimum-index-sum-of-two-lists/README.md",
