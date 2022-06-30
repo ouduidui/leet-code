@@ -750,6 +750,8 @@
 
 [1108. IP地址无效化](../../problemset/defanging-an-ip-address/README.md)
 
+[1175. 质数排列](../../problemset/prime-arrangements/README.md)
+
 [1189. “气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md)
 
 [1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)

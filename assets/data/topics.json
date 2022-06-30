@@ -3750,6 +3750,16 @@
     "path": "./problemset/defanging-an-ip-address/README.md"
   },
   {
+    "id": "1175",
+    "title": {
+      "cn": "质数排列",
+      "en": "prime-arrangements"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/prime-arrangements/",
+    "path": "./problemset/prime-arrangements/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",

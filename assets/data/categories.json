@@ -1108,6 +1108,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1175",
+        "title": "质数排列",
+        "path": "./problemset/prime-arrangements/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1447",
         "title": "最简分数",
         "path": "./problemset/simplified-fractions/README.md",
