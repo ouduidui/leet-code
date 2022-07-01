@@ -177,6 +177,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "383",
+        "title": "赎金信",
+        "path": "./problemset/ransom-note/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "398",
         "title": "随机数索引",
         "path": "./problemset/random-pick-index/README.md",

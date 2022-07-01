@@ -542,6 +542,8 @@
 
 [380. O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md)
 
+[383. 赎金信](../../problemset/ransom-note/README.md)
+
 [385. 迷你语法分析器](../../problemset/mini-parser/README.md)
 
 [386. 字典序排数](../../problemset/lexicographical-numbers/README.md)

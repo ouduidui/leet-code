@@ -2710,6 +2710,16 @@
     "path": "./problemset/insert-delete-getrandom-o1/README.md"
   },
   {
+    "id": "383",
+    "title": {
+      "cn": "赎金信",
+      "en": "ransom-note"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/ransom-note/",
+    "path": "./problemset/ransom-note/README.md"
+  },
+  {
     "id": "385",
     "title": {
       "cn": "迷你语法分析器",
