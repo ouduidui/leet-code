@@ -7,7 +7,7 @@ export class PriorityQueue<T> {
 
   constructor(
     private _compare: (a: T, b: T) => boolean,
-  ) {}
+  ) { }
 
   /**
    * 判断队列是否为空

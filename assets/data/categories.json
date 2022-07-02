@@ -1394,6 +1394,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "871",
+        "title": "最低加油次数",
+        "path": "./problemset/minimum-number-of-refueling-stops/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "926",
         "title": "将字符串翻转到单调递增",
         "path": "./problemset/flip-string-to-monotone-increasing/README.md",
@@ -3039,6 +3045,12 @@
         "title": "递增的三元子序列",
         "path": "./problemset/increasing-triplet-subsequence/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "871",
+        "title": "最低加油次数",
+        "path": "./problemset/minimum-number-of-refueling-stops/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "942",

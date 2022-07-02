@@ -265,6 +265,7 @@
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
+| 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
@@ -577,6 +578,7 @@
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 330. [按要求补齐数组](../../problemset/patching-array/README.md) | 困难 |
 | 334. [递增的三元子序列](../../problemset/increasing-triplet-subsequence/README.md) | 中等 |
+| 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 942. [增减字符串匹配](../../problemset/di-string-match/README.md) | 简单 |
 | 1663. [具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md) | 中等 |
 | 2038. [如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md) | 中等 |

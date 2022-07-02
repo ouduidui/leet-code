@@ -3500,6 +3500,16 @@
     "path": "./problemset/binary-gap/README.md"
   },
   {
+    "id": "871",
+    "title": {
+      "cn": "最低加油次数",
+      "en": "minimum-number-of-refueling-stops"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/minimum-number-of-refueling-stops/",
+    "path": "./problemset/minimum-number-of-refueling-stops/README.md"
+  },
+  {
     "id": "875",
     "title": {
       "cn": "爱吃香蕉的珂珂",
