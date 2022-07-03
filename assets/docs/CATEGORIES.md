@@ -149,6 +149,7 @@
 | 327. [区间和的个数](../../problemset/count-of-range-sum/README.md) | 困难 |
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 462. [最少移动次数使数组元素相等 II](../../problemset/minimum-moves-to-equal-array-elements-2/README.md) | 中等 |
+| 556. [下一个更大元素 III](../../problemset/next-greater-element-3/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 937. [重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |

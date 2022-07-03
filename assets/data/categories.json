@@ -773,6 +773,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "556",
+        "title": "下一个更大元素 III",
+        "path": "./problemset/next-greater-element-3/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "719",
         "title": "找出第 K 小的数对距离",
         "path": "./problemset/find-k-th-smallest-pair-distance/README.md",

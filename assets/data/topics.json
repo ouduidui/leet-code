@@ -3100,6 +3100,16 @@
     "path": "./problemset/optimal-division/README.md"
   },
   {
+    "id": "556",
+    "title": {
+      "cn": "下一个更大元素 III",
+      "en": "next-greater-element-3"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/next-greater-element-iii/",
+    "path": "./problemset/next-greater-element-3/README.md"
+  },
+  {
     "id": "564",
     "title": {
       "cn": "寻找最近的回文数",

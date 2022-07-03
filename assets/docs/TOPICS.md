@@ -620,6 +620,8 @@
 
 [553. 最优除法](../../problemset/optimal-division/README.md)
 
+[556. 下一个更大元素 III](../../problemset/next-greater-element-3/README.md)
+
 [564. 寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md)
 
 [587. 安装栅栏](../../problemset/erect-the-fence/README.md)
