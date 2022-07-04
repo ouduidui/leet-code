@@ -154,6 +154,7 @@
 | 937. [重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1051. [高度检查器](../../problemset/height-checker/README.md) | 简单 |
+| 1200. [最小绝对差](../../problemset/minimum-absolute-difference/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 

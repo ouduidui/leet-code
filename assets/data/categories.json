@@ -803,6 +803,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1200",
+        "title": "最小绝对差",
+        "path": "./problemset/minimum-absolute-difference/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1984",
         "title": "学生分数的最小差值",
         "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",

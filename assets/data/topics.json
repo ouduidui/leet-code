@@ -3800,6 +3800,16 @@
     "path": "./problemset/maximum-number-of-balloons/README.md"
   },
   {
+    "id": "1200",
+    "title": {
+      "cn": "最小绝对差",
+      "en": "minimum-absolute-difference"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-absolute-difference/",
+    "path": "./problemset/minimum-absolute-difference/README.md"
+  },
+  {
     "id": "1305",
     "title": {
       "cn": "两颗二叉搜索树中的所有元素",
