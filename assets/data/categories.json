@@ -183,6 +183,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "389",
+        "title": "找不同",
+        "path": "./problemset/find-the-difference/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "398",
         "title": "随机数索引",
         "path": "./problemset/random-pick-index/README.md",
@@ -1046,6 +1052,12 @@
         "title": "统计各位数字都不同的数字个数",
         "path": "./problemset/count-numbers-with-unique-digits/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "389",
+        "title": "找不同",
+        "path": "./problemset/find-the-difference/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "396",
@@ -3486,6 +3498,12 @@
         "title": "最大单词长度乘积",
         "path": "./problemset/maximum-product-of-word-lengths/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "389",
+        "title": "找不同",
+        "path": "./problemset/find-the-difference/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "393",

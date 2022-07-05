@@ -550,6 +550,8 @@
 
 [388. 文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md)
 
+[389. 找不同](../../problemset/find-the-difference/README.md)
+
 [392. 判断子序列](../../problemset/is-subsequence/README.md)
 
 [393. UTF-8 编码验证](../../problemset/utf-8-validation/README.md)

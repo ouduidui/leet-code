@@ -2750,6 +2750,16 @@
     "path": "./problemset/longest-absolute-file-path/README.md"
   },
   {
+    "id": "389",
+    "title": {
+      "cn": "找不同",
+      "en": "find-the-difference"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/find-the-difference/",
+    "path": "./problemset/find-the-difference/README.md"
+  },
+  {
     "id": "392",
     "title": {
       "cn": "判断子序列",

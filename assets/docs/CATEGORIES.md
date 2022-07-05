@@ -34,6 +34,7 @@
 | 355. [设计推特](../../problemset/design-twitter/README.md) | 中等 |
 | 380. [O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md) | 中等 |
 | 383. [赎金信](../../problemset/ransom-note/README.md) | 简单 |
+| 389. [找不同](../../problemset/find-the-difference/README.md) | 简单 |
 | 398. [随机数索引](../../problemset/random-pick-index/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
 | 532. [数组中的 k-diff 数对](../../problemset/k-diff-pairs-in-an-array/README.md) | 中等 |
@@ -199,6 +200,7 @@
 | 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 342. [4的幂](../../problemset/power-of-four/README.md) | 简单 |
 | 357. [统计各位数字都不同的数字个数](../../problemset/count-numbers-with-unique-digits/README.md) | 中等 |
+| 389. [找不同](../../problemset/find-the-difference/README.md) | 简单 |
 | 396. [旋转函数](../../problemset/rotate-function/README.md) | 中等 |
 | 478. [在圆内随机生成点](../../problemset/generate-random-point-in-a-circle/README.md) | 中等 |
 | 497. [非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md) | 中等 |
@@ -664,6 +666,7 @@
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 287. [寻找重复数](../../problemset/find-the-duplicate-number/README.md) | 中等 |
 | 318. [最大单词长度乘积](../../problemset/maximum-product-of-word-lengths/README.md) | 中等 |
+| 389. [找不同](../../problemset/find-the-difference/README.md) | 简单 |
 | 393. [UTF-8 编码验证](../../problemset/utf-8-validation/README.md) | 中等 |
 | 693. [交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md) | 简单 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
