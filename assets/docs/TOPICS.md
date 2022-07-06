@@ -638,6 +638,8 @@
 
 [606. 根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md)
 
+[648. 单词替换](../../problemset/replace-words/README.md)
+
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)
 
 [661. 图片平滑器](../../problemset/image-smoother/README.md)

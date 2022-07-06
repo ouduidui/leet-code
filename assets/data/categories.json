@@ -219,6 +219,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "648",
+        "title": "单词替换",
+        "path": "./problemset/replace-words/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "653",
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",

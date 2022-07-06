@@ -3190,6 +3190,16 @@
     "path": "./problemset/construct-string-from-binary-tree/README.md"
   },
   {
+    "id": "648",
+    "title": {
+      "cn": "单词替换",
+      "en": "replace-words"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/replace-words/",
+    "path": "./problemset/replace-words/README.md"
+  },
+  {
     "id": "653",
     "title": {
       "cn": "两数之和 IV - 输入 BST",

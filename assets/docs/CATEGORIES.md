@@ -40,6 +40,7 @@
 | 532. [数组中的 k-diff 数对](../../problemset/k-diff-pairs-in-an-array/README.md) | 中等 |
 | 535. [TinyURL 的加密与解密](../../problemset/encode-and-decode-tinyurl/README.md) | 中等 |
 | 599. [两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md) | 简单 |
+| 648. [单词替换](../../problemset/replace-words/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 710. [黑名单中的随机数](../../problemset/random-pick-with-blacklist/README.md) | 困难 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
