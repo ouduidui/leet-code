@@ -1177,6 +1177,12 @@
         "title": "有效数字",
         "path": "./problemset/valid-number/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "736",
+        "title": "Lisp 语法解析",
+        "path": "./problemset/parse-lisp-expression/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -1989,6 +1995,12 @@
         "id": "732",
         "title": "我的日程安排表 III",
         "path": "./problemset/my-calendar-3/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "736",
+        "title": "Lisp 语法解析",
+        "path": "./problemset/parse-lisp-expression/README.md",
         "difficulty": "困难"
       },
       {

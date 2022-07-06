@@ -3380,6 +3380,16 @@
     "path": "./problemset/my-calendar-3/README.md"
   },
   {
+    "id": "736",
+    "title": {
+      "cn": "Lisp 语法解析",
+      "en": "parse-lisp-expression"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/parse-lisp-expression/",
+    "path": "./problemset/parse-lisp-expression/README.md"
+  },
+  {
     "id": "744",
     "title": {
       "cn": "寻找比目标字母大的最小字母",
