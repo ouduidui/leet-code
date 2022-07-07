@@ -3101,6 +3101,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1217",
+        "title": "玩筹码",
+        "path": "./problemset/minimum-cost-to-move-chips-to-the-same-position/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1663",
         "title": "具有给定数值的最小字符串",
         "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md",
