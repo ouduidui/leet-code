@@ -3550,6 +3550,16 @@
     "path": "./problemset/minimum-number-of-refueling-stops/README.md"
   },
   {
+    "id": "873",
+    "title": {
+      "cn": "最长的斐波那契子序列的长度",
+      "en": "length-of-longest-fibonacci-subsequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/",
+    "path": "./problemset/length-of-longest-fibonacci-subsequence/README.md"
+  },
+  {
     "id": "875",
     "title": {
       "cn": "爱吃香蕉的珂珂",

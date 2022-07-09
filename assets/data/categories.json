@@ -1436,6 +1436,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "873",
+        "title": "最长的斐波那契子序列的长度",
+        "path": "./problemset/length-of-longest-fibonacci-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "926",
         "title": "将字符串翻转到单调递增",
         "path": "./problemset/flip-string-to-monotone-increasing/README.md",

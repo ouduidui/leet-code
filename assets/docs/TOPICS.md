@@ -710,6 +710,8 @@
 
 [871. 最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md)
 
+[873. 最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md)
+
 [875. 爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md)
 
 [883. 三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md)
