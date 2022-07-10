@@ -3400,6 +3400,16 @@
     "path": "./problemset/parse-lisp-expression/README.md"
   },
   {
+    "id": "741",
+    "title": {
+      "cn": "摘樱桃",
+      "en": "cherry-pickup"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/cherry-pickup/",
+    "path": "./problemset/cherry-pickup/README.md"
+  },
+  {
     "id": "744",
     "title": {
       "cn": "寻找比目标字母大的最小字母",

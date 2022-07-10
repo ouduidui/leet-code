@@ -1430,6 +1430,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "741",
+        "title": "摘樱桃",
+        "path": "./problemset/cherry-pickup/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",
