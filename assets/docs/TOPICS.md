@@ -648,6 +648,8 @@
 
 [675. 为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md)
 
+[676. 实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md)
+
 [682. 棒球比赛](../../problemset/baseball-game/README.md)
 
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)

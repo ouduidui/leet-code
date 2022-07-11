@@ -650,6 +650,7 @@
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
 | 479. [最大回文数乘积](../../problemset/largest-palindrome-product/README.md) | 困难 |
 | 522. [最长特殊序列 II](../../problemset/longest-uncommon-subsequence-2/README.md) | 中等 |
+| 676. [实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md) | 中等 |
 | 699. [掉落的方块](../../problemset/falling-squares/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
@@ -694,6 +695,7 @@
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 212. [单词搜索 II](../../problemset/word-search-2/README.md) | 困难 |
 | 440. [字典序的第K小数字](../../problemset/k-th-smallest-in-lexicographical-order/README.md) | 困难 |
+| 676. [实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md) | 中等 |
 
 ## 优先队列
 

@@ -3240,6 +3240,16 @@
     "path": "./problemset/cut-off-trees-for-golf-event/README.md"
   },
   {
+    "id": "676",
+    "title": {
+      "cn": "实现一个魔法字典",
+      "en": "implement-magic-dictionary"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/implement-magic-dictionary/",
+    "path": "./problemset/implement-magic-dictionary/README.md"
+  },
+  {
     "id": "682",
     "title": {
       "cn": "棒球比赛",

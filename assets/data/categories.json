@@ -3429,6 +3429,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "676",
+        "title": "实现一个魔法字典",
+        "path": "./problemset/implement-magic-dictionary/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "699",
         "title": "掉落的方块",
         "path": "./problemset/falling-squares/README.md",
@@ -3616,6 +3622,12 @@
         "title": "字典序的第K小数字",
         "path": "./problemset/k-th-smallest-in-lexicographical-order/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "676",
+        "title": "实现一个魔法字典",
+        "path": "./problemset/implement-magic-dictionary/README.md",
+        "difficulty": "中等"
       }
     ]
   },
