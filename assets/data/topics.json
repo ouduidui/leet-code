@@ -3880,6 +3880,16 @@
     "path": "./problemset/minimum-cost-to-move-chips-to-the-same-position/README.md"
   },
   {
+    "id": "1252",
+    "title": {
+      "cn": "奇数值单元格的数目",
+      "en": "cells-with-odd-values-in-a-matrix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/",
+    "path": "./problemset/cells-with-odd-values-in-a-matrix/README.md"
+  },
+  {
     "id": "1305",
     "title": {
       "cn": "两颗二叉搜索树中的所有元素",

@@ -2118,6 +2118,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1252",
+        "title": "奇数值单元格的数目",
+        "path": "./problemset/cells-with-odd-values-in-a-matrix/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1342",
         "title": "将数字变成 0 的操作次数",
         "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",

@@ -776,6 +776,8 @@
 
 [1217. 玩筹码](../../problemset/minimum-cost-to-move-chips-to-the-same-position/README.md)
 
+[1252. 奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md)
+
 [1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
