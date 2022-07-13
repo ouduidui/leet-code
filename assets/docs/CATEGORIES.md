@@ -469,6 +469,7 @@
 | 385. [迷你语法分析器](../../problemset/mini-parser/README.md) | 中等 |
 | 388. [文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md) | 中等 |
 | 591. [标签验证器](../../problemset/tag-validator/README.md) | 困难 |
+| 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 

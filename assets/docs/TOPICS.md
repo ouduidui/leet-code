@@ -680,6 +680,8 @@
 
 [732. 我的日程安排表 III](../../problemset/my-calendar-3/README.md)
 
+[735. 行星碰撞](../../problemset/asteroid-collision/README.md)
+
 [736. Lisp 语法解析](../../problemset/parse-lisp-expression/README.md)
 
 [741. 摘樱桃](../../problemset/cherry-pickup/README.md)

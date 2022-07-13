@@ -2518,6 +2518,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "735",
+        "title": "行星碰撞",
+        "path": "./problemset/asteroid-collision/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1021",
         "title": "删除最外层的括号",
         "path": "./problemset/remove-outermost-parentheses/README.md",

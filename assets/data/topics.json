@@ -3400,6 +3400,16 @@
     "path": "./problemset/my-calendar-3/README.md"
   },
   {
+    "id": "735",
+    "title": {
+      "cn": "行星碰撞",
+      "en": "asteroid-collision"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/asteroid-collision/",
+    "path": "./problemset/asteroid-collision/README.md"
+  },
+  {
     "id": "736",
     "title": {
       "cn": "Lisp 语法解析",
