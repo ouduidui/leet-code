@@ -688,6 +688,8 @@
 
 [744. 寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md)
 
+[745. 前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md)
+
 [762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)
 
 [780. 到达终点](../../problemset/reaching-points/README.md)

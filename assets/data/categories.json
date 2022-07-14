@@ -2022,6 +2022,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "745",
+        "title": "前缀和后缀搜索",
+        "path": "./problemset/prefix-and-suffix-search/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "780",
         "title": "到达终点",
         "path": "./problemset/reaching-points/README.md",

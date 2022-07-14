@@ -378,6 +378,7 @@
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 736. [Lisp 语法解析](../../problemset/parse-lisp-expression/README.md) | 困难 |
+| 745. [前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md) | 困难 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
