@@ -4318,5 +4318,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/JEj789/",
     "path": "./problemset/paint-house/README.md"
+  },
+  {
+    "id": "剑指 Offer II 041",
+    "title": {
+      "cn": "滑动窗口的平均值",
+      "en": "average-value-of-sliding-window"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/qIsx9U/",
+    "path": "./problemset/average-value-of-sliding-window/README.md"
   }
 ]

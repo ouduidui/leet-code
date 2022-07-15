@@ -2212,6 +2212,12 @@
         "title": "排序的循环链表",
         "path": "./problemset/sorted-circular-linked-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "剑指 Offer II 041",
+        "title": "滑动窗口的平均值",
+        "path": "./problemset/average-value-of-sliding-window/README.md",
+        "difficulty": "简单"
       }
     ]
   },
