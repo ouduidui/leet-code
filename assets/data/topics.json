@@ -3120,6 +3120,16 @@
     "path": "./problemset/next-greater-element-3/README.md"
   },
   {
+    "id": "558",
+    "title": {
+      "cn": "四叉树交集",
+      "en": "logical-or-of-two-binary-grids-represented-as-quad-trees"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+    "path": "./problemset/logical-or-of-two-binary-grids-represented-as-quad-trees/README.md"
+  },
+  {
     "id": "564",
     "title": {
       "cn": "寻找最近的回文数",

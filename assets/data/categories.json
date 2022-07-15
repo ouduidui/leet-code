@@ -3049,6 +3049,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "558",
+        "title": "四叉树交集",
+        "path": "./problemset/logical-or-of-two-binary-grids-represented-as-quad-trees/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1763",
         "title": "最长的美好子字符串",
         "path": "./problemset/longest-nice-substring/README.md",

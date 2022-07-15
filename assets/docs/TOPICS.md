@@ -624,6 +624,8 @@
 
 [556. 下一个更大元素 III](../../problemset/next-greater-element-3/README.md)
 
+[558. 四叉树交集](../../problemset/logical-or-of-two-binary-grids-represented-as-quad-trees/README.md)
+
 [564. 寻找最近的回文数](../../problemset/find-the-closest-palindrome/README.md)
 
 [587. 安装栅栏](../../problemset/erect-the-fence/README.md)
