@@ -530,6 +530,8 @@
 
 [335. 路径交叉](../../problemset/self-crossing/README.md)
 
+[336. 回文对](../../problemset/palindrome-pairs/README.md)
+
 [338. 比特位计数](../../problemset/counting-bits/README.md)
 
 [342. 4的幂](../../problemset/power-of-four/README.md)

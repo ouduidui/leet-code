@@ -2650,6 +2650,16 @@
     "path": "./problemset/self-crossing/README.md"
   },
   {
+    "id": "336",
+    "title": {
+      "cn": "回文对",
+      "en": "palindrome-pairs"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/palindrome-pairs/",
+    "path": "./problemset/palindrome-pairs/README.md"
+  },
+  {
     "id": "338",
     "title": {
       "cn": "比特位计数",

@@ -165,6 +165,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "336",
+        "title": "回文对",
+        "path": "./problemset/palindrome-pairs/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "355",
         "title": "设计推特",
         "path": "./problemset/design-twitter/README.md",
@@ -3445,6 +3451,12 @@
         "title": "计数质数",
         "path": "./problemset/count-primes/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "336",
+        "title": "回文对",
+        "path": "./problemset/palindrome-pairs/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "479",

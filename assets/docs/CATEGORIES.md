@@ -31,6 +31,7 @@
 | 260. [只出现一次的数字 III](../../problemset/single-number-3/README.md) | 中等 |
 | 268. [丢失的数字](../../problemset/missing-number/README.md) | 简单 |
 | 290. [单词规律](../../problemset/word-pattern/README.md) | 简单 |
+| 336. [回文对](../../problemset/palindrome-pairs/README.md) | 困难 |
 | 355. [设计推特](../../problemset/design-twitter/README.md) | 中等 |
 | 380. [O(1) 时间插入、删除和获取随机元素](../../problemset/insert-delete-getrandom-o1/README.md) | 中等 |
 | 383. [赎金信](../../problemset/ransom-note/README.md) | 简单 |
@@ -653,6 +654,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 204. [计数质数](../../problemset/count-primes/README.md) | 中等 |
+| 336. [回文对](../../problemset/palindrome-pairs/README.md) | 困难 |
 | 479. [最大回文数乘积](../../problemset/largest-palindrome-product/README.md) | 困难 |
 | 522. [最长特殊序列 II](../../problemset/longest-uncommon-subsequence-2/README.md) | 中等 |
 | 676. [实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md) | 中等 |
