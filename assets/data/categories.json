@@ -1980,6 +1980,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "565",
+        "title": "数组嵌套",
+        "path": "./problemset/array-nesting/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "587",
         "title": "安装栅栏",
         "path": "./problemset/erect-the-fence/README.md",
@@ -3733,6 +3739,17 @@
         "title": "外星文字典",
         "path": "./problemset/alien-dictionary/README.md",
         "difficulty": "困难"
+      }
+    ]
+  },
+  {
+    "label": "图",
+    "topics": [
+      {
+        "id": "565",
+        "title": "数组嵌套",
+        "path": "./problemset/array-nesting/README.md",
+        "difficulty": "中等"
       }
     ]
   }

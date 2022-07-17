@@ -3150,6 +3150,16 @@
     "path": "./problemset/find-the-closest-palindrome/README.md"
   },
   {
+    "id": "565",
+    "title": {
+      "cn": "数组嵌套",
+      "en": "array-nesting"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/array-nesting/",
+    "path": "./problemset/array-nesting/README.md"
+  },
+  {
     "id": "587",
     "title": {
       "cn": "安装栅栏",
