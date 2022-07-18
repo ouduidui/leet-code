@@ -2943,6 +2943,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "749",
+        "title": "隔离病毒",
+        "path": "./problemset/contain-virus/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "838",
         "title": "推多米诺",
         "path": "./problemset/push-dominoes/README.md",

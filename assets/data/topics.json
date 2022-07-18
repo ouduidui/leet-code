@@ -3480,6 +3480,16 @@
     "path": "./problemset/prefix-and-suffix-search/README.md"
   },
   {
+    "id": "749",
+    "title": {
+      "cn": "隔离病毒",
+      "en": "contain-virus"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/contain-virus/",
+    "path": "./problemset/contain-virus/README.md"
+  },
+  {
     "id": "762",
     "title": {
       "cn": "二进制表示中质数个计算置位",

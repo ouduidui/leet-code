@@ -696,6 +696,8 @@
 
 [745. 前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md)
 
+[749. 隔离病毒](../../problemset/contain-virus/README.md)
+
 [762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)
 
 [780. 到达终点](../../problemset/reaching-points/README.md)
