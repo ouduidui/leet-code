@@ -684,6 +684,8 @@
 
 [730. 统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md)
 
+[731. 我的日程安排表 II](../../problemset/my-calendar-2/README.md)
+
 [732. 我的日程安排表 III](../../problemset/my-calendar-3/README.md)
 
 [735. 行星碰撞](../../problemset/asteroid-collision/README.md)

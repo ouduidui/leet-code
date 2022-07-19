@@ -378,6 +378,7 @@
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
 | 715. [Range模块](../../problemset/range-module/README.md) | 困难 |
 | 728. [自除数](../../problemset/self-dividing-numbers/README.md) | 简单 |
+| 731. [我的日程安排表 II](../../problemset/my-calendar-2/README.md) | 中等 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 736. [Lisp 语法解析](../../problemset/parse-lisp-expression/README.md) | 困难 |
 | 745. [前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md) | 困难 |

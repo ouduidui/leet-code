@@ -2022,6 +2022,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "731",
+        "title": "我的日程安排表 II",
+        "path": "./problemset/my-calendar-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "732",
         "title": "我的日程安排表 III",
         "path": "./problemset/my-calendar-3/README.md",
