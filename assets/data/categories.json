@@ -2148,6 +2148,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1260",
+        "title": "二维网格迁移",
+        "path": "./problemset/shift-2d-grid/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1342",
         "title": "将数字变成 0 的操作次数",
         "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md",

@@ -3960,6 +3960,16 @@
     "path": "./problemset/cells-with-odd-values-in-a-matrix/README.md"
   },
   {
+    "id": "1260",
+    "title": {
+      "cn": "二维网格迁移",
+      "en": "shift-2d-grid"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/shift-2d-grid/",
+    "path": "./problemset/shift-2d-grid/README.md"
+  },
+  {
     "id": "1305",
     "title": {
       "cn": "两颗二叉搜索树中的所有元素",
