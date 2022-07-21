@@ -714,6 +714,8 @@
 
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)
 
+[814. 二叉树剪枝](../../problemset/binary-tree-pruning/README.md)
+
 [819. 最常见的单词](../../problemset/most-common-word/README.md)
 
 [821. 字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md)

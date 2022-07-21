@@ -2961,6 +2961,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "814",
+        "title": "二叉树剪枝",
+        "path": "./problemset/binary-tree-pruning/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "838",
         "title": "推多米诺",
         "path": "./problemset/push-dominoes/README.md",
@@ -3446,6 +3452,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "814",
+        "title": "二叉树剪枝",
+        "path": "./problemset/binary-tree-pruning/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1022",

@@ -3570,6 +3570,16 @@
     "path": "./problemset/largest-triangle-area/README.md"
   },
   {
+    "id": "814",
+    "title": {
+      "cn": "二叉树剪枝",
+      "en": "binary-tree-pruning"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/binary-tree-pruning/",
+    "path": "./problemset/binary-tree-pruning/README.md"
+  },
+  {
     "id": "819",
     "title": {
       "cn": "最常见的单词",
