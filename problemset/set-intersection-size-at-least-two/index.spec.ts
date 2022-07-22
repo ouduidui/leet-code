@@ -1,4 +1,3 @@
-import internal from 'stream'
 import { describe, expect, it } from 'vitest'
 import { intersectionSizeTwo } from '.'
 
