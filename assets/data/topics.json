@@ -3500,6 +3500,16 @@
     "path": "./problemset/contain-virus/README.md"
   },
   {
+    "id": "757",
+    "title": {
+      "cn": "设置交集大小至少为2",
+      "en": "set-intersection-size-at-least-two"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/set-intersection-size-at-least-two/",
+    "path": "./problemset/set-intersection-size-at-least-two/README.md"
+  },
+  {
     "id": "762",
     "title": {
       "cn": "二进制表示中质数个计算置位",

@@ -3167,6 +3167,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "757",
+        "title": "设置交集大小至少为2",
+        "path": "./problemset/set-intersection-size-at-least-two/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",
