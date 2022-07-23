@@ -879,3 +879,5 @@
 [剑指 Offer II 091. 粉刷房子](../../problemset/paint-house/README.md)
 
 [剑指 Offer II 041. 滑动窗口的平均值](../../problemset/average-value-of-sliding-window/README.md)
+
+[剑指 Offer II 115. 重建序列](../../problemset/rebuild-sequence/README.md)

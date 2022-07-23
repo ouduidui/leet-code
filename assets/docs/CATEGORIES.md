@@ -733,6 +733,7 @@
 | ---- | ---- |
 | 1728. [猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md) | 困难 |
 | 剑指 Offer II 114. [外星文字典](../../problemset/alien-dictionary/README.md) | 困难 |
+| 剑指 Offer II 115. [重建序列](../../problemset/rebuild-sequence/README.md) | 中等 |
 
 ## 图
 

@@ -4398,5 +4398,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/qIsx9U/",
     "path": "./problemset/average-value-of-sliding-window/README.md"
+  },
+  {
+    "id": "剑指 Offer II 115",
+    "title": {
+      "cn": "重建序列",
+      "en": "rebuild-sequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/ur2n8P/",
+    "path": "./problemset/rebuild-sequence/README.md"
   }
 ]

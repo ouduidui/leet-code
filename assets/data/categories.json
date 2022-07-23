@@ -3775,6 +3775,12 @@
         "title": "外星文字典",
         "path": "./problemset/alien-dictionary/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "剑指 Offer II 115",
+        "title": "重建序列",
+        "path": "./problemset/rebuild-sequence/README.md",
+        "difficulty": "中等"
       }
     ]
   },
