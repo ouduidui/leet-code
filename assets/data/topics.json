@@ -3940,6 +3940,16 @@
     "path": "./problemset/prime-arrangements/README.md"
   },
   {
+    "id": "1184",
+    "title": {
+      "cn": "公交站间的距离",
+      "en": "distance-between-bus-stops"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/distance-between-bus-stops/",
+    "path": "./problemset/distance-between-bus-stops/README.md"
+  },
+  {
     "id": "1189",
     "title": {
       "cn": "“气球” 的最大数量",
