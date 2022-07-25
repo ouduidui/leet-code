@@ -3740,6 +3740,16 @@
     "path": "./problemset/reverse-only-letters/README.md"
   },
   {
+    "id": "919",
+    "title": {
+      "cn": "完全二叉树插入器",
+      "en": "complete-binary-tree-inserter"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/complete-binary-tree-inserter/",
+    "path": "./problemset/complete-binary-tree-inserter/README.md"
+  },
+  {
     "id": "926",
     "title": {
       "cn": "将字符串翻转到单调递增",

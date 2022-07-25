@@ -1138,6 +1138,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "919",
+        "title": "完全二叉树插入器",
+        "path": "./problemset/complete-binary-tree-inserter/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "961",
         "title": "在长度 2N 的数组中找出重复 N 次的元素",
         "path": "./problemset/n-repeated-element-in-size-2n-array/README.md",
@@ -2098,6 +2104,12 @@
         "title": "按奇偶排序数组",
         "path": "./problemset/sort-array-by-parity/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "919",
+        "title": "完全二叉树插入器",
+        "path": "./problemset/complete-binary-tree-inserter/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "926",
@@ -3469,6 +3481,12 @@
         "id": "814",
         "title": "二叉树剪枝",
         "path": "./problemset/binary-tree-pruning/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "919",
+        "title": "完全二叉树插入器",
+        "path": "./problemset/complete-binary-tree-inserter/README.md",
         "difficulty": "中等"
       },
       {

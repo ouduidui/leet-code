@@ -214,6 +214,7 @@
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
+| 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
 | 1037. [有效的回旋镖](../../problemset/valid-boomerang/README.md) | 简单 |
 | 1175. [质数排列](../../problemset/prime-arrangements/README.md) | 简单 |
@@ -391,6 +392,7 @@
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 890. [查找和替换模式](../../problemset/find-and-replace-pattern/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
+| 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 933. [最近的请求次数](../../problemset/number-of-recent-calls/README.md) | 简单 |
 | 944. [删列造序](../../problemset/delete-columns-to-make-sorted/README.md) | 简单 |
@@ -653,6 +655,7 @@
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
+| 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
