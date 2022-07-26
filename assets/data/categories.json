@@ -2160,6 +2160,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1206",
+        "title": "设计跳表",
+        "path": "./problemset/design-skiplist/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1252",
         "title": "奇数值单元格的数目",
         "path": "./problemset/cells-with-odd-values-in-a-matrix/README.md",

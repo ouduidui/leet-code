@@ -3980,6 +3980,16 @@
     "path": "./problemset/minimum-absolute-difference/README.md"
   },
   {
+    "id": "1206",
+    "title": {
+      "cn": "设计跳表",
+      "en": "design-skiplist"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/design-skiplist/",
+    "path": "./problemset/design-skiplist/README.md"
+  },
+  {
     "id": "1217",
     "title": {
       "cn": "玩筹码",

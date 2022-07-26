@@ -796,6 +796,8 @@
 
 [1200. 最小绝对差](../../problemset/minimum-absolute-difference/README.md)
 
+[1206. 设计跳表](../../problemset/design-skiplist/README.md)
+
 [1217. 玩筹码](../../problemset/minimum-cost-to-move-chips-to-the-same-position/README.md)
 
 [1252. 奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md)
