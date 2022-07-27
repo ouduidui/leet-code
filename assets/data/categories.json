@@ -1998,6 +1998,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "592",
+        "title": "分数加减运算",
+        "path": "./problemset/fraction-addition-and-subtraction/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "661",
         "title": "图片平滑器",
         "path": "./problemset/image-smoother/README.md",
