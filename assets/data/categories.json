@@ -297,6 +297,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1331",
+        "title": "数组序号转换",
+        "path": "./problemset/rank-transform-of-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1380",
         "title": "矩阵中的幸运数",
         "path": "./problemset/lucky-numbers-in-a-matrix/README.md",
@@ -824,6 +830,12 @@
         "id": "1200",
         "title": "最小绝对差",
         "path": "./problemset/minimum-absolute-difference/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "1331",
+        "title": "数组序号转换",
+        "path": "./problemset/rank-transform-of-an-array/README.md",
         "difficulty": "简单"
       },
       {

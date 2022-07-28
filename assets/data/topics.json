@@ -4040,6 +4040,16 @@
     "path": "./problemset/all-elements-in-two-binary-search-trees/README.md"
   },
   {
+    "id": "1331",
+    "title": {
+      "cn": "数组序号转换",
+      "en": "rank-transform-of-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/rank-transform-of-an-array/",
+    "path": "./problemset/rank-transform-of-an-array/README.md"
+  },
+  {
     "id": "1342",
     "title": {
       "cn": "将数字变成 0 的操作次数",

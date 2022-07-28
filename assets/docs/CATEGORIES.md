@@ -53,6 +53,7 @@
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
+| 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1380. [矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md) | 简单 |
 | 1832. [判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
@@ -158,6 +159,7 @@
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1051. [高度检查器](../../problemset/height-checker/README.md) | 简单 |
 | 1200. [最小绝对差](../../problemset/minimum-absolute-difference/README.md) | 简单 |
+| 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
