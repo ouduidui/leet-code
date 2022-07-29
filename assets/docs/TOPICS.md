@@ -642,6 +642,8 @@
 
 [592. 分数加减运算](../../problemset/fraction-addition-and-subtraction/README.md)
 
+[593. 有效的正方形](../../problemset/valid-square/README.md)
+
 [599. 两个列表的最小索引总和](../../problemset/minimum-index-sum-of-two-lists/README.md)
 
 [606. 根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md)

@@ -1114,6 +1114,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "593",
+        "title": "有效的正方形",
+        "path": "./problemset/valid-square/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "668",
         "title": "乘法表中第k小的数",
         "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md",

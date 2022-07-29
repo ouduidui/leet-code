@@ -3210,6 +3210,16 @@
     "path": "./problemset/fraction-addition-and-subtraction/README.md"
   },
   {
+    "id": "593",
+    "title": {
+      "cn": "有效的正方形",
+      "en": "valid-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/valid-square/",
+    "path": "./problemset/valid-square/README.md"
+  },
+  {
     "id": "599",
     "title": {
       "cn": "两个列表的最小索引总和",
