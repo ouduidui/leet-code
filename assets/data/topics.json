@@ -3830,6 +3830,16 @@
     "path": "./problemset/delete-columns-to-make-sorted/README.md"
   },
   {
+    "id": "952",
+    "title": {
+      "cn": "按公因数计算最大组件大小",
+      "en": "largest-component-size-by-common-factor"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/largest-component-size-by-common-factor/",
+    "path": "./problemset/largest-component-size-by-common-factor/README.md"
+  },
+  {
     "id": "953",
     "title": {
       "cn": "验证外星语词典",

@@ -709,6 +709,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
+| 952. [按公因数计算最大组件大小](../../problemset/largest-component-size-by-common-factor/README.md) | 困难 |
 
 ## 字典树
 

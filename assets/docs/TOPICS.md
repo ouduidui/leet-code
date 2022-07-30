@@ -766,6 +766,8 @@
 
 [944. 删列造序](../../problemset/delete-columns-to-make-sorted/README.md)
 
+[952. 按公因数计算最大组件大小](../../problemset/largest-component-size-by-common-factor/README.md)
+
 [953. 验证外星语词典](../../problemset/verifying-an-alien-dictionary/README.md)
 
 [954. 二倍数对数组](../../problemset/array-of-doubled-pairs/README.md)

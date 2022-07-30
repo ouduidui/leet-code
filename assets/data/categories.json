@@ -3731,6 +3731,12 @@
         "title": "岛屿数量",
         "path": "./problemset/number-of-islands/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "952",
+        "title": "按公因数计算最大组件大小",
+        "path": "./problemset/largest-component-size-by-common-factor/README.md",
+        "difficulty": "困难"
       }
     ]
   },
