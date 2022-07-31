@@ -3039,6 +3039,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1161",
+        "title": "最大层内元素和",
+        "path": "./problemset/maximum-level-sum-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1305",
         "title": "两颗二叉搜索树中的所有元素",
         "path": "./problemset/all-elements-in-two-binary-search-trees/README.md",
@@ -3524,6 +3530,12 @@
         "title": " 从根到叶的二进制数之和",
         "path": "./problemset/sum-of-root-to-leaf-binary-numbers/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1161",
+        "title": "最大层内元素和",
+        "path": "./problemset/maximum-level-sum-of-a-binary-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1305",

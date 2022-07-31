@@ -794,6 +794,8 @@
 
 [1108. IP地址无效化](../../problemset/defanging-an-ip-address/README.md)
 
+[1161. 最大层内元素和](../../problemset/maximum-level-sum-of-a-binary-tree/README.md)
+
 [1175. 质数排列](../../problemset/prime-arrangements/README.md)
 
 [1184. 公交站间的距离](../../problemset/distance-between-bus-stops/README.md)

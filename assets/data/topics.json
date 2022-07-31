@@ -3970,6 +3970,16 @@
     "path": "./problemset/defanging-an-ip-address/README.md"
   },
   {
+    "id": "1161",
+    "title": {
+      "cn": "最大层内元素和",
+      "en": "maximum-level-sum-of-a-binary-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/",
+    "path": "./problemset/maximum-level-sum-of-a-binary-tree/README.md"
+  },
+  {
     "id": "1175",
     "title": {
       "cn": "质数排列",
