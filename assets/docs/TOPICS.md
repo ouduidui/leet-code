@@ -818,6 +818,8 @@
 
 [1342. 将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md)
 
+[1374. 生成每种字符都是奇数个的字符串](../../problemset/generate-a-string-with-characters-that-have-odd-counts/README.md)
+
 [1380. 矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md)
 
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)

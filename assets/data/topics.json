@@ -4090,6 +4090,16 @@
     "path": "./problemset/number-of-steps-to-reduce-a-number-to-zero/README.md"
   },
   {
+    "id": "1374",
+    "title": {
+      "cn": "生成每种字符都是奇数个的字符串",
+      "en": "generate-a-string-with-characters-that-have-odd-counts"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/",
+    "path": "./problemset/generate-a-string-with-characters-that-have-odd-counts/README.md"
+  },
+  {
     "id": "1380",
     "title": {
       "cn": "矩阵中的幸运数",

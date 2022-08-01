@@ -409,6 +409,7 @@
 | 1252. [奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md) | 简单 |
 | 1260. [二维网格迁移](../../problemset/shift-2d-grid/README.md) | 简单 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
+| 1374. [生成每种字符都是奇数个的字符串](../../problemset/generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |

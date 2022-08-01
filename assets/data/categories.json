@@ -2208,6 +2208,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1374",
+        "title": "生成每种字符都是奇数个的字符串",
+        "path": "./problemset/generate-a-string-with-characters-that-have-odd-counts/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
