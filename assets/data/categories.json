@@ -2022,6 +2022,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "622",
+        "title": "设计循环队列",
+        "path": "./problemset/design-circular-queue/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "661",
         "title": "图片平滑器",
         "path": "./problemset/image-smoother/README.md",

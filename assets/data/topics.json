@@ -3240,6 +3240,16 @@
     "path": "./problemset/construct-string-from-binary-tree/README.md"
   },
   {
+    "id": "622",
+    "title": {
+      "cn": "设计循环队列",
+      "en": "design-circular-queue"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-circular-queue/",
+    "path": "./problemset/design-circular-queue/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",
