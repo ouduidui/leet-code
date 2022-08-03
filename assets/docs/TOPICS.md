@@ -748,6 +748,8 @@
 
 [890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
 
+[899. 有序队列](../../problemset/orderly-queue/README.md)
+
 [905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
 
 [908. 最小差值](../../problemset/smallest-range/README.md)

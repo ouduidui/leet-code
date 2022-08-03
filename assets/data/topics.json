@@ -3740,6 +3740,16 @@
     "path": "./problemset/find-and-replace-pattern/README.md"
   },
   {
+    "id": "899",
+    "title": {
+      "cn": "有序队列",
+      "en": "orderly-queue"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/orderly-queue/",
+    "path": "./problemset/orderly-queue/README.md"
+  },
+  {
     "id": "905",
     "title": {
       "cn": "按奇偶排序数组",

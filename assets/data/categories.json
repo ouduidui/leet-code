@@ -2130,6 +2130,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "899",
+        "title": "有序队列",
+        "path": "./problemset/orderly-queue/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "905",
         "title": "按奇偶排序数组",
         "path": "./problemset/sort-array-by-parity/README.md",
