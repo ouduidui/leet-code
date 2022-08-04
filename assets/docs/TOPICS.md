@@ -826,6 +826,8 @@
 
 [1380. 矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md)
 
+[1403. 非递增顺序的最小子序列](../../problemset/minimum-subsequence-in-non-increasing-order/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)

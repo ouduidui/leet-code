@@ -4130,6 +4130,16 @@
     "path": "./problemset/lucky-numbers-in-a-matrix/README.md"
   },
   {
+    "id": "1403",
+    "title": {
+      "cn": "非递增顺序的最小子序列",
+      "en": "minimum-subsequence-in-non-increasing-order"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/",
+    "path": "./problemset/minimum-subsequence-in-non-increasing-order/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",
