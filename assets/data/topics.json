@@ -3250,6 +3250,16 @@
     "path": "./problemset/design-circular-queue/README.md"
   },
   {
+    "id": "623",
+    "title": {
+      "cn": "在二叉树中增加一行",
+      "en": "add-one-row-to-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/add-one-row-to-tree/",
+    "path": "./problemset/add-one-row-to-tree/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",

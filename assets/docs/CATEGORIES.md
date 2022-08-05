@@ -554,6 +554,7 @@
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
+| 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 675. [为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md) | 困难 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
@@ -663,6 +664,7 @@
 | 515. [在每个树行中找最大值](../../problemset/find-largest-value-in-each-tree-row/README.md) | 中等 |
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
+| 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |

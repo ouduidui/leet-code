@@ -650,6 +650,8 @@
 
 [622. 设计循环队列](../../problemset/design-circular-queue/README.md)
 
+[623. 在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md)
+
 [648. 单词替换](../../problemset/replace-words/README.md)
 
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)

@@ -3003,6 +3003,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "623",
+        "title": "在二叉树中增加一行",
+        "path": "./problemset/add-one-row-to-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "653",
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
@@ -3530,6 +3536,12 @@
         "title": "根据二叉树创建字符串",
         "path": "./problemset/construct-string-from-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "623",
+        "title": "在二叉树中增加一行",
+        "path": "./problemset/add-one-row-to-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "653",
