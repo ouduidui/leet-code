@@ -4150,6 +4150,16 @@
     "path": "./problemset/minimum-subsequence-in-non-increasing-order/README.md"
   },
   {
+    "id": "1408",
+    "title": {
+      "cn": "数组中的字符串匹配",
+      "en": "string-matching-in-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/string-matching-in-an-array/",
+    "path": "./problemset/string-matching-in-an-array/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",

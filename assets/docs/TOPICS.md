@@ -830,6 +830,8 @@
 
 [1403. 非递增顺序的最小子序列](../../problemset/minimum-subsequence-in-non-increasing-order/README.md)
 
+[1408. 数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)

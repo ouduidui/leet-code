@@ -3633,6 +3633,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1408",
+        "title": "数组中的字符串匹配",
+        "path": "./problemset/string-matching-in-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1601",
         "title": "最多可达成的换楼请求数目",
         "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md",
