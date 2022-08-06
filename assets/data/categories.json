@@ -2620,6 +2620,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "636",
+        "title": "函数的独占时间",
+        "path": "./problemset/exclusive-time-of-functions/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "735",
         "title": "行星碰撞",
         "path": "./problemset/asteroid-collision/README.md",
