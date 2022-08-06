@@ -3260,6 +3260,16 @@
     "path": "./problemset/add-one-row-to-tree/README.md"
   },
   {
+    "id": "636",
+    "title": {
+      "cn": "函数的独占时间",
+      "en": "exclusive-time-of-functions"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/exclusive-time-of-functions/",
+    "path": "./problemset/exclusive-time-of-functions/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",
