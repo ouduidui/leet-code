@@ -3181,6 +3181,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "761",
+        "title": "特殊的二进制序列",
+        "path": "./problemset/special-binary-string/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1763",
         "title": "最长的美好子字符串",
         "path": "./problemset/longest-nice-substring/README.md",

@@ -592,6 +592,7 @@
 | 312. [戳气球](../../problemset/burst-balloons/README.md) | 困难 |
 | 321. [拼接最大数](../../problemset/create-maximum-number/README.md) | 困难 |
 | 558. [四叉树交集](../../problemset/logical-or-of-two-binary-grids-represented-as-quad-trees/README.md) | 中等 |
+| 761. [特殊的二进制序列](../../problemset/special-binary-string/README.md) | 困难 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配
