@@ -3287,6 +3287,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1413",
+        "title": "逐步求和得到正数的最小值",
+        "path": "./problemset/minimum-value-to-get-positive-step-by-step-sum/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1663",
         "title": "具有给定数值的最小字符串",
         "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md",

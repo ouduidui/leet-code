@@ -836,6 +836,8 @@
 
 [1408. 数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md)
 
+[1413. 逐步求和得到正数的最小值](../../problemset/minimum-value-to-get-positive-step-by-step-sum/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)

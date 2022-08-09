@@ -4180,6 +4180,16 @@
     "path": "./problemset/string-matching-in-an-array/README.md"
   },
   {
+    "id": "1413",
+    "title": {
+      "cn": "逐步求和得到正数的最小值",
+      "en": "minimum-value-to-get-positive-step-by-step-sum"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/",
+    "path": "./problemset/minimum-value-to-get-positive-step-by-step-sum/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",
