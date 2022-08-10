@@ -3270,6 +3270,16 @@
     "path": "./problemset/exclusive-time-of-functions/README.md"
   },
   {
+    "id": "640",
+    "title": {
+      "cn": "求解方程",
+      "en": "solve-the-equation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/solve-the-equation/",
+    "path": "./problemset/solve-the-equation/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",

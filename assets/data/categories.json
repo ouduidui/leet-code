@@ -2028,6 +2028,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "640",
+        "title": "求解方程",
+        "path": "./problemset/solve-the-equation/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "661",
         "title": "图片平滑器",
         "path": "./problemset/image-smoother/README.md",

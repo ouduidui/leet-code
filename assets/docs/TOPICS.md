@@ -654,6 +654,8 @@
 
 [636. 函数的独占时间](../../problemset/exclusive-time-of-functions/README.md)
 
+[640. 求解方程](../../problemset/solve-the-equation/README.md)
+
 [648. 单词替换](../../problemset/replace-words/README.md)
 
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)
