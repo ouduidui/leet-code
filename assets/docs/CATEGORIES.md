@@ -321,6 +321,7 @@
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
+| 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |
 
 ## 模拟
 

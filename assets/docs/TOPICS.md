@@ -840,6 +840,8 @@
 
 [1413. 逐步求和得到正数的最小值](../../problemset/minimum-value-to-get-positive-step-by-step-sum/README.md)
 
+[1417. 重新格式化字符串](../../problemset/reformat-the-string/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)

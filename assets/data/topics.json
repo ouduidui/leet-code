@@ -4200,6 +4200,16 @@
     "path": "./problemset/minimum-value-to-get-positive-step-by-step-sum/README.md"
   },
   {
+    "id": "1417",
+    "title": {
+      "cn": "重新格式化字符串",
+      "en": "reformat-the-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reformat-the-string/",
+    "path": "./problemset/reformat-the-string/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",

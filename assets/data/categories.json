@@ -1703,6 +1703,12 @@
         "title": "仅仅反转字母",
         "path": "./problemset/reverse-only-letters/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1417",
+        "title": "重新格式化字符串",
+        "path": "./problemset/reformat-the-string/README.md",
+        "difficulty": "简单"
       }
     ]
   },
