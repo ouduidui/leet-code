@@ -297,6 +297,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1282",
+        "title": "用户分组",
+        "path": "./problemset/group-the-people-given-the-group-size-they-belong-to/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1331",
         "title": "数组序号转换",
         "path": "./problemset/rank-transform-of-an-array/README.md",

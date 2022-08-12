@@ -824,6 +824,8 @@
 
 [1260. 二维网格迁移](../../problemset/shift-2d-grid/README.md)
 
+[1282. 用户分组](../../problemset/group-the-people-given-the-group-size-they-belong-to/README.md)
+
 [1305. 两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md)
 
 [1331. 数组序号转换](../../problemset/rank-transform-of-an-array/README.md)

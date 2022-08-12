@@ -4120,6 +4120,16 @@
     "path": "./problemset/shift-2d-grid/README.md"
   },
   {
+    "id": "1282",
+    "title": {
+      "cn": "用户分组",
+      "en": "group-the-people-given-the-group-size-they-belong-to"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/",
+    "path": "./problemset/group-the-people-given-the-group-size-they-belong-to/README.md"
+  },
+  {
     "id": "1305",
     "title": {
       "cn": "两颗二叉搜索树中的所有元素",
