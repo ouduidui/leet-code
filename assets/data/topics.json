@@ -3590,6 +3590,16 @@
     "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md"
   },
   {
+    "id": "768",
+    "title": {
+      "cn": "最多能完成排序的块 II",
+      "en": "max-chunks-to-make-sorted-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/",
+    "path": "./problemset/max-chunks-to-make-sorted-2/README.md"
+  },
+  {
     "id": "780",
     "title": {
       "cn": "到达终点",

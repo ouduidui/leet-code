@@ -45,6 +45,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 710. [黑名单中的随机数](../../problemset/random-pick-with-blacklist/README.md) | 困难 |
 | 720. [词典中最长的单词](../../problemset/longest-word-in-dictionary/README.md) | 简单 |
+| 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
 | 804. [唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md) | 简单 |
 | 819. [最常见的单词](../../problemset/most-common-word/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
@@ -491,6 +492,7 @@
 | 591. [标签验证器](../../problemset/tag-validator/README.md) | 困难 |
 | 636. [函数的独占时间](../../problemset/exclusive-time-of-functions/README.md) | 中等 |
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
+| 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 

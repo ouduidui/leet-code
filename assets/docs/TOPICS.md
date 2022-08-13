@@ -718,6 +718,8 @@
 
 [762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)
 
+[768. 最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md)
+
 [780. 到达终点](../../problemset/reaching-points/README.md)
 
 [796. 旋转字符串](../../problemset/rotate-string/README.md)

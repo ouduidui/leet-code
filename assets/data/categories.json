@@ -249,6 +249,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "768",
+        "title": "最多能完成排序的块 II",
+        "path": "./problemset/max-chunks-to-make-sorted-2/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "804",
         "title": "唯一摩尔斯密码词",
         "path": "./problemset/unique-morse-code-words/README.md",
@@ -2648,6 +2654,12 @@
         "title": "行星碰撞",
         "path": "./problemset/asteroid-collision/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "768",
+        "title": "最多能完成排序的块 II",
+        "path": "./problemset/max-chunks-to-make-sorted-2/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "1021",
