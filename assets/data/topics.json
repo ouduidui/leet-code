@@ -4230,6 +4230,16 @@
     "path": "./problemset/reformat-the-string/README.md"
   },
   {
+    "id": "1422",
+    "title": {
+      "cn": "分割字符串的最大得分",
+      "en": "maximum-score-after-splitting-a-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-score-after-splitting-a-string/",
+    "path": "./problemset/maximum-score-after-splitting-a-string/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",

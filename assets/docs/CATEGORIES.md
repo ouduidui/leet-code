@@ -416,6 +416,7 @@
 | 1260. [二维网格迁移](../../problemset/shift-2d-grid/README.md) | 简单 |
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1374. [生成每种字符都是奇数个的字符串](../../problemset/generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
+| 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
@@ -693,6 +694,7 @@
 | 699. [掉落的方块](../../problemset/falling-squares/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1408. [数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md) | 简单 |
+| 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 
 ## 位运算

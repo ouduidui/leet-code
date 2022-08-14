@@ -846,6 +846,8 @@
 
 [1417. 重新格式化字符串](../../problemset/reformat-the-string/README.md)
 
+[1422. 分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)

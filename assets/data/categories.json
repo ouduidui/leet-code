@@ -2250,6 +2250,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1422",
+        "title": "分割字符串的最大得分",
+        "path": "./problemset/maximum-score-after-splitting-a-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
@@ -3684,6 +3690,12 @@
         "id": "1408",
         "title": "数组中的字符串匹配",
         "path": "./problemset/string-matching-in-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "1422",
+        "title": "分割字符串的最大得分",
+        "path": "./problemset/maximum-score-after-splitting-a-string/README.md",
         "difficulty": "简单"
       },
       {
