@@ -3280,6 +3280,16 @@
     "path": "./problemset/solve-the-equation/README.md"
   },
   {
+    "id": "641",
+    "title": {
+      "cn": "设计循环双端队列",
+      "en": "design-circular-deque"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-circular-deque/",
+    "path": "./problemset/design-circular-deque/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",

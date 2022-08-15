@@ -2052,6 +2052,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "641",
+        "title": "设计循环双端队列",
+        "path": "./problemset/design-circular-deque/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "661",
         "title": "图片平滑器",
         "path": "./problemset/image-smoother/README.md",

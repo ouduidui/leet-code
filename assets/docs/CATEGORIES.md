@@ -383,6 +383,7 @@
 | 592. [分数加减运算](../../problemset/fraction-addition-and-subtraction/README.md) | 中等 |
 | 622. [设计循环队列](../../problemset/design-circular-queue/README.md) | 中等 |
 | 640. [求解方程](../../problemset/solve-the-equation/README.md) | 中等 |
+| 641. [设计循环双端队列](../../problemset/design-circular-deque/README.md) | 中等 |
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
