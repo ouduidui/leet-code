@@ -2268,6 +2268,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1656",
+        "title": "涉及有序流",
+        "path": "./problemset/design-an-ordered-stream/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1672",
         "title": "最富有客户的资产总量",
         "path": "./problemset/richest-customer-wealth/README.md",

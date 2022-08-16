@@ -4280,6 +4280,16 @@
     "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md"
   },
   {
+    "id": "1656",
+    "title": {
+      "cn": "涉及有序流",
+      "en": "design-an-ordered-stream"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/design-an-ordered-stream/",
+    "path": "./problemset/design-an-ordered-stream/README.md"
+  },
+  {
     "id": "1663",
     "title": {
       "cn": "具有给定数值的最小字符串",
