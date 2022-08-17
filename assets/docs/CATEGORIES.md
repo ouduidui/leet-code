@@ -574,6 +574,7 @@
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1161. [最大层内元素和](../../problemset/maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
+| 1302. [层数最深叶子节点的和](../../problemset/deepest-leaves-sum/README.md) | 中等 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 1765. [地图中的最高点](../../problemset/map-of-highest-peak/README.md) | 中等 |
 | 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
@@ -681,6 +682,7 @@
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1161. [最大层内元素和](../../problemset/maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
+| 1302. [层数最深叶子节点的和](../../problemset/deepest-leaves-sum/README.md) | 中等 |
 | 1305. [两颗二叉搜索树中的所有元素](../../problemset/all-elements-in-two-binary-search-trees/README.md) | 中等 |
 | 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
 

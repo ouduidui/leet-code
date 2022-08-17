@@ -3123,6 +3123,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1302",
+        "title": "层数最深叶子节点的和",
+        "path": "./problemset/deepest-leaves-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1305",
         "title": "两颗二叉搜索树中的所有元素",
         "path": "./problemset/all-elements-in-two-binary-search-trees/README.md",
@@ -3637,6 +3643,12 @@
         "id": "1161",
         "title": "最大层内元素和",
         "path": "./problemset/maximum-level-sum-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1302",
+        "title": "层数最深叶子节点的和",
+        "path": "./problemset/deepest-leaves-sum/README.md",
         "difficulty": "中等"
       },
       {
