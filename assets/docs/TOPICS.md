@@ -824,6 +824,8 @@
 
 [1217. 玩筹码](../../problemset/minimum-cost-to-move-chips-to-the-same-position/README.md)
 
+[1224. 最大相等频率](../../problemset/maximum-equal-frequency/README.md)
+
 [1252. 奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md)
 
 [1260. 二维网格迁移](../../problemset/shift-2d-grid/README.md)

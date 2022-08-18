@@ -303,6 +303,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1224",
+        "title": "最大相等频率",
+        "path": "./problemset/maximum-equal-frequency/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1282",
         "title": "用户分组",
         "path": "./problemset/group-the-people-given-the-group-size-they-belong-to/README.md",

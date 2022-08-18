@@ -54,6 +54,7 @@
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
 | 1001. [网格照明](../../problemset/grid-illumination/README.md) | 困难 |
 | 1189. [“气球” 的最大数量](../../problemset/maximum-number-of-balloons/README.md) | 简单 |
+| 1224. [最大相等频率](../../problemset/maximum-equal-frequency/README.md) | 困难 |
 | 1282. [用户分组](../../problemset/group-the-people-given-the-group-size-they-belong-to/README.md) | 中等 |
 | 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1380. [矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md) | 简单 |

@@ -4120,6 +4120,16 @@
     "path": "./problemset/minimum-cost-to-move-chips-to-the-same-position/README.md"
   },
   {
+    "id": "1224",
+    "title": {
+      "cn": "最大相等频率",
+      "en": "maximum-equal-frequency"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximum-equal-frequency/",
+    "path": "./problemset/maximum-equal-frequency/README.md"
+  },
+  {
     "id": "1252",
     "title": {
       "cn": "奇数值单元格的数目",
