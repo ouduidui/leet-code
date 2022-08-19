@@ -4280,6 +4280,16 @@
     "path": "./problemset/simplified-fractions/README.md"
   },
   {
+    "id": "1450",
+    "title": {
+      "cn": "在既定时间做作业的学生人数",
+      "en": "number-of-students-doing-homework-at-a-given-time"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/",
+    "path": "./problemset/number-of-students-doing-homework-at-a-given-time/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",

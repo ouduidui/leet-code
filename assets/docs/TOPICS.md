@@ -856,6 +856,8 @@
 
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
+[1450. 在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md)
+
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)
 
 [1606. 找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md)

@@ -135,6 +135,7 @@
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
 | 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
+| 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 
 ## 排序
 
@@ -700,6 +701,7 @@
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1408. [数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
+| 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 
 ## 位运算
