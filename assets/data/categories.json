@@ -2680,6 +2680,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "654",
+        "title": "最大二叉树",
+        "path": "./problemset/maximum-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "735",
         "title": "行星碰撞",
         "path": "./problemset/asteroid-collision/README.md",
@@ -3079,6 +3085,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "654",
+        "title": "最大二叉树",
+        "path": "./problemset/maximum-binary-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "675",
@@ -3632,6 +3644,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "654",
+        "title": "最大二叉树",
+        "path": "./problemset/maximum-binary-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "814",

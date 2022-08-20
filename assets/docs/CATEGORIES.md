@@ -496,6 +496,7 @@
 | 388. [文件的最长绝对路径](../../problemset/longest-absolute-file-path/README.md) | 中等 |
 | 591. [标签验证器](../../problemset/tag-validator/README.md) | 困难 |
 | 636. [函数的独占时间](../../problemset/exclusive-time-of-functions/README.md) | 中等 |
+| 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
@@ -567,6 +568,7 @@
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 675. [为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md) | 困难 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
 | 749. [隔离病毒](../../problemset/contain-virus/README.md) | 困难 |
@@ -680,6 +682,7 @@
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |

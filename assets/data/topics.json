@@ -3310,6 +3310,16 @@
     "path": "./problemset/two-sum-iv-input-is-a-bst/README.md"
   },
   {
+    "id": "654",
+    "title": {
+      "cn": "最大二叉树",
+      "en": "maximum-binary-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-binary-tree/",
+    "path": "./problemset/maximum-binary-tree/README.md"
+  },
+  {
     "id": "661",
     "title": {
       "cn": "图片平滑器",
