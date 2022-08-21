@@ -4300,6 +4300,16 @@
     "path": "./problemset/number-of-students-doing-homework-at-a-given-time/README.md"
   },
   {
+    "id": "1455",
+    "title": {
+      "cn": "检查单词是否为句中其他单词的前缀",
+      "en": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+    "path": "./problemset/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",
