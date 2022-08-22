@@ -3320,6 +3320,16 @@
     "path": "./problemset/maximum-binary-tree/README.md"
   },
   {
+    "id": "655",
+    "title": {
+      "cn": "输出二叉树",
+      "en": "print-binary-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/print-binary-tree/",
+    "path": "./problemset/print-binary-tree/README.md"
+  },
+  {
     "id": "661",
     "title": {
       "cn": "图片平滑器",

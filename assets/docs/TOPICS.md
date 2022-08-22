@@ -664,6 +664,8 @@
 
 [654. 最大二叉树](../../problemset/maximum-binary-tree/README.md)
 
+[655. 输出二叉树](../../problemset/print-binary-tree/README.md)
+
 [661. 图片平滑器](../../problemset/image-smoother/README.md)
 
 [668. 乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md)

@@ -3099,6 +3099,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "655",
+        "title": "输出二叉树",
+        "path": "./problemset/print-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "675",
         "title": "为高尔夫比赛砍树",
         "path": "./problemset/cut-off-trees-for-golf-event/README.md",
@@ -3655,6 +3661,12 @@
         "id": "654",
         "title": "最大二叉树",
         "path": "./problemset/maximum-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "655",
+        "title": "输出二叉树",
+        "path": "./problemset/print-binary-tree/README.md",
         "difficulty": "中等"
       },
       {
