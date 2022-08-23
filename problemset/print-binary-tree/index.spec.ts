@@ -23,6 +23,6 @@ function testCase(fn: (root: TreeNode | null) => string[][]) {
       ],
     ],
   ])('示例%#', (root, expected) => {
-    expect(fn(createTreeNode(root))).toBe(expected)
+    expect(fn(createTreeNode(root))).toStrictEqual(expected)
   })
 }
