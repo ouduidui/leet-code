@@ -58,6 +58,7 @@
 | 1282. [用户分组](../../problemset/group-the-people-given-the-group-size-they-belong-to/README.md) | 中等 |
 | 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1380. [矩阵中的幸运数](../../problemset/lucky-numbers-in-a-matrix/README.md) | 简单 |
+| 1460. [通过翻转子数组使两个数组相等](../../problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
 | 1832. [判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
@@ -164,6 +165,7 @@
 | 1051. [高度检查器](../../problemset/height-checker/README.md) | 简单 |
 | 1200. [最小绝对差](../../problemset/minimum-absolute-difference/README.md) | 简单 |
 | 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
+| 1460. [通过翻转子数组使两个数组相等](../../problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 

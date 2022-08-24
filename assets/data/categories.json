@@ -327,6 +327,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1460",
+        "title": "通过翻转子数组使两个数组相等",
+        "path": "./problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1832",
         "title": "判断句子是否为全字母句",
         "path": "./problemset/check-if-the-sentence-is-pangram/README.md",
@@ -860,6 +866,12 @@
         "id": "1331",
         "title": "数组序号转换",
         "path": "./problemset/rank-transform-of-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "1460",
+        "title": "通过翻转子数组使两个数组相等",
+        "path": "./problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md",
         "difficulty": "简单"
       },
       {
