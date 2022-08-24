@@ -2148,6 +2148,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "782",
+        "title": "变为棋盘",
+        "path": "./problemset/transform-to-chessboard/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "796",
         "title": "旋转字符串",
         "path": "./problemset/rotate-string/README.md",

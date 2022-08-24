@@ -3640,6 +3640,16 @@
     "path": "./problemset/reaching-points/README.md"
   },
   {
+    "id": "782",
+    "title": {
+      "cn": "变为棋盘",
+      "en": "transform-to-chessboard"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/transform-to-chessboard/",
+    "path": "./problemset/transform-to-chessboard/README.md"
+  },
+  {
     "id": "796",
     "title": {
       "cn": "旋转字符串",

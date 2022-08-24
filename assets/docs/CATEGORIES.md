@@ -399,6 +399,7 @@
 | 736. [Lisp 语法解析](../../problemset/parse-lisp-expression/README.md) | 困难 |
 | 745. [前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md) | 困难 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
+| 782. [变为棋盘](../../problemset/transform-to-chessboard/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
 | 806. [写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md) | 简单 |
