@@ -684,6 +684,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "658",
+        "title": "找到 K 个最接近的元素",
+        "path": "./problemset/find-k-closest-elements/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "668",
         "title": "乘法表中第k小的数",
         "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md",
@@ -830,6 +836,12 @@
         "id": "556",
         "title": "下一个更大元素 III",
         "path": "./problemset/next-greater-element-3/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "658",
+        "title": "找到 K 个最接近的元素",
+        "path": "./problemset/find-k-closest-elements/README.md",
         "difficulty": "中等"
       },
       {
@@ -1721,6 +1733,12 @@
         "title": "两数之和 IV - 输入 BST",
         "path": "./problemset/two-sum-iv-input-is-a-bst/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "658",
+        "title": "找到 K 个最接近的元素",
+        "path": "./problemset/find-k-closest-elements/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "719",

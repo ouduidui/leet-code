@@ -130,6 +130,7 @@
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 497. [非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
+| 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
@@ -159,6 +160,7 @@
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 462. [最少移动次数使数组元素相等 II](../../problemset/minimum-moves-to-equal-array-elements-2/README.md) | 中等 |
 | 556. [下一个更大元素 III](../../problemset/next-greater-element-3/README.md) | 中等 |
+| 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 937. [重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
@@ -324,6 +326,7 @@
 | 392. [判断子序列](../../problemset/is-subsequence/README.md) | 简单 |
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
+| 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |

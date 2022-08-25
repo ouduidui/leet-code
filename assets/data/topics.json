@@ -3330,6 +3330,16 @@
     "path": "./problemset/print-binary-tree/README.md"
   },
   {
+    "id": "658",
+    "title": {
+      "cn": "找到 K 个最接近的元素",
+      "en": "find-k-closest-elements"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-k-closest-elements/",
+    "path": "./problemset/find-k-closest-elements/README.md"
+  },
+  {
     "id": "661",
     "title": {
       "cn": "图片平滑器",
