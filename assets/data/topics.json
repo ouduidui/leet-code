@@ -4350,6 +4350,16 @@
     "path": "./problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md"
   },
   {
+    "id": "1464",
+    "title": {
+      "cn": "数组中的两元素的最大乘积",
+      "en": "maximum-product-of-two-elements-in-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/",
+    "path": "./problemset/maximum-product-of-two-elements-in-an-array/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",

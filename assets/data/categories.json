@@ -887,6 +887,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1464",
+        "title": "数组中的两元素的最大乘积",
+        "path": "./problemset/maximum-product-of-two-elements-in-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1984",
         "title": "学生分数的最小差值",
         "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
@@ -2313,6 +2319,12 @@
         "id": "1422",
         "title": "分割字符串的最大得分",
         "path": "./problemset/maximum-score-after-splitting-a-string/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "1464",
+        "title": "数组中的两元素的最大乘积",
+        "path": "./problemset/maximum-product-of-two-elements-in-an-array/README.md",
         "difficulty": "简单"
       },
       {

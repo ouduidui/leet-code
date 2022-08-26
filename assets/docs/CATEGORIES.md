@@ -168,6 +168,7 @@
 | 1200. [最小绝对差](../../problemset/minimum-absolute-difference/README.md) | 简单 |
 | 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1460. [通过翻转子数组使两个数组相等](../../problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
+| 1464. [数组中的两元素的最大乘积](../../problemset/maximum-product-of-two-elements-in-an-array/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 
@@ -427,6 +428,7 @@
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1374. [生成每种字符都是奇数个的字符串](../../problemset/generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
+| 1464. [数组中的两元素的最大乘积](../../problemset/maximum-product-of-two-elements-in-an-array/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
