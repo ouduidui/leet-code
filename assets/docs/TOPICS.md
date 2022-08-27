@@ -670,6 +670,8 @@
 
 [661. 图片平滑器](../../problemset/image-smoother/README.md)
 
+[662. 二叉树最大宽度](../../problemset/maximum-width-of-binary-tree/README.md)
+
 [668. 乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md)
 
 [675. 为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md)

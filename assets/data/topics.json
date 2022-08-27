@@ -3350,6 +3350,16 @@
     "path": "./problemset/image-smoother/README.md"
   },
   {
+    "id": "662",
+    "title": {
+      "cn": "二叉树最大宽度",
+      "en": "maximum-width-of-binary-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-width-of-binary-tree/",
+    "path": "./problemset/maximum-width-of-binary-tree/README.md"
+  },
+  {
     "id": "668",
     "title": {
       "cn": "乘法表中第k小的数",

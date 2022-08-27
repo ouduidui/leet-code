@@ -579,6 +579,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 655. [输出二叉树](../../problemset/print-binary-tree/README.md) | 中等 |
+| 662. [二叉树最大宽度](../../problemset/maximum-width-of-binary-tree/README.md) | 中等 |
 | 675. [为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md) | 困难 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
 | 749. [隔离病毒](../../problemset/contain-virus/README.md) | 困难 |
@@ -694,6 +695,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 655. [输出二叉树](../../problemset/print-binary-tree/README.md) | 中等 |
+| 662. [二叉树最大宽度](../../problemset/maximum-width-of-binary-tree/README.md) | 中等 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
