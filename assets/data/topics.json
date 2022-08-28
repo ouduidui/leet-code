@@ -3670,6 +3670,16 @@
     "path": "./problemset/transform-to-chessboard/README.md"
   },
   {
+    "id": "793",
+    "title": {
+      "cn": "阶乘函数后 K 个零",
+      "en": "preimage-size-of-factorial-zeroes-function"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/",
+    "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md"
+  },
+  {
     "id": "796",
     "title": {
       "cn": "旋转字符串",

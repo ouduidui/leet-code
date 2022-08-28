@@ -720,6 +720,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "793",
+        "title": "阶乘函数后 K 个零",
+        "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "875",
         "title": "爱吃香蕉的珂珂",
         "path": "./problemset/koko-eating-bananas/README.md",
@@ -1184,6 +1190,12 @@
         "title": "二进制表示中质数个计算置位",
         "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "793",
+        "title": "阶乘函数后 K 个零",
+        "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "812",

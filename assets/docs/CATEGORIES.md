@@ -136,6 +136,7 @@
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
+| 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 
@@ -222,6 +223,7 @@
 | 593. [有效的正方形](../../problemset/valid-square/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
+| 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
