@@ -4380,6 +4380,16 @@
     "path": "./problemset/maximum-product-of-two-elements-in-an-array/README.md"
   },
   {
+    "id": "1470",
+    "title": {
+      "cn": "重新排序数组",
+      "en": "shuffle-the-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/shuffle-the-array/",
+    "path": "./problemset/shuffle-the-array/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",

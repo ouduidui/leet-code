@@ -2340,6 +2340,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1470",
+        "title": "重新排序数组",
+        "path": "./problemset/shuffle-the-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
