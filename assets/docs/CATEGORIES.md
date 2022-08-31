@@ -511,6 +511,7 @@
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
+| 946. [验证栈序列](../../problemset/validate-stack-sequences/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 

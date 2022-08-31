@@ -2770,6 +2770,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "946",
+        "title": "验证栈序列",
+        "path": "./problemset/validate-stack-sequences/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1021",
         "title": "删除最外层的括号",
         "path": "./problemset/remove-outermost-parentheses/README.md",

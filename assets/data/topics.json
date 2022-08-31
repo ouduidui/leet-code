@@ -3970,6 +3970,16 @@
     "path": "./problemset/delete-columns-to-make-sorted/README.md"
   },
   {
+    "id": "946",
+    "title": {
+      "cn": "验证栈序列",
+      "en": "validate-stack-sequences"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/validate-stack-sequences/",
+    "path": "./problemset/validate-stack-sequences/README.md"
+  },
+  {
     "id": "952",
     "title": {
       "cn": "按公因数计算最大组件大小",
