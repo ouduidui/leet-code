@@ -806,6 +806,8 @@
 
 [969. 煎饼排序](../../problemset/pancake-sorting/README.md)
 
+[998. 最大二叉树 II](../../problemset/maximum-binary-tree-2/README.md)
+
 [1001. 网格照明](../../problemset/grid-illumination/README.md)
 
 [1020. 飞地的数量](../../problemset/number-of-enclaves/README.md)

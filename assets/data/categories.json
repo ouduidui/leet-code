@@ -3760,6 +3760,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "998",
+        "title": "最大二叉树 II",
+        "path": "./problemset/maximum-binary-tree-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1022",
         "title": " 从根到叶的二进制数之和",
         "path": "./problemset/sum-of-root-to-leaf-binary-numbers/README.md",

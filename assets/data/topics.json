@@ -4030,6 +4030,16 @@
     "path": "./problemset/pancake-sorting/README.md"
   },
   {
+    "id": "998",
+    "title": {
+      "cn": "最大二叉树 II",
+      "en": "maximum-binary-tree-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-binary-tree-ii/",
+    "path": "./problemset/maximum-binary-tree-2/README.md"
+  },
+  {
     "id": "1001",
     "title": {
       "cn": "网格照明",

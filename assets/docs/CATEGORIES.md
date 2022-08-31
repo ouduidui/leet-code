@@ -701,6 +701,7 @@
 | 662. [二叉树最大宽度](../../problemset/maximum-width-of-binary-tree/README.md) | 中等 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
+| 998. [最大二叉树 II](../../problemset/maximum-binary-tree-2/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1161. [最大层内元素和](../../problemset/maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
 | 1302. [层数最深叶子节点的和](../../problemset/deepest-leaves-sum/README.md) | 中等 |
