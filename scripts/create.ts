@@ -1,7 +1,7 @@
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Difficulties, Topic } from './helper'
-import { DIFFICULTIES, createDir, figletLog, formatEnTitle, genTemplate, log, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
+import { DIFFICULTIES, commandAction, createDir, figletLog, formatEnTitle, genTemplate, log, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
 import topics from '~/assets/data/topics.json'
 
 interface InquirerAnswers {
@@ -13,6 +13,9 @@ interface InquirerAnswers {
 }
 
 (async() => {
+  // git pull
+  await commandAction('git', ['pull'])
+
   // clear terminal
   clear()
 
