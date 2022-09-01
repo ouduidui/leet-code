@@ -2782,6 +2782,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1475",
+        "title": "商品折扣后的最终价格",
+        "path": "./problemset/final-prices-with-a-special-discount-in-a-shop/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2104",
         "title": "子数组范围和",
         "path": "./problemset/sum-of-subarray-ranges/README.md",

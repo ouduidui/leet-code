@@ -882,6 +882,8 @@
 
 [1470. 重新排序数组](../../problemset/shuffle-the-array/README.md)
 
+[1475. 商品折扣后的最终价格](../../problemset/final-prices-with-a-special-discount-in-a-shop/README.md)
+
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)
 
 [1606. 找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md)

@@ -4410,6 +4410,16 @@
     "path": "./problemset/shuffle-the-array/README.md"
   },
   {
+    "id": "1475",
+    "title": {
+      "cn": "商品折扣后的最终价格",
+      "en": "final-prices-with-a-special-discount-in-a-shop"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/",
+    "path": "./problemset/final-prices-with-a-special-discount-in-a-shop/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",
