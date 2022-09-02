@@ -3195,6 +3195,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "687",
+        "title": "最长同值路径",
+        "path": "./problemset/longest-univalue-path/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "691",
         "title": "贴纸拼词",
         "path": "./problemset/stickers-to-spell-word/README.md",
@@ -3757,6 +3763,12 @@
         "id": "662",
         "title": "二叉树最大宽度",
         "path": "./problemset/maximum-width-of-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "687",
+        "title": "最长同值路径",
+        "path": "./problemset/longest-univalue-path/README.md",
         "difficulty": "中等"
       },
       {

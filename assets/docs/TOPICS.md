@@ -680,6 +680,8 @@
 
 [682. 棒球比赛](../../problemset/baseball-game/README.md)
 
+[687. 最长同值路径](../../problemset/longest-univalue-path/README.md)
+
 [688. 骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md)
 
 [691. 贴纸拼词](../../problemset/stickers-to-spell-word/README.md)

@@ -3400,6 +3400,16 @@
     "path": "./problemset/baseball-game/README.md"
   },
   {
+    "id": "687",
+    "title": {
+      "cn": "最长同值路径",
+      "en": "longest-univalue-path"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-univalue-path/",
+    "path": "./problemset/longest-univalue-path/README.md"
+  },
+  {
     "id": "688",
     "title": {
       "cn": "骑士在棋盘上的概率",
