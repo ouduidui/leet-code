@@ -3290,6 +3290,16 @@
     "path": "./problemset/design-circular-deque/README.md"
   },
   {
+    "id": "646",
+    "title": {
+      "cn": "最长数对链",
+      "en": "maximum-length-of-pair-chain"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-length-of-pair-chain/",
+    "path": "./problemset/maximum-length-of-pair-chain/README.md"
+  },
+  {
     "id": "648",
     "title": {
       "cn": "单词替换",

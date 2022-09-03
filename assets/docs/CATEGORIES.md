@@ -130,6 +130,7 @@
 | 436. [寻找右区间](../../problemset/find-right-interval/README.md) | 中等 |
 | 497. [非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md) | 中等 |
 | 540. [有序数组中的单一元素](../../problemset/single-element-in-a-sorted-array/README.md) | 中等 |
+| 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
@@ -285,6 +286,7 @@
 | 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 467. [环绕字符串中唯一的子字符串](../../problemset/unique-substrings-in-wraparound-string/README.md) | 中等 |
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
+| 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
 | 741. [摘樱桃](../../problemset/cherry-pickup/README.md) | 困难 |
@@ -643,6 +645,7 @@
 | 300. [最长递增子序列](../../problemset/longest-increasing-subsequence/README.md) | 中等 |
 | 330. [按要求补齐数组](../../problemset/patching-array/README.md) | 困难 |
 | 334. [递增的三元子序列](../../problemset/increasing-triplet-subsequence/README.md) | 中等 |
+| 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 757. [设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 942. [增减字符串匹配](../../problemset/di-string-match/README.md) | 简单 |

@@ -684,6 +684,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "646",
+        "title": "最长数对链",
+        "path": "./problemset/maximum-length-of-pair-chain/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "658",
         "title": "找到 K 个最接近的元素",
         "path": "./problemset/find-k-closest-elements/README.md",
@@ -1511,6 +1517,12 @@
         "id": "473",
         "title": "火柴拼正方形",
         "path": "./problemset/matchsticks-to-square/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "646",
+        "title": "最长数对链",
+        "path": "./problemset/maximum-length-of-pair-chain/README.md",
         "difficulty": "中等"
       },
       {
@@ -3434,6 +3446,12 @@
         "id": "334",
         "title": "递增的三元子序列",
         "path": "./problemset/increasing-triplet-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "646",
+        "title": "最长数对链",
+        "path": "./problemset/maximum-length-of-pair-chain/README.md",
         "difficulty": "中等"
       },
       {

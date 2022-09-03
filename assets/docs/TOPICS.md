@@ -658,6 +658,8 @@
 
 [641. 设计循环双端队列](../../problemset/design-circular-deque/README.md)
 
+[646. 最长数对链](../../problemset/maximum-length-of-pair-chain/README.md)
+
 [648. 单词替换](../../problemset/replace-words/README.md)
 
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)
