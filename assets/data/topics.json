@@ -4440,6 +4440,16 @@
     "path": "./problemset/final-prices-with-a-special-discount-in-a-shop/README.md"
   },
   {
+    "id": "1582",
+    "title": {
+      "cn": "二进制矩阵中的特殊位置",
+      "en": "special-positions-in-a-binary-matrix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/special-positions-in-a-binary-matrix/",
+    "path": "./problemset/special-positions-in-a-binary-matrix/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",

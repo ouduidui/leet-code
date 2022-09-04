@@ -434,6 +434,7 @@
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1464. [数组中的两元素的最大乘积](../../problemset/maximum-product-of-two-elements-in-an-array/README.md) | 简单 |
 | 1470. [重新排序数组](../../problemset/shuffle-the-array/README.md) | 简单 |
+| 1582. [二进制矩阵中的特殊位置](../../problemset/special-positions-in-a-binary-matrix/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |

@@ -2358,6 +2358,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1582",
+        "title": "二进制矩阵中的特殊位置",
+        "path": "./problemset/special-positions-in-a-binary-matrix/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
