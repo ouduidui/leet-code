@@ -3310,6 +3310,16 @@
     "path": "./problemset/replace-words/README.md"
   },
   {
+    "id": "652",
+    "title": {
+      "cn": "寻找重复的子树",
+      "en": "find-duplicate-subtrees"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-duplicate-subtrees/",
+    "path": "./problemset/find-duplicate-subtrees/README.md"
+  },
+  {
     "id": "653",
     "title": {
       "cn": "两数之和 IV - 输入 BST",

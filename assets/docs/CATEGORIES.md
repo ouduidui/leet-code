@@ -584,6 +584,7 @@
 | 590. [N 叉树的后序遍历](../../problemset/n-ary-tree-postorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
+| 652. [寻找重复的子树](../../problemset/find-duplicate-subtrees/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 655. [输出二叉树](../../problemset/print-binary-tree/README.md) | 中等 |
@@ -702,6 +703,7 @@
 | 589. [N 叉树的前序遍历](../../problemset/n-ary-tree-preorder-traversal/README.md) | 简单 |
 | 606. [根据二叉树创建字符串](../../problemset/construct-string-from-binary-tree/README.md) | 简单 |
 | 623. [在二叉树中增加一行](../../problemset/add-one-row-to-tree/README.md) | 中等 |
+| 652. [寻找重复的子树](../../problemset/find-duplicate-subtrees/README.md) | 中等 |
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 655. [输出二叉树](../../problemset/print-binary-tree/README.md) | 中等 |

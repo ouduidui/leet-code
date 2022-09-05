@@ -662,6 +662,8 @@
 
 [648. 单词替换](../../problemset/replace-words/README.md)
 
+[652. 寻找重复的子树](../../problemset/find-duplicate-subtrees/README.md)
+
 [653. 两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md)
 
 [654. 最大二叉树](../../problemset/maximum-binary-tree/README.md)
