@@ -760,6 +760,8 @@
 
 [824. 山羊拉丁文](../../problemset/goat-latin/README.md)
 
+[828. 统计子串中的唯一字符](../../problemset/count-unique-characters-of-all-substrings-of-a-given-string/README.md)
+
 [829. 连续整数求和](../../problemset/consecutive-numbers-sum/README.md)
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)

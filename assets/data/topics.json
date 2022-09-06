@@ -3800,6 +3800,16 @@
     "path": "./problemset/goat-latin/README.md"
   },
   {
+    "id": "828",
+    "title": {
+      "cn": "统计子串中的唯一字符",
+      "en": "count-unique-characters-of-all-substrings-of-a-given-string"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/",
+    "path": "./problemset/count-unique-characters-of-all-substrings-of-a-given-string/README.md"
+  },
+  {
     "id": "829",
     "title": {
       "cn": "连续整数求和",
