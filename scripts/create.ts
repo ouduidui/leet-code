@@ -42,7 +42,19 @@ interface InquirerAnswers {
     },
     {
       type: 'input',
+      name: 'url',
+      message: 'please enter the leetcode url of the topic:',
+    },
+    {
+      type: 'input',
       name: 'en',
+      default: ({ url }: InquirerAnswers) => {
+        const arr = url.split('/')
+        while (arr.length && !arr[arr.length - 1])
+          arr.pop()
+
+        return arr.pop()
+      },
       message: 'please enter the english title of the topic:',
       validate: (input) => {
         const en = formatEnTitle(input)
@@ -51,11 +63,6 @@ interface InquirerAnswers {
         else
           return true
       },
-    },
-    {
-      type: 'input',
-      name: 'url',
-      message: 'please enter the leetcode url of the topic:',
     },
     {
       type: 'list',
