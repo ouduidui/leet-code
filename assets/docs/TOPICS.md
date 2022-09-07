@@ -894,6 +894,8 @@
 
 [1582. 二进制矩阵中的特殊位置](../../problemset/special-positions-in-a-binary-matrix/README.md)
 
+[1592. 重新排列单词间的空格](../../problemset/rearrange-spaces-between-words/README.md)
+
 [1601. 最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md)
 
 [1606. 找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md)

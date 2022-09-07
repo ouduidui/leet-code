@@ -4470,6 +4470,16 @@
     "path": "./problemset/special-positions-in-a-binary-matrix/README.md"
   },
   {
+    "id": "1592",
+    "title": {
+      "cn": "重新排列单词间的空格",
+      "en": "rearrange-spaces-between-words"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/rearrange-spaces-between-words/",
+    "path": "./problemset/rearrange-spaces-between-words/README.md"
+  },
+  {
     "id": "1601",
     "title": {
       "cn": "最多可达成的换楼请求数目",

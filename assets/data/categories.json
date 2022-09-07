@@ -2370,6 +2370,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1592",
+        "title": "重新排列单词间的空格",
+        "path": "./problemset/rearrange-spaces-between-words/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1606",
         "title": "找到处理最多请求的服务器",
         "path": "./problemset/find-servers-that-handled-most-number-of-requests/README.md",
