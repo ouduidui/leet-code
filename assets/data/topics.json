@@ -3380,6 +3380,16 @@
     "path": "./problemset/maximum-width-of-binary-tree/README.md"
   },
   {
+    "id": "667",
+    "title": {
+      "cn": "优美的排列 II",
+      "en": "beautiful-arrangement-2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/beautiful-arrangement-ii/",
+    "path": "./problemset/beautiful-arrangement-2/README.md"
+  },
+  {
     "id": "668",
     "title": {
       "cn": "乘法表中第k小的数",

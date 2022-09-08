@@ -2142,6 +2142,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "667",
+        "title": "优美的排列 II",
+        "path": "./problemset/beautiful-arrangement-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "682",
         "title": "棒球比赛",
         "path": "./problemset/baseball-game/README.md",
