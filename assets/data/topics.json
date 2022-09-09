@@ -4620,6 +4620,16 @@
     "path": "./problemset/check-if-the-sentence-is-pangram/README.md"
   },
   {
+    "id": "1958",
+    "title": {
+      "cn": "文件夹操作日志搜集器",
+      "en": "crawler-log-folder"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/crawler-log-folder/",
+    "path": "./problemset/crawler-log-folder/README.md"
+  },
+  {
     "id": "1961",
     "title": {
       "cn": "检查字符串是否为数组前缀",

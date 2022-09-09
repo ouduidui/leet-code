@@ -2412,6 +2412,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1958",
+        "title": "文件夹操作日志搜集器",
+        "path": "./problemset/crawler-log-folder/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1961",
         "title": "检查字符串是否为数组前缀",
         "path": "./problemset/check-if-string-is-a-prefix-of-array/README.md",
