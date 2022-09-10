@@ -680,6 +680,8 @@
 
 [668. 乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md)
 
+[669. 修剪二叉搜索树](../../problemset/trim-a-binary-search-tree/README.md)
+
 [675. 为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md)
 
 [676. 实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md)

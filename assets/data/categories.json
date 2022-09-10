@@ -3237,6 +3237,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "669",
+        "title": "修剪二叉搜索树",
+        "path": "./problemset/trim-a-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "675",
         "title": "为高尔夫比赛砍树",
         "path": "./problemset/cut-off-trees-for-golf-event/README.md",
@@ -3823,6 +3829,12 @@
         "id": "662",
         "title": "二叉树最大宽度",
         "path": "./problemset/maximum-width-of-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "669",
+        "title": "修剪二叉搜索树",
+        "path": "./problemset/trim-a-binary-search-tree/README.md",
         "difficulty": "中等"
       },
       {

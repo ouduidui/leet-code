@@ -3400,6 +3400,16 @@
     "path": "./problemset/kth-smallest-number-in-multiplication-table/README.md"
   },
   {
+    "id": "669",
+    "title": {
+      "cn": "修剪二叉搜索树",
+      "en": "trim-a-binary-search-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/trim-a-binary-search-tree/",
+    "path": "./problemset/trim-a-binary-search-tree/README.md"
+  },
+  {
     "id": "675",
     "title": {
       "cn": "为高尔夫比赛砍树",
