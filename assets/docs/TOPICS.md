@@ -770,6 +770,8 @@
 
 [838. 推多米诺](../../problemset/push-dominoes/README.md)
 
+[857. 雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md)
+
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
 [871. 最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md)

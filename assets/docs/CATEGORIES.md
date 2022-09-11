@@ -654,6 +654,7 @@
 | 334. [递增的三元子序列](../../problemset/increasing-triplet-subsequence/README.md) | 中等 |
 | 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 757. [设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md) | 困难 |
+| 857. [雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 942. [增减字符串匹配](../../problemset/di-string-match/README.md) | 简单 |
 | 1217. [玩筹码](../../problemset/minimum-cost-to-move-chips-to-the-same-position/README.md) | 简单 |
@@ -791,6 +792,7 @@
 | 239. [滑动窗口最大值](../../problemset/sliding-window-maximum/README.md) | 困难 |
 | 264. [丑数 II](../../problemset/ugly-number-2/README.md) | 中等 |
 | 295. [数据流的中位数](../../problemset/find-median-from-data-stream/README.md) | 困难 |
+| 857. [雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md) | 困难 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 
 ## 树状数组
