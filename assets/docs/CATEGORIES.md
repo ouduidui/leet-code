@@ -171,6 +171,7 @@
 | 1331. [数组序号转换](../../problemset/rank-transform-of-an-array/README.md) | 简单 |
 | 1460. [通过翻转子数组使两个数组相等](../../problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
 | 1464. [数组中的两元素的最大乘积](../../problemset/maximum-product-of-two-elements-in-an-array/README.md) | 简单 |
+| 1608. [特殊数组的特征值](../../problemset/special-array-with-x-elements-greater-than-or-equal-x/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
 

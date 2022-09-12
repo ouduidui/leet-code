@@ -905,6 +905,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1608",
+        "title": "特殊数组的特征值",
+        "path": "./problemset/special-array-with-x-elements-greater-than-or-equal-x/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1984",
         "title": "学生分数的最小差值",
         "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
