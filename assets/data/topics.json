@@ -3410,6 +3410,16 @@
     "path": "./problemset/trim-a-binary-search-tree/README.md"
   },
   {
+    "id": "670",
+    "title": {
+      "cn": "最大交换",
+      "en": "maximum-swap"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-swap/",
+    "path": "./problemset/maximum-swap/README.md"
+  },
+  {
     "id": "675",
     "title": {
       "cn": "为高尔夫比赛砍树",

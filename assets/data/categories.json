@@ -2154,6 +2154,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "670",
+        "title": "最大交换",
+        "path": "./problemset/maximum-swap/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "682",
         "title": "棒球比赛",
         "path": "./problemset/baseball-game/README.md",
@@ -3500,6 +3506,12 @@
         "id": "646",
         "title": "最长数对链",
         "path": "./problemset/maximum-length-of-pair-chain/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "670",
+        "title": "最大交换",
+        "path": "./problemset/maximum-swap/README.md",
         "difficulty": "中等"
       },
       {

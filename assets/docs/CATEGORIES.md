@@ -400,6 +400,7 @@
 | 641. [设计循环双端队列](../../problemset/design-circular-deque/README.md) | 中等 |
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 667. [优美的排列 II](../../problemset/beautiful-arrangement-2/README.md) | 中等 |
+| 670. [最大交换](../../problemset/maximum-swap/README.md) | 中等 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
 | 715. [Range模块](../../problemset/range-module/README.md) | 困难 |
@@ -654,6 +655,7 @@
 | 330. [按要求补齐数组](../../problemset/patching-array/README.md) | 困难 |
 | 334. [递增的三元子序列](../../problemset/increasing-triplet-subsequence/README.md) | 中等 |
 | 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
+| 670. [最大交换](../../problemset/maximum-swap/README.md) | 中等 |
 | 757. [设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md) | 困难 |
 | 857. [雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |

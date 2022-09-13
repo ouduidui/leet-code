@@ -682,6 +682,8 @@
 
 [669. 修剪二叉搜索树](../../problemset/trim-a-binary-search-tree/README.md)
 
+[670. 最大交换](../../problemset/maximum-swap/README.md)
+
 [675. 为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md)
 
 [676. 实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md)
