@@ -910,6 +910,8 @@
 
 [1608. 特殊数组的特征值](../../problemset/special-array-with-x-elements-greater-than-or-equal-x/README.md)
 
+[1619. 删除某些元素后的数组均值](../../problemset/mean-of-array-after-removing-some-elements/README.md)
+
 [1656. 涉及有序流](../../problemset/design-an-ordered-stream/README.md)
 
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)

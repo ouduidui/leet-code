@@ -4550,6 +4550,16 @@
     "path": "./problemset/special-array-with-x-elements-greater-than-or-equal-x/README.md"
   },
   {
+    "id": "1619",
+    "title": {
+      "cn": "删除某些元素后的数组均值",
+      "en": "mean-of-array-after-removing-some-elements"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/",
+    "path": "./problemset/mean-of-array-after-removing-some-elements/README.md"
+  },
+  {
     "id": "1656",
     "title": {
       "cn": "涉及有序流",

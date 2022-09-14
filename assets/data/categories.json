@@ -911,6 +911,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1619",
+        "title": "删除某些元素后的数组均值",
+        "path": "./problemset/mean-of-array-after-removing-some-elements/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1984",
         "title": "学生分数的最小差值",
         "path": "./problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
