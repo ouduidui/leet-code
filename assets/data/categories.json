@@ -2166,6 +2166,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "672",
+        "title": "灯泡开关 Ⅱ",
+        "path": "./problemset/bulb-switcher-2/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "682",
         "title": "棒球比赛",
         "path": "./problemset/baseball-game/README.md",

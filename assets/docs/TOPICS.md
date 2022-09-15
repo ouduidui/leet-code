@@ -684,6 +684,8 @@
 
 [670. 最大交换](../../problemset/maximum-swap/README.md)
 
+[672. 灯泡开关 Ⅱ](../../problemset/bulb-switcher-2/README.md)
+
 [675. 为高尔夫比赛砍树](../../problemset/cut-off-trees-for-golf-event/README.md)
 
 [676. 实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md)

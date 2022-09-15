@@ -402,6 +402,7 @@
 | 661. [图片平滑器](../../problemset/image-smoother/README.md) | 简单 |
 | 667. [优美的排列 II](../../problemset/beautiful-arrangement-2/README.md) | 中等 |
 | 670. [最大交换](../../problemset/maximum-swap/README.md) | 中等 |
+| 672. [灯泡开关 Ⅱ](../../problemset/bulb-switcher-2/README.md) | 中等 |
 | 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 709. [转换成小写字母](../../problemset/to-lower-case/README.md) | 简单 |
 | 715. [Range模块](../../problemset/range-module/README.md) | 困难 |
