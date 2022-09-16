@@ -2274,6 +2274,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "850",
+        "title": "矩形面积 II",
+        "path": "./problemset/rectangle-area-2/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "890",
         "title": "查找和替换模式",
         "path": "./problemset/find-and-replace-pattern/README.md",

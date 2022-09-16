@@ -3870,6 +3870,16 @@
     "path": "./problemset/push-dominoes/README.md"
   },
   {
+    "id": "850",
+    "title": {
+      "cn": "矩形面积 II",
+      "en": "rectangle-area-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/rectangle-area-ii/",
+    "path": "./problemset/rectangle-area-2/README.md"
+  },
+  {
     "id": "857",
     "title": {
       "cn": "雇佣 K 名工人的最低成本",
