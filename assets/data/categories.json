@@ -333,6 +333,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1624",
+        "title": "两个相同字符之间的最长子字符串",
+        "path": "./problemset/largest-substring-between-two-equal-characters/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1832",
         "title": "判断句子是否为全字母句",
         "path": "./problemset/check-if-the-sentence-is-pangram/README.md",

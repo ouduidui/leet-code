@@ -4580,6 +4580,16 @@
     "path": "./problemset/mean-of-array-after-removing-some-elements/README.md"
   },
   {
+    "id": "1624",
+    "title": {
+      "cn": "两个相同字符之间的最长子字符串",
+      "en": "largest-substring-between-two-equal-characters"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/largest-substring-between-two-equal-characters/",
+    "path": "./problemset/largest-substring-between-two-equal-characters/README.md"
+  },
+  {
     "id": "1656",
     "title": {
       "cn": "涉及有序流",
