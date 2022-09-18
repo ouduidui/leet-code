@@ -3840,6 +3840,16 @@
     "path": "./problemset/goat-latin/README.md"
   },
   {
+    "id": "827",
+    "title": {
+      "cn": "最大人工岛",
+      "en": "making-a-large-island"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/making-a-large-island/",
+    "path": "./problemset/making-a-large-island/README.md"
+  },
+  {
     "id": "828",
     "title": {
       "cn": "统计子串中的唯一字符",

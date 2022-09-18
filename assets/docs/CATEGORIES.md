@@ -419,6 +419,7 @@
 | 806. [写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md) | 简单 |
 | 821. [字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md) | 简单 |
 | 824. [山羊拉丁文](../../problemset/goat-latin/README.md) | 简单 |
+| 827. [最大人工岛](../../problemset/making-a-large-island/README.md) | 困难 |
 | 828. [统计子串中的唯一字符](../../problemset/count-unique-characters-of-all-substrings-of-a-given-string/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 850. [矩形面积 II](../../problemset/rectangle-area-2/README.md) | 困难 |
