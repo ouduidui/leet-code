@@ -920,6 +920,8 @@
 
 [1624. 两个相同字符之间的最长子字符串](../../problemset/largest-substring-between-two-equal-characters/README.md)
 
+[1636. 按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md)
+
 [1656. 涉及有序流](../../problemset/design-an-ordered-stream/README.md)
 
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)

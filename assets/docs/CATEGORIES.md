@@ -446,6 +446,7 @@
 | 1582. [二进制矩阵中的特殊位置](../../problemset/special-positions-in-a-binary-matrix/README.md) | 简单 |
 | 1592. [重新排列单词间的空格](../../problemset/rearrange-spaces-between-words/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
+| 1636. [按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md) | 简单 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |

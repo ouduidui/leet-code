@@ -4600,6 +4600,16 @@
     "path": "./problemset/largest-substring-between-two-equal-characters/README.md"
   },
   {
+    "id": "1636",
+    "title": {
+      "cn": "按照频率将数组升序排序",
+      "en": "sort-array-by-increasing-frequency"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sort-array-by-increasing-frequency/",
+    "path": "./problemset/sort-array-by-increasing-frequency/README.md"
+  },
+  {
     "id": "1656",
     "title": {
       "cn": "涉及有序流",

@@ -2430,6 +2430,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1636",
+        "title": "按照频率将数组升序排序",
+        "path": "./problemset/sort-array-by-increasing-frequency/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1656",
         "title": "涉及有序流",
         "path": "./problemset/design-an-ordered-stream/README.md",
