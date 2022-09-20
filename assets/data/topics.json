@@ -3500,6 +3500,16 @@
     "path": "./problemset/binary-number-with-alternating-bits/README.md"
   },
   {
+    "id": "698",
+    "title": {
+      "cn": "划分为k个相等的子集",
+      "en": "partition-to-k-equal-sum-subsets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/",
+    "path": "./problemset/partition-to-k-equal-sum-subsets/README.md"
+  },
+  {
     "id": "699",
     "title": {
       "cn": "掉落的方块",

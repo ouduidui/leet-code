@@ -700,6 +700,8 @@
 
 [693. 交替位二进制数](../../problemset/binary-number-with-alternating-bits/README.md)
 
+[698. 划分为k个相等的子集](../../problemset/partition-to-k-equal-sum-subsets/README.md)
+
 [699. 掉落的方块](../../problemset/falling-squares/README.md)
 
 [709. 转换成小写字母](../../problemset/to-lower-case/README.md)

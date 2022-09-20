@@ -1550,6 +1550,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "698",
+        "title": "划分为k个相等的子集",
+        "path": "./problemset/partition-to-k-equal-sum-subsets/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "730",
         "title": "统计不同回文子序列",
         "path": "./problemset/count-different-palindromic-subsequences/README.md",

@@ -291,6 +291,7 @@
 | 473. [火柴拼正方形](../../problemset/matchsticks-to-square/README.md) | 中等 |
 | 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 688. [骑士在棋盘上的概率](../../problemset/knight-probability-in-chessboard/README.md) | 中等 |
+| 698. [划分为k个相等的子集](../../problemset/partition-to-k-equal-sum-subsets/README.md) | 中等 |
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
 | 741. [摘樱桃](../../problemset/cherry-pickup/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
