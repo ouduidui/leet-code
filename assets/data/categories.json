@@ -3333,6 +3333,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "854",
+        "title": "相似度为 K 的字符串",
+        "path": "./problemset/k-similar-strings/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "965",
         "title": "单值二叉树",
         "path": "./problemset/univalued-binary-tree/README.md",

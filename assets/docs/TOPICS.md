@@ -780,6 +780,8 @@
 
 [850. 矩形面积 II](../../problemset/rectangle-area-2/README.md)
 
+[854. 相似度为 K 的字符串](../../problemset/k-similar-strings/README.md)
+
 [857. 雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md)
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)
