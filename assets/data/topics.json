@@ -3900,16 +3900,6 @@
     "path": "./problemset/rectangle-area-2/README.md"
   },
   {
-    "id": "854",
-    "title": {
-      "cn": "相似度为 K 的字符串",
-      "en": "k-similar-strings"
-    },
-    "difficulty": "困难",
-    "url": "https://leetcode.cn/problems/k-similar-strings/",
-    "path": "./problemset/k-similar-strings/README.md"
-  },
-  {
     "id": "857",
     "title": {
       "cn": "雇佣 K 名工人的最低成本",
@@ -4628,6 +4618,16 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/sort-array-by-increasing-frequency/",
     "path": "./problemset/sort-array-by-increasing-frequency/README.md"
+  },
+  {
+    "id": "1640",
+    "title": {
+      "cn": "能否连接形成数组",
+      "en": "check-array-formation-through-concatenation"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-array-formation-through-concatenation/",
+    "path": "./problemset/check-array-formation-through-concatenation/README.md"
   },
   {
     "id": "1656",

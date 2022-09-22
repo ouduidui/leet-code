@@ -780,8 +780,6 @@
 
 [850. 矩形面积 II](../../problemset/rectangle-area-2/README.md)
 
-[854. 相似度为 K 的字符串](../../problemset/k-similar-strings/README.md)
-
 [857. 雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md)
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)
@@ -925,6 +923,8 @@
 [1624. 两个相同字符之间的最长子字符串](../../problemset/largest-substring-between-two-equal-characters/README.md)
 
 [1636. 按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md)
+
+[1640. 能否连接形成数组](../../problemset/check-array-formation-through-concatenation/README.md)
 
 [1656. 涉及有序流](../../problemset/design-an-ordered-stream/README.md)
 

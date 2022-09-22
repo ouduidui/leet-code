@@ -339,6 +339,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1640",
+        "title": "能否连接形成数组",
+        "path": "./problemset/check-array-formation-through-concatenation/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1832",
         "title": "判断句子是否为全字母句",
         "path": "./problemset/check-if-the-sentence-is-pangram/README.md",
