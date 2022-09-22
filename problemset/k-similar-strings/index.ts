@@ -1,8 +1,8 @@
 /**
  * 广度优先遍历
- * @param s1 
- * @param s2 
- * @returns 
+ * @param s1
+ * @param s2
+ * @returns
  */
 export function kSimilarity(s1: string, s2: string): number {
   const n = s1.length
