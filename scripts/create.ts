@@ -1,7 +1,7 @@
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Difficulties, Topic } from './helper'
-import { DIFFICULTIES, commandAction, createDir, figletLog, formatEnTitle, genTemplate, log, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
+import { DIFFICULTIES, commandAction, createDir, figletLog, formatEnTitle, genTemplate, log, splitTitleWithId, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
 import topics from '~/assets/data/topics.json'
 
 interface InquirerAnswers {
@@ -26,19 +26,22 @@ interface InquirerAnswers {
   const ans = await inquirer.prompt<InquirerAnswers>([
     {
       type: 'input',
+      name: 'cn',
+      message: 'please enter the chinese title of the topic (with topic id):',
+    },
+    {
+      type: 'input',
       name: 'id',
       message: 'please enter the topic id:',
+      default: ({ cn }: InquirerAnswers) => {
+        return cn.split('.')[0] || ''
+      },
       validate: (input) => {
         if (topics.find(topic => topic.id === input))
           return 'The same topic id already exists'
         else
-          return true
+          return !!input
       },
-    },
-    {
-      type: 'input',
-      name: 'cn',
-      message: 'please enter the chinese title of the topic:',
     },
     {
       type: 'input',
@@ -77,14 +80,18 @@ interface InquirerAnswers {
   })
 
   const { id, cn, url } = ans
+  let title = cn
+  if (cn.includes('.'))
+    title = splitTitleWithId(cn).title
+
   const en = formatEnTitle(ans.en)
   const diff = DIFFICULTIES[ans.diff]
   log(`start creating topic: ${en}`, 'white')
 
   // create
   if (createDir(en)) {
-    genTemplate(en, cn, diff, url)
-    const newTopics = updateTopicsJson(topics as Topic[], id, cn, en, diff, url)
+    genTemplate(en, title, diff, url)
+    const newTopics = updateTopicsJson(topics as Topic[], id, title, en, diff, url)
     updateTopicsReadme(newTopics)
     updateTopicCountOnReadme(newTopics.length)
 
