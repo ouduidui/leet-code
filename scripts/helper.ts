@@ -58,6 +58,14 @@ export const formatCamelCase = (en: string) => en.split('-')
     '',
   )
 
+export const splitTitleWithId = (str: string) => {
+  const [id, ...title] = str.split('.')
+  return {
+    id,
+    title: title.join('').trim(),
+  }
+}
+
 /**
  * path
  */
