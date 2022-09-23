@@ -91,6 +91,7 @@
 | 237. [删除链表中的节点](../../problemset/delete-node-in-a-linked-list/README.md) | 简单 |
 | 328. [奇偶链表](../../problemset/odd-even-linked-list/README.md) | 中等 |
 | 432. [全 O(1) 的数据结构](../../problemset/all-one-data-structure/README.md) | 困难 |
+| 707. [设计链表](../../problemset/design-linked-list/README.md) | 中等 |
 
 ## 滑动窗口
 

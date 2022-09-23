@@ -3520,6 +3520,16 @@
     "path": "./problemset/falling-squares/README.md"
   },
   {
+    "id": "707",
+    "title": {
+      "cn": "设计链表",
+      "en": "design-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-linked-list/",
+    "path": "./problemset/design-linked-list/README.md"
+  },
+  {
     "id": "709",
     "title": {
       "cn": "转换成小写字母",

@@ -498,6 +498,12 @@
         "title": "全 O(1) 的数据结构",
         "path": "./problemset/all-one-data-structure/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "707",
+        "title": "设计链表",
+        "path": "./problemset/design-linked-list/README.md",
+        "difficulty": "中等"
       }
     ]
   },

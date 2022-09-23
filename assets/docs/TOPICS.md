@@ -704,6 +704,8 @@
 
 [699. 掉落的方块](../../problemset/falling-squares/README.md)
 
+[707. 设计链表](../../problemset/design-linked-list/README.md)
+
 [709. 转换成小写字母](../../problemset/to-lower-case/README.md)
 
 [710. 黑名单中的随机数](../../problemset/random-pick-with-blacklist/README.md)
