@@ -565,6 +565,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1652",
+        "title": "拆炸弹",
+        "path": "./problemset/defuse-the-bomb/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1763",
         "title": "最长的美好子字符串",
         "path": "./problemset/longest-nice-substring/README.md",

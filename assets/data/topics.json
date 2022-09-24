@@ -4640,6 +4640,16 @@
     "path": "./problemset/check-array-formation-through-concatenation/README.md"
   },
   {
+    "id": "1652",
+    "title": {
+      "cn": "拆炸弹",
+      "en": "defuse-the-bomb"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/defuse-the-bomb/",
+    "path": "./problemset/defuse-the-bomb/README.md"
+  },
+  {
     "id": "1656",
     "title": {
       "cn": "涉及有序流",

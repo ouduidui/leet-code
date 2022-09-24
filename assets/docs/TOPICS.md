@@ -928,6 +928,8 @@
 
 [1640. 能否连接形成数组](../../problemset/check-array-formation-through-concatenation/README.md)
 
+[1652. 拆炸弹](../../problemset/defuse-the-bomb/README.md)
+
 [1656. 涉及有序流](../../problemset/design-an-ordered-stream/README.md)
 
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)
