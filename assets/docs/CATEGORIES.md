@@ -297,6 +297,7 @@
 | 698. [划分为k个相等的子集](../../problemset/partition-to-k-equal-sum-subsets/README.md) | 中等 |
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
 | 741. [摘樱桃](../../problemset/cherry-pickup/README.md) | 困难 |
+| 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
@@ -749,6 +750,7 @@
 | 522. [最长特殊序列 II](../../problemset/longest-uncommon-subsequence-2/README.md) | 中等 |
 | 676. [实现一个魔法字典](../../problemset/implement-magic-dictionary/README.md) | 中等 |
 | 699. [掉落的方块](../../problemset/falling-squares/README.md) | 困难 |
+| 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 1408. [数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |

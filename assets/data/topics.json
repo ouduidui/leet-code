@@ -3760,6 +3760,16 @@
     "path": "./problemset/transform-to-chessboard/README.md"
   },
   {
+    "id": "788",
+    "title": {
+      "cn": "旋转数字",
+      "en": "rotated-digits"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/rotated-digits/",
+    "path": "./problemset/rotated-digits/README.md"
+  },
+  {
     "id": "793",
     "title": {
       "cn": "阶乘函数后 K 个零",

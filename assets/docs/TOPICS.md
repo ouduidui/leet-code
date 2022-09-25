@@ -752,6 +752,8 @@
 
 [782. 变为棋盘](../../problemset/transform-to-chessboard/README.md)
 
+[788. 旋转数字](../../problemset/rotated-digits/README.md)
+
 [793. 阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md)
 
 [796. 旋转字符串](../../problemset/rotate-string/README.md)
