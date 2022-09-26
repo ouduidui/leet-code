@@ -34,7 +34,11 @@ interface InquirerAnswers {
       name: 'id',
       message: 'please enter the topic id:',
       default: ({ cn }: InquirerAnswers) => {
-        return cn.split('.')[0] || ''
+        if (cn.includes('.')) {
+          const { id } = splitTitleWithId(cn)
+          return id
+        }
+        return ''
       },
       validate: (input) => {
         if (topics.find(topic => topic.id === input))
