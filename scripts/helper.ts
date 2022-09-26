@@ -59,10 +59,11 @@ export const formatCamelCase = (en: string) => en.split('-')
   )
 
 export const splitTitleWithId = (str: string) => {
-  const [id, ...title] = str.split('.')
+  const arr = str.split('.')
+  const title = arr.pop()!
   return {
-    id,
-    title: title.join('').trim(),
+    id: arr.join('.').trim(),
+    title: title.trim(),
   }
 }
 
