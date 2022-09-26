@@ -782,6 +782,7 @@
 | 868. [二进制间距](../../problemset/binary-gap/README.md) | 简单 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2044. [统计按位或能得到最大值的子集数目](../../problemset/count-number-of-maximum-bitwise-or-subsets/README.md) | 中等 |
+| 面试题 17.19. [消失的两个数字](../../problemset/missing-two-lcci/README.md) | 困难 |
 
 ## 并查集
 

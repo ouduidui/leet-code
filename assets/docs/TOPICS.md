@@ -998,6 +998,8 @@
 
 [面试题 17.11. 单词距离](../../problemset/find-closest-lcci/README.md)
 
+[面试题 17.19. 消失的两个数字](../../problemset/missing-two-lcci/README.md)
+
 [剑指 Offer II 114. 外星文字典](../../problemset/alien-dictionary/README.md)
 
 [剑指 Offer II 029. 排序的循环链表](../../problemset/sorted-circular-linked-list/README.md)

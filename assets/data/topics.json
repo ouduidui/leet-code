@@ -5038,5 +5038,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/ur2n8P/",
     "path": "./problemset/rebuild-sequence/README.md"
+  },
+  {
+    "id": "面试题 17.19",
+    "title": {
+      "cn": "消失的两个数字",
+      "en": "missing-two-lcci"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/missing-two-lcci/",
+    "path": "./problemset/missing-two-lcci/README.md"
   }
 ]

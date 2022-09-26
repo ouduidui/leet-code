@@ -4194,6 +4194,12 @@
         "title": "统计按位或能得到最大值的子集数目",
         "path": "./problemset/count-number-of-maximum-bitwise-or-subsets/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 17.19",
+        "title": "消失的两个数字",
+        "path": "./problemset/missing-two-lcci/README.md",
+        "difficulty": "困难"
       }
     ]
   },
