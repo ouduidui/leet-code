@@ -64,6 +64,7 @@
 | 1832. [判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
+| 面试题 01.02. [判定是否互为字符重排](../../problemset/check-permutation-lcci/README.md) | 简单 |
 
 ## 链表
 

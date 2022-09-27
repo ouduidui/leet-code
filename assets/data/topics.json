@@ -5048,5 +5048,15 @@
     "difficulty": "困难",
     "url": "https://leetcode.cn/problems/missing-two-lcci/",
     "path": "./problemset/missing-two-lcci/README.md"
+  },
+  {
+    "id": "面试题 01.02",
+    "title": {
+      "cn": "判定是否互为字符重排",
+      "en": "check-permutation-lcci"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-permutation-lcci/",
+    "path": "./problemset/check-permutation-lcci/README.md"
   }
 ]

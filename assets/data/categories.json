@@ -361,6 +361,12 @@
         "title": "检测正方形",
         "path": "./problemset/detect-squares/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 01.02",
+        "title": "判定是否互为字符重排",
+        "path": "./problemset/check-permutation-lcci/README.md",
+        "difficulty": "简单"
       }
     ]
   },
