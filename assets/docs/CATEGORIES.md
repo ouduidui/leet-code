@@ -305,6 +305,7 @@
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
 | 剑指 Offer II 091. [粉刷房子](../../problemset/paint-house/README.md) | 中等 |
+| 面试题 17.09. [第 k 个数](../../problemset/get-kth-magic-number-lcci/README.md) | 中等 |
 
 ## 双指针
 

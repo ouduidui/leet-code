@@ -5058,5 +5058,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/check-permutation-lcci/",
     "path": "./problemset/check-permutation-lcci/README.md"
+  },
+  {
+    "id": "面试题 17.09",
+    "title": {
+      "cn": "第 k 个数",
+      "en": "get-kth-magic-number-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/get-kth-magic-number-lcci/",
+    "path": "./problemset/get-kth-magic-number-lcci/README.md"
   }
 ]

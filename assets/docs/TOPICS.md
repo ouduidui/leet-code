@@ -1011,3 +1011,5 @@
 [面试题 17.19. 消失的两个数字](../../problemset/missing-two-lcci/README.md)
 
 [面试题 01.02. 判定是否互为字符重排](../../problemset/check-permutation-lcci/README.md)
+
+[面试题 17.09. 第 k 个数](../../problemset/get-kth-magic-number-lcci/README.md)

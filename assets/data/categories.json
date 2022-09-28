@@ -1632,6 +1632,12 @@
         "title": "粉刷房子",
         "path": "./problemset/paint-house/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 17.09",
+        "title": "第 k 个数",
+        "path": "./problemset/get-kth-magic-number-lcci/README.md",
+        "difficulty": "中等"
       }
     ]
   },
