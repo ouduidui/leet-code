@@ -1013,3 +1013,5 @@
 [面试题 01.02. 判定是否互为字符重排](../../problemset/check-permutation-lcci/README.md)
 
 [面试题 17.09. 第 k 个数](../../problemset/get-kth-magic-number-lcci/README.md)
+
+[面试题 01.09. 字符串轮转](../../problemset/string-rotation-lcci/README.md)

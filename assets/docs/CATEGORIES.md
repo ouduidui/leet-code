@@ -469,6 +469,7 @@
 | 面试题 17.11. [单词距离](../../problemset/find-closest-lcci/README.md) | 中等 |
 | 剑指 Offer II 029. [排序的循环链表](../../problemset/sorted-circular-linked-list/README.md) | 中等 |
 | 剑指 Offer II 041. [滑动窗口的平均值](../../problemset/average-value-of-sliding-window/README.md) | 简单 |
+| 面试题 01.09. [字符串轮转](../../problemset/string-rotation-lcci/README.md) | 简单 |
 
 ## 回溯
 

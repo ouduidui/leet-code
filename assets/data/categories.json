@@ -2566,6 +2566,12 @@
         "title": "滑动窗口的平均值",
         "path": "./problemset/average-value-of-sliding-window/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "面试题 01.09",
+        "title": "字符串轮转",
+        "path": "./problemset/string-rotation-lcci/README.md",
+        "difficulty": "简单"
       }
     ]
   },

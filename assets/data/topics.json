@@ -5068,5 +5068,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/get-kth-magic-number-lcci/",
     "path": "./problemset/get-kth-magic-number-lcci/README.md"
+  },
+  {
+    "id": "面试题 01.09",
+    "title": {
+      "cn": "字符串轮转",
+      "en": "string-rotation-lcci"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/string-rotation-lcci/",
+    "path": "./problemset/string-rotation-lcci/README.md"
   }
 ]
