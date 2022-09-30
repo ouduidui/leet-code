@@ -5078,5 +5078,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/string-rotation-lcci/",
     "path": "./problemset/string-rotation-lcci/README.md"
+  },
+  {
+    "id": "面试题 01.08",
+    "title": {
+      "cn": "零矩阵",
+      "en": "zero-matrix-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/zero-matrix-lcci/",
+    "path": "./problemset/zero-matrix-lcci/README.md"
   }
 ]

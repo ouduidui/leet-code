@@ -2572,6 +2572,12 @@
         "title": "字符串轮转",
         "path": "./problemset/string-rotation-lcci/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "面试题 01.08",
+        "title": "零矩阵",
+        "path": "./problemset/zero-matrix-lcci/README.md",
+        "difficulty": "中等"
       }
     ]
   },
