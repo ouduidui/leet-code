@@ -158,6 +158,8 @@ export interface Topic {
   path: string
 }
 
+const STR_ID_PREFIX = ['面试题 ', '剑指 Offer II ']
+
 const topicsSort = <T extends { id: string }>(topics: T[]): T[] => {
   const [numIdTopics, strIdTopics] = topics.reduce<[numIdTopics: T[], strIdTopics: T[]]>((acc, cur) => {
     acc[isNaN(Number(cur.id)) ? 1 : 0].push(cur)
@@ -166,7 +168,16 @@ const topicsSort = <T extends { id: string }>(topics: T[]): T[] => {
 
   return [
     ...numIdTopics.sort((a, b) => Number(a.id) - Number(b.id)),
-    ...strIdTopics.sort(),
+    ...strIdTopics.sort((a, b) => {
+      const aIdx = STR_ID_PREFIX.findIndex(prefix => a.id.startsWith(prefix))
+      const bIdx = STR_ID_PREFIX.findIndex(prefix => b.id.startsWith(prefix))
+      if (aIdx !== bIdx || aIdx !== -1 || bIdx !== -1) return bIdx - aIdx
+
+      const prefix = STR_ID_PREFIX[aIdx]
+      const aId = parseFloat(a.id.slice(prefix.length))
+      const bId = parseFloat(b.id.slice(prefix.length))
+      return aId - bId
+    }),
   ]
 }
 

@@ -994,12 +994,6 @@
 
 [2104. 子数组范围和](../../problemset/sum-of-subarray-ranges/README.md)
 
-[面试题 01.05. 一次编辑](../../problemset/one-away-lcci/README.md)
-
-[面试题 04.06. 后继者](../../problemset/successor-lcci/README.md)
-
-[面试题 17.11. 单词距离](../../problemset/find-closest-lcci/README.md)
-
 [剑指 Offer II 114. 外星文字典](../../problemset/alien-dictionary/README.md)
 
 [剑指 Offer II 029. 排序的循环链表](../../problemset/sorted-circular-linked-list/README.md)
@@ -1009,6 +1003,12 @@
 [剑指 Offer II 041. 滑动窗口的平均值](../../problemset/average-value-of-sliding-window/README.md)
 
 [剑指 Offer II 115. 重建序列](../../problemset/rebuild-sequence/README.md)
+
+[面试题 01.05. 一次编辑](../../problemset/one-away-lcci/README.md)
+
+[面试题 04.06. 后继者](../../problemset/successor-lcci/README.md)
+
+[面试题 17.11. 单词距离](../../problemset/find-closest-lcci/README.md)
 
 [面试题 17.19. 消失的两个数字](../../problemset/missing-two-lcci/README.md)
 

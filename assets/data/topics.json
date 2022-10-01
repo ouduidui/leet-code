@@ -4970,36 +4970,6 @@
     "path": "./problemset/sum-of-subarray-ranges/README.md"
   },
   {
-    "id": "面试题 01.05",
-    "title": {
-      "cn": "一次编辑",
-      "en": "one-away-lcci"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/one-away-lcci/",
-    "path": "./problemset/one-away-lcci/README.md"
-  },
-  {
-    "id": "面试题 04.06",
-    "title": {
-      "cn": "后继者",
-      "en": "successor-lcci"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/successor-lcci/",
-    "path": "./problemset/successor-lcci/README.md"
-  },
-  {
-    "id": "面试题 17.11",
-    "title": {
-      "cn": "单词距离",
-      "en": "find-closest-lcci"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/find-closest-lcci/",
-    "path": "./problemset/find-closest-lcci/README.md"
-  },
-  {
     "id": "剑指 Offer II 114",
     "title": {
       "cn": "外星文字典",
@@ -5048,6 +5018,36 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/ur2n8P/",
     "path": "./problemset/rebuild-sequence/README.md"
+  },
+  {
+    "id": "面试题 01.05",
+    "title": {
+      "cn": "一次编辑",
+      "en": "one-away-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/one-away-lcci/",
+    "path": "./problemset/one-away-lcci/README.md"
+  },
+  {
+    "id": "面试题 04.06",
+    "title": {
+      "cn": "后继者",
+      "en": "successor-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/successor-lcci/",
+    "path": "./problemset/successor-lcci/README.md"
+  },
+  {
+    "id": "面试题 17.11",
+    "title": {
+      "cn": "单词距离",
+      "en": "find-closest-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-closest-lcci/",
+    "path": "./problemset/find-closest-lcci/README.md"
   },
   {
     "id": "面试题 17.19",
