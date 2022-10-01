@@ -4690,6 +4690,16 @@
     "path": "./problemset/richest-customer-wealth/README.md"
   },
   {
+    "id": "1694",
+    "title": {
+      "cn": "重新格式化电话号码",
+      "en": "reformat-phone-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reformat-phone-number/",
+    "path": "./problemset/reformat-phone-number/README.md"
+  },
+  {
     "id": "1706",
     "title": {
       "cn": "球会落何处",

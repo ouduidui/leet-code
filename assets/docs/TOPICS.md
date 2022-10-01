@@ -938,6 +938,8 @@
 
 [1672. 最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md)
 
+[1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)
+
 [1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
 
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
