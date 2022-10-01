@@ -748,6 +748,8 @@
 
 [768. 最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md)
 
+[777. 在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md)
+
 [780. 到达终点](../../problemset/reaching-points/README.md)
 
 [782. 变为棋盘](../../problemset/transform-to-chessboard/README.md)

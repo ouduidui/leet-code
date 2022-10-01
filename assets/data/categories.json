@@ -1837,6 +1837,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "777",
+        "title": "在LR字符串中交换相邻字符",
+        "path": "./problemset/swap-adjacent-in-lr-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "905",
         "title": "按奇偶排序数组",
         "path": "./problemset/sort-array-by-parity/README.md",

@@ -343,6 +343,7 @@
 | 653. [两数之和 IV - 输入 BST](../../problemset/two-sum-iv-input-is-a-bst/README.md) | 简单 |
 | 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
+| 777. [在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 | 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |
