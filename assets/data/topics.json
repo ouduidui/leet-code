@@ -4760,6 +4760,16 @@
     "path": "./problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": "1784",
+    "title": {
+      "cn": "检查二进制字符串字段",
+      "en": "check-if-binary-string-has-at-most-one-segment-of-ones"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+    "path": "./problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md"
+  },
+  {
     "id": "1791",
     "title": {
       "cn": "找出星型图的中心节点",

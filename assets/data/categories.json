@@ -1300,6 +1300,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1784",
+        "title": "检查二进制字符串字段",
+        "path": "./problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1791",
         "title": "找出星型图的中心节点",
         "path": "./problemset/find-center-of-star-graph/README.md",

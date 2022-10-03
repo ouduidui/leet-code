@@ -952,6 +952,8 @@
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
+[1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
+
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
 
 [1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
