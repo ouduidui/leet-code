@@ -812,6 +812,8 @@
 
 [919. 完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md)
 
+[921. 使括号有效的最少添加](../../problemset/minimum-add-to-make-parentheses-valid/README.md)
+
 [926. 将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md)
 
 [929. 独特的电子邮件](../../problemset/unique-email-addresses/README.md)

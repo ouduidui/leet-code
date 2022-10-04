@@ -4060,6 +4060,16 @@
     "path": "./problemset/complete-binary-tree-inserter/README.md"
   },
   {
+    "id": "921",
+    "title": {
+      "cn": "使括号有效的最少添加",
+      "en": "minimum-add-to-make-parentheses-valid"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/",
+    "path": "./problemset/minimum-add-to-make-parentheses-valid/README.md"
+  },
+  {
     "id": "926",
     "title": {
       "cn": "将字符串翻转到单调递增",

@@ -3641,6 +3641,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "921",
+        "title": "使括号有效的最少添加",
+        "path": "./problemset/minimum-add-to-make-parentheses-valid/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "942",
         "title": "增减字符串匹配",
         "path": "./problemset/di-string-match/README.md",
