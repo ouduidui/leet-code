@@ -15,6 +15,7 @@ pnpm-debug.log*
 # Editor directories and files
 .project
 .idea
+.cache
 .hbuilderx
 .vscode
 *.suo

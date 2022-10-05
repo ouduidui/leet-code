@@ -1,7 +1,7 @@
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Category, Topic } from './helper'
-import { commandAction, figletLog, log, updateCategoriesJson, updateCategoriesReadme } from './helper'
+import { STORE_KEY, commandAction, delStore, figletLog, getStore, log, updateCategoriesJson, updateCategoriesReadme } from './helper'
 import categories from '~/assets/data/categories.json'
 import topics from '~/assets/data/topics.json'
 
@@ -19,6 +19,9 @@ interface InquirerAnswers {
   // banner
   await figletLog('UPDATE CATEGORY', 'magenta')
 
+  // get Cache Id
+  const cacheTopicId = getStore(STORE_KEY.TOPIC_ID) || ''
+
   // interact
   const categoriesOptions = categories.map(item => item.label)
   const ans = await inquirer.prompt<InquirerAnswers>([
@@ -26,6 +29,7 @@ interface InquirerAnswers {
       type: 'input',
       name: 'id',
       message: 'please enter the topic id:',
+      default: cacheTopicId,
       validate: (input) => {
         if (topics.find(topic => topic.id === input))
           return true
@@ -68,6 +72,9 @@ interface InquirerAnswers {
   )
 
   updateCategoriesReadme(localCategories)
+
+  // del cache
+  delStore(STORE_KEY.TOPIC_ID)
 
   log('update topic category success')
 

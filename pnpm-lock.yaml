@@ -15,6 +15,7 @@ specifiers:
   execa: ^6.1.0
   figlet: ^1.5.2
   inquirer: ^8.2.2
+  local-caches: ^1.0.0
   magic-string: ^0.26.1
   typescript: ^4.6.3
   vite: ^2.9.5
@@ -37,6 +38,7 @@ devDependencies:
   execa: 6.1.0
   figlet: 1.5.2
   inquirer: 8.2.2
+  local-caches: 1.0.0
   magic-string: 0.26.1
   typescript: 4.6.3
   vite: 2.9.5
@@ -585,7 +587,7 @@ packages:
     dev: true
 
   /clone/1.0.4:
-    resolution: {integrity: sha1-2jCcwmPfFZlMaIypAheco8fNfH4=}
+    resolution: {integrity: sha512-JQHZ2QMW6l3aH/j6xCqQThY/9OH4D/9ls34cgkUBiEeocRTU04tHfKPBsUK1PqZCUQM7GiA0IIXJSuXHI64Kbg==}
     engines: {node: '>=0.8'}
     dev: true
 
@@ -1874,6 +1876,10 @@ packages:
 
   /lines-and-columns/1.2.4:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
+    dev: true
+
+  /local-caches/1.0.0:
+    resolution: {integrity: sha512-pv3bZEEUm+EYOTQftkUrrej3+pRD5tR8pcwtk3NGJYxBCXP3VHSjMbS7IpmiSIqUlUL2UZCrDbecFVjPziotSA==}
     dev: true
 
   /local-pkg/0.4.1:

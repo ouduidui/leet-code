@@ -6,6 +6,21 @@ import type { Color } from 'chalk'
 import chalk from 'chalk'
 import MagicString from 'magic-string'
 import { execa } from 'execa'
+import { getCache, removeCache, setCache } from 'local-caches'
+
+/**
+ * cache
+ */
+
+export enum STORE_KEY {
+  TOPIC_ID = 'topic_id',
+}
+
+export const setStore = (key: STORE_KEY, value: string) => setCache(key, value)
+
+export const getStore = (key: STORE_KEY) => getCache(key)
+
+export const delStore = (key: STORE_KEY) => removeCache(key)
 
 /**
  * data

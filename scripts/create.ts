@@ -1,7 +1,7 @@
 import clear from 'clear'
 import inquirer from 'inquirer'
 import type { Difficulties, Topic } from './helper'
-import { DIFFICULTIES, commandAction, createDir, figletLog, formatEnTitle, genTemplate, log, splitTitleWithId, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
+import { DIFFICULTIES, STORE_KEY, commandAction, createDir, figletLog, formatEnTitle, genTemplate, log, setStore, splitTitleWithId, updateTopicCountOnReadme, updateTopicsJson, updateTopicsReadme } from './helper'
 import topics from '~/assets/data/topics.json'
 
 interface InquirerAnswers {
@@ -98,6 +98,9 @@ interface InquirerAnswers {
     const newTopics = updateTopicsJson(topics as Topic[], id, title, en, diff, url)
     updateTopicsReadme(newTopics)
     updateTopicCountOnReadme(newTopics.length)
+
+    // set cache
+    setStore(STORE_KEY.TOPIC_ID, id)
 
     log(`${en} topic created successfully`)
   }
