@@ -3830,6 +3830,16 @@
     "path": "./problemset/number-of-lines-to-write-string/README.md"
   },
   {
+    "id": "811",
+    "title": {
+      "cn": "子域名访问计数",
+      "en": "subdomain-visit-count"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/subdomain-visit-count/",
+    "path": "./problemset/subdomain-visit-count/README.md"
+  },
+  {
     "id": "812",
     "title": {
       "cn": "最大三角形面积",

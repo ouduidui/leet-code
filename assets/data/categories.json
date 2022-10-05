@@ -261,6 +261,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "811",
+        "title": "子域名访问计数",
+        "path": "./problemset/subdomain-visit-count/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "819",
         "title": "最常见的单词",
         "path": "./problemset/most-common-word/README.md",
