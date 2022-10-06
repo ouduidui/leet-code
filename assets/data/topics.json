@@ -4090,6 +4090,16 @@
     "path": "./problemset/flip-string-to-monotone-increasing/README.md"
   },
   {
+    "id": "927",
+    "title": {
+      "cn": "三等分",
+      "en": "three-equal-parts"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/three-equal-parts/",
+    "path": "./problemset/three-equal-parts/README.md"
+  },
+  {
     "id": "929",
     "title": {
       "cn": "独特的电子邮件",

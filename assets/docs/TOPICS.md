@@ -818,6 +818,8 @@
 
 [926. 将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md)
 
+[927. 三等分](../../problemset/three-equal-parts/README.md)
+
 [929. 独特的电子邮件](../../problemset/unique-email-addresses/README.md)
 
 [933. 最近的请求次数](../../problemset/number-of-recent-calls/README.md)

@@ -2382,6 +2382,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "927",
+        "title": "三等分",
+        "path": "./problemset/three-equal-parts/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "933",
         "title": "最近的请求次数",
         "path": "./problemset/number-of-recent-calls/README.md",
@@ -2562,18 +2568,6 @@
         "difficulty": "中等"
       },
       {
-        "id": "面试题 01.05",
-        "title": "一次编辑",
-        "path": "./problemset/one-away-lcci/README.md",
-        "difficulty": "中等"
-      },
-      {
-        "id": "面试题 17.11",
-        "title": "单词距离",
-        "path": "./problemset/find-closest-lcci/README.md",
-        "difficulty": "中等"
-      },
-      {
         "id": "剑指 Offer II 029",
         "title": "排序的循环链表",
         "path": "./problemset/sorted-circular-linked-list/README.md",
@@ -2584,6 +2578,18 @@
         "title": "滑动窗口的平均值",
         "path": "./problemset/average-value-of-sliding-window/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "面试题 01.05",
+        "title": "一次编辑",
+        "path": "./problemset/one-away-lcci/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "面试题 17.11",
+        "title": "单词距离",
+        "path": "./problemset/find-closest-lcci/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "面试题 01.09",

@@ -438,6 +438,7 @@
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
+| 927. [三等分](../../problemset/three-equal-parts/README.md) | 困难 |
 | 933. [最近的请求次数](../../problemset/number-of-recent-calls/README.md) | 简单 |
 | 944. [删列造序](../../problemset/delete-columns-to-make-sorted/README.md) | 简单 |
 | 953. [验证外星语词典](../../problemset/verifying-an-alien-dictionary/README.md) | 简单 |
@@ -468,10 +469,10 @@
 | 2043. [简易银行系统](../../problemset/simple-bank-system/README.md) | 中等 |
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
 | 2055. [蜡烛之间的盘子](../../problemset/plates-between-candles/README.md) | 中等 |
-| 面试题 01.05. [一次编辑](../../problemset/one-away-lcci/README.md) | 中等 |
-| 面试题 17.11. [单词距离](../../problemset/find-closest-lcci/README.md) | 中等 |
 | 剑指 Offer II 029. [排序的循环链表](../../problemset/sorted-circular-linked-list/README.md) | 中等 |
 | 剑指 Offer II 041. [滑动窗口的平均值](../../problemset/average-value-of-sliding-window/README.md) | 简单 |
+| 面试题 01.05. [一次编辑](../../problemset/one-away-lcci/README.md) | 中等 |
+| 面试题 17.11. [单词距离](../../problemset/find-closest-lcci/README.md) | 中等 |
 | 面试题 01.09. [字符串轮转](../../problemset/string-rotation-lcci/README.md) | 简单 |
 | 面试题 01.08. [零矩阵](../../problemset/zero-matrix-lcci/README.md) | 中等 |
 
