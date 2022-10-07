@@ -1628,6 +1628,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1800",
+        "title": "最大升序子数组和",
+        "path": "./problemset/maximum-ascending-subarray-sum/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1994",
         "title": "好子集的数目",
         "path": "./problemset/the-number-of-good-subsets/README.md",

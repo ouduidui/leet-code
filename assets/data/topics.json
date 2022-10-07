@@ -3830,16 +3830,6 @@
     "path": "./problemset/number-of-lines-to-write-string/README.md"
   },
   {
-    "id": "811",
-    "title": {
-      "cn": "子域名访问计数",
-      "en": "subdomain-visit-count"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/subdomain-visit-count/",
-    "path": "./problemset/subdomain-visit-count/README.md"
-  },
-  {
     "id": "812",
     "title": {
       "cn": "最大三角形面积",
@@ -4070,16 +4060,6 @@
     "path": "./problemset/complete-binary-tree-inserter/README.md"
   },
   {
-    "id": "921",
-    "title": {
-      "cn": "使括号有效的最少添加",
-      "en": "minimum-add-to-make-parentheses-valid"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/",
-    "path": "./problemset/minimum-add-to-make-parentheses-valid/README.md"
-  },
-  {
     "id": "926",
     "title": {
       "cn": "将字符串翻转到单调递增",
@@ -4088,16 +4068,6 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/flip-string-to-monotone-increasing/",
     "path": "./problemset/flip-string-to-monotone-increasing/README.md"
-  },
-  {
-    "id": "927",
-    "title": {
-      "cn": "三等分",
-      "en": "three-equal-parts"
-    },
-    "difficulty": "困难",
-    "url": "https://leetcode.cn/problems/three-equal-parts/",
-    "path": "./problemset/three-equal-parts/README.md"
   },
   {
     "id": "929",
@@ -4808,6 +4778,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/find-center-of-star-graph/",
     "path": "./problemset/find-center-of-star-graph/README.md"
+  },
+  {
+    "id": "1800",
+    "title": {
+      "cn": "最大升序子数组和",
+      "en": "maximum-ascending-subarray-sum"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-ascending-subarray-sum/",
+    "path": "./problemset/maximum-ascending-subarray-sum/README.md"
   },
   {
     "id": "1823",

@@ -304,6 +304,7 @@
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
+| 1800. [最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md) | 简单 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
 | 剑指 Offer II 091. [粉刷房子](../../problemset/paint-house/README.md) | 中等 |

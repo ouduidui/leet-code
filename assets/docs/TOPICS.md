@@ -766,8 +766,6 @@
 
 [806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)
 
-[811. 子域名访问计数](../../problemset/subdomain-visit-count/README.md)
-
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)
 
 [814. 二叉树剪枝](../../problemset/binary-tree-pruning/README.md)
@@ -814,11 +812,7 @@
 
 [919. 完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md)
 
-[921. 使括号有效的最少添加](../../problemset/minimum-add-to-make-parentheses-valid/README.md)
-
 [926. 将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md)
-
-[927. 三等分](../../problemset/three-equal-parts/README.md)
 
 [929. 独特的电子邮件](../../problemset/unique-email-addresses/README.md)
 
@@ -961,6 +955,8 @@
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
+
+[1800. 最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md)
 
 [1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
 
