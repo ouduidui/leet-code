@@ -3653,6 +3653,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "870",
+        "title": "优势洗牌",
+        "path": "./problemset/advantage-shuffle/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",

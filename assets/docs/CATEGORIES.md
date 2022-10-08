@@ -679,6 +679,7 @@
 | 670. [最大交换](../../problemset/maximum-swap/README.md) | 中等 |
 | 757. [设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md) | 困难 |
 | 857. [雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md) | 困难 |
+| 870. [优势洗牌](../../problemset/advantage-shuffle/README.md) | 中等 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 921. [使括号有效的最少添加](../../problemset/minimum-add-to-make-parentheses-valid/README.md) | 中等 |
 | 942. [增减字符串匹配](../../problemset/di-string-match/README.md) | 简单 |

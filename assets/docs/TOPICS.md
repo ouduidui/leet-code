@@ -790,6 +790,8 @@
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
+[870. 优势洗牌](../../problemset/advantage-shuffle/README.md)
+
 [871. 最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md)
 
 [873. 最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md)

@@ -3950,6 +3950,16 @@
     "path": "./problemset/binary-gap/README.md"
   },
   {
+    "id": "870",
+    "title": {
+      "cn": "优势洗牌",
+      "en": "advantage-shuffle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/advantage-shuffle/",
+    "path": "./problemset/advantage-shuffle/README.md"
+  },
+  {
     "id": "871",
     "title": {
       "cn": "最低加油次数",
