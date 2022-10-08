@@ -20,6 +20,6 @@ function testCase(fn: (arr: number[]) => number[]) {
       [0, 2],
     ],
   ])('示例%#', (arr, expected) => {
-    expect(true).toBe(true)
+    expect(fn(arr)).toStrictEqual(expected)
   })
 }
