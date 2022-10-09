@@ -1264,6 +1264,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "856",
+        "title": "括号的分数",
+        "path": "./problemset/score-of-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "883",
         "title": "三维形体投影面积",
         "path": "./problemset/projection-area-of-3d-shapes/README.md",
@@ -2944,6 +2950,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "856",
+        "title": "括号的分数",
+        "path": "./problemset/score-of-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "946",
         "title": "验证栈序列",
         "path": "./problemset/validate-stack-sequences/README.md",
@@ -3557,6 +3569,12 @@
         "title": "特殊的二进制序列",
         "path": "./problemset/special-binary-string/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "856",
+        "title": "括号的分数",
+        "path": "./problemset/score-of-parentheses/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1763",

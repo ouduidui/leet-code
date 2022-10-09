@@ -235,6 +235,7 @@
 | 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
+| 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
@@ -540,6 +541,7 @@
 | 654. [最大二叉树](../../problemset/maximum-binary-tree/README.md) | 中等 |
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
+| 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
 | 946. [验证栈序列](../../problemset/validate-stack-sequences/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
 | 1475. [商品折扣后的最终价格](../../problemset/final-prices-with-a-special-discount-in-a-shop/README.md) | 简单 |
@@ -655,6 +657,7 @@
 | 321. [拼接最大数](../../problemset/create-maximum-number/README.md) | 困难 |
 | 558. [四叉树交集](../../problemset/logical-or-of-two-binary-grids-represented-as-quad-trees/README.md) | 中等 |
 | 761. [特殊的二进制序列](../../problemset/special-binary-string/README.md) | 困难 |
+| 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 子串匹配

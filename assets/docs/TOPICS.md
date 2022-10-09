@@ -786,6 +786,8 @@
 
 [850. 矩形面积 II](../../problemset/rectangle-area-2/README.md)
 
+[856. 括号的分数](../../problemset/score-of-parentheses/README.md)
+
 [857. 雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md)
 
 [868. 二进制间距](../../problemset/binary-gap/README.md)

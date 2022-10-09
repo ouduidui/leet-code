@@ -3930,6 +3930,16 @@
     "path": "./problemset/rectangle-area-2/README.md"
   },
   {
+    "id": "856",
+    "title": {
+      "cn": "括号的分数",
+      "en": "score-of-parentheses"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/score-of-parentheses/",
+    "path": "./problemset/score-of-parentheses/README.md"
+  },
+  {
     "id": "857",
     "title": {
       "cn": "雇佣 K 名工人的最低成本",
