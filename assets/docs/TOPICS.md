@@ -762,6 +762,8 @@
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
+[801. 使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md)
+
 [804. 唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md)
 
 [806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)

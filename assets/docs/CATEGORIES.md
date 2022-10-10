@@ -302,6 +302,7 @@
 | 730. [统计不同回文子序列](../../problemset/count-different-palindromic-subsequences/README.md) | 困难 |
 | 741. [摘樱桃](../../problemset/cherry-pickup/README.md) | 困难 |
 | 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
+| 801. [使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
