@@ -960,6 +960,8 @@
 
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
+[1790. 仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md)
+
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
 
 [1800. 最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md)

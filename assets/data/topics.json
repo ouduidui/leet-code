@@ -4800,6 +4800,16 @@
     "path": "./problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md"
   },
   {
+    "id": "1790",
+    "title": {
+      "cn": "仅执行一次字符串交换能否使两个字符串相等",
+      "en": "check-if-one-string-swap-can-make-strings-equal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/",
+    "path": "./problemset/check-if-one-string-swap-can-make-strings-equal/README.md"
+  },
+  {
     "id": "1791",
     "title": {
       "cn": "找出星型图的中心节点",
