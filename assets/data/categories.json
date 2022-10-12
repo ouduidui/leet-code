@@ -2334,6 +2334,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "817",
+        "title": "链表组件",
+        "path": "./problemset/linked-list-components/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "821",
         "title": "字符的最短距离",
         "path": "./problemset/shortest-distance-to-a-character/README.md",

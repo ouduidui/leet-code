@@ -3860,6 +3860,16 @@
     "path": "./problemset/binary-tree-pruning/README.md"
   },
   {
+    "id": "817",
+    "title": {
+      "cn": "链表组件",
+      "en": "linked-list-components"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/linked-list-components/",
+    "path": "./problemset/linked-list-components/README.md"
+  },
+  {
     "id": "819",
     "title": {
       "cn": "最常见的单词",
