@@ -3740,6 +3740,16 @@
     "path": "./problemset/max-chunks-to-make-sorted-2/README.md"
   },
   {
+    "id": "769",
+    "title": {
+      "cn": "最多能完成排序的块",
+      "en": "max-chunks-to-make-sorted"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/max-chunks-to-make-sorted/",
+    "path": "./problemset/max-chunks-to-make-sorted/README.md"
+  },
+  {
     "id": "777",
     "title": {
       "cn": "在LR字符串中交换相邻字符",

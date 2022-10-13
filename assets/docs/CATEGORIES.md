@@ -684,6 +684,7 @@
 | 646. [最长数对链](../../problemset/maximum-length-of-pair-chain/README.md) | 中等 |
 | 670. [最大交换](../../problemset/maximum-swap/README.md) | 中等 |
 | 757. [设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md) | 困难 |
+| 769. [最多能完成排序的块](../../problemset/max-chunks-to-make-sorted/README.md) | 中等 |
 | 857. [雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md) | 困难 |
 | 870. [优势洗牌](../../problemset/advantage-shuffle/README.md) | 中等 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
