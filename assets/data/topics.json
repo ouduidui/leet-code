@@ -4150,6 +4150,16 @@
     "path": "./problemset/reorder-data-in-log-files/README.md"
   },
   {
+    "id": "940",
+    "title": {
+      "cn": "不同的子序列 II",
+      "en": "distinct-subsequences-2"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/distinct-subsequences-ii/",
+    "path": "./problemset/distinct-subsequences-2/README.md"
+  },
+  {
     "id": "942",
     "title": {
       "cn": "增减字符串匹配",

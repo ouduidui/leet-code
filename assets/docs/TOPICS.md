@@ -830,6 +830,8 @@
 
 [937. 重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md)
 
+[940. 不同的子序列 II](../../problemset/distinct-subsequences-2/README.md)
+
 [942. 增减字符串匹配](../../problemset/di-string-match/README.md)
 
 [944. 删列造序](../../problemset/delete-columns-to-make-sorted/README.md)

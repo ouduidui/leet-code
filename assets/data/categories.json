@@ -1640,6 +1640,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "940",
+        "title": "不同的子序列 II",
+        "path": "./problemset/distinct-subsequences-2/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1800",
         "title": "最大升序子数组和",
         "path": "./problemset/maximum-ascending-subarray-sum/README.md",
