@@ -4560,6 +4560,16 @@
     "path": "./problemset/maximum-score-after-splitting-a-string/README.md"
   },
   {
+    "id": "1441",
+    "title": {
+      "cn": "用栈操作构建数组",
+      "en": "build-an-array-with-stack-operations"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/build-an-array-with-stack-operations/",
+    "path": "./problemset/build-an-array-with-stack-operations/README.md"
+  },
+  {
     "id": "1447",
     "title": {
       "cn": "最简分数",

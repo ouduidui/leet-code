@@ -912,6 +912,8 @@
 
 [1422. 分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md)
 
+[1441. 用栈操作构建数组](../../problemset/build-an-array-with-stack-operations/README.md)
+
 [1447. 最简分数](../../problemset/simplified-fractions/README.md)
 
 [1450. 在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md)

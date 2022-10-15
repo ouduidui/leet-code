@@ -457,6 +457,7 @@
 | 1342. [将数字变成 0 的操作次数](../../problemset/number-of-steps-to-reduce-a-number-to-zero/README.md) | 简单 |
 | 1374. [生成每种字符都是奇数个的字符串](../../problemset/generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
+| 1441. [用栈操作构建数组](../../problemset/build-an-array-with-stack-operations/README.md) | 中等 |
 | 1464. [数组中的两元素的最大乘积](../../problemset/maximum-product-of-two-elements-in-an-array/README.md) | 简单 |
 | 1470. [重新排序数组](../../problemset/shuffle-the-array/README.md) | 简单 |
 | 1582. [二进制矩阵中的特殊位置](../../problemset/special-positions-in-a-binary-matrix/README.md) | 简单 |
