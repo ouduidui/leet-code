@@ -3459,6 +3459,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "886",
+        "title": "可能的二分法",
+        "path": "./problemset/possible-bipartition/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "965",
         "title": "单值二叉树",
         "path": "./problemset/univalued-binary-tree/README.md",
@@ -3519,16 +3525,16 @@
         "difficulty": "中等"
       },
       {
-        "id": "面试题 04.06",
-        "title": "后继者",
-        "path": "./problemset/successor-lcci/README.md",
-        "difficulty": "中等"
-      },
-      {
         "id": "剑指 Offer II 114",
         "title": "外星文字典",
         "path": "./problemset/alien-dictionary/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "面试题 04.06",
+        "title": "后继者",
+        "path": "./problemset/successor-lcci/README.md",
+        "difficulty": "中等"
       }
     ]
   },

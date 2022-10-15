@@ -4050,6 +4050,16 @@
     "path": "./problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
+    "id": "886",
+    "title": {
+      "cn": "可能的二分法",
+      "en": "possible-bipartition"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/possible-bipartition/",
+    "path": "./problemset/possible-bipartition/README.md"
+  },
+  {
     "id": "890",
     "title": {
       "cn": "查找和替换模式",

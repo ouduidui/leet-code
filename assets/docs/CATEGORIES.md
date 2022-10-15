@@ -630,6 +630,7 @@
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 854. [相似度为 K 的字符串](../../problemset/k-similar-strings/README.md) | 困难 |
+| 886. [可能的二分法](../../problemset/possible-bipartition/README.md) | 中等 |
 | 965. [单值二叉树](../../problemset/univalued-binary-tree/README.md) | 简单 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
@@ -640,8 +641,8 @@
 | 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
 | 2039. [网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md) | 中等 |
 | 2049. [统计最高分的节点数目](../../problemset/count-nodes-with-the-highest-score/README.md) | 中等 |
-| 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
 | 剑指 Offer II 114. [外星文字典](../../problemset/alien-dictionary/README.md) | 困难 |
+| 面试题 04.06. [后继者](../../problemset/successor-lcci/README.md) | 中等 |
 
 ## 堆
 
