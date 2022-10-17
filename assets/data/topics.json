@@ -4050,16 +4050,6 @@
     "path": "./problemset/uncommon-words-from-two-sentences/README.md"
   },
   {
-    "id": "886",
-    "title": {
-      "cn": "可能的二分法",
-      "en": "possible-bipartition"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/possible-bipartition/",
-    "path": "./problemset/possible-bipartition/README.md"
-  },
-  {
     "id": "890",
     "title": {
       "cn": "查找和替换模式",
@@ -4078,6 +4068,16 @@
     "difficulty": "困难",
     "url": "https://leetcode.cn/problems/orderly-queue/",
     "path": "./problemset/orderly-queue/README.md"
+  },
+  {
+    "id": "904",
+    "title": {
+      "cn": "水果成篮",
+      "en": "fruit-into-baskets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/fruit-into-baskets/",
+    "path": "./problemset/fruit-into-baskets/README.md"
   },
   {
     "id": "905",

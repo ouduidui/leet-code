@@ -108,6 +108,7 @@
 | 220. [存在重复元素 III](../../problemset/contains-duplicate-3/README.md) | 中等 |
 | 239. [滑动窗口最大值](../../problemset/sliding-window-maximum/README.md) | 困难 |
 | 713. [乘积小于 K 的子数组](../../problemset/subarray-product-less-than-k/README.md) | 中等 |
+| 904. [水果成篮](../../problemset/fruit-into-baskets/README.md) | 中等 |
 | 1652. [拆炸弹](../../problemset/defuse-the-bomb/README.md) | 简单 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 | 2024. [考试的最大困扰度](../../problemset/maximize-the-confusion-of-an-exam/README.md) | 中等 |

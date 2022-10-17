@@ -577,6 +577,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "904",
+        "title": "水果成篮",
+        "path": "./problemset/fruit-into-baskets/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1652",
         "title": "拆炸弹",
         "path": "./problemset/defuse-the-bomb/README.md",
