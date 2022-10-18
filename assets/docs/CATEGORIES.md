@@ -238,6 +238,7 @@
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
+| 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
@@ -306,6 +307,7 @@
 | 801. [使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
+| 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 940. [不同的子序列 II](../../problemset/distinct-subsequences-2/README.md) | 困难 |
 | 1800. [最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md) | 简单 |

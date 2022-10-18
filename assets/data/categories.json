@@ -1282,6 +1282,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "902",
+        "title": "最大为 N 的数字组合",
+        "path": "./problemset/numbers-at-most-n-given-digit-set/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "908",
         "title": "最小差值",
         "path": "./problemset/smallest-range/README.md",
@@ -1638,6 +1644,12 @@
         "title": "最长的斐波那契子序列的长度",
         "path": "./problemset/length-of-longest-fibonacci-subsequence/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "902",
+        "title": "最大为 N 的数字组合",
+        "path": "./problemset/numbers-at-most-n-given-digit-set/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "926",

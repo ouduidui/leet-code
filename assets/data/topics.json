@@ -4070,6 +4070,16 @@
     "path": "./problemset/orderly-queue/README.md"
   },
   {
+    "id": "902",
+    "title": {
+      "cn": "最大为 N 的数字组合",
+      "en": "numbers-at-most-n-given-digit-set"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/",
+    "path": "./problemset/numbers-at-most-n-given-digit-set/README.md"
+  },
+  {
     "id": "904",
     "title": {
       "cn": "水果成篮",
