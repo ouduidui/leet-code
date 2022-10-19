@@ -4800,6 +4800,16 @@
     "path": "./problemset/reformat-phone-number/README.md"
   },
   {
+    "id": "1700",
+    "title": {
+      "cn": "无法吃午餐的学生数量",
+      "en": "number-of-students-unable-to-eat-lunch"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/",
+    "path": "./problemset/number-of-students-unable-to-eat-lunch/README.md"
+  },
+  {
     "id": "1706",
     "title": {
       "cn": "球会落何处",

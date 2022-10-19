@@ -2568,6 +2568,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1700",
+        "title": "无法吃午餐的学生数量",
+        "path": "./problemset/number-of-students-unable-to-eat-lunch/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1706",
         "title": "球会落何处",
         "path": "./problemset/where-will-the-ball-fall/README.md",
