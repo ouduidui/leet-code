@@ -469,6 +469,7 @@
 | 1636. [按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md) | 简单 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
+| 1694. [重新格式化电话号码](../../problemset/reformat-phone-number/README.md) | 简单 |
 | 1700. [无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |

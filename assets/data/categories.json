@@ -2568,6 +2568,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1694",
+        "title": "重新格式化电话号码",
+        "path": "./problemset/reformat-phone-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1700",
         "title": "无法吃午餐的学生数量",
         "path": "./problemset/number-of-students-unable-to-eat-lunch/README.md",
