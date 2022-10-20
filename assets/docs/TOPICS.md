@@ -752,6 +752,8 @@
 
 [777. 在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md)
 
+[779. 第K个语法符号](../../problemset/k-th-symbol-in-grammar/README.md)
+
 [780. 到达终点](../../problemset/reaching-points/README.md)
 
 [782. 变为棋盘](../../problemset/transform-to-chessboard/README.md)

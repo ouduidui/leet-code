@@ -233,6 +233,7 @@
 | 593. [有效的正方形](../../problemset/valid-square/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
+| 779. [第K个语法符号](../../problemset/k-th-symbol-in-grammar/README.md) | 中等 |
 | 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
@@ -632,6 +633,7 @@
 | 687. [最长同值路径](../../problemset/longest-univalue-path/README.md) | 中等 |
 | 691. [贴纸拼词](../../problemset/stickers-to-spell-word/README.md) | 困难 |
 | 749. [隔离病毒](../../problemset/contain-virus/README.md) | 困难 |
+| 779. [第K个语法符号](../../problemset/k-th-symbol-in-grammar/README.md) | 中等 |
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 854. [相似度为 K 的字符串](../../problemset/k-similar-strings/README.md) | 困难 |

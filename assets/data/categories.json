@@ -1252,6 +1252,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "779",
+        "title": "第K个语法符号",
+        "path": "./problemset/k-th-symbol-in-grammar/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "793",
         "title": "阶乘函数后 K 个零",
         "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md",
@@ -3469,6 +3475,12 @@
         "title": "隔离病毒",
         "path": "./problemset/contain-virus/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "779",
+        "title": "第K个语法符号",
+        "path": "./problemset/k-th-symbol-in-grammar/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "814",
