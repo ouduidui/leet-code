@@ -4450,6 +4450,16 @@
     "path": "./problemset/maximum-equal-frequency/README.md"
   },
   {
+    "id": "1235",
+    "title": {
+      "cn": "规划兼职工作",
+      "en": "maximum-profit-in-job-scheduling"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximum-profit-in-job-scheduling/",
+    "path": "./problemset/maximum-profit-in-job-scheduling/README.md"
+  },
+  {
     "id": "1252",
     "title": {
       "cn": "奇数值单元格的数目",

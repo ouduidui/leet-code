@@ -780,6 +780,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1235",
+        "title": "规划兼职工作",
+        "path": "./problemset/maximum-profit-in-job-scheduling/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1450",
         "title": "在既定时间做作业的学生人数",
         "path": "./problemset/number-of-students-doing-homework-at-a-given-time/README.md",
@@ -1667,6 +1673,12 @@
         "id": "940",
         "title": "不同的子序列 II",
         "path": "./problemset/distinct-subsequences-2/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "1235",
+        "title": "规划兼职工作",
+        "path": "./problemset/maximum-profit-in-job-scheduling/README.md",
         "difficulty": "困难"
       },
       {

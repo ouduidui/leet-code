@@ -890,6 +890,8 @@
 
 [1224. 最大相等频率](../../problemset/maximum-equal-frequency/README.md)
 
+[1235. 规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md)
+
 [1252. 奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md)
 
 [1260. 二维网格迁移](../../problemset/shift-2d-grid/README.md)

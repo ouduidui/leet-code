@@ -146,6 +146,7 @@
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
 | 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
+| 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 
 ## 排序
@@ -311,6 +312,7 @@
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 940. [不同的子序列 II](../../problemset/distinct-subsequences-2/README.md) | 困难 |
+| 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
 | 1800. [最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md) | 简单 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
