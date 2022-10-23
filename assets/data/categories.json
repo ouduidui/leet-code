@@ -1937,6 +1937,12 @@
         "title": "检查单词是否为句中其他单词的前缀",
         "path": "./problemset/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1768",
+        "title": "交替合并字符串",
+        "path": "./problemset/merge-strings-alternately/README.md",
+        "difficulty": "简单"
       }
     ]
   },

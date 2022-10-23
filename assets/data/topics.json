@@ -4890,6 +4890,16 @@
     "path": "./problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": "1768",
+    "title": {
+      "cn": "交替合并字符串",
+      "en": "merge-strings-alternately"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/merge-strings-alternately/",
+    "path": "./problemset/merge-strings-alternately/README.md"
+  },
+  {
     "id": "1784",
     "title": {
       "cn": "检查二进制字符串字段",

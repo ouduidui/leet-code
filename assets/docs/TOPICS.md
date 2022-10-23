@@ -978,6 +978,8 @@
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
+[1768. 交替合并字符串](../../problemset/merge-strings-alternately/README.md)
+
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
 [1790. 仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md)
