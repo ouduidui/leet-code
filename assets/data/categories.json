@@ -2442,6 +2442,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "915",
+        "title": "分割数组",
+        "path": "./problemset/partition-array-into-disjoint-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "919",
         "title": "完全二叉树插入器",
         "path": "./problemset/complete-binary-tree-inserter/README.md",

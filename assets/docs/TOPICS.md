@@ -816,8 +816,6 @@
 
 [899. 有序队列](../../problemset/orderly-queue/README.md)
 
-[901. 股票价格跨度](../../problemset/online-stock-span/README.md)
-
 [902. 最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md)
 
 [904. 水果成篮](../../problemset/fruit-into-baskets/README.md)
@@ -825,6 +823,8 @@
 [905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
 
 [908. 最小差值](../../problemset/smallest-range/README.md)
+
+[915. 分割数组](../../problemset/partition-array-into-disjoint-intervals/README.md)
 
 [917. 仅仅反转字母](../../problemset/reverse-only-letters/README.md)
 
@@ -891,8 +891,6 @@
 [1217. 玩筹码](../../problemset/minimum-cost-to-move-chips-to-the-same-position/README.md)
 
 [1224. 最大相等频率](../../problemset/maximum-equal-frequency/README.md)
-
-[1235. 规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md)
 
 [1252. 奇数值单元格的数目](../../problemset/cells-with-odd-values-in-a-matrix/README.md)
 
@@ -977,8 +975,6 @@
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
-
-[1768. 交替合并字符串](../../problemset/merge-strings-alternately/README.md)
 
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 

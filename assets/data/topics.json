@@ -4080,16 +4080,6 @@
     "path": "./problemset/orderly-queue/README.md"
   },
   {
-    "id": "901",
-    "title": {
-      "cn": "股票价格跨度",
-      "en": "online-stock-span"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/online-stock-span/",
-    "path": "./problemset/online-stock-span/README.md"
-  },
-  {
     "id": "902",
     "title": {
       "cn": "最大为 N 的数字组合",
@@ -4128,6 +4118,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/smallest-range-i/",
     "path": "./problemset/smallest-range/README.md"
+  },
+  {
+    "id": "915",
+    "title": {
+      "cn": "分割数组",
+      "en": "partition-array-into-disjoint-intervals"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/partition-array-into-disjoint-intervals/",
+    "path": "./problemset/partition-array-into-disjoint-intervals/README.md"
   },
   {
     "id": "917",
@@ -4458,16 +4458,6 @@
     "difficulty": "困难",
     "url": "https://leetcode.cn/problems/maximum-equal-frequency/",
     "path": "./problemset/maximum-equal-frequency/README.md"
-  },
-  {
-    "id": "1235",
-    "title": {
-      "cn": "规划兼职工作",
-      "en": "maximum-profit-in-job-scheduling"
-    },
-    "difficulty": "困难",
-    "url": "https://leetcode.cn/problems/maximum-profit-in-job-scheduling/",
-    "path": "./problemset/maximum-profit-in-job-scheduling/README.md"
   },
   {
     "id": "1252",
@@ -4888,16 +4878,6 @@
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/map-of-highest-peak/",
     "path": "./problemset/map-of-highest-peak/README.md"
-  },
-  {
-    "id": "1768",
-    "title": {
-      "cn": "交替合并字符串",
-      "en": "merge-strings-alternately"
-    },
-    "difficulty": "简单",
-    "url": "https://leetcode.cn/problems/merge-strings-alternately/",
-    "path": "./problemset/merge-strings-alternately/README.md"
   },
   {
     "id": "1784",
