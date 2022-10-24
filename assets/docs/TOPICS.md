@@ -836,6 +836,8 @@
 
 [933. 最近的请求次数](../../problemset/number-of-recent-calls/README.md)
 
+[934. 最短的桥](../../problemset/shortest-bridge/README.md)
+
 [937. 重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md)
 
 [940. 不同的子序列 II](../../problemset/distinct-subsequences-2/README.md)

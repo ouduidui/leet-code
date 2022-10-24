@@ -4180,6 +4180,16 @@
     "path": "./problemset/number-of-recent-calls/README.md"
   },
   {
+    "id": "934",
+    "title": {
+      "cn": "最短的桥",
+      "en": "shortest-bridge"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/shortest-bridge/",
+    "path": "./problemset/shortest-bridge/README.md"
+  },
+  {
     "id": "937",
     "title": {
       "cn": "重新排列日志文件",

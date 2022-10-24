@@ -3531,6 +3531,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "934",
+        "title": "最短的桥",
+        "path": "./problemset/shortest-bridge/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "965",
         "title": "单值二叉树",
         "path": "./problemset/univalued-binary-tree/README.md",

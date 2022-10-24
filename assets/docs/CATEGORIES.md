@@ -642,6 +642,7 @@
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 854. [相似度为 K 的字符串](../../problemset/k-similar-strings/README.md) | 困难 |
 | 886. [可能的二分法](../../problemset/possible-bipartition/README.md) | 中等 |
+| 934. [最短的桥](../../problemset/shortest-bridge/README.md) | 中等 |
 | 965. [单值二叉树](../../problemset/univalued-binary-tree/README.md) | 简单 |
 | 1020. [飞地的数量](../../problemset/number-of-enclaves/README.md) | 中等 |
 | 1022. [ 从根到叶的二进制数之和](../../problemset/sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
