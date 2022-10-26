@@ -445,6 +445,7 @@
 | 828. [统计子串中的唯一字符](../../problemset/count-unique-characters-of-all-substrings-of-a-given-string/README.md) | 困难 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 850. [矩形面积 II](../../problemset/rectangle-area-2/README.md) | 困难 |
+| 862. [和至少为 K 的最短子数组](../../problemset/shortest-subarray-with-sum-at-least-k/README.md) | 困难 |
 | 890. [查找和替换模式](../../problemset/find-and-replace-pattern/README.md) | 中等 |
 | 899. [有序队列](../../problemset/orderly-queue/README.md) | 困难 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |

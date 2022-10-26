@@ -798,6 +798,8 @@
 
 [857. 雇佣 K 名工人的最低成本](../../problemset/minimum-cost-to-hire-k-workers/README.md)
 
+[862. 和至少为 K 的最短子数组](../../problemset/shortest-subarray-with-sum-at-least-k/README.md)
+
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
 [870. 优势洗牌](../../problemset/advantage-shuffle/README.md)

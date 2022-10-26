@@ -3990,6 +3990,16 @@
     "path": "./problemset/minimum-cost-to-hire-k-workers/README.md"
   },
   {
+    "id": "862",
+    "title": {
+      "cn": "和至少为 K 的最短子数组",
+      "en": "shortest-subarray-with-sum-at-least-k"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/",
+    "path": "./problemset/shortest-subarray-with-sum-at-least-k/README.md"
+  },
+  {
     "id": "868",
     "title": {
       "cn": "二进制间距",
