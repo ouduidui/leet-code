@@ -4940,6 +4940,16 @@
     "path": "./problemset/maximum-ascending-subarray-sum/README.md"
   },
   {
+    "id": "1822",
+    "title": {
+      "cn": "数组元素积的符号",
+      "en": "sign-of-the-product-of-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sign-of-the-product-of-an-array/",
+    "path": "./problemset/sign-of-the-product-of-an-array/README.md"
+  },
+  {
     "id": "1823",
     "title": {
       "cn": "找出游戏的获胜者",

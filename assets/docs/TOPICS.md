@@ -988,6 +988,8 @@
 
 [1800. 最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md)
 
+[1822. 数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md)
+
 [1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
 
 [1832. 判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md)

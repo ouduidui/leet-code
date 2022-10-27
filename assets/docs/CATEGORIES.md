@@ -480,6 +480,7 @@
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
 | 1790. [仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md) | 简单 |
+| 1822. [数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md) | 简单 |
 | 1958. [文件夹操作日志搜集器](../../problemset/crawler-log-folder/README.md) | 简单 |
 | 1961. [检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md) | 简单 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |

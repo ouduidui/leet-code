@@ -2634,6 +2634,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1822",
+        "title": "数组元素积的符号",
+        "path": "./problemset/sign-of-the-product-of-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1958",
         "title": "文件夹操作日志搜集器",
         "path": "./problemset/crawler-log-folder/README.md",
