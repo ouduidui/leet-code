@@ -310,6 +310,7 @@
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
+| 907. [子数组的最小值之和](../../problemset/sum-of-subarray-minimums/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 940. [不同的子序列 II](../../problemset/distinct-subsequences-2/README.md) | 困难 |
 | 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
@@ -559,6 +560,7 @@
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
 | 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
+| 907. [子数组的最小值之和](../../problemset/sum-of-subarray-minimums/README.md) | 中等 |
 | 946. [验证栈序列](../../problemset/validate-stack-sequences/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
 | 1475. [商品折扣后的最终价格](../../problemset/final-prices-with-a-special-discount-in-a-shop/README.md) | 简单 |

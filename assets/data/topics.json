@@ -4120,6 +4120,16 @@
     "path": "./problemset/sort-array-by-parity/README.md"
   },
   {
+    "id": "907",
+    "title": {
+      "cn": "子数组的最小值之和",
+      "en": "sum-of-subarray-minimums"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sum-of-subarray-minimums/",
+    "path": "./problemset/sum-of-subarray-minimums/README.md"
+  },
+  {
     "id": "908",
     "title": {
       "cn": "最小差值",

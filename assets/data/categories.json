@@ -1664,6 +1664,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "907",
+        "title": "子数组的最小值之和",
+        "path": "./problemset/sum-of-subarray-minimums/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "926",
         "title": "将字符串翻转到单调递增",
         "path": "./problemset/flip-string-to-monotone-increasing/README.md",
@@ -3055,6 +3061,12 @@
         "id": "856",
         "title": "括号的分数",
         "path": "./problemset/score-of-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "907",
+        "title": "子数组的最小值之和",
+        "path": "./problemset/sum-of-subarray-minimums/README.md",
         "difficulty": "中等"
       },
       {

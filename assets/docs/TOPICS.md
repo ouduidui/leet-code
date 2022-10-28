@@ -824,6 +824,8 @@
 
 [905. 按奇偶排序数组](../../problemset/sort-array-by-parity/README.md)
 
+[907. 子数组的最小值之和](../../problemset/sum-of-subarray-minimums/README.md)
+
 [908. 最小差值](../../problemset/smallest-range/README.md)
 
 [915. 分割数组](../../problemset/partition-array-into-disjoint-intervals/README.md)
