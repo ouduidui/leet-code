@@ -4910,6 +4910,16 @@
     "path": "./problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": "1773",
+    "title": {
+      "cn": "统计匹配检索规则的物品数量",
+      "en": "count-items-matching-a-rule"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/count-items-matching-a-rule/",
+    "path": "./problemset/count-items-matching-a-rule/README.md"
+  },
+  {
     "id": "1784",
     "title": {
       "cn": "检查二进制字符串字段",
