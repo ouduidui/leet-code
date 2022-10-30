@@ -3790,6 +3790,16 @@
     "path": "./problemset/transform-to-chessboard/README.md"
   },
   {
+    "id": "784",
+    "title": {
+      "cn": "字母大小写全排列",
+      "en": "letter-case-permutation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/letter-case-permutation/",
+    "path": "./problemset/letter-case-permutation/README.md"
+  },
+  {
     "id": "788",
     "title": {
       "cn": "旋转数字",
