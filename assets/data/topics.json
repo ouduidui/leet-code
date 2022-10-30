@@ -2990,6 +2990,16 @@
     "path": "./problemset/largest-palindrome-product/README.md"
   },
   {
+    "id": "481",
+    "title": {
+      "cn": "神奇字符串",
+      "en": "magical-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/magical-string/",
+    "path": "./problemset/magical-string/README.md"
+  },
+  {
     "id": "497",
     "title": {
       "cn": "非重叠矩形中的随机点",

@@ -598,6 +598,8 @@
 
 [479. 最大回文数乘积](../../problemset/largest-palindrome-product/README.md)
 
+[481. 神奇字符串](../../problemset/magical-string/README.md)
+
 [497. 非重叠矩形中的随机点](../../problemset/random-point-in-non-overlapping-rectangles/README.md)
 
 [498. 对角线遍历](../../problemset/diagonal-traverse/README.md)
