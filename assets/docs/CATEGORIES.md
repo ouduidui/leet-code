@@ -477,6 +477,7 @@
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
 | 1636. [按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md) | 简单 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
+| 1662. [检查两个字符串数组是否相等](../../problemset/check-if-two-string-arrays-are-equivalent/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1694. [重新格式化电话号码](../../problemset/reformat-phone-number/README.md) | 简单 |
 | 1700. [无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md) | 简单 |

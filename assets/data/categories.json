@@ -2616,6 +2616,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1662",
+        "title": "检查两个字符串数组是否相等",
+        "path": "./problemset/check-if-two-string-arrays-are-equivalent/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1672",
         "title": "最富有客户的资产总量",
         "path": "./problemset/richest-customer-wealth/README.md",

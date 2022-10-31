@@ -968,6 +968,8 @@
 
 [1656. 涉及有序流](../../problemset/design-an-ordered-stream/README.md)
 
+[1662. 检查两个字符串数组是否相等](../../problemset/check-if-two-string-arrays-are-equivalent/README.md)
+
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)
 
 [1672. 最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md)

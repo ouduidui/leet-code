@@ -4840,6 +4840,16 @@
     "path": "./problemset/design-an-ordered-stream/README.md"
   },
   {
+    "id": "1662",
+    "title": {
+      "cn": "检查两个字符串数组是否相等",
+      "en": "check-if-two-string-arrays-are-equivalent"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/",
+    "path": "./problemset/check-if-two-string-arrays-are-equivalent/README.md"
+  },
+  {
     "id": "1663",
     "title": {
       "cn": "具有给定数值的最小字符串",
