@@ -475,6 +475,7 @@
 | 1582. [二进制矩阵中的特殊位置](../../problemset/special-positions-in-a-binary-matrix/README.md) | 简单 |
 | 1592. [重新排列单词间的空格](../../problemset/rearrange-spaces-between-words/README.md) | 简单 |
 | 1606. [找到处理最多请求的服务器](../../problemset/find-servers-that-handled-most-number-of-requests/README.md) | 困难 |
+| 1620. [网络信号最好的坐标](../../problemset/coordinate-with-maximum-network-quality/README.md) | 中等 |
 | 1636. [按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md) | 简单 |
 | 1656. [涉及有序流](../../problemset/design-an-ordered-stream/README.md) | 简单 |
 | 1662. [检查两个字符串数组是否相等](../../problemset/check-if-two-string-arrays-are-equivalent/README.md) | 简单 |

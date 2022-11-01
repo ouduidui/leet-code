@@ -4790,6 +4790,16 @@
     "path": "./problemset/mean-of-array-after-removing-some-elements/README.md"
   },
   {
+    "id": "1620",
+    "title": {
+      "cn": "网络信号最好的坐标",
+      "en": "coordinate-with-maximum-network-quality"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/coordinate-with-maximum-network-quality/",
+    "path": "./problemset/coordinate-with-maximum-network-quality/README.md"
+  },
+  {
     "id": "1624",
     "title": {
       "cn": "两个相同字符之间的最长子字符串",

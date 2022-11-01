@@ -2604,6 +2604,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1620",
+        "title": "网络信号最好的坐标",
+        "path": "./problemset/coordinate-with-maximum-network-quality/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1636",
         "title": "按照频率将数组升序排序",
         "path": "./problemset/sort-array-by-increasing-frequency/README.md",

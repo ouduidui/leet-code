@@ -958,6 +958,8 @@
 
 [1619. 删除某些元素后的数组均值](../../problemset/mean-of-array-after-removing-some-elements/README.md)
 
+[1620. 网络信号最好的坐标](../../problemset/coordinate-with-maximum-network-quality/README.md)
+
 [1624. 两个相同字符之间的最长子字符串](../../problemset/largest-substring-between-two-equal-characters/README.md)
 
 [1636. 按照频率将数组升序排序](../../problemset/sort-array-by-increasing-frequency/README.md)
