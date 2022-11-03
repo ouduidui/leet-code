@@ -315,6 +315,7 @@
 | 926. [将字符串翻转到单调递增](../../problemset/flip-string-to-monotone-increasing/README.md) | 中等 |
 | 940. [不同的子序列 II](../../problemset/distinct-subsequences-2/README.md) | 困难 |
 | 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
+| 1668. [最大重复子字符串](../../problemset/maximum-repeating-substring/README.md) | 简单 |
 | 1800. [最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md) | 简单 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
 | 2100. [适合打劫银行的日子](../../problemset/find-good-days-to-rob-the-bank/README.md) | 中等 |
@@ -800,6 +801,7 @@
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
+| 1668. [最大重复子字符串](../../problemset/maximum-repeating-substring/README.md) | 简单 |
 
 ## 位运算
 

@@ -974,6 +974,8 @@
 
 [1663. 具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md)
 
+[1668. 最大重复子字符串](../../problemset/maximum-repeating-substring/README.md)
+
 [1672. 最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md)
 
 [1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)

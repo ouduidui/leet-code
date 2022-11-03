@@ -1694,6 +1694,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1668",
+        "title": "最大重复子字符串",
+        "path": "./problemset/maximum-repeating-substring/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1800",
         "title": "最大升序子数组和",
         "path": "./problemset/maximum-ascending-subarray-sum/README.md",
@@ -4327,6 +4333,12 @@
         "title": "最多可达成的换楼请求数目",
         "path": "./problemset/maximum-number-of-achievable-transfer-requests/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "1668",
+        "title": "最大重复子字符串",
+        "path": "./problemset/maximum-repeating-substring/README.md",
+        "difficulty": "简单"
       }
     ]
   },

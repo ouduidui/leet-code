@@ -4870,6 +4870,16 @@
     "path": "./problemset/smallest-string-with-a-given-numeric-value/README.md"
   },
   {
+    "id": "1668",
+    "title": {
+      "cn": "最大重复子字符串",
+      "en": "maximum-repeating-substring"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-repeating-substring/",
+    "path": "./problemset/maximum-repeating-substring/README.md"
+  },
+  {
     "id": "1672",
     "title": {
       "cn": "最富有客户的资产总量",
