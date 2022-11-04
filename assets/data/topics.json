@@ -3710,6 +3710,16 @@
     "path": "./problemset/contain-virus/README.md"
   },
   {
+    "id": "754",
+    "title": {
+      "cn": "到达终点数字",
+      "en": "reach-a-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reach-a-number/",
+    "path": "./problemset/reach-a-number/README.md"
+  },
+  {
     "id": "757",
     "title": {
       "cn": "设置交集大小至少为2",

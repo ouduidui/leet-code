@@ -1252,6 +1252,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "754",
+        "title": "到达终点数字",
+        "path": "./problemset/reach-a-number/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "762",
         "title": "二进制表示中质数个计算置位",
         "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md",

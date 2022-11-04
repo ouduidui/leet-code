@@ -233,6 +233,7 @@
 | 553. [最优除法](../../problemset/optimal-division/README.md) | 中等 |
 | 593. [有效的正方形](../../problemset/valid-square/README.md) | 中等 |
 | 668. [乘法表中第k小的数](../../problemset/kth-smallest-number-in-multiplication-table/README.md) | 困难 |
+| 754. [到达终点数字](../../problemset/reach-a-number/README.md) | 中等 |
 | 762. [二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md) | 简单 |
 | 779. [第K个语法符号](../../problemset/k-th-symbol-in-grammar/README.md) | 中等 |
 | 784. [字母大小写全排列](../../problemset/letter-case-permutation/README.md) | 中等 |

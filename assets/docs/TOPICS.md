@@ -742,6 +742,8 @@
 
 [749. 隔离病毒](../../problemset/contain-virus/README.md)
 
+[754. 到达终点数字](../../problemset/reach-a-number/README.md)
+
 [757. 设置交集大小至少为2](../../problemset/set-intersection-size-at-least-two/README.md)
 
 [761. 特殊的二进制序列](../../problemset/special-binary-string/README.md)
