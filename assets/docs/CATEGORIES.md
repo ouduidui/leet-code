@@ -571,6 +571,7 @@
 | 907. [子数组的最小值之和](../../problemset/sum-of-subarray-minimums/README.md) | 中等 |
 | 946. [验证栈序列](../../problemset/validate-stack-sequences/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |
+| 1106. [解析布尔表达式](../../problemset/parsing-a-boolean-expression/README.md) | 困难 |
 | 1475. [商品折扣后的最终价格](../../problemset/final-prices-with-a-special-discount-in-a-shop/README.md) | 简单 |
 | 2104. [子数组范围和](../../problemset/sum-of-subarray-ranges/README.md) | 中等 |
 

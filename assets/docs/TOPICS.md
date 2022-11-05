@@ -886,6 +886,8 @@
 
 [1089. 复写零](../../problemset/duplicate-zeros/README.md)
 
+[1106. 解析布尔表达式](../../problemset/parsing-a-boolean-expression/README.md)
+
 [1108. IP地址无效化](../../problemset/defanging-an-ip-address/README.md)
 
 [1161. 最大层内元素和](../../problemset/maximum-level-sum-of-a-binary-tree/README.md)

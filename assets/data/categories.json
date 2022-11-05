@@ -3130,6 +3130,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1106",
+        "title": "解析布尔表达式",
+        "path": "./problemset/parsing-a-boolean-expression/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1475",
         "title": "商品折扣后的最终价格",
         "path": "./problemset/final-prices-with-a-special-discount-in-a-shop/README.md",

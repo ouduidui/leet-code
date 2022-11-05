@@ -4430,6 +4430,16 @@
     "path": "./problemset/duplicate-zeros/README.md"
   },
   {
+    "id": "1106",
+    "title": {
+      "cn": "解析布尔表达式",
+      "en": "parsing-a-boolean-expression"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/parsing-a-boolean-expression/",
+    "path": "./problemset/parsing-a-boolean-expression/README.md"
+  },
+  {
     "id": "1108",
     "title": {
       "cn": "IP地址无效化",
