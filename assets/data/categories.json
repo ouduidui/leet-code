@@ -2646,6 +2646,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1678",
+        "title": "设计 Goal 解析器",
+        "path": "./problemset/goal-parser-interpretation/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1694",
         "title": "重新格式化电话号码",
         "path": "./problemset/reformat-phone-number/README.md",

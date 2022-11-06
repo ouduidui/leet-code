@@ -7,7 +7,7 @@ describe('解析布尔表达式', () => {
 
 function testCase(fn: (expression: string) => boolean) {
   it.each([
-    ['!(f)', false],
+    ['!(f)', true],
     ['|(f,t)', true],
     ['&(t,f)', false],
     ['|(&(t,f,t),!(t))', false],

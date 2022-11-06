@@ -4910,6 +4910,16 @@
     "path": "./problemset/richest-customer-wealth/README.md"
   },
   {
+    "id": "1678",
+    "title": {
+      "cn": "设计 Goal 解析器",
+      "en": "goal-parser-interpretation"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/goal-parser-interpretation/",
+    "path": "./problemset/goal-parser-interpretation/README.md"
+  },
+  {
     "id": "1694",
     "title": {
       "cn": "重新格式化电话号码",

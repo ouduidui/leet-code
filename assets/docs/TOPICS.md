@@ -982,6 +982,8 @@
 
 [1672. 最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md)
 
+[1678. 设计 Goal 解析器](../../problemset/goal-parser-interpretation/README.md)
+
 [1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)
 
 [1700. 无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md)
