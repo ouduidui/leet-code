@@ -800,6 +800,7 @@
 | 699. [掉落的方块](../../problemset/falling-squares/README.md) | 困难 |
 | 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
+| 816. [模糊坐标](../../problemset/ambiguous-coordinates/README.md) | 中等 |
 | 1408. [数组中的字符串匹配](../../problemset/string-matching-in-an-array/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../../problemset/maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |

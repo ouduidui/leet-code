@@ -3910,6 +3910,16 @@
     "path": "./problemset/binary-tree-pruning/README.md"
   },
   {
+    "id": "816",
+    "title": {
+      "cn": "模糊坐标",
+      "en": "ambiguous-coordinates"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/ambiguous-coordinates/",
+    "path": "./problemset/ambiguous-coordinates/README.md"
+  },
+  {
     "id": "817",
     "title": {
       "cn": "链表组件",

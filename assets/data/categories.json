@@ -4329,6 +4329,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "816",
+        "title": "模糊坐标",
+        "path": "./problemset/ambiguous-coordinates/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1408",
         "title": "数组中的字符串匹配",
         "path": "./problemset/string-matching-in-an-array/README.md",

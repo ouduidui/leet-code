@@ -782,6 +782,8 @@
 
 [814. 二叉树剪枝](../../problemset/binary-tree-pruning/README.md)
 
+[816. 模糊坐标](../../problemset/ambiguous-coordinates/README.md)
+
 [817. 链表组件](../../problemset/linked-list-components/README.md)
 
 [819. 最常见的单词](../../problemset/most-common-word/README.md)
