@@ -4930,6 +4930,16 @@
     "path": "./problemset/goal-parser-interpretation/README.md"
   },
   {
+    "id": "1684",
+    "title": {
+      "cn": "统计一致字符串的数目",
+      "en": "count-the-number-of-consistent-strings"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/count-the-number-of-consistent-strings/",
+    "path": "./problemset/count-the-number-of-consistent-strings/README.md"
+  },
+  {
     "id": "1694",
     "title": {
       "cn": "重新格式化电话号码",

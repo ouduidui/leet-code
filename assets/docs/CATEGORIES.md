@@ -483,6 +483,7 @@
 | 1662. [检查两个字符串数组是否相等](../../problemset/check-if-two-string-arrays-are-equivalent/README.md) | 简单 |
 | 1672. [最富有客户的资产总量](../../problemset/richest-customer-wealth/README.md) | 简单 |
 | 1678. [设计 Goal 解析器](../../problemset/goal-parser-interpretation/README.md) | 简单 |
+| 1684. [统计一致字符串的数目](../../problemset/count-the-number-of-consistent-strings/README.md) | 简单 |
 | 1694. [重新格式化电话号码](../../problemset/reformat-phone-number/README.md) | 简单 |
 | 1700. [无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |

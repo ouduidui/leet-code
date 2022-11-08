@@ -2652,6 +2652,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1684",
+        "title": "统计一致字符串的数目",
+        "path": "./problemset/count-the-number-of-consistent-strings/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1694",
         "title": "重新格式化电话号码",
         "path": "./problemset/reformat-phone-number/README.md",
