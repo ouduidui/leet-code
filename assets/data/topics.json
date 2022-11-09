@@ -3750,6 +3750,16 @@
     "path": "./problemset/prime-number-of-set-bits-in-binary-representation/README.md"
   },
   {
+    "id": "764",
+    "title": {
+      "cn": "最大加号标志",
+      "en": "largest-plus-sign"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/largest-plus-sign/",
+    "path": "./problemset/largest-plus-sign/README.md"
+  },
+  {
     "id": "768",
     "title": {
       "cn": "最多能完成排序的块 II",

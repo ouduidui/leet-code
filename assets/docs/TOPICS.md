@@ -750,6 +750,8 @@
 
 [762. 二进制表示中质数个计算置位](../../problemset/prime-number-of-set-bits-in-binary-representation/README.md)
 
+[764. 最大加号标志](../../problemset/largest-plus-sign/README.md)
+
 [768. 最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md)
 
 [769. 最多能完成排序的块](../../problemset/max-chunks-to-make-sorted/README.md)

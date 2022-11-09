@@ -1646,6 +1646,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "764",
+        "title": "最大加号标志",
+        "path": "./problemset/largest-plus-sign/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "788",
         "title": "旋转数字",
         "path": "./problemset/rotated-digits/README.md",
