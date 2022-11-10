@@ -4050,6 +4050,16 @@
     "path": "./problemset/shortest-subarray-with-sum-at-least-k/README.md"
   },
   {
+    "id": "864",
+    "title": {
+      "cn": "获取所有钥匙的最短路径",
+      "en": "shortest-path-to-get-all-keys"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/shortest-path-to-get-all-keys/",
+    "path": "./problemset/shortest-path-to-get-all-keys/README.md"
+  },
+  {
     "id": "868",
     "title": {
       "cn": "二进制间距",

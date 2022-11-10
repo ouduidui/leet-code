@@ -810,6 +810,8 @@
 
 [862. 和至少为 K 的最短子数组](../../problemset/shortest-subarray-with-sum-at-least-k/README.md)
 
+[864. 获取所有钥匙的最短路径](../../problemset/shortest-path-to-get-all-keys/README.md)
+
 [868. 二进制间距](../../problemset/binary-gap/README.md)
 
 [870. 优势洗牌](../../problemset/advantage-shuffle/README.md)

@@ -3627,6 +3627,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "864",
+        "title": "获取所有钥匙的最短路径",
+        "path": "./problemset/shortest-path-to-get-all-keys/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "886",
         "title": "可能的二分法",
         "path": "./problemset/possible-bipartition/README.md",

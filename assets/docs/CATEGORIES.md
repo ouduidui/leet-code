@@ -658,6 +658,7 @@
 | 814. [二叉树剪枝](../../problemset/binary-tree-pruning/README.md) | 中等 |
 | 838. [推多米诺](../../problemset/push-dominoes/README.md) | 中等 |
 | 854. [相似度为 K 的字符串](../../problemset/k-similar-strings/README.md) | 困难 |
+| 864. [获取所有钥匙的最短路径](../../problemset/shortest-path-to-get-all-keys/README.md) | 困难 |
 | 886. [可能的二分法](../../problemset/possible-bipartition/README.md) | 中等 |
 | 934. [最短的桥](../../problemset/shortest-bridge/README.md) | 中等 |
 | 965. [单值二叉树](../../problemset/univalued-binary-tree/README.md) | 简单 |
