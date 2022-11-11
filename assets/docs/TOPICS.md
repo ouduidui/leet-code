@@ -996,6 +996,8 @@
 
 [1700. 无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md)
 
+[1704. 判断字符串的两半是否相似](../../problemset/determine-if-string-halves-are-alike/README.md)
+
 [1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
 
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
