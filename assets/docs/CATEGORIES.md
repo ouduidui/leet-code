@@ -310,6 +310,7 @@
 | 741. [摘樱桃](../../problemset/cherry-pickup/README.md) | 困难 |
 | 764. [最大加号标志](../../problemset/largest-plus-sign/README.md) | 中等 |
 | 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
+| 790. [多米诺和托米诺平铺](../../problemset/domino-and-tromino-tiling/README.md) | 中等 |
 | 801. [使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |

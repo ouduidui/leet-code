@@ -3840,6 +3840,16 @@
     "path": "./problemset/rotated-digits/README.md"
   },
   {
+    "id": "790",
+    "title": {
+      "cn": "多米诺和托米诺平铺",
+      "en": "domino-and-tromino-tiling"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/domino-and-tromino-tiling/",
+    "path": "./problemset/domino-and-tromino-tiling/README.md"
+  },
+  {
     "id": "793",
     "title": {
       "cn": "阶乘函数后 K 个零",
