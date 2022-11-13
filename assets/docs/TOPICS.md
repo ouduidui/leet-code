@@ -782,6 +782,8 @@
 
 [804. 唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md)
 
+[805. 数组的均值分割](../../problemset/split-array-with-same-average/README.md)
+
 [806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)
 
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)

@@ -313,6 +313,7 @@
 | 788. [旋转数字](../../problemset/rotated-digits/README.md) | 中等 |
 | 790. [多米诺和托米诺平铺](../../problemset/domino-and-tromino-tiling/README.md) | 中等 |
 | 801. [使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md) | 困难 |
+| 805. [数组的均值分割](../../problemset/split-array-with-same-average/README.md) | 困难 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
@@ -446,6 +447,7 @@
 | 782. [变为棋盘](../../problemset/transform-to-chessboard/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
+| 805. [数组的均值分割](../../problemset/split-array-with-same-average/README.md) | 困难 |
 | 806. [写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md) | 简单 |
 | 817. [链表组件](../../problemset/linked-list-components/README.md) | 中等 |
 | 821. [字符的最短距离](../../problemset/shortest-distance-to-a-character/README.md) | 简单 |

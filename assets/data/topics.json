@@ -3910,6 +3910,16 @@
     "path": "./problemset/unique-morse-code-words/README.md"
   },
   {
+    "id": "805",
+    "title": {
+      "cn": "数组的均值分割",
+      "en": "split-array-with-same-average"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/split-array-with-same-average/",
+    "path": "./problemset/split-array-with-same-average/README.md"
+  },
+  {
     "id": "806",
     "title": {
       "cn": "写字符串需要的行数",

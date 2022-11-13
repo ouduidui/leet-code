@@ -1682,6 +1682,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "805",
+        "title": "数组的均值分割",
+        "path": "./problemset/split-array-with-same-average/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",
@@ -2427,6 +2433,12 @@
         "id": "798",
         "title": "得分最高的最小轮调",
         "path": "./problemset/smallest-rotation-with-highest-score/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "805",
+        "title": "数组的均值分割",
+        "path": "./problemset/split-array-with-same-average/README.md",
         "difficulty": "困难"
       },
       {
