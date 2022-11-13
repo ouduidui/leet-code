@@ -770,6 +770,8 @@
 
 [790. 多米诺和托米诺平铺](../../problemset/domino-and-tromino-tiling/README.md)
 
+[791. 自定义字符串排序](../../problemset/custom-sort-string/README.md)
+
 [793. 阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md)
 
 [796. 旋转字符串](../../problemset/rotate-string/README.md)

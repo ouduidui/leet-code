@@ -911,6 +911,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "791",
+        "title": "自定义字符串排序",
+        "path": "./problemset/custom-sort-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "937",
         "title": "重新排列日志文件",
         "path": "./problemset/reorder-data-in-log-files/README.md",

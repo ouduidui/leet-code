@@ -172,6 +172,7 @@
 | 556. [下一个更大元素 III](../../problemset/next-greater-element-3/README.md) | 中等 |
 | 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
+| 791. [自定义字符串排序](../../problemset/custom-sort-string/README.md) | 中等 |
 | 937. [重新排列日志文件](../../problemset/reorder-data-in-log-files/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 1051. [高度检查器](../../problemset/height-checker/README.md) | 简单 |

@@ -3850,6 +3850,16 @@
     "path": "./problemset/domino-and-tromino-tiling/README.md"
   },
   {
+    "id": "791",
+    "title": {
+      "cn": "自定义字符串排序",
+      "en": "custom-sort-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/custom-sort-string/",
+    "path": "./problemset/custom-sort-string/README.md"
+  },
+  {
     "id": "793",
     "title": {
       "cn": "阶乘函数后 K 个零",
