@@ -1006,6 +1006,8 @@
 
 [1706. 球会落何处](../../problemset/where-will-the-ball-fall/README.md)
 
+[1710. 卡车上的最大单元数](../../problemset/maximum-units-on-a-truck/README.md)
+
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
 
 [1728. 猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md)

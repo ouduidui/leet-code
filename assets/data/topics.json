@@ -5030,6 +5030,16 @@
     "path": "./problemset/where-will-the-ball-fall/README.md"
   },
   {
+    "id": "1710",
+    "title": {
+      "cn": "卡车上的最大单元数",
+      "en": "maximum-units-on-a-truck"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-units-on-a-truck/",
+    "path": "./problemset/maximum-units-on-a-truck/README.md"
+  },
+  {
     "id": "1719",
     "title": {
       "cn": "重构一棵树的方案数",

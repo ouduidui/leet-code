@@ -3971,6 +3971,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1710",
+        "title": "卡车上的最大单元数",
+        "path": "./problemset/maximum-units-on-a-truck/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2038",
         "title": "如果相邻两个颜色均相同则删除当前颜色",
         "path": "./problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
