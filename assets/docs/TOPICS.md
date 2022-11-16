@@ -756,6 +756,8 @@
 
 [769. 最多能完成排序的块](../../problemset/max-chunks-to-make-sorted/README.md)
 
+[775. 全局倒置与局部倒置](../../problemset/global-and-local-inversions/README.md)
+
 [777. 在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md)
 
 [779. 第K个语法符号](../../problemset/k-th-symbol-in-grammar/README.md)

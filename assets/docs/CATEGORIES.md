@@ -443,6 +443,7 @@
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 736. [Lisp 语法解析](../../problemset/parse-lisp-expression/README.md) | 困难 |
 | 745. [前缀和后缀搜索](../../problemset/prefix-and-suffix-search/README.md) | 困难 |
+| 775. [全局倒置与局部倒置](../../problemset/global-and-local-inversions/README.md) | 中等 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 782. [变为棋盘](../../problemset/transform-to-chessboard/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |

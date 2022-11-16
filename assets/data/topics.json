@@ -3780,6 +3780,16 @@
     "path": "./problemset/max-chunks-to-make-sorted/README.md"
   },
   {
+    "id": "775",
+    "title": {
+      "cn": "全局倒置与局部倒置",
+      "en": "global-and-local-inversions"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/global-and-local-inversions/",
+    "path": "./problemset/global-and-local-inversions/README.md"
+  },
+  {
     "id": "777",
     "title": {
       "cn": "在LR字符串中交换相邻字符",

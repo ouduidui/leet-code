@@ -2412,6 +2412,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "775",
+        "title": "全局倒置与局部倒置",
+        "path": "./problemset/global-and-local-inversions/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "780",
         "title": "到达终点",
         "path": "./problemset/reaching-points/README.md",
