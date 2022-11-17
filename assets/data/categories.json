@@ -768,6 +768,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "792",
+        "title": "匹配子序列的单词数",
+        "path": "./problemset/number-of-matching-subsequences/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "793",
         "title": "阶乘函数后 K 个零",
         "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md",
@@ -1972,6 +1978,12 @@
         "id": "777",
         "title": "在LR字符串中交换相邻字符",
         "path": "./problemset/swap-adjacent-in-lr-string/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "792",
+        "title": "匹配子序列的单词数",
+        "path": "./problemset/number-of-matching-subsequences/README.md",
         "difficulty": "中等"
       },
       {

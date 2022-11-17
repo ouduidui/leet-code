@@ -144,6 +144,7 @@
 | 729. [我的日程安排表](../../problemset/my-calendar/README.md) | 中等 |
 | 732. [我的日程安排表 III](../../problemset/my-calendar-3/README.md) | 困难 |
 | 744. [寻找比目标字母大的最小字母](../../problemset/find-smallest-letter-greater-than-target/README.md) | 简单 |
+| 792. [匹配子序列的单词数](../../problemset/number-of-matching-subsequences/README.md) | 中等 |
 | 793. [阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md) | 困难 |
 | 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
 | 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
@@ -366,6 +367,7 @@
 | 658. [找到 K 个最接近的元素](../../problemset/find-k-closest-elements/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 777. [在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md) | 中等 |
+| 792. [匹配子序列的单词数](../../problemset/number-of-matching-subsequences/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 | 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |

@@ -3870,6 +3870,16 @@
     "path": "./problemset/custom-sort-string/README.md"
   },
   {
+    "id": "792",
+    "title": {
+      "cn": "匹配子序列的单词数",
+      "en": "number-of-matching-subsequences"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/number-of-matching-subsequences/",
+    "path": "./problemset/number-of-matching-subsequences/README.md"
+  },
+  {
     "id": "793",
     "title": {
       "cn": "阶乘函数后 K 个零",
