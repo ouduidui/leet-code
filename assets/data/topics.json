@@ -4190,6 +4190,16 @@
     "path": "./problemset/find-and-replace-pattern/README.md"
   },
   {
+    "id": "891",
+    "title": {
+      "cn": "子序列宽度之和",
+      "en": "description"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/sum-of-subsequence-widths/description/",
+    "path": "./problemset/description/README.md"
+  },
+  {
     "id": "899",
     "title": {
       "cn": "有序队列",

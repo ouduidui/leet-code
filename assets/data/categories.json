@@ -1318,6 +1318,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "891",
+        "title": "子序列宽度之和",
+        "path": "./problemset/description/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "902",
         "title": "最大为 N 的数字组合",
         "path": "./problemset/numbers-at-most-n-given-digit-set/README.md",

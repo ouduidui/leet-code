@@ -838,6 +838,8 @@
 
 [890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
 
+[891. 子序列宽度之和](../../problemset/description/README.md)
+
 [899. 有序队列](../../problemset/orderly-queue/README.md)
 
 [902. 最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md)

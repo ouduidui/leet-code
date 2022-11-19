@@ -244,6 +244,7 @@
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
+| 891. [子序列宽度之和](../../problemset/description/README.md) | 困难 |
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |
 | 908. [最小差值](../../problemset/smallest-range/README.md) | 简单 |
 | 919. [完全二叉树插入器](../../problemset/complete-binary-tree-inserter/README.md) | 中等 |
