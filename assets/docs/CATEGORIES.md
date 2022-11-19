@@ -498,6 +498,7 @@
 | 1700. [无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md) | 简单 |
 | 1706. [球会落何处](../../problemset/where-will-the-ball-fall/README.md) | 中等 |
 | 1719. [重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md) | 困难 |
+| 1732. [找到最高海拔](../../problemset/find-the-highest-altitude/README.md) | 简单 |
 | 1773. [统计匹配检索规则的物品数量](../../problemset/count-items-matching-a-rule/README.md) | 简单 |
 | 1790. [仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md) | 简单 |
 | 1822. [数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md) | 简单 |

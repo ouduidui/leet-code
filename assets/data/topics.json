@@ -5090,6 +5090,16 @@
     "path": "./problemset/cat-and-mouse-2/README.md"
   },
   {
+    "id": "1732",
+    "title": {
+      "cn": "找到最高海拔",
+      "en": "find-the-highest-altitude"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/find-the-highest-altitude/",
+    "path": "./problemset/find-the-highest-altitude/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",

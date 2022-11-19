@@ -2742,6 +2742,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1732",
+        "title": "找到最高海拔",
+        "path": "./problemset/find-the-highest-altitude/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1773",
         "title": "统计匹配检索规则的物品数量",
         "path": "./problemset/count-items-matching-a-rule/README.md",
