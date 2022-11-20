@@ -782,6 +782,8 @@
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
+[799. 香槟塔](../../problemset/champagne-tower/README.md)
+
 [801. 使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md)
 
 [804. 唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md)

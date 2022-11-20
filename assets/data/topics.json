@@ -3910,6 +3910,16 @@
     "path": "./problemset/smallest-rotation-with-highest-score/README.md"
   },
   {
+    "id": "799",
+    "title": {
+      "cn": "香槟塔",
+      "en": "champagne-tower"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/champagne-tower/",
+    "path": "./problemset/champagne-tower/README.md"
+  },
+  {
     "id": "801",
     "title": {
       "cn": "使序列递增的最小交换次数",

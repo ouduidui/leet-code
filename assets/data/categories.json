@@ -2460,6 +2460,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "799",
+        "title": "香槟塔",
+        "path": "./problemset/champagne-tower/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "805",
         "title": "数组的均值分割",
         "path": "./problemset/split-array-with-same-average/README.md",

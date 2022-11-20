@@ -451,6 +451,7 @@
 | 782. [变为棋盘](../../problemset/transform-to-chessboard/README.md) | 困难 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
+| 799. [香槟塔](../../problemset/champagne-tower/README.md) | 中等 |
 | 805. [数组的均值分割](../../problemset/split-array-with-same-average/README.md) | 困难 |
 | 806. [写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md) | 简单 |
 | 817. [链表组件](../../problemset/linked-list-components/README.md) | 中等 |
