@@ -782,8 +782,6 @@
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
 
-[799. 香槟塔](../../problemset/champagne-tower/README.md)
-
 [801. 使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md)
 
 [804. 唯一摩尔斯密码词](../../problemset/unique-morse-code-words/README.md)
@@ -791,6 +789,8 @@
 [805. 数组的均值分割](../../problemset/split-array-with-same-average/README.md)
 
 [806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)
+
+[808. 分汤](../../problemset/soup-servings/README.md)
 
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)
 
@@ -839,8 +839,6 @@
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
-
-[891. 子序列宽度之和](../../problemset/description/README.md)
 
 [899. 有序队列](../../problemset/orderly-queue/README.md)
 
@@ -1019,8 +1017,6 @@
 [1719. 重构一棵树的方案数](../../problemset/number-of-ways-to-reconstruct-a-tree/README.md)
 
 [1728. 猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md)
-
-[1732. 找到最高海拔](../../problemset/find-the-highest-altitude/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 

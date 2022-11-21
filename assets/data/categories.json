@@ -1700,6 +1700,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "808",
+        "title": "分汤",
+        "path": "./problemset/soup-servings/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",

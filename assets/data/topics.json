@@ -3910,16 +3910,6 @@
     "path": "./problemset/smallest-rotation-with-highest-score/README.md"
   },
   {
-    "id": "799",
-    "title": {
-      "cn": "香槟塔",
-      "en": "champagne-tower"
-    },
-    "difficulty": "中等",
-    "url": "https://leetcode.cn/problems/champagne-tower/",
-    "path": "./problemset/champagne-tower/README.md"
-  },
-  {
     "id": "801",
     "title": {
       "cn": "使序列递增的最小交换次数",
@@ -3958,6 +3948,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/number-of-lines-to-write-string/",
     "path": "./problemset/number-of-lines-to-write-string/README.md"
+  },
+  {
+    "id": "808",
+    "title": {
+      "cn": "分汤",
+      "en": "soup-servings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/soup-servings/",
+    "path": "./problemset/soup-servings/README.md"
   },
   {
     "id": "812",
@@ -4198,16 +4198,6 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/find-and-replace-pattern/",
     "path": "./problemset/find-and-replace-pattern/README.md"
-  },
-  {
-    "id": "891",
-    "title": {
-      "cn": "子序列宽度之和",
-      "en": "description"
-    },
-    "difficulty": "困难",
-    "url": "https://leetcode.cn/problems/sum-of-subsequence-widths/description/",
-    "path": "./problemset/description/README.md"
   },
   {
     "id": "899",
@@ -5098,16 +5088,6 @@
     "difficulty": "困难",
     "url": "https://leetcode.cn/problems/cat-and-mouse-ii/",
     "path": "./problemset/cat-and-mouse-2/README.md"
-  },
-  {
-    "id": "1732",
-    "title": {
-      "cn": "找到最高海拔",
-      "en": "find-the-highest-altitude"
-    },
-    "difficulty": "简单",
-    "url": "https://leetcode.cn/problems/find-the-highest-altitude/",
-    "path": "./problemset/find-the-highest-altitude/README.md"
   },
   {
     "id": "1763",
