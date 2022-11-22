@@ -4170,6 +4170,16 @@
     "path": "./problemset/koko-eating-bananas/README.md"
   },
   {
+    "id": "878",
+    "title": {
+      "cn": "第 N 个神奇数字",
+      "en": "nth-magical-number"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/nth-magical-number/",
+    "path": "./problemset/nth-magical-number/README.md"
+  },
+  {
     "id": "883",
     "title": {
       "cn": "三维形体投影面积",

@@ -243,6 +243,7 @@
 | 812. [最大三角形面积](../../problemset/largest-triangle-area/README.md) | 简单 |
 | 829. [连续整数求和](../../problemset/consecutive-numbers-sum/README.md) | 困难 |
 | 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
+| 878. [第 N 个神奇数字](../../problemset/nth-magical-number/README.md) | 困难 |
 | 883. [三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md) | 简单 |
 | 891. [子序列宽度之和](../../problemset/description/README.md) | 困难 |
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |

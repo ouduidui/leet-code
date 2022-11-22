@@ -1312,6 +1312,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "878",
+        "title": "第 N 个神奇数字",
+        "path": "./problemset/nth-magical-number/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "883",
         "title": "三维形体投影面积",
         "path": "./problemset/projection-area-of-3d-shapes/README.md",
