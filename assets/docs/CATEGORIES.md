@@ -62,6 +62,7 @@
 | 1460. [通过翻转子数组使两个数组相等](../../problemset/make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
 | 1624. [两个相同字符之间的最长子字符串](../../problemset/largest-substring-between-two-equal-characters/README.md) | 简单 |
 | 1640. [能否连接形成数组](../../problemset/check-array-formation-through-concatenation/README.md) | 简单 |
+| 1742. [盒子中小球的最大数量](../../problemset/maximum-number-of-balls-in-a-box/README.md) | 简单 |
 | 1832. [判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |

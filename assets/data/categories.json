@@ -351,6 +351,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1742",
+        "title": "盒子中小球的最大数量",
+        "path": "./problemset/maximum-number-of-balls-in-a-box/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1832",
         "title": "判断句子是否为全字母句",
         "path": "./problemset/check-if-the-sentence-is-pangram/README.md",

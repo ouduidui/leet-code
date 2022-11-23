@@ -1020,6 +1020,8 @@
 
 [1728. 猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md)
 
+[1742. 盒子中小球的最大数量](../../problemset/maximum-number-of-balls-in-a-box/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
