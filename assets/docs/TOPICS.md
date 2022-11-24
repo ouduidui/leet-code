@@ -778,6 +778,8 @@
 
 [793. 阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md)
 
+[795. 区间子数组个数](../../problemset/number-of-subarrays-with-bounded-maximum/README.md)
+
 [796. 旋转字符串](../../problemset/rotate-string/README.md)
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)

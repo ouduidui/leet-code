@@ -452,6 +452,7 @@
 | 775. [全局倒置与局部倒置](../../problemset/global-and-local-inversions/README.md) | 中等 |
 | 780. [到达终点](../../problemset/reaching-points/README.md) | 困难 |
 | 782. [变为棋盘](../../problemset/transform-to-chessboard/README.md) | 困难 |
+| 795. [区间子数组个数](../../problemset/number-of-subarrays-with-bounded-maximum/README.md) | 中等 |
 | 796. [旋转字符串](../../problemset/rotate-string/README.md) | 简单 |
 | 798. [得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md) | 困难 |
 | 799. [香槟塔](../../problemset/champagne-tower/README.md) | 中等 |

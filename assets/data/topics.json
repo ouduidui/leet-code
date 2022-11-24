@@ -3890,6 +3890,16 @@
     "path": "./problemset/preimage-size-of-factorial-zeroes-function/README.md"
   },
   {
+    "id": "795",
+    "title": {
+      "cn": "区间子数组个数",
+      "en": "number-of-subarrays-with-bounded-maximum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum/",
+    "path": "./problemset/number-of-subarrays-with-bounded-maximum/README.md"
+  },
+  {
     "id": "796",
     "title": {
       "cn": "旋转字符串",

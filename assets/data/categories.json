@@ -2466,6 +2466,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "795",
+        "title": "区间子数组个数",
+        "path": "./problemset/number-of-subarrays-with-bounded-maximum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "796",
         "title": "旋转字符串",
         "path": "./problemset/rotate-string/README.md",
