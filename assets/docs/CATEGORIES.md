@@ -372,6 +372,7 @@
 | 719. [找出第 K 小的数对距离](../../problemset/find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 777. [在LR字符串中交换相邻字符](../../problemset/swap-adjacent-in-lr-string/README.md) | 中等 |
 | 792. [匹配子序列的单词数](../../problemset/number-of-matching-subsequences/README.md) | 中等 |
+| 809. [情感丰富的文字](../../problemset/expressive-words/README.md) | 中等 |
 | 905. [按奇偶排序数组](../../problemset/sort-array-by-parity/README.md) | 简单 |
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 | 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |

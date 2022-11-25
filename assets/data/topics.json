@@ -3970,6 +3970,16 @@
     "path": "./problemset/soup-servings/README.md"
   },
   {
+    "id": "809",
+    "title": {
+      "cn": "情感丰富的文字",
+      "en": "expressive-words"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/expressive-words/",
+    "path": "./problemset/expressive-words/README.md"
+  },
+  {
     "id": "812",
     "title": {
       "cn": "最大三角形面积",

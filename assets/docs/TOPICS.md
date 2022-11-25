@@ -794,6 +794,8 @@
 
 [808. 分汤](../../problemset/soup-servings/README.md)
 
+[809. 情感丰富的文字](../../problemset/expressive-words/README.md)
+
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)
 
 [814. 二叉树剪枝](../../problemset/binary-tree-pruning/README.md)

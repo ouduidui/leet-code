@@ -2011,6 +2011,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "809",
+        "title": "情感丰富的文字",
+        "path": "./problemset/expressive-words/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "905",
         "title": "按奇偶排序数组",
         "path": "./problemset/sort-array-by-parity/README.md",
