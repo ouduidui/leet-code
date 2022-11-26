@@ -778,11 +778,11 @@
 
 [793. 阶乘函数后 K 个零](../../problemset/preimage-size-of-factorial-zeroes-function/README.md)
 
-[795. 区间子数组个数](../../problemset/number-of-subarrays-with-bounded-maximum/README.md)
-
 [796. 旋转字符串](../../problemset/rotate-string/README.md)
 
 [798. 得分最高的最小轮调](../../problemset/smallest-rotation-with-highest-score/README.md)
+
+[799. 香槟塔](../../problemset/champagne-tower/README.md)
 
 [801. 使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md)
 
@@ -791,10 +791,6 @@
 [805. 数组的均值分割](../../problemset/split-array-with-same-average/README.md)
 
 [806. 写字符串需要的行数](../../problemset/number-of-lines-to-write-string/README.md)
-
-[808. 分汤](../../problemset/soup-servings/README.md)
-
-[809. 情感丰富的文字](../../problemset/expressive-words/README.md)
 
 [812. 最大三角形面积](../../problemset/largest-triangle-area/README.md)
 
@@ -838,13 +834,15 @@
 
 [875. 爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md)
 
-[878. 第 N 个神奇数字](../../problemset/nth-magical-number/README.md)
+[882. 细分图中的可到达节点](../../problemset/reachable-nodes-in-subdivided-graph/README.md)
 
 [883. 三维形体投影面积](../../problemset/projection-area-of-3d-shapes/README.md)
 
 [884. 两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md)
 
 [890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
+
+[891. 子序列宽度之和](../../problemset/description/README.md)
 
 [899. 有序队列](../../problemset/orderly-queue/README.md)
 
@@ -1024,7 +1022,7 @@
 
 [1728. 猫和老鼠 II](../../problemset/cat-and-mouse-2/README.md)
 
-[1742. 盒子中小球的最大数量](../../problemset/maximum-number-of-balls-in-a-box/README.md)
+[1732. 找到最高海拔](../../problemset/find-the-highest-altitude/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 

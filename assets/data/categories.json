@@ -2556,6 +2556,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "882",
+        "title": "细分图中的可到达节点",
+        "path": "./problemset/reachable-nodes-in-subdivided-graph/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "890",
         "title": "查找和替换模式",
         "path": "./problemset/find-and-replace-pattern/README.md",
