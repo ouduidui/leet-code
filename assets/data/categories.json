@@ -2790,6 +2790,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1752",
+        "title": "检查数组是否经排序和轮转得到",
+        "path": "./problemset/check-if-array-is-sorted-and-rotated/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1773",
         "title": "统计匹配检索规则的物品数量",
         "path": "./problemset/count-items-matching-a-rule/README.md",

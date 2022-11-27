@@ -5120,6 +5120,16 @@
     "path": "./problemset/find-the-highest-altitude/README.md"
   },
   {
+    "id": "1752",
+    "title": {
+      "cn": "检查数组是否经排序和轮转得到",
+      "en": "check-if-array-is-sorted-and-rotated"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/",
+    "path": "./problemset/check-if-array-is-sorted-and-rotated/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",

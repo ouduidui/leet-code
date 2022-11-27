@@ -1024,6 +1024,8 @@
 
 [1732. 找到最高海拔](../../problemset/find-the-highest-altitude/README.md)
 
+[1752. 检查数组是否经排序和轮转得到](../../problemset/check-if-array-is-sorted-and-rotated/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
