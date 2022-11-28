@@ -319,6 +319,7 @@
 | 801. [使序列递增的最小交换次数](../../problemset/minimum-swaps-to-make-sequences-increasing/README.md) | 困难 |
 | 805. [数组的均值分割](../../problemset/split-array-with-same-average/README.md) | 困难 |
 | 808. [分汤](../../problemset/soup-servings/README.md) | 中等 |
+| 813. [最大平均值和的分组](../../problemset/largest-sum-of-averages/README.md) | 中等 |
 | 871. [最低加油次数](../../problemset/minimum-number-of-refueling-stops/README.md) | 困难 |
 | 873. [最长的斐波那契子序列的长度](../../problemset/length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 902. [最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md) | 困难 |

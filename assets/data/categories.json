@@ -1718,6 +1718,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "813",
+        "title": "最大平均值和的分组",
+        "path": "./problemset/largest-sum-of-averages/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "871",
         "title": "最低加油次数",
         "path": "./problemset/minimum-number-of-refueling-stops/README.md",
