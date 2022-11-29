@@ -2802,6 +2802,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1758",
+        "title": "生成交替二进制字符串的最少操作数",
+        "path": "./problemset/minimum-changes-to-make-alternating-binary-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1773",
         "title": "统计匹配检索规则的物品数量",
         "path": "./problemset/count-items-matching-a-rule/README.md",

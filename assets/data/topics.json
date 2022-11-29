@@ -5140,6 +5140,16 @@
     "path": "./problemset/maximum-number-of-balls-in-a-box/README.md"
   },
   {
+    "id": "1758",
+    "title": {
+      "cn": "生成交替二进制字符串的最少操作数",
+      "en": "minimum-changes-to-make-alternating-binary-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/",
+    "path": "./problemset/minimum-changes-to-make-alternating-binary-string/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",
