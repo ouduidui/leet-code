@@ -848,6 +848,8 @@
 
 [890. 查找和替换模式](../../problemset/find-and-replace-pattern/README.md)
 
+[895. 最大频率栈](../../problemset/maximum-frequency-stack/README.md)
+
 [899. 有序队列](../../problemset/orderly-queue/README.md)
 
 [902. 最大为 N 的数字组合](../../problemset/numbers-at-most-n-given-digit-set/README.md)

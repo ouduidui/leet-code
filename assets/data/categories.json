@@ -279,6 +279,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "895",
+        "title": "最大频率栈",
+        "path": "./problemset/maximum-frequency-stack/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "929",
         "title": "独特的电子邮件",
         "path": "./problemset/unique-email-addresses/README.md",
@@ -3248,6 +3254,12 @@
         "title": "括号的分数",
         "path": "./problemset/score-of-parentheses/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "895",
+        "title": "最大频率栈",
+        "path": "./problemset/maximum-frequency-stack/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "907",

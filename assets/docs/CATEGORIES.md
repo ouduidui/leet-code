@@ -50,6 +50,7 @@
 | 811. [子域名访问计数](../../problemset/subdomain-visit-count/README.md) | 中等 |
 | 819. [最常见的单词](../../problemset/most-common-word/README.md) | 简单 |
 | 884. [两句话中的不常见单词](../../problemset/uncommon-words-from-two-sentences/README.md) | 简单 |
+| 895. [最大频率栈](../../problemset/maximum-frequency-stack/README.md) | 困难 |
 | 929. [独特的电子邮件](../../problemset/unique-email-addresses/README.md) | 简单 |
 | 954. [二倍数对数组](../../problemset/array-of-doubled-pairs/README.md) | 中等 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../../problemset/n-repeated-element-in-size-2n-array/README.md) | 简单 |
@@ -591,6 +592,7 @@
 | 735. [行星碰撞](../../problemset/asteroid-collision/README.md) | 中等 |
 | 768. [最多能完成排序的块 II](../../problemset/max-chunks-to-make-sorted-2/README.md) | 困难 |
 | 856. [括号的分数](../../problemset/score-of-parentheses/README.md) | 中等 |
+| 895. [最大频率栈](../../problemset/maximum-frequency-stack/README.md) | 困难 |
 | 907. [子数组的最小值之和](../../problemset/sum-of-subarray-minimums/README.md) | 中等 |
 | 946. [验证栈序列](../../problemset/validate-stack-sequences/README.md) | 中等 |
 | 1021. [删除最外层的括号](../../problemset/remove-outermost-parentheses/README.md) | 简单 |

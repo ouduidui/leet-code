@@ -4240,6 +4240,16 @@
     "path": "./problemset/find-and-replace-pattern/README.md"
   },
   {
+    "id": "895",
+    "title": {
+      "cn": "最大频率栈",
+      "en": "maximum-frequency-stack"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximum-frequency-stack/",
+    "path": "./problemset/maximum-frequency-stack/README.md"
+  },
+  {
     "id": "899",
     "title": {
       "cn": "有序队列",
