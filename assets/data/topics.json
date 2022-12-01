@@ -5190,6 +5190,16 @@
     "path": "./problemset/count-items-matching-a-rule/README.md"
   },
   {
+    "id": "1779",
+    "title": {
+      "cn": "找到最近的有相同 X 或 Y 坐标的点",
+      "en": "find-nearest-point-that-has-the-same-x-or-y-coordinate"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/",
+    "path": "./problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md"
+  },
+  {
     "id": "1784",
     "title": {
       "cn": "检查二进制字符串字段",

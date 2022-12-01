@@ -832,6 +832,7 @@
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
 | 1601. [最多可达成的换楼请求数目](../../problemset/maximum-number-of-achievable-transfer-requests/README.md) | 困难 |
 | 1668. [最大重复子字符串](../../problemset/maximum-repeating-substring/README.md) | 简单 |
+| 1779. [找到最近的有相同 X 或 Y 坐标的点](../../problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md) | 简单 |
 
 ## 位运算
 

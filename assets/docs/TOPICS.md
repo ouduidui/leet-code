@@ -1038,6 +1038,8 @@
 
 [1773. 统计匹配检索规则的物品数量](../../problemset/count-items-matching-a-rule/README.md)
 
+[1779. 找到最近的有相同 X 或 Y 坐标的点](../../problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md)
+
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
 [1790. 仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md)

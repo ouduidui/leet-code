@@ -4519,6 +4519,12 @@
         "title": "最大重复子字符串",
         "path": "./problemset/maximum-repeating-substring/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1779",
+        "title": "找到最近的有相同 X 或 Y 坐标的点",
+        "path": "./problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md",
+        "difficulty": "简单"
       }
     ]
   },
