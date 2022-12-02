@@ -5180,6 +5180,16 @@
     "path": "./problemset/map-of-highest-peak/README.md"
   },
   {
+    "id": "1769",
+    "title": {
+      "cn": "移动所有球到每个盒子所需的最小操作数",
+      "en": "minimum-number-of-operations-to-move-all-balls-to-each-box"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/",
+    "path": "./problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md"
+  },
+  {
     "id": "1773",
     "title": {
       "cn": "统计匹配检索规则的物品数量",

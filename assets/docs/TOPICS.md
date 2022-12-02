@@ -1036,6 +1036,8 @@
 
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
+[1769. 移动所有球到每个盒子所需的最小操作数](../../problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md)
+
 [1773. 统计匹配检索规则的物品数量](../../problemset/count-items-matching-a-rule/README.md)
 
 [1779. 找到最近的有相同 X 或 Y 坐标的点](../../problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md)

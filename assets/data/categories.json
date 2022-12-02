@@ -2814,6 +2814,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1769",
+        "title": "移动所有球到每个盒子所需的最小操作数",
+        "path": "./problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1773",
         "title": "统计匹配检索规则的物品数量",
         "path": "./problemset/count-items-matching-a-rule/README.md",

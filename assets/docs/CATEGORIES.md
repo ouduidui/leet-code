@@ -510,6 +510,7 @@
 | 1732. [找到最高海拔](../../problemset/find-the-highest-altitude/README.md) | 简单 |
 | 1752. [检查数组是否经排序和轮转得到](../../problemset/check-if-array-is-sorted-and-rotated/README.md) | 简单 |
 | 1758. [生成交替二进制字符串的最少操作数](../../problemset/minimum-changes-to-make-alternating-binary-string/README.md) | 简单 |
+| 1769. [移动所有球到每个盒子所需的最小操作数](../../problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | 中等 |
 | 1773. [统计匹配检索规则的物品数量](../../problemset/count-items-matching-a-rule/README.md) | 简单 |
 | 1790. [仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md) | 简单 |
 | 1822. [数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md) | 简单 |
