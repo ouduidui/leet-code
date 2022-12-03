@@ -5240,6 +5240,16 @@
     "path": "./problemset/find-center-of-star-graph/README.md"
   },
   {
+    "id": "1796",
+    "title": {
+      "cn": "字符串中第二大的数字",
+      "en": "second-largest-digit-in-a-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/second-largest-digit-in-a-string/",
+    "path": "./problemset/second-largest-digit-in-a-string/README.md"
+  },
+  {
     "id": "1800",
     "title": {
       "cn": "最大升序子数组和",

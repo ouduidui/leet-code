@@ -1048,6 +1048,8 @@
 
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)
 
+[1796. 字符串中第二大的数字](../../problemset/second-largest-digit-in-a-string/README.md)
+
 [1800. 最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md)
 
 [1822. 数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md)

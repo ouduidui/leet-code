@@ -2832,6 +2832,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1796",
+        "title": "字符串中第二大的数字",
+        "path": "./problemset/second-largest-digit-in-a-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1822",
         "title": "数组元素积的符号",
         "path": "./problemset/sign-of-the-product-of-an-array/README.md",
