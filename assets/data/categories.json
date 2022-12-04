@@ -1778,6 +1778,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1687",
+        "title": "从仓库到码头运输箱子",
+        "path": "./problemset/delivering-boxes-from-storage-to-ports/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1774",
         "title": "最接近目标价格的甜点成本",
         "path": "./problemset/closest-dessert-cost/README.md",

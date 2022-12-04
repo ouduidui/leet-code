@@ -5070,6 +5070,16 @@
     "path": "./problemset/count-the-number-of-consistent-strings/README.md"
   },
   {
+    "id": "1687",
+    "title": {
+      "cn": "从仓库到码头运输箱子",
+      "en": "delivering-boxes-from-storage-to-ports"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/delivering-boxes-from-storage-to-ports/",
+    "path": "./problemset/delivering-boxes-from-storage-to-ports/README.md"
+  },
+  {
     "id": "1694",
     "title": {
       "cn": "重新格式化电话号码",

@@ -1014,6 +1014,8 @@
 
 [1684. 统计一致字符串的数目](../../problemset/count-the-number-of-consistent-strings/README.md)
 
+[1687. 从仓库到码头运输箱子](../../problemset/delivering-boxes-from-storage-to-ports/README.md)
+
 [1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)
 
 [1700. 无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md)
