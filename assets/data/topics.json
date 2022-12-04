@@ -5200,6 +5200,16 @@
     "path": "./problemset/count-items-matching-a-rule/README.md"
   },
   {
+    "id": "1774",
+    "title": {
+      "cn": "最接近目标价格的甜点成本",
+      "en": "closest-dessert-cost"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/closest-dessert-cost/",
+    "path": "./problemset/closest-dessert-cost/README.md"
+  },
+  {
     "id": "1779",
     "title": {
       "cn": "找到最近的有相同 X 或 Y 坐标的点",

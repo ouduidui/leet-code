@@ -1778,6 +1778,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1774",
+        "title": "最接近目标价格的甜点成本",
+        "path": "./problemset/closest-dessert-cost/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1800",
         "title": "最大升序子数组和",
         "path": "./problemset/maximum-ascending-subarray-sum/README.md",
