@@ -382,6 +382,7 @@
 | 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |
 | 1455. [检查单词是否为句中其他单词的前缀](../../problemset/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md) | 简单 |
 | 1768. [交替合并字符串](../../problemset/merge-strings-alternately/README.md) | 简单 |
+| 1805. [字符串中不同整数的数目](../../problemset/number-of-different-integers-in-a-string/README.md) | 简单 |
 
 ## 模拟
 

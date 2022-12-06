@@ -5280,6 +5280,16 @@
     "path": "./problemset/maximum-ascending-subarray-sum/README.md"
   },
   {
+    "id": "1805",
+    "title": {
+      "cn": "字符串中不同整数的数目",
+      "en": "number-of-different-integers-in-a-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-of-different-integers-in-a-string/",
+    "path": "./problemset/number-of-different-integers-in-a-string/README.md"
+  },
+  {
     "id": "1822",
     "title": {
       "cn": "数组元素积的符号",

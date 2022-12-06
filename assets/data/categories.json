@@ -2069,6 +2069,12 @@
         "title": "交替合并字符串",
         "path": "./problemset/merge-strings-alternately/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1805",
+        "title": "字符串中不同整数的数目",
+        "path": "./problemset/number-of-different-integers-in-a-string/README.md",
+        "difficulty": "简单"
       }
     ]
   },
