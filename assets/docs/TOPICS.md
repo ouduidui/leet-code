@@ -1044,6 +1044,8 @@
 
 [1774. 最接近目标价格的甜点成本](../../problemset/closest-dessert-cost/README.md)
 
+[1775. 通过最少操作次数使数组的和相等](../../problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md)
+
 [1779. 找到最近的有相同 X 或 Y 坐标的点](../../problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md)
 
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)

@@ -5220,6 +5220,16 @@
     "path": "./problemset/closest-dessert-cost/README.md"
   },
   {
+    "id": "1775",
+    "title": {
+      "cn": "通过最少操作次数使数组的和相等",
+      "en": "equal-sum-arrays-with-minimum-number-of-operations"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/",
+    "path": "./problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md"
+  },
+  {
     "id": "1779",
     "title": {
       "cn": "找到最近的有相同 X 或 Y 坐标的点",

@@ -64,6 +64,7 @@
 | 1624. [两个相同字符之间的最长子字符串](../../problemset/largest-substring-between-two-equal-characters/README.md) | 简单 |
 | 1640. [能否连接形成数组](../../problemset/check-array-formation-through-concatenation/README.md) | 简单 |
 | 1742. [盒子中小球的最大数量](../../problemset/maximum-number-of-balls-in-a-box/README.md) | 简单 |
+| 1775. [通过最少操作次数使数组的和相等](../../problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md) | 中等 |
 | 1832. [判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md) | 简单 |
 | 2006. [差的绝对值为 K 的数对数目](../../problemset/count-number-of-pairs-with-absolute-difference-k/README.md) | 简单 |
 | 2013. [检测正方形](../../problemset/detect-squares/README.md) | 中等 |
@@ -755,6 +756,7 @@
 | 1413. [逐步求和得到正数的最小值](../../problemset/minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
 | 1663. [具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md) | 中等 |
 | 1710. [卡车上的最大单元数](../../problemset/maximum-units-on-a-truck/README.md) | 简单 |
+| 1775. [通过最少操作次数使数组的和相等](../../problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md) | 中等 |
 | 2038. [如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md) | 中等 |
 
 ## 二叉树

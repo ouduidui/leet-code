@@ -363,6 +363,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1775",
+        "title": "通过最少操作次数使数组的和相等",
+        "path": "./problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1832",
         "title": "判断句子是否为全字母句",
         "path": "./problemset/check-if-the-sentence-is-pangram/README.md",
@@ -4107,6 +4113,12 @@
         "title": "卡车上的最大单元数",
         "path": "./problemset/maximum-units-on-a-truck/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1775",
+        "title": "通过最少操作次数使数组的和相等",
+        "path": "./problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "2038",
