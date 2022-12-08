@@ -1408,6 +1408,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1812",
+        "title": "判断国际象棋棋盘中一个格子的颜色",
+        "path": "./problemset/determine-color-of-a-chessboard-square/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1823",
         "title": "找出游戏的获胜者",
         "path": "./problemset/find-the-winner-of-the-circular-game/README.md",

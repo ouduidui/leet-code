@@ -5300,6 +5300,16 @@
     "path": "./problemset/number-of-different-integers-in-a-string/README.md"
   },
   {
+    "id": "1812",
+    "title": {
+      "cn": "判断国际象棋棋盘中一个格子的颜色",
+      "en": "determine-color-of-a-chessboard-square"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/determine-color-of-a-chessboard-square/",
+    "path": "./problemset/determine-color-of-a-chessboard-square/README.md"
+  },
+  {
     "id": "1822",
     "title": {
       "cn": "数组元素积的符号",

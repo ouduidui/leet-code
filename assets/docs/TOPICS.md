@@ -1060,6 +1060,8 @@
 
 [1805. 字符串中不同整数的数目](../../problemset/number-of-different-integers-in-a-string/README.md)
 
+[1812. 判断国际象棋棋盘中一个格子的颜色](../../problemset/determine-color-of-a-chessboard-square/README.md)
+
 [1822. 数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md)
 
 [1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
