@@ -1396,6 +1396,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1780",
+        "title": "判断一个数字是否可以表示成三的幂的和",
+        "path": "./problemset/check-if-number-is-a-sum-of-powers-of-three/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1784",
         "title": "检查二进制字符串字段",
         "path": "./problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md",

@@ -257,6 +257,7 @@
 | 1175. [质数排列](../../problemset/prime-arrangements/README.md) | 简单 |
 | 1447. [最简分数](../../problemset/simplified-fractions/README.md) | 中等 |
 | 1704. [判断字符串的两半是否相似](../../problemset/determine-if-string-halves-are-alike/README.md) | 简单 |
+| 1780. [判断一个数字是否可以表示成三的幂的和](../../problemset/check-if-number-is-a-sum-of-powers-of-three/README.md) | 中等 |
 | 1784. [检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md) | 简单 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 | 1812. [判断国际象棋棋盘中一个格子的颜色](../../problemset/determine-color-of-a-chessboard-square/README.md) | 简单 |

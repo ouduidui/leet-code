@@ -5240,6 +5240,16 @@
     "path": "./problemset/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md"
   },
   {
+    "id": "1780",
+    "title": {
+      "cn": "判断一个数字是否可以表示成三的幂的和",
+      "en": "check-if-number-is-a-sum-of-powers-of-three"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/",
+    "path": "./problemset/check-if-number-is-a-sum-of-powers-of-three/README.md"
+  },
+  {
     "id": "1784",
     "title": {
       "cn": "检查二进制字符串字段",
