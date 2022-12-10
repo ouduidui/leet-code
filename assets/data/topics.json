@@ -5080,6 +5080,16 @@
     "path": "./problemset/delivering-boxes-from-storage-to-ports/README.md"
   },
   {
+    "id": "1691",
+    "title": {
+      "cn": "堆叠长方体的最大高度",
+      "en": "maximum-height-by-stacking-cuboids"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximum-height-by-stacking-cuboids/",
+    "path": "./problemset/maximum-height-by-stacking-cuboids/README.md"
+  },
+  {
     "id": "1694",
     "title": {
       "cn": "重新格式化电话号码",

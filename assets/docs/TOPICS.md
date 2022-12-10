@@ -1016,6 +1016,8 @@
 
 [1687. 从仓库到码头运输箱子](../../problemset/delivering-boxes-from-storage-to-ports/README.md)
 
+[1691. 堆叠长方体的最大高度](../../problemset/maximum-height-by-stacking-cuboids/README.md)
+
 [1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)
 
 [1700. 无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md)

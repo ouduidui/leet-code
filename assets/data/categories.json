@@ -1802,6 +1802,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1691",
+        "title": "堆叠长方体的最大高度",
+        "path": "./problemset/maximum-height-by-stacking-cuboids/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1774",
         "title": "最接近目标价格的甜点成本",
         "path": "./problemset/closest-dessert-cost/README.md",

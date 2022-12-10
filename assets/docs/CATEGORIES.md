@@ -333,6 +333,7 @@
 | 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
 | 1668. [最大重复子字符串](../../problemset/maximum-repeating-substring/README.md) | 简单 |
 | 1687. [从仓库到码头运输箱子](../../problemset/delivering-boxes-from-storage-to-ports/README.md) | 困难 |
+| 1691. [堆叠长方体的最大高度](../../problemset/maximum-height-by-stacking-cuboids/README.md) | 困难 |
 | 1774. [最接近目标价格的甜点成本](../../problemset/closest-dessert-cost/README.md) | 中等 |
 | 1800. [最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md) | 简单 |
 | 1994. [好子集的数目](../../problemset/the-number-of-good-subsets/README.md) | 困难 |
