@@ -5350,6 +5350,16 @@
     "path": "./problemset/find-the-winner-of-the-circular-game/README.md"
   },
   {
+    "id": "1827",
+    "title": {
+      "cn": "最少操作使数组递增",
+      "en": "minimum-operations-to-make-the-array-increasing"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/",
+    "path": "./problemset/minimum-operations-to-make-the-array-increasing/README.md"
+  },
+  {
     "id": "1832",
     "title": {
       "cn": "判断句子是否为全字母句",

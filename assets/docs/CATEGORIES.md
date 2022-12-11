@@ -760,6 +760,7 @@
 | 1663. [具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md) | 中等 |
 | 1710. [卡车上的最大单元数](../../problemset/maximum-units-on-a-truck/README.md) | 简单 |
 | 1775. [通过最少操作次数使数组的和相等](../../problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md) | 中等 |
+| 1827. [最少操作使数组递增](../../problemset/minimum-operations-to-make-the-array-increasing/README.md) | 简单 |
 | 2038. [如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md) | 中等 |
 
 ## 二叉树

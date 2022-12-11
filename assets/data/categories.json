@@ -4139,6 +4139,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1827",
+        "title": "最少操作使数组递增",
+        "path": "./problemset/minimum-operations-to-make-the-array-increasing/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2038",
         "title": "如果相邻两个颜色均相同则删除当前颜色",
         "path": "./problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",

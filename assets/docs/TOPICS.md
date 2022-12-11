@@ -1070,6 +1070,8 @@
 
 [1823. 找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md)
 
+[1827. 最少操作使数组递增](../../problemset/minimum-operations-to-make-the-array-increasing/README.md)
+
 [1832. 判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md)
 
 [1958. 文件夹操作日志搜集器](../../problemset/crawler-log-folder/README.md)
