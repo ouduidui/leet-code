@@ -5260,6 +5260,16 @@
     "path": "./problemset/check-if-number-is-a-sum-of-powers-of-three/README.md"
   },
   {
+    "id": "1781",
+    "title": {
+      "cn": "所有子字符串美丽值之和",
+      "en": "sum-of-beauty-of-all-substrings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/",
+    "path": "./problemset/sum-of-beauty-of-all-substrings/README.md"
+  },
+  {
     "id": "1784",
     "title": {
       "cn": "检查二进制字符串字段",

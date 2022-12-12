@@ -519,6 +519,7 @@
 | 1758. [生成交替二进制字符串的最少操作数](../../problemset/minimum-changes-to-make-alternating-binary-string/README.md) | 简单 |
 | 1769. [移动所有球到每个盒子所需的最小操作数](../../problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | 中等 |
 | 1773. [统计匹配检索规则的物品数量](../../problemset/count-items-matching-a-rule/README.md) | 简单 |
+| 1781. [所有子字符串美丽值之和](../../problemset/sum-of-beauty-of-all-substrings/README.md) | 中等 |
 | 1790. [仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md) | 简单 |
 | 1796. [字符串中第二大的数字](../../problemset/second-largest-digit-in-a-string/README.md) | 简单 |
 | 1822. [数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md) | 简单 |

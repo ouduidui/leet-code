@@ -1052,6 +1052,8 @@
 
 [1780. 判断一个数字是否可以表示成三的幂的和](../../problemset/check-if-number-is-a-sum-of-powers-of-three/README.md)
 
+[1781. 所有子字符串美丽值之和](../../problemset/sum-of-beauty-of-all-substrings/README.md)
+
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
 [1790. 仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md)
