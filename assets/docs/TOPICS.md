@@ -1020,6 +1020,8 @@
 
 [1694. 重新格式化电话号码](../../problemset/reformat-phone-number/README.md)
 
+[1697. 检查边长度限制的路径是否存在](../../problemset/checking-existence-of-edge-length-limited-paths/README.md)
+
 [1700. 无法吃午餐的学生数量](../../problemset/number-of-students-unable-to-eat-lunch/README.md)
 
 [1704. 判断字符串的两半是否相似](../../problemset/determine-if-string-halves-are-alike/README.md)

@@ -5100,6 +5100,16 @@
     "path": "./problemset/reformat-phone-number/README.md"
   },
   {
+    "id": "1697",
+    "title": {
+      "cn": "检查边长度限制的路径是否存在",
+      "en": "checking-existence-of-edge-length-limited-paths"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/",
+    "path": "./problemset/checking-existence-of-edge-length-limited-paths/README.md"
+  },
+  {
     "id": "1700",
     "title": {
       "cn": "无法吃午餐的学生数量",
