@@ -1078,6 +1078,8 @@
 
 [1832. 判断句子是否为全字母句](../../problemset/check-if-the-sentence-is-pangram/README.md)
 
+[1945. 字符串转化后的各位数字之和](../../problemset/sum-of-digits-of-string-after-convert/README.md)
+
 [1958. 文件夹操作日志搜集器](../../problemset/crawler-log-folder/README.md)
 
 [1961. 检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md)

@@ -523,6 +523,7 @@
 | 1790. [仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md) | 简单 |
 | 1796. [字符串中第二大的数字](../../problemset/second-largest-digit-in-a-string/README.md) | 简单 |
 | 1822. [数组元素积的符号](../../problemset/sign-of-the-product-of-an-array/README.md) | 简单 |
+| 1945. [字符串转化后的各位数字之和](../../problemset/sum-of-digits-of-string-after-convert/README.md) | 简单 |
 | 1958. [文件夹操作日志搜集器](../../problemset/crawler-log-folder/README.md) | 简单 |
 | 1961. [检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md) | 简单 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |

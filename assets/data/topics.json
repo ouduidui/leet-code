@@ -5390,6 +5390,16 @@
     "path": "./problemset/check-if-the-sentence-is-pangram/README.md"
   },
   {
+    "id": "1945",
+    "title": {
+      "cn": "字符串转化后的各位数字之和",
+      "en": "sum-of-digits-of-string-after-convert"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/",
+    "path": "./problemset/sum-of-digits-of-string-after-convert/README.md"
+  },
+  {
     "id": "1958",
     "title": {
       "cn": "文件夹操作日志搜集器",
