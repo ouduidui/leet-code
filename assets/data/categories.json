@@ -1408,6 +1408,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1785",
+        "title": "构成特定和需要添加的最少元素",
+        "path": "./problemset/minimum-elements-to-add-to-form-a-given-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1791",
         "title": "找出星型图的中心节点",
         "path": "./problemset/find-center-of-star-graph/README.md",

@@ -1058,6 +1058,8 @@
 
 [1784. 检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
 
+[1785. 构成特定和需要添加的最少元素](../../problemset/minimum-elements-to-add-to-form-a-given-sum/README.md)
+
 [1790. 仅执行一次字符串交换能否使两个字符串相等](../../problemset/check-if-one-string-swap-can-make-strings-equal/README.md)
 
 [1791. 找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md)

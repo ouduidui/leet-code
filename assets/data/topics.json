@@ -5290,6 +5290,16 @@
     "path": "./problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md"
   },
   {
+    "id": "1785",
+    "title": {
+      "cn": "构成特定和需要添加的最少元素",
+      "en": "minimum-elements-to-add-to-form-a-given-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/",
+    "path": "./problemset/minimum-elements-to-add-to-form-a-given-sum/README.md"
+  },
+  {
     "id": "1790",
     "title": {
       "cn": "仅执行一次字符串交换能否使两个字符串相等",

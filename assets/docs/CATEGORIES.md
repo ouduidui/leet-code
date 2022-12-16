@@ -259,6 +259,7 @@
 | 1704. [判断字符串的两半是否相似](../../problemset/determine-if-string-halves-are-alike/README.md) | 简单 |
 | 1780. [判断一个数字是否可以表示成三的幂的和](../../problemset/check-if-number-is-a-sum-of-powers-of-three/README.md) | 中等 |
 | 1784. [检查二进制字符串字段](../../problemset/check-if-binary-string-has-at-most-one-segment-of-ones/README.md) | 简单 |
+| 1785. [构成特定和需要添加的最少元素](../../problemset/minimum-elements-to-add-to-form-a-given-sum/README.md) | 中等 |
 | 1791. [找出星型图的中心节点](../../problemset/find-center-of-star-graph/README.md) | 简单 |
 | 1812. [判断国际象棋棋盘中一个格子的颜色](../../problemset/determine-color-of-a-chessboard-square/README.md) | 简单 |
 | 1823. [找出游戏的获胜者](../../problemset/find-the-winner-of-the-circular-game/README.md) | 中等 |
