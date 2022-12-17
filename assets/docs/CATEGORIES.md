@@ -386,6 +386,7 @@
 | 917. [仅仅反转字母](../../problemset/reverse-only-letters/README.md) | 简单 |
 | 1417. [重新格式化字符串](../../problemset/reformat-the-string/README.md) | 简单 |
 | 1455. [检查单词是否为句中其他单词的前缀](../../problemset/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md) | 简单 |
+| 1764. [通过连接另一个数组的子数组得到一个数组](../../problemset/form-array-by-concatenating-subarrays-of-another-array/README.md) | 中等 |
 | 1768. [交替合并字符串](../../problemset/merge-strings-alternately/README.md) | 简单 |
 | 1805. [字符串中不同整数的数目](../../problemset/number-of-different-integers-in-a-string/README.md) | 简单 |
 
@@ -762,6 +763,7 @@
 | 1413. [逐步求和得到正数的最小值](../../problemset/minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
 | 1663. [具有给定数值的最小字符串](../../problemset/smallest-string-with-a-given-numeric-value/README.md) | 中等 |
 | 1710. [卡车上的最大单元数](../../problemset/maximum-units-on-a-truck/README.md) | 简单 |
+| 1764. [通过连接另一个数组的子数组得到一个数组](../../problemset/form-array-by-concatenating-subarrays-of-another-array/README.md) | 中等 |
 | 1775. [通过最少操作次数使数组的和相等](../../problemset/equal-sum-arrays-with-minimum-number-of-operations/README.md) | 中等 |
 | 1827. [最少操作使数组递增](../../problemset/minimum-operations-to-make-the-array-increasing/README.md) | 简单 |
 | 2038. [如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md) | 中等 |

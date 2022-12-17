@@ -5200,6 +5200,16 @@
     "path": "./problemset/longest-nice-substring/README.md"
   },
   {
+    "id": "1764",
+    "title": {
+      "cn": "通过连接另一个数组的子数组得到一个数组",
+      "en": "form-array-by-concatenating-subarrays-of-another-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/",
+    "path": "./problemset/form-array-by-concatenating-subarrays-of-another-array/README.md"
+  },
+  {
     "id": "1765",
     "title": {
       "cn": "地图中的最高点",

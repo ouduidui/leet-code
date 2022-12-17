@@ -2095,6 +2095,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1764",
+        "title": "通过连接另一个数组的子数组得到一个数组",
+        "path": "./problemset/form-array-by-concatenating-subarrays-of-another-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1768",
         "title": "交替合并字符串",
         "path": "./problemset/merge-strings-alternately/README.md",
@@ -4149,6 +4155,12 @@
         "title": "卡车上的最大单元数",
         "path": "./problemset/maximum-units-on-a-truck/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1764",
+        "title": "通过连接另一个数组的子数组得到一个数组",
+        "path": "./problemset/form-array-by-concatenating-subarrays-of-another-array/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1775",

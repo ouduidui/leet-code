@@ -1040,6 +1040,8 @@
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
+[1764. 通过连接另一个数组的子数组得到一个数组](../../problemset/form-array-by-concatenating-subarrays-of-another-array/README.md)
+
 [1765. 地图中的最高点](../../problemset/map-of-highest-peak/README.md)
 
 [1769. 移动所有球到每个盒子所需的最小操作数](../../problemset/minimum-number-of-operations-to-move-all-balls-to-each-box/README.md)
