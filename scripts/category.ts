@@ -12,6 +12,7 @@ interface InquirerAnswers {
   needPushAction: boolean
 }
 
+// main
 (async() => {
   // clear terminal
   clear()

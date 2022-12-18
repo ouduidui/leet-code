@@ -12,6 +12,7 @@ interface InquirerAnswers {
   diff: Difficulties
 }
 
+// main
 (async() => {
   // git pull
   await commandAction('git', ['pull'])
