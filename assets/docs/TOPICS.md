@@ -1088,6 +1088,8 @@
 
 [1961. 检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md)
 
+[1971. 寻找图中是否存在路径](../../problemset/find-if-path-exists-in-graph/README.md)
+
 [1984. 学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md)
 
 [1994. 好子集的数目](../../problemset/the-number-of-good-subsets/README.md)

@@ -5440,6 +5440,16 @@
     "path": "./problemset/check-if-string-is-a-prefix-of-array/README.md"
   },
   {
+    "id": "1971",
+    "title": {
+      "cn": "寻找图中是否存在路径",
+      "en": "find-if-path-exists-in-graph"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/find-if-path-exists-in-graph/",
+    "path": "./problemset/find-if-path-exists-in-graph/README.md"
+  },
+  {
     "id": "1984",
     "title": {
       "cn": "学生分数的最小差值",

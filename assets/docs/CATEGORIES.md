@@ -884,6 +884,7 @@
 | 200. [岛屿数量](../../problemset/number-of-islands/README.md) | 中等 |
 | 952. [按公因数计算最大组件大小](../../problemset/largest-component-size-by-common-factor/README.md) | 困难 |
 | 1697. [检查边长度限制的路径是否存在](../../problemset/checking-existence-of-edge-length-limited-paths/README.md) | 困难 |
+| 1971. [寻找图中是否存在路径](../../problemset/find-if-path-exists-in-graph/README.md) | 简单 |
 
 ## 字典树
 

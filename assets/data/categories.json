@@ -4781,6 +4781,12 @@
         "title": "检查边长度限制的路径是否存在",
         "path": "./problemset/checking-existence-of-edge-length-limited-paths/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "1971",
+        "title": "寻找图中是否存在路径",
+        "path": "./problemset/find-if-path-exists-in-graph/README.md",
+        "difficulty": "简单"
       }
     ]
   },
