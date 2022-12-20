@@ -152,6 +152,7 @@
 | 875. [爱吃香蕉的珂珂](../../problemset/koko-eating-bananas/README.md) | 中等 |
 | 1235. [规划兼职工作](../../problemset/maximum-profit-in-job-scheduling/README.md) | 困难 |
 | 1450. [在既定时间做作业的学生人数](../../problemset/number-of-students-doing-homework-at-a-given-time/README.md) | 简单 |
+| 1760. [袋子里最少数目的球](../../problemset/minimum-limit-of-balls-in-a-bag/README.md) | 中等 |
 
 ## 排序
 

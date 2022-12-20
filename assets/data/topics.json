@@ -5190,6 +5190,16 @@
     "path": "./problemset/minimum-changes-to-make-alternating-binary-string/README.md"
   },
   {
+    "id": "1760",
+    "title": {
+      "cn": "袋子里最少数目的球",
+      "en": "minimum-limit-of-balls-in-a-bag"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/",
+    "path": "./problemset/minimum-limit-of-balls-in-a-bag/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",

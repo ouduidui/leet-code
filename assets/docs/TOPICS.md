@@ -1038,6 +1038,8 @@
 
 [1758. 生成交替二进制字符串的最少操作数](../../problemset/minimum-changes-to-make-alternating-binary-string/README.md)
 
+[1760. 袋子里最少数目的球](../../problemset/minimum-limit-of-balls-in-a-bag/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1764. 通过连接另一个数组的子数组得到一个数组](../../problemset/form-array-by-concatenating-subarrays-of-another-array/README.md)

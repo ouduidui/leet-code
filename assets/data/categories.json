@@ -814,6 +814,12 @@
         "title": "在既定时间做作业的学生人数",
         "path": "./problemset/number-of-students-doing-homework-at-a-given-time/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1760",
+        "title": "袋子里最少数目的球",
+        "path": "./problemset/minimum-limit-of-balls-in-a-bag/README.md",
+        "difficulty": "中等"
       }
     ]
   },
