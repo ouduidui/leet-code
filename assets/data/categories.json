@@ -4163,6 +4163,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1753",
+        "title": "移除石子的最大得分",
+        "path": "./problemset/maximum-score-from-removing-stones/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1764",
         "title": "通过连接另一个数组的子数组得到一个数组",
         "path": "./problemset/form-array-by-concatenating-subarrays-of-another-array/README.md",

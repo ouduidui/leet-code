@@ -1036,6 +1036,8 @@
 
 [1742. 盒子中小球的最大数量](../../problemset/maximum-number-of-balls-in-a-box/README.md)
 
+[1753. 移除石子的最大得分](../../problemset/maximum-score-from-removing-stones/README.md)
+
 [1758. 生成交替二进制字符串的最少操作数](../../problemset/minimum-changes-to-make-alternating-binary-string/README.md)
 
 [1760. 袋子里最少数目的球](../../problemset/minimum-limit-of-balls-in-a-bag/README.md)

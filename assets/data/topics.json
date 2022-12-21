@@ -5180,6 +5180,16 @@
     "path": "./problemset/maximum-number-of-balls-in-a-box/README.md"
   },
   {
+    "id": "1753",
+    "title": {
+      "cn": "移除石子的最大得分",
+      "en": "maximum-score-from-removing-stones"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-score-from-removing-stones/",
+    "path": "./problemset/maximum-score-from-removing-stones/README.md"
+  },
+  {
     "id": "1758",
     "title": {
       "cn": "生成交替二进制字符串的最少操作数",
