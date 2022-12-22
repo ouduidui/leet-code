@@ -1826,6 +1826,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1799",
+        "title": "N 次操作后的最大分数和",
+        "path": "./problemset/maximize-score-after-n-operations/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1800",
         "title": "最大升序子数组和",
         "path": "./problemset/maximum-ascending-subarray-sum/README.md",

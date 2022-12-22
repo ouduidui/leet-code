@@ -1072,6 +1072,8 @@
 
 [1796. 字符串中第二大的数字](../../problemset/second-largest-digit-in-a-string/README.md)
 
+[1799. N 次操作后的最大分数和](../../problemset/maximize-score-after-n-operations/README.md)
+
 [1800. 最大升序子数组和](../../problemset/maximum-ascending-subarray-sum/README.md)
 
 [1805. 字符串中不同整数的数目](../../problemset/number-of-different-integers-in-a-string/README.md)

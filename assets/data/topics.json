@@ -5360,6 +5360,16 @@
     "path": "./problemset/second-largest-digit-in-a-string/README.md"
   },
   {
+    "id": "1799",
+    "title": {
+      "cn": "N 次操作后的最大分数和",
+      "en": "maximize-score-after-n-operations"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximize-score-after-n-operations/",
+    "path": "./problemset/maximize-score-after-n-operations/README.md"
+  },
+  {
     "id": "1800",
     "title": {
       "cn": "最大升序子数组和",
