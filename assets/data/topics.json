@@ -5200,6 +5200,16 @@
     "path": "./problemset/minimum-changes-to-make-alternating-binary-string/README.md"
   },
   {
+    "id": "1759",
+    "title": {
+      "cn": "统计同构子字符串的数目",
+      "en": "count-number-of-homogenous-substrings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/count-number-of-homogenous-substrings/",
+    "path": "./problemset/count-number-of-homogenous-substrings/README.md"
+  },
+  {
     "id": "1760",
     "title": {
       "cn": "袋子里最少数目的球",

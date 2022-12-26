@@ -1402,6 +1402,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1759",
+        "title": "统计同构子字符串的数目",
+        "path": "./problemset/count-number-of-homogenous-substrings/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1780",
         "title": "判断一个数字是否可以表示成三的幂的和",
         "path": "./problemset/check-if-number-is-a-sum-of-powers-of-three/README.md",

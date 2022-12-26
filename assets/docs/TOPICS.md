@@ -1040,6 +1040,8 @@
 
 [1758. 生成交替二进制字符串的最少操作数](../../problemset/minimum-changes-to-make-alternating-binary-string/README.md)
 
+[1759. 统计同构子字符串的数目](../../problemset/count-number-of-homogenous-substrings/README.md)
+
 [1760. 袋子里最少数目的球](../../problemset/minimum-limit-of-balls-in-a-bag/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
