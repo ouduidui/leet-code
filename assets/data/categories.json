@@ -2946,6 +2946,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "2027",
+        "title": "转换字符串的最少操作次数",
+        "path": "./problemset/minimum-moves-to-convert-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2028",
         "title": "找出缺失的观测数据",
         "path": "./problemset/find-missing-observations/README.md",

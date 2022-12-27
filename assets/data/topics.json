@@ -5560,6 +5560,16 @@
     "path": "./problemset/maximize-the-confusion-of-an-exam/README.md"
   },
   {
+    "id": "2027",
+    "title": {
+      "cn": "转换字符串的最少操作次数",
+      "en": "minimum-moves-to-convert-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-moves-to-convert-string/",
+    "path": "./problemset/minimum-moves-to-convert-string/README.md"
+  },
+  {
     "id": "2028",
     "title": {
       "cn": "找出缺失的观测数据",

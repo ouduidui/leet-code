@@ -532,6 +532,7 @@
 | 1958. [文件夹操作日志搜集器](../../problemset/crawler-log-folder/README.md) | 简单 |
 | 1961. [检查字符串是否为数组前缀](../../problemset/check-if-string-is-a-prefix-of-array/README.md) | 简单 |
 | 2016. [增量元素之间的最大差值](../../problemset/maximum-difference-between-increasing-elements/README.md) | 简单 |
+| 2027. [转换字符串的最少操作次数](../../problemset/minimum-moves-to-convert-string/README.md) | 简单 |
 | 2028. [找出缺失的观测数据](../../problemset/find-missing-observations/README.md) | 中等 |
 | 2043. [简易银行系统](../../problemset/simple-bank-system/README.md) | 中等 |
 | 2047. [句子中的有效单词数](../../problemset/number-of-valid-words-in-a-sentence/README.md) | 简单 |
