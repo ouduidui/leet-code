@@ -387,6 +387,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "2032",
+        "title": "至少在两个数组中出现的值",
+        "path": "./problemset/two-out-of-three/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "面试题 01.02",
         "title": "判定是否互为字符重排",
         "path": "./problemset/check-permutation-lcci/README.md",
