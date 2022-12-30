@@ -1,4 +1,4 @@
-<h1 align="center"><samp>LeetCode Everyday</samp></h1>
+<h1 align="center"><samp>LeetCode</samp></h1>
 
 <p align="center">
 <!-- TOPICS COUNT START -->
