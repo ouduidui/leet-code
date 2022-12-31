@@ -190,6 +190,7 @@
 | 1619. [删除某些元素后的数组均值](../../problemset/mean-of-array-after-removing-some-elements/README.md) | 简单 |
 | 1984. [学生分数的最小差值](../../problemset/minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | 简单 |
 | 1996. [游戏中弱角色的数量](../../problemset/the-number-of-weak-characters-in-the-game/README.md) | 中等 |
+| 2037. [使每位学生都有座位的最少移动次数](../../problemset/minimum-number-of-moves-to-seat-everyone/README.md) | 简单 |
 
 ## 数学
 

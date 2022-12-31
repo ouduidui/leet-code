@@ -1017,6 +1017,12 @@
         "title": "游戏中弱角色的数量",
         "path": "./problemset/the-number-of-weak-characters-in-the-game/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "2037",
+        "title": "使每位学生都有座位的最少移动次数",
+        "path": "./problemset/minimum-number-of-moves-to-seat-everyone/README.md",
+        "difficulty": "简单"
       }
     ]
   },

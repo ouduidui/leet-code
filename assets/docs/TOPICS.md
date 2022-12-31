@@ -1118,6 +1118,8 @@
 
 [2032. 至少在两个数组中出现的值](../../problemset/two-out-of-three/README.md)
 
+[2037. 使每位学生都有座位的最少移动次数](../../problemset/minimum-number-of-moves-to-seat-everyone/README.md)
+
 [2038. 如果相邻两个颜色均相同则删除当前颜色](../../problemset/remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md)
 
 [2039. 网络空闲的时刻](../../problemset/the-time-when-the-network-becomes-idle/README.md)

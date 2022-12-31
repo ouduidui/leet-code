@@ -5590,6 +5590,16 @@
     "path": "./problemset/two-out-of-three/README.md"
   },
   {
+    "id": "2037",
+    "title": {
+      "cn": "使每位学生都有座位的最少移动次数",
+      "en": "minimum-number-of-moves-to-seat-everyone"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/",
+    "path": "./problemset/minimum-number-of-moves-to-seat-everyone/README.md"
+  },
+  {
     "id": "2038",
     "title": {
       "cn": "如果相邻两个颜色均相同则删除当前颜色",
